@@ -1,0 +1,448 @@
+{
+  "course": "principles",
+  "unit": 9,
+  "title": "Disclosures in Residential Transactions",
+  "originality": "All items original to LicensePath. Modeled on the DRE exam blueprint and style only; no actual exam items reproduced.",
+  "questions": [
+    {
+      "id": "PRIN-09-001",
+      "course": "principles",
+      "unit": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 1,
+      "stem": "The Transfer Disclosure Statement is required in sales of residential property containing:",
+      "options": [
+        "One unit only",
+        "One to four units",
+        "One to eight units",
+        "Any number of units"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The requirement is not limited to single-family homes.",
+        "Correct. The TDS applies to sales of residential property of one to four units and cannot be waived.",
+        "Five or more units fall outside the residential TDS requirement.",
+        "Larger apartment and commercial properties are not covered."
+      ],
+      "terms": ["TDS (Transfer Disclosure Statement)"]
+    },
+    {
+      "id": "PRIN-09-002",
+      "course": "principles",
+      "unit": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A buyer and seller agree in writing to waive the Transfer Disclosure Statement to speed up an as-is sale. This waiver is:",
+      "options": [
+        "Valid if both parties initial it",
+        "Valid because the sale is as-is",
+        "Invalid, because the TDS requirement cannot be waived",
+        "Valid only in cash transactions"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Initialing does not create authority to waive a non-waivable statutory protection.",
+        "An as-is sale changes repair expectations, not disclosure obligations.",
+        "Correct. The TDS requirement for 1–4 unit residential property cannot be waived by agreement.",
+        "The form of payment has no bearing on the disclosure requirement."
+      ],
+      "terms": ["TDS (Transfer Disclosure Statement)", "as-is"]
+    },
+    {
+      "id": "PRIN-09-003",
+      "course": "principles",
+      "unit": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An executor selling a decedent's home through probate personally lived there and knows the north wall leaks. The sale is TDS-exempt. The executor must:",
+      "options": [
+        "Say nothing, because probate sales are exempt from disclosure",
+        "Disclose the known leak, because exemption from the form does not excuse concealing known material facts",
+        "Disclose only if the buyer submits a written request",
+        "Disclose only after the inspection contingency expires"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The exemption covers the statutory form, not the underlying duty regarding known material facts.",
+        "Correct. A transferor with actual knowledge of a material defect must disclose it regardless of any form exemption; concealment invites rescission, damages, and discipline.",
+        "The duty is affirmative and does not depend on a buyer's request.",
+        "Delaying disclosure past the buyer's investigation period defeats its purpose and compounds liability."
+      ],
+      "terms": ["TDS exemptions", "material fact"]
+    },
+    {
+      "id": "PRIN-09-004",
+      "course": "principles",
+      "unit": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which transfer is generally EXEMPT from the TDS requirement?",
+      "options": [
+        "A 1955 bungalow sold as-is by its longtime owner",
+        "A sale by a trustee following a foreclosure trustee's sale",
+        "A condominium resale",
+        "A duplex sold by an owner living out of state"
+      ],
+      "answer": 1,
+      "rationales": [
+        "As-is status and the home's age create no exemption.",
+        "Correct. Transfers resulting from foreclosure — where the transferor typically has no personal knowledge of the property's condition — are exempt.",
+        "Condominium resales of 1–4 residential units require the TDS.",
+        "The seller's residence elsewhere does not create an exemption."
+      ],
+      "terms": ["TDS exemptions"]
+    },
+    {
+      "id": "PRIN-09-005",
+      "course": "principles",
+      "unit": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A TDS is delivered by mail AFTER the buyer signed the offer. The buyer's statutory right to terminate generally lasts:",
+      "options": [
+        "Three days from delivery",
+        "Five days from delivery",
+        "Ten days from delivery",
+        "There is no termination right once an offer is signed"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Three days applies to personal delivery.",
+        "Correct. Delivery by mail generally gives the buyer five days to terminate; personal delivery gives three.",
+        "Ten days is the federal lead-based paint inspection period, a different requirement.",
+        "Late delivery of the TDS specifically creates a termination right."
+      ],
+      "terms": ["right to terminate (disclosure)", "TDS (Transfer Disclosure Statement)"]
+    },
+    {
+      "id": "PRIN-09-006",
+      "course": "principles",
+      "unit": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which is NOT one of the six zones addressed by the Natural Hazard Disclosure statement?",
+      "options": [
+        "Special flood hazard area",
+        "Very high fire hazard severity zone",
+        "Earthquake fault zone",
+        "Airport noise impact zone"
+      ],
+      "answer": 3,
+      "rationales": [
+        "FEMA special flood hazard areas are one of the six zones.",
+        "Very high fire hazard severity zones are one of the six.",
+        "Alquist-Priolo earthquake fault zones are one of the six.",
+        "Correct. Airport noise is not among the six NHD zones, though it may still be a material fact requiring disclosure. The six are flood, dam inundation, very high fire severity, state responsibility area, earthquake fault, and seismic hazard."
+      ],
+      "terms": ["NHD (Natural Hazard Disclosure)"]
+    },
+    {
+      "id": "PRIN-09-007",
+      "course": "principles",
+      "unit": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A death occurred on the property four years ago. A buyer asks the listing agent directly whether anyone has died in the home. The agent should:",
+      "options": [
+        "Deny it, since deaths older than three years need not be disclosed",
+        "Answer truthfully, because a direct question must not be answered falsely",
+        "Refuse to answer and cite privacy law",
+        "Answer only in writing after consulting the seller's attorney"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The three-year rule governs what must be volunteered; it never authorizes a false statement.",
+        "Correct. Deaths older than three years need not be volunteered, but a direct question must be answered honestly — misrepresentation is never permitted.",
+        "No privacy law shields the agent from answering honestly about a death on the property.",
+        "Consulting the seller is prudent, but the obligation is to avoid a false answer, not to delay indefinitely."
+      ],
+      "terms": ["three-year death rule", "misrepresentation"]
+    },
+    {
+      "id": "PRIN-09-008",
+      "course": "principles",
+      "unit": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Under California law, the fact that a former occupant died of or was afflicted with HIV/AIDS is:",
+      "options": [
+        "A material fact requiring disclosure",
+        "Not a material fact requiring disclosure",
+        "Disclosable only if the death occurred within three years",
+        "Disclosable at the agent's discretion"
+      ],
+      "answer": 1,
+      "rationales": [
+        "California law expressly rejects treating this as a material fact.",
+        "Correct. The statute provides that an occupant's HIV/AIDS status or death from it is not a material fact requiring disclosure, and disclosing it may raise fair housing concerns since disability is a protected class.",
+        "The three-year rule applies to the fact of a death, not to the decedent's medical condition.",
+        "This is not a discretionary judgment; the law addresses it directly."
+      ],
+      "terms": ["three-year death rule", "protected class"]
+    },
+    {
+      "id": "PRIN-09-009",
+      "course": "principles",
+      "unit": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 1,
+      "stem": "Federal lead-based paint disclosure requirements apply to residential housing built:",
+      "options": [
+        "Before 1950",
+        "Before 1978",
+        "Before 1985",
+        "Before 1992"
+      ],
+      "answer": 1,
+      "rationales": [
+        "1950 is not the federal threshold.",
+        "Correct. Pre-1978 housing triggers the federal lead-based paint disclosure requirements, including a 10-day inspection opportunity.",
+        "1985 is not the threshold.",
+        "1992 is the year of the underlying federal act, not the construction cutoff."
+      ],
+      "terms": ["lead-based paint disclosure"]
+    },
+    {
+      "id": "PRIN-09-010",
+      "course": "principles",
+      "unit": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Under the federal lead-based paint rules, the buyer of a 1952 home must be given an opportunity to conduct a lead inspection or risk assessment lasting:",
+      "options": [
+        "3 days",
+        "5 days",
+        "10 days",
+        "17 days"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Three days is the personal-delivery TDS termination period.",
+        "Five days is the mailed-delivery TDS termination period.",
+        "Correct. Federal law provides a 10-day opportunity for a lead inspection or risk assessment, which the parties may modify or the buyer may waive in writing.",
+        "Seventeen days is a common contractual investigation contingency, not the federal lead period."
+      ],
+      "terms": ["lead-based paint disclosure"]
+    },
+    {
+      "id": "PRIN-09-011",
+      "course": "principles",
+      "unit": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Regarding the Megan's Law database, a licensee's obligation is to:",
+      "options": [
+        "Research the database and report findings to the buyer",
+        "Provide the statutory notice and direct the buyer to the database",
+        "Disclose the identity of any registrants living nearby",
+        "Obtain a written waiver from the buyer"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Licensees are not required to research the database, and doing so invites liability for inaccuracy.",
+        "Correct. The contract must contain the statutory notice, and the licensee directs the buyer to the Department of Justice database to conduct their own search.",
+        "Characterizing neighbors creates significant liability and is not the licensee's role.",
+        "No waiver is contemplated; the notice itself satisfies the requirement."
+      ],
+      "terms": ["Megan's Law notice"]
+    },
+    {
+      "id": "PRIN-09-012",
+      "course": "principles",
+      "unit": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A seller knows the main sewer line has collapsed but sells the home strictly 'as-is' without mentioning it. The seller has:",
+      "options": [
+        "Acted properly, because as-is shifts all risk to the buyer",
+        "Committed fraud by concealing a known material fact",
+        "Acted properly if the buyer waived inspections",
+        "Acted properly if the price reflected the condition"
+      ],
+      "answer": 1,
+      "rationales": [
+        "As-is means the seller will not repair or credit — it never authorizes concealment.",
+        "Correct. Concealing a known material defect is fraud regardless of an as-is clause, exposing the seller and any complicit agent to rescission, damages, and discipline.",
+        "A buyer's waiver of inspections does not excuse the seller's affirmative concealment.",
+        "A discounted price does not substitute for disclosure of a known defect."
+      ],
+      "terms": ["as-is", "material fact", "concealment"]
+    },
+    {
+      "id": "PRIN-09-013",
+      "course": "principles",
+      "unit": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "For a condominium resale, the seller must deliver association documents INCLUDING disclosure of:",
+      "options": [
+        "The names and occupations of board members",
+        "Pending litigation involving the association",
+        "Each owner's mortgage balance",
+        "The listing history of every unit"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Board member occupations are not a required disclosure item.",
+        "Correct. Pending litigation involving the association must be disclosed, along with CC&Rs, bylaws, budget, reserves, assessments, and minutes — construction defect litigation can make units unfinanceable.",
+        "Other owners' private financial information is neither available nor required.",
+        "Listing histories of other units are not part of the required CID documents."
+      ],
+      "terms": ["CID documents"]
+    },
+    {
+      "id": "PRIN-09-014",
+      "course": "principles",
+      "unit": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A newly built Inland Empire home carries an annual special tax funding local infrastructure. The seller must make a good-faith effort to obtain and deliver notice of this:",
+      "options": [
+        "Mello-Roos community facilities district lien",
+        "Homeowner's exemption",
+        "Documentary transfer tax",
+        "Supplemental assessment"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Sellers must make a good-faith effort to obtain and deliver notice of a Mello-Roos community facilities district lien, which can materially affect the buyer's monthly cost.",
+        "The homeowner's exemption reduces assessed value and is not a lien disclosure.",
+        "Documentary transfer tax is a one-time transfer charge, not an ongoing district assessment.",
+        "A supplemental assessment arises from reassessment on change of ownership, not from a financing district."
+      ],
+      "terms": ["Mello-Roos disclosure", "special assessment"]
+    },
+    {
+      "id": "PRIN-09-015",
+      "course": "principles",
+      "unit": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "After delivering the TDS, the seller discovers active termite damage in a wall opened during a repair. The seller must:",
+      "options": [
+        "Do nothing, because the TDS was already delivered",
+        "Deliver an amended disclosure, which may restart the buyer's termination right",
+        "Disclose only if the buyer's inspector failed to find it",
+        "Wait until closing and credit the buyer"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The duty to disclose continues as new material facts become known.",
+        "Correct. A newly discovered material fact requires an amended disclosure, and amendment can restart a statutory termination right — another reason to disclose comprehensively at the outset.",
+        "The duty does not depend on what the buyer's inspector did or did not find.",
+        "Delaying disclosure to closing while offering money is concealment, not compliance."
+      ],
+      "terms": ["amended disclosure", "material fact"]
+    },
+    {
+      "id": "PRIN-09-016",
+      "course": "principles",
+      "unit": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "The agent's duty of visual inspection in a residential 1–4 unit sale requires the agent to:",
+      "options": [
+        "Inspect the roof, crawlspace, and inside wall cavities",
+        "Conduct a reasonably competent and diligent visual inspection of accessible areas and disclose material facts revealed",
+        "Hire a licensed inspector at the agent's expense",
+        "Certify the property free of defects"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The duty covers accessible areas visually; agents do not open walls or perform invasive inspection.",
+        "Correct. The standard is a reasonably competent and diligent visual inspection of accessible areas, with written disclosure of what it reveals and referral to qualified inspectors.",
+        "Agents recommend inspections; they are not required to purchase them.",
+        "No agent certifies a property free of defects — that is precisely what the duty does not require."
+      ],
+      "terms": ["visual inspection duty"]
+    },
+    {
+      "id": "PRIN-09-017",
+      "course": "principles",
+      "unit": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A city requires a sewer lateral inspection before any property transfer within its limits. This is an example of a:",
+      "options": [
+        "Federal disclosure requirement",
+        "Point-of-sale ordinance",
+        "Natural hazard zone",
+        "CID governing document"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Sewer lateral requirements are local, not federal.",
+        "Correct. Many California cities impose point-of-sale requirements such as retrofit, sewer lateral, or occupancy inspections that must be satisfied as a condition of transfer.",
+        "Hazard zones are mapped areas disclosed through the NHD.",
+        "CID documents govern common interest developments, not municipal transfer requirements."
+      ],
+      "terms": ["point-of-sale ordinance"]
+    },
+    {
+      "id": "PRIN-09-018",
+      "course": "principles",
+      "unit": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A seller instructs the listing agent to omit a known recurring roof leak from the TDS. The agent should:",
+      "options": [
+        "Comply, since the TDS is the seller's own disclosure document",
+        "Comply but note the disagreement in the file",
+        "Refuse, disclose the known material fact, and withdraw from the listing if the seller persists",
+        "Complete the TDS truthfully but keep it from the buyer until closing"
+      ],
+      "answer": 2,
+      "rationales": [
+        "The agent has an independent disclosure duty and cannot participate in concealment.",
+        "A file note does not cure participation in fraud.",
+        "Correct. The agent must refuse the unlawful instruction, disclose the known material fact, and withdraw if the seller insists on concealment.",
+        "Withholding a completed disclosure defeats its purpose and is itself concealment."
+      ],
+      "terms": ["material fact", "concealment"]
+    },
+    {
+      "id": "PRIN-09-019",
+      "course": "principles",
+      "unit": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "The Natural Hazard Disclosure statement primarily tells the buyer:",
+      "options": [
+        "Whether the property will flood or burn",
+        "Whether the property lies within specified mapped hazard zones",
+        "The cost of hazard insurance for the property",
+        "The structural condition of the improvements"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The NHD makes no prediction about whether a specific event will occur.",
+        "Correct. The NHD is map-based: it reports whether the parcel falls within any of the six designated zones, and it does not replace the seller's duty to disclose actual known conditions.",
+        "Insurance pricing is obtained separately from carriers and should be explored early in the contingency period.",
+        "Structural condition is addressed by the TDS and by inspections."
+      ],
+      "terms": ["NHD (Natural Hazard Disclosure)"]
+    },
+    {
+      "id": "PRIN-09-020",
+      "course": "principles",
+      "unit": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A buyer discovers after closing that the listing agent knew of, and never disclosed, a serious foundation defect. The buyer's potential remedies include:",
+      "options": [
+        "Rescission and damages against the seller, plus claims against the brokerages and DRE discipline against the licensee",
+        "Only a complaint to the DRE, since the sale already closed",
+        "Only recovery limited to the earnest money deposit",
+        "No remedy, because closing extinguishes disclosure claims"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Non-disclosure of a known material defect can support rescission and damages (and punitive damages for intentional conduct) against the seller and brokerages, with independent DRE discipline against the licensee.",
+        "Civil remedies and regulatory discipline operate independently; closing does not limit the buyer to a complaint.",
+        "Damages are measured by the loss, not capped at the deposit.",
+        "Closing does not extinguish claims for fraudulent concealment."
+      ],
+      "terms": ["material fact", "concealment"]
+    }
+  ]
+}

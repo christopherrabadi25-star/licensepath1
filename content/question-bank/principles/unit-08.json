@@ -1,0 +1,448 @@
+{
+  "course": "principles",
+  "unit": 8,
+  "title": "Real Estate Contracts in Practice",
+  "originality": "All items original to LicensePath. Modeled on the DRE exam blueprint and style only; no actual exam items reproduced.",
+  "questions": [
+    {
+      "id": "PRIN-08-001",
+      "course": "principles",
+      "unit": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 1,
+      "stem": "Under which listing does the broker earn a commission even if the owner personally finds the buyer?",
+      "options": [
+        "Open listing",
+        "Exclusive agency listing",
+        "Exclusive right to sell listing",
+        "Net listing"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Under an open listing the owner may sell directly and owe nothing.",
+        "Exclusive agency specifically permits the owner to sell without paying a commission.",
+        "Correct. An exclusive right to sell entitles the broker to compensation no matter who produces the buyer, including the owner.",
+        "A net listing describes a compensation structure, not who may sell without owing a commission."
+      ],
+      "terms": ["exclusive right to sell"]
+    },
+    {
+      "id": "PRIN-08-002",
+      "course": "principles",
+      "unit": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "An exclusive listing agreement that omits a definite termination date is:",
+      "options": [
+        "Valid, running until the property sells",
+        "Grounds for disciplinary action against the licensee",
+        "Automatically limited to 90 days by law",
+        "Converted to an open listing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Open-ended exclusive listings are exactly what the rule forbids.",
+        "Correct. An exclusive listing must contain a definite termination date; omitting one is grounds for discipline, as are automatic-extension provisions.",
+        "No statutory default term fills the gap.",
+        "There is no automatic conversion to another listing type."
+      ],
+      "terms": ["definite termination date", "listing agreement"]
+    },
+    {
+      "id": "PRIN-08-003",
+      "course": "principles",
+      "unit": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A safety (protection) clause typically requires the broker, to enforce it, to:",
+      "options": [
+        "Record a notice of interest against the property",
+        "Deliver the seller a written list of protected prospects within the time the contract specifies",
+        "Continue advertising the property after expiration",
+        "Obtain the seller's verbal acknowledgment of each showing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Brokers do not record interests against a seller's title to secure commissions.",
+        "Correct. Enforceability normally depends on timely delivery of a written list identifying the prospects the broker introduced during the listing.",
+        "Advertising after expiration is not the trigger and could mislead the public.",
+        "Verbal acknowledgments do not satisfy the written-list requirement."
+      ],
+      "terms": ["safety clause (protection period)"]
+    },
+    {
+      "id": "PRIN-08-004",
+      "course": "principles",
+      "unit": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "When two brokerages each claim the commission, the doctrine used to decide who earned it is:",
+      "options": [
+        "Procuring cause",
+        "Novation",
+        "Subrogation",
+        "Ratification"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Procuring cause identifies the broker who set in motion the uninterrupted chain of events leading to the sale; such disputes are typically arbitrated through the association.",
+        "Novation substitutes a contract or party.",
+        "Subrogation substitutes one party for another regarding a claim, common in insurance.",
+        "Ratification is after-the-fact approval of an unauthorized act."
+      ],
+      "terms": ["procuring cause"]
+    },
+    {
+      "id": "PRIN-08-005",
+      "course": "principles",
+      "unit": 8,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A broker receives a buyer's deposit check with instructions to hold it uncashed until acceptance. The seller accepts Wednesday. The broker must place the funds in escrow, a trust account, or the principal's hands:",
+      "options": [
+        "Immediately upon receiving the check",
+        "Within three business days of acceptance",
+        "Within ten calendar days of acceptance",
+        "At the buyer's direction, any time before closing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A properly disclosed instruction to hold the check uncashed pending acceptance postpones the deposit obligation.",
+        "Correct. Trust funds must be deposited within three business days; when the check is properly held pending acceptance, the clock runs from acceptance.",
+        "Ten days exceeds the regulatory window.",
+        "The deadline is fixed by regulation, not by the buyer's preference."
+      ],
+      "terms": ["earnest money deposit", "trust fund"]
+    },
+    {
+      "id": "PRIN-08-006",
+      "course": "principles",
+      "unit": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A buyer misses the written contingency removal deadline under a standard California residential purchase agreement using active removal. The seller may:",
+      "options": [
+        "Cancel immediately, because the deadline passed",
+        "Deliver a notice to buyer to perform and cancel only after the cure period expires",
+        "Keep the deposit automatically as liquidated damages",
+        "Treat the contingency as waived and require the buyer to close"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Under active removal, a passed deadline does not by itself remove the contingency or permit immediate cancellation.",
+        "Correct. The seller must deliver a written notice to buyer to perform, giving the buyer a cure period, before cancellation is permitted.",
+        "Retaining the deposit requires a valid cancellation and an enforceable liquidated damages provision, subject to the 3% cap.",
+        "Passive waiver is not the California residential default; the contingency remains until removed in writing."
+      ],
+      "terms": ["active removal", "notice to buyer to perform", "contingency"]
+    },
+    {
+      "id": "PRIN-08-007",
+      "course": "principles",
+      "unit": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A seller wants to net $500,000 after a $180,000 loan payoff, 5% commission, and 1.5% closing costs. The required sale price is approximately:",
+      "options": [
+        "$724,200",
+        "$727,300",
+        "$680,000",
+        "$744,700"
+      ],
+      "answer": 1,
+      "rationales": [
+        "$724,200 comes from multiplying $680,000 by 1.065 — the classic error; you must divide, not multiply.",
+        "Correct. (500,000 + 180,000) ÷ (1 − 0.065) = 680,000 ÷ 0.935 = $727,272.73, rounded to about $727,300.",
+        "$680,000 is the net plus payoff before accounting for the percentage costs at all.",
+        "$744,700 overstates the price, applying an incorrect divisor."
+      ],
+      "terms": []
+    },
+    {
+      "id": "PRIN-08-008",
+      "course": "principles",
+      "unit": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A home sells for $1,240,000 with a 4.5% total commission split 55% listing / 45% buyer side. The listing salesperson keeps 75% of her side. Before any fees, she receives:",
+      "options": [
+        "$55,800",
+        "$30,690",
+        "$23,017.50",
+        "$25,110"
+      ],
+      "answer": 2,
+      "rationales": [
+        "$55,800 is the total commission for both sides.",
+        "$30,690 is the listing side before the broker split.",
+        "Correct. 1,240,000 × 0.045 = 55,800; × 0.55 = 30,690; × 0.75 = $23,017.50.",
+        "$25,110 applies the 45% buyer-side share rather than the listing side."
+      ],
+      "terms": []
+    },
+    {
+      "id": "PRIN-08-009",
+      "course": "principles",
+      "unit": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A seller wishes to negotiate with several buyers simultaneously without accidentally forming two contracts. The seller should use:",
+      "options": [
+        "Separate ordinary counteroffers to each buyer",
+        "A multiple counteroffer form stating that no contract forms until the seller signs a final acceptance",
+        "A backup offer addendum with each buyer",
+        "An option agreement with each buyer"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Ordinary counteroffers sent to multiple buyers risk binding the seller to more than one contract if several accept.",
+        "Correct. A multiple counteroffer expressly provides that no contract arises until the seller signs a final acceptance of one buyer's response, preserving the seller's choice.",
+        "Backup offers address what happens if the primary contract fails, not simultaneous negotiation.",
+        "Options require consideration and bind the seller to sell, which is not the goal here."
+      ],
+      "terms": ["multiple counteroffer", "backup offer"]
+    },
+    {
+      "id": "PRIN-08-010",
+      "course": "principles",
+      "unit": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A backup offer is BEST described as one that:",
+      "options": [
+        "Automatically takes effect if the primary contract falls through",
+        "Obligates the seller to cancel the primary contract",
+        "Gives the backup buyer the right to match any other offer",
+        "Converts to an option after 30 days"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. A backup offer states its numbered position and springs into effect automatically if the primary contract is cancelled.",
+        "A backup does not force cancellation of the primary contract.",
+        "Matching rights are a right of first refusal, a different instrument.",
+        "No automatic conversion to an option occurs."
+      ],
+      "terms": ["backup offer"]
+    },
+    {
+      "id": "PRIN-08-011",
+      "course": "principles",
+      "unit": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A seller sets a price she must receive and allows the broker to keep everything above it. This arrangement is a:",
+      "options": [
+        "Open listing",
+        "Net listing",
+        "Exclusive agency listing",
+        "Option listing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "An open listing describes non-exclusivity, not the compensation formula.",
+        "Correct. A net listing lets the broker retain all proceeds above the seller's stated net — an arrangement that pits the broker's interest against the client's and is heavily restricted.",
+        "Exclusive agency concerns who may sell without a commission.",
+        "There is no recognized 'option listing' category."
+      ],
+      "terms": ["net listing"]
+    },
+    {
+      "id": "PRIN-08-012",
+      "course": "principles",
+      "unit": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "An agreement allowing the seller to remain in the property for two weeks after closing is called a:",
+      "options": [
+        "Land contract",
+        "Rent-back",
+        "Backup occupancy",
+        "Estate at sufferance"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A land contract is a seller-financing device where the seller retains title while the buyer pays over time.",
+        "Correct. A rent-back permits the seller to occupy for an agreed period after close of escrow, typically with terms addressing rent, insurance, and condition.",
+        "This is not a recognized contract term.",
+        "An estate at sufferance arises when someone holds over *without* agreement — the opposite of a negotiated rent-back."
+      ],
+      "terms": ["rent-back"]
+    },
+    {
+      "id": "PRIN-08-013",
+      "course": "principles",
+      "unit": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "The clause that makes stated contract deadlines strict, so that late performance is a material breach, is:",
+      "options": [
+        "The safety clause",
+        "The liquidated damages clause",
+        "'Time is of the essence'",
+        "The arbitration clause"
+      ],
+      "answer": 2,
+      "rationales": [
+        "A safety clause protects a broker's commission after listing expiration.",
+        "Liquidated damages fix an amount payable on breach; they do not make deadlines strict.",
+        "Correct. A 'time is of the essence' clause makes each stated deadline material, so missing one is a breach rather than a delay.",
+        "Arbitration provisions govern how disputes are resolved, not deadline strictness."
+      ],
+      "terms": ["time is of the essence"]
+    },
+    {
+      "id": "PRIN-08-014",
+      "course": "principles",
+      "unit": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "Which contingency protects a buyer whose lender's valuation comes in below the agreed price?",
+      "options": [
+        "Loan contingency",
+        "Appraisal contingency",
+        "Investigation contingency",
+        "Title contingency"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The loan contingency addresses obtaining financing, which can fail for many reasons unrelated to value.",
+        "Correct. The appraisal contingency specifically protects the buyer when the appraised value falls below the contract price.",
+        "The investigation contingency covers physical condition and general suitability.",
+        "The title contingency covers review of the preliminary report and title matters."
+      ],
+      "terms": ["contingency"]
+    },
+    {
+      "id": "PRIN-08-015",
+      "course": "principles",
+      "unit": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "Under a buyer representation agreement, if the seller's side contributes less compensation than the buyer agreed to pay the buyer's broker, typically:",
+      "options": [
+        "The broker must accept the lesser amount",
+        "The buyer owes the difference under the agreement",
+        "The seller must make up the difference",
+        "The transaction cannot close"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The written agreement between buyer and broker governs the broker's compensation.",
+        "Correct. Buyer representation agreements generally provide that the buyer is responsible for any shortfall between the agreed compensation and what the seller's side contributes.",
+        "A seller has no obligation beyond what the seller agreed to contribute.",
+        "A compensation shortfall is a payment question, not an obstacle to closing."
+      ],
+      "terms": ["buyer representation agreement"]
+    },
+    {
+      "id": "PRIN-08-016",
+      "course": "principles",
+      "unit": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "An offer is accepted Tuesday, September 8, with a 17-day investigation contingency counted from acceptance (day one being the day after). The buyer's written removal is due no later than:",
+      "options": [
+        "September 24",
+        "September 25",
+        "September 26",
+        "September 29"
+      ],
+      "answer": 1,
+      "rationales": [
+        "September 24 counts only 16 days from September 9.",
+        "Correct. Day one is September 9; 17 days runs through September 25 (September 9 + 16 days).",
+        "September 26 counts 18 days.",
+        "September 29 corresponds to a 21-day contingency, such as loan and appraisal."
+      ],
+      "terms": ["contingency"]
+    },
+    {
+      "id": "PRIN-08-017",
+      "course": "principles",
+      "unit": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A seller tells her listing agent she may sell to her cousin and refuses to pay a commission if she does. The BEST professional solution is to:",
+      "options": [
+        "Take an exclusive right to sell and say nothing about the cousin",
+        "Take an exclusive right to sell with the cousin named as a written exclusion",
+        "Take an oral side agreement excluding the cousin",
+        "Refuse the listing entirely"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Allowing the seller to believe something the contract contradicts is a misrepresentation of your own agreement.",
+        "Correct. A named written exclusion honors the seller's intent, protects the broker against every other buyer, and puts the understanding in the contract.",
+        "Oral side agreements about commission are unenforceable and invite disputes.",
+        "Declining is permissible but unnecessary when a clean written exclusion solves the problem."
+      ],
+      "terms": ["exclusive right to sell", "exclusive agency listing"]
+    },
+    {
+      "id": "PRIN-08-018",
+      "course": "principles",
+      "unit": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "In a California residential purchase of an owner-occupied home, the liquidated damages and arbitration provisions are effective only if:",
+      "options": [
+        "The escrow holder approves them",
+        "Both parties separately sign or initial them",
+        "They are recorded with the county",
+        "The broker signs as a witness"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Escrow has no approval role over the parties' contract terms.",
+        "Correct. Both provisions require the parties' separate signatures or initials to be binding, ensuring they were specifically considered.",
+        "Purchase agreements are not recorded.",
+        "Broker witness signatures are not the requirement."
+      ],
+      "terms": ["liquidated damages"]
+    },
+    {
+      "id": "PRIN-08-019",
+      "course": "principles",
+      "unit": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A seller retains legal title while the buyer takes possession and pays in installments, receiving title only after the final payment. This is a:",
+      "options": [
+        "Lease with option to purchase",
+        "Land contract (installment sale contract)",
+        "Wraparound trust deed",
+        "Assumption agreement"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A lease-option combines a tenancy with a right to buy; title and possession are structured differently.",
+        "Correct. Under a land contract the seller keeps legal title while the buyer possesses and pays over time — a risky arrangement for buyers and heavily regulated.",
+        "A wraparound trust deed is junior financing that wraps an existing loan.",
+        "An assumption transfers responsibility for an existing loan to a new borrower."
+      ],
+      "terms": ["land contract (installment sale contract)"]
+    },
+    {
+      "id": "PRIN-08-020",
+      "course": "principles",
+      "unit": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A buyer's agent emails a signed acceptance of the seller's counteroffer at 4:02 p.m. At 3:55 p.m. the seller had emailed a written revocation of that counteroffer, which the buyer's agent had not yet opened. Most likely:",
+      "options": [
+        "A binding contract formed at 4:02 p.m.",
+        "No contract formed, because the revocation was communicated before acceptance",
+        "The parties are bound because revocations must be delivered in person",
+        "The seller must honor the counteroffer for a reasonable time regardless"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Acceptance came after the revocation was already communicated, so there was no live offer to accept.",
+        "Correct. An offer or counteroffer may be revoked any time before acceptance is communicated; the revocation sent at 3:55 p.m. terminated the counteroffer, and whether the recipient had opened it does not revive it.",
+        "Revocation need not be in person; written electronic delivery is effective.",
+        "Without consideration keeping it open (an option), a counteroffer is freely revocable."
+      ],
+      "terms": ["counteroffer", "option"]
+    }
+  ]
+}

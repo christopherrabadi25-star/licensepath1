@@ -14,10 +14,10 @@ Only humans may move a unit past `self-reviewed` (CLAUDE.md §13). Every unit is
 | 04 | Ownership & How Title Is Held | self-reviewed | Full unit + 18-question bank |
 | 05 | Encumbrances: Liens, Easements & Restrictions | self-reviewed | Full unit + 18-question bank |
 | 06 | Agency & Fiduciary Duties | self-reviewed | Full unit + 20-question bank (agency = ~17% of exam) |
-| 07 | Contract Law Fundamentals | pending | |
-| 08 | Real Estate Contracts in Practice | pending | |
-| 09 | Disclosures in Residential Transactions | pending | |
-| 10 | Escrow & Title Insurance | pending | |
+| 07 | Contract Law Fundamentals | self-reviewed | Full unit + 20-question bank |
+| 08 | Real Estate Contracts in Practice | self-reviewed | Full unit + 20-question bank |
+| 09 | Disclosures in Residential Transactions | self-reviewed | Full unit + 20-question bank |
+| 10 | Escrow & Title Insurance | self-reviewed | Full unit + 20-question bank |
 | 11 | Real Estate Finance I: Instruments & Foreclosure | pending | |
 | 12 | Real Estate Finance II: Markets, Loans & Programs | pending | |
 | 13 | Appraisal & Valuation | pending | |
@@ -43,6 +43,7 @@ Only humans may move a unit past `self-reviewed` (CLAUDE.md §13). Every unit is
 
 | Asset | Status | Notes |
 |---|---|---|
-| glossary.json | draft | 216 terms of 500+ target; grows with each unit's key-terms box |
+| glossary.json | draft | 257 terms of 500+ target; grows with each unit's key-terms box |
 | exam-sim/blueprint.json | draft | Blueprint weights per CLAUDE.md §9; reverify current DRE weightings before launch (§14) |
 | exam-sim sample set | draft | 25 original exam-style items across all 7 blueprint areas |
+| Question bank total | draft | 213 items. Valuation/financing coverage fills in with Units 11–13. |

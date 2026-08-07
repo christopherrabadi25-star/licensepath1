@@ -1,0 +1,448 @@
+{
+  "course": "principles",
+  "unit": 7,
+  "title": "Contract Law Fundamentals",
+  "originality": "All items original to LicensePath. Modeled on the DRE exam blueprint and style only; no actual exam items reproduced.",
+  "questions": [
+    {
+      "id": "PRIN-07-001",
+      "course": "principles",
+      "unit": 7,
+      "blueprint_area": "contracts",
+      "difficulty": 1,
+      "stem": "Which of the following is NOT one of the four essential elements of a valid contract?",
+      "options": [
+        "Capable parties",
+        "Mutual consent",
+        "A written document",
+        "Consideration"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Capacity is required; parties must be legally able to bind themselves.",
+        "Mutual consent — offer and acceptance freely given — is required.",
+        "Correct. A writing is not an element of validity. Many contracts are enforceable orally; the statute of frauds separately requires writings for certain agreements, including real estate sales.",
+        "Consideration — something of legal value from each side — is required."
+      ],
+      "terms": ["contract", "statute of frauds"]
+    },
+    {
+      "id": "PRIN-07-002",
+      "course": "principles",
+      "unit": 7,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "In California, a contract made by a 16-year-old to purchase real property is:",
+      "options": [
+        "Voidable at the minor's option",
+        "Void",
+        "Valid if a parent consents in writing",
+        "Enforceable once the minor reaches 18"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Voidable is the general rule for many minors' contracts, but California treats real property contracts more strictly.",
+        "Correct. A minor's contract concerning real property is void in California — it has no legal effect and cannot be ratified later.",
+        "Parental consent cannot validate a void real property contract.",
+        "Reaching majority does not revive a void contract; the parties must make a new one."
+      ],
+      "terms": ["void contract", "capacity"]
+    },
+    {
+      "id": "PRIN-07-003",
+      "course": "principles",
+      "unit": 7,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A contract signed by a person who has been judicially declared incompetent is ______, while a contract signed by a person of unsound mind who has NOT been adjudicated is ______.",
+      "options": [
+        "voidable; void",
+        "void; voidable",
+        "void; void",
+        "voidable; unenforceable"
+      ],
+      "answer": 1,
+      "rationales": [
+        "This reverses the rule — adjudication produces the stricter result.",
+        "Correct. Judicial adjudication of incompetence removes the power to contract entirely (void); without adjudication, the contract is voidable and may be rescinded or affirmed.",
+        "The unadjudicated person's contract is voidable, not void.",
+        "Neither status turns on enforceability under the statute of frauds."
+      ],
+      "terms": ["capacity", "void contract", "voidable contract"]
+    },
+    {
+      "id": "PRIN-07-004",
+      "course": "principles",
+      "unit": 7,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A seller crosses out the offered price, writes a higher figure, signs, and returns the document. The original offer is now:",
+      "options": [
+        "Still open for the buyer to accept",
+        "Terminated, because a counteroffer rejects the original offer",
+        "Binding at the original price",
+        "Suspended until the buyer responds"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A counteroffer extinguishes the original offer; it is no longer available to accept.",
+        "Correct. A counteroffer both rejects the original offer and becomes a new offer from the counterofferor.",
+        "No contract formed at the original price because acceptance was not unqualified.",
+        "There is no suspended state — the original offer is dead unless the buyer renews it."
+      ],
+      "terms": ["counteroffer", "offer"]
+    },
+    {
+      "id": "PRIN-07-005",
+      "course": "principles",
+      "unit": 7,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A seller signs a buyer's offer but locks it in a desk drawer and tells no one. At that moment:",
+      "options": [
+        "A binding contract exists because the seller signed",
+        "No contract exists because acceptance was not communicated",
+        "A voidable contract exists",
+        "The offer automatically expires"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Signing alone does not form a contract; the offeror must receive the acceptance.",
+        "Correct. Acceptance must be communicated to the offeror in the manner the offer requires before a contract is formed.",
+        "Nothing about the facts creates a defect in consent producing voidability.",
+        "The offer remains open until it lapses, is revoked, or is rejected."
+      ],
+      "terms": ["acceptance", "mutual consent"]
+    },
+    {
+      "id": "PRIN-07-006",
+      "course": "principles",
+      "unit": 7,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "Which agreement is NOT required to be in writing under California's statute of frauds?",
+      "options": [
+        "A contract to sell a single-family residence",
+        "A lease for a term of 18 months",
+        "A month-to-month residential rental agreement",
+        "An agreement employing a broker to sell real property for compensation"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Contracts for the sale of real property must be written and signed.",
+        "Leases longer than one year fall within the statute.",
+        "Correct. A month-to-month tenancy runs for a period of less than one year and may be created orally, though a writing is far better practice.",
+        "A broker's employment agreement must be written and signed, which is why a broker cannot sue for a commission without one."
+      ],
+      "terms": ["statute of frauds"]
+    },
+    {
+      "id": "PRIN-07-007",
+      "course": "principles",
+      "unit": 7,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "An oral agreement to sell a home is best described as:",
+      "options": [
+        "Void",
+        "Voidable",
+        "Unenforceable",
+        "Valid and enforceable"
+      ],
+      "answer": 2,
+      "rationales": [
+        "The agreement is not a nullity; if both parties perform voluntarily, the transaction stands.",
+        "Voidable describes contracts with defective consent, such as those induced by fraud.",
+        "Correct. The statute of frauds makes such an agreement unenforceable — a court will not compel performance, though voluntary performance is effective.",
+        "Enforceability is exactly what the statute of frauds withholds."
+      ],
+      "terms": ["unenforceable contract", "statute of frauds"]
+    },
+    {
+      "id": "PRIN-07-008",
+      "course": "principles",
+      "unit": 7,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "An open listing, under which the seller promises to pay a commission to whichever broker produces a buyer, is an example of a:",
+      "options": [
+        "Bilateral contract",
+        "Unilateral contract",
+        "Executed contract",
+        "Void contract"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A bilateral contract exchanges promise for promise; here no broker promises to perform.",
+        "Correct. A promise exchanged for an act creates a unilateral contract binding only the offeror until the act is performed.",
+        "Executed means fully performed, which the listing is not until a buyer is produced and the sale closes.",
+        "Nothing about the arrangement is illegal or otherwise void."
+      ],
+      "terms": ["unilateral contract", "open listing"]
+    },
+    {
+      "id": "PRIN-07-009",
+      "course": "principles",
+      "unit": 7,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A buyer defaults on an $780,000 purchase of an owner-occupied home. The deposit is $35,000 and the liquidated damages clause was properly initialed. The seller may retain:",
+      "options": [
+        "$35,000",
+        "$23,400",
+        "$39,000",
+        "$7,800"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The full deposit exceeds the statutory cap and is presumed unreasonable.",
+        "Correct. The cap is 3% of the purchase price: $780,000 × 0.03 = $23,400. The remaining $11,600 is refundable to the buyer.",
+        "$39,000 is 5% of the price, above the permitted cap.",
+        "$7,800 is 1% of the price, not the statutory limit."
+      ],
+      "terms": ["liquidated damages"]
+    },
+    {
+      "id": "PRIN-07-010",
+      "course": "principles",
+      "unit": 7,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A seller refuses to convey after a valid contract. The buyer sues to force the sale of that particular property. The buyer is seeking:",
+      "options": [
+        "Liquidated damages",
+        "Specific performance",
+        "Rescission",
+        "Novation"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Liquidated damages are a pre-agreed money remedy, not a compulsion to convey.",
+        "Correct. Specific performance compels performance of the contract and is available in real estate because land is considered unique, making money damages inadequate.",
+        "Rescission cancels the contract rather than enforcing it.",
+        "Novation substitutes a new contract or party."
+      ],
+      "terms": ["specific performance"]
+    },
+    {
+      "id": "PRIN-07-011",
+      "course": "principles",
+      "unit": 7,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A buyer under contract assigns her rights to an investor, who then fails to close. Absent a novation, the original buyer is:",
+      "options": [
+        "Fully released from liability",
+        "Generally still secondarily liable to the seller",
+        "Liable only for the deposit",
+        "Liable only if the assignment was unrecorded"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Only a novation, agreed to by the seller, releases the original party.",
+        "Correct. An assignment transfers rights but leaves the assignor secondarily liable; a novation would be required to obtain a release.",
+        "Liability is not automatically limited to the deposit.",
+        "Recording has no bearing on contractual liability between the parties."
+      ],
+      "terms": ["assignment", "novation"]
+    },
+    {
+      "id": "PRIN-07-012",
+      "course": "principles",
+      "unit": 7,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A caretaker persuades a frail, isolated elderly owner to sell the home far below market value. The contract is most likely voidable for:",
+      "options": [
+        "Duress",
+        "Menace",
+        "Undue influence",
+        "Mutual mistake"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Duress requires unlawful force or confinement.",
+        "Menace requires a threat of unlawful injury to person, property, or character.",
+        "Correct. Undue influence is taking unfair advantage of another's weakness of mind, distress, or a relationship of trust and confidence.",
+        "Mutual mistake requires both parties to be wrong about a material fact."
+      ],
+      "terms": ["undue influence", "voidable contract"]
+    },
+    {
+      "id": "PRIN-07-013",
+      "course": "principles",
+      "unit": 7,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "An owner sells a home to her sister for $1. As to consideration, the contract is:",
+      "options": [
+        "Void, because the consideration is inadequate",
+        "Valid, because consideration need only be legally sufficient, not adequate",
+        "Voidable by the seller's heirs",
+        "Unenforceable without an appraisal"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Courts do not police the adequacy of a bargained exchange.",
+        "Correct. Consideration must be legally sufficient, not economically adequate; the price is the parties' business, though gift-tax and creditor questions belong to a CPA and attorney.",
+        "Heirs have no automatic right to undo a completed lifetime transfer for low consideration.",
+        "No appraisal is required for contract validity."
+      ],
+      "terms": ["consideration"]
+    },
+    {
+      "id": "PRIN-07-014",
+      "course": "principles",
+      "unit": 7,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A purchase agreement has been signed by both parties but escrow has not closed. The contract is:",
+      "options": [
+        "Executed",
+        "Executory",
+        "Unilateral",
+        "Void"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Executed means fully performed; the parties still owe performance here. (Note that 'executed' is also used loosely to mean 'signed,' which is the trap.)",
+        "Correct. A contract with performance still outstanding is executory — a purchase agreement is executory from acceptance until closing.",
+        "A purchase agreement is bilateral: both parties made promises.",
+        "The contract is valid and binding."
+      ],
+      "terms": ["executory / executed"]
+    },
+    {
+      "id": "PRIN-07-015",
+      "course": "principles",
+      "unit": 7,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A contract to compensate an unlicensed person for performing licensed real estate activity is:",
+      "options": [
+        "Valid but unenforceable",
+        "Voidable by the unlicensed person",
+        "Void, because it lacks a lawful object",
+        "Valid if the amount is reasonable"
+      ],
+      "answer": 2,
+      "rationales": [
+        "The defect goes deeper than enforceability; the object itself is unlawful.",
+        "The unlicensed party has no election to make; the agreement has no legal effect.",
+        "Correct. An illegal purpose destroys the lawful-object element, rendering the contract void, and courts generally leave the parties where they found them.",
+        "Reasonableness of the fee cannot cure illegality."
+      ],
+      "terms": ["lawful object", "void contract"]
+    },
+    {
+      "id": "PRIN-07-016",
+      "course": "principles",
+      "unit": 7,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "Parties orally agree by phone to extend a written contract's closing date by four days. The extension is:",
+      "options": [
+        "Enforceable, because the parties mutually agreed",
+        "Generally unenforceable, because a contract required to be written cannot be orally modified",
+        "Enforceable if a witness heard the call",
+        "Automatically valid for up to five days"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Mutual agreement is not enough when the statute of frauds governs the underlying contract.",
+        "Correct. Modifications to contracts within the statute of frauds generally must themselves be written and signed — hence the practice of same-day written extension addenda.",
+        "Witnesses do not satisfy the writing requirement.",
+        "No grace period exists for oral extensions."
+      ],
+      "terms": ["statute of frauds"]
+    },
+    {
+      "id": "PRIN-07-017",
+      "course": "principles",
+      "unit": 7,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "An optionee pays $5,000 for the right to purchase a property at a set price within 90 days. During those 90 days, the optionor:",
+      "options": [
+        "May revoke the offer at any time",
+        "Is bound to sell if the optionee elects to buy",
+        "May sell to a higher bidder without liability",
+        "May raise the price if market conditions change"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Consideration makes the option irrevocable for its term — that is the point of paying for it.",
+        "Correct. An option is a unilateral contract binding the optionor to sell on the stated terms while leaving the optionee free to buy or not.",
+        "Selling to another during the option period would breach the option.",
+        "The price is fixed by the option agreement for its term."
+      ],
+      "terms": ["option", "unilateral contract"]
+    },
+    {
+      "id": "PRIN-07-018",
+      "course": "principles",
+      "unit": 7,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "Both buyer and seller mistakenly believe a parcel contains 2 usable acres when in fact a recorded easement leaves only 1. The contract is most likely:",
+      "options": [
+        "Valid and binding on both",
+        "Voidable for mutual mistake of material fact",
+        "Void for illegality",
+        "Unenforceable under the statute of frauds"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A shared error about a material fact undermines the meeting of the minds.",
+        "Correct. Mutual mistake of a material fact — as opposed to a mistake about value — permits rescission by the affected party.",
+        "Nothing illegal occurred.",
+        "The agreement's form is not the problem; the parties' shared factual error is."
+      ],
+      "terms": ["mutual mistake", "voidable contract"]
+    },
+    {
+      "id": "PRIN-07-019",
+      "course": "principles",
+      "unit": 7,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A broker sues a seller for an unpaid commission but has only an oral listing agreement. The broker will most likely:",
+      "options": [
+        "Recover the full commission, since the sale closed",
+        "Recover a reasonable fee in quantum meruit",
+        "Lose, because an agreement employing a broker to sell real property must be written and signed",
+        "Recover if two witnesses confirm the terms"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Closing the sale does not cure the missing written employment agreement.",
+        "Courts generally do not award fallback recovery where the statute of frauds bars the claim.",
+        "Correct. The statute of frauds requires a written, signed agreement authorizing an agent to sell real property for compensation, so the oral listing is unenforceable.",
+        "Witness testimony does not substitute for the required writing."
+      ],
+      "terms": ["statute of frauds"]
+    },
+    {
+      "id": "PRIN-07-020",
+      "course": "principles",
+      "unit": 7,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A licensee breaches a fiduciary duty and gains an advantage, but without deliberate intent to deceive. This is best characterized as:",
+      "options": [
+        "Actual fraud",
+        "Constructive fraud",
+        "Puffing",
+        "Duress"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Actual fraud requires intentional misrepresentation or concealment.",
+        "Correct. Constructive fraud is a breach of duty that gains an advantage without deliberate dishonesty — the doctrine that reaches fiduciaries who did not intend to lie.",
+        "Puffing is exaggerated opinion about property.",
+        "Duress involves unlawful force or confinement compelling consent."
+      ],
+      "terms": ["constructive fraud", "actual fraud"]
+    }
+  ]
+}

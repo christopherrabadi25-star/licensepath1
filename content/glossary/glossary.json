@@ -1,7 +1,7 @@
 {
   "meta": {
     "target_terms": 500,
-    "current_terms": 216,
+    "current_terms": 257,
     "note": "Seed glossary. Grows as each unit's key-terms box is authored. Feeds SRS flashcards and programmatic SEO pages. All definitions original — DRAFT until reviewed."
   },
   "terms": [
@@ -1084,6 +1084,211 @@
       "term": "Agency disclosure",
       "definition": "California's statutory disclose–elect–confirm process identifying in writing whom each licensee represents.",
       "area": "agency"
+    },
+    {
+      "term": "Emancipated minor",
+      "definition": "A minor freed from parental control by marriage, military service, or court order, who may contract as an adult.",
+      "area": "contracts"
+    },
+    {
+      "term": "Actual fraud",
+      "definition": "Intentional misrepresentation or concealment of a material fact, relied upon to another's detriment.",
+      "area": "contracts"
+    },
+    {
+      "term": "Constructive fraud",
+      "definition": "A breach of duty gaining an advantage without deliberate dishonesty; commonly applied to fiduciaries.",
+      "area": "contracts"
+    },
+    {
+      "term": "Mutual mistake",
+      "definition": "A shared error by both parties about a material fact, permitting rescission.",
+      "area": "contracts"
+    },
+    {
+      "term": "Duress",
+      "definition": "Unlawful force or confinement that compels a party's consent.",
+      "area": "contracts"
+    },
+    {
+      "term": "Menace",
+      "definition": "A threat of duress, of unlawful injury to person or property, or of injury to character.",
+      "area": "contracts"
+    },
+    {
+      "term": "Part performance",
+      "definition": "A doctrine that can remove an oral agreement from the statute of frauds where a party took possession, paid, and improved in reliance.",
+      "area": "contracts"
+    },
+    {
+      "term": "Bilateral contract",
+      "definition": "A contract exchanging a promise for a promise, binding both parties — the standard purchase agreement.",
+      "area": "contracts"
+    },
+    {
+      "term": "Unilateral contract",
+      "definition": "A contract exchanging a promise for an act, binding only the offeror until performance — open listings and options.",
+      "area": "contracts"
+    },
+    {
+      "term": "Net listing",
+      "definition": "A compensation structure in which the broker keeps all proceeds above the seller's stated net; heavily restricted and conflict-prone.",
+      "area": "contracts"
+    },
+    {
+      "term": "Definite termination date",
+      "definition": "The required end date in an exclusive listing; omitting it is grounds for disciplinary action.",
+      "area": "contracts"
+    },
+    {
+      "term": "Procuring cause",
+      "definition": "The doctrine identifying which broker set in motion the uninterrupted chain of events resulting in the sale.",
+      "area": "contracts"
+    },
+    {
+      "term": "Buyer representation agreement",
+      "definition": "The written contract employing a broker to represent a buyer, stating term, scope, duties, and compensation.",
+      "area": "contracts"
+    },
+    {
+      "term": "Earnest money deposit",
+      "definition": "The buyer's good-faith deposit; a trust fund that must be placed in escrow, a trust account, or the principal's hands within three business days.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Active removal",
+      "definition": "The regime under which contingencies remain in effect until removed in writing, with the seller's remedy being a notice to perform before cancellation.",
+      "area": "contracts"
+    },
+    {
+      "term": "Notice to buyer to perform",
+      "definition": "The written notice a seller delivers when a buyer misses a contingency deadline, starting a cure period before cancellation is permitted.",
+      "area": "contracts"
+    },
+    {
+      "term": "Rent-back",
+      "definition": "An agreement permitting the seller to remain in possession for a period after close of escrow.",
+      "area": "contracts"
+    },
+    {
+      "term": "Backup offer",
+      "definition": "An offer that automatically takes effect if the primary contract falls through; it states its numbered position.",
+      "area": "contracts"
+    },
+    {
+      "term": "Multiple counteroffer",
+      "definition": "A counteroffer made to several buyers at once, structured so no contract forms until the seller signs a final acceptance of one response.",
+      "area": "contracts"
+    },
+    {
+      "term": "Land contract (installment sale contract)",
+      "definition": "A seller-financing device in which the seller retains legal title while the buyer possesses and pays, receiving title after final payment.",
+      "area": "financing"
+    },
+    {
+      "term": "TDS exemptions",
+      "definition": "Transfers exempt from the TDS form — by court order, foreclosure, fiduciaries, co-owners, spouses, and government entities — generally where the transferor lacks personal knowledge.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Right to terminate (disclosure)",
+      "definition": "A buyer's statutory right to cancel when disclosures are delivered after the offer is signed: generally three days after personal delivery, five after mailing.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Amended disclosure",
+      "definition": "A revised disclosure required when a material fact becomes known after the original delivery; it may restart a termination right.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Alquist-Priolo earthquake fault zone",
+      "definition": "A mapped zone along active faults; one of the six zones addressed by the Natural Hazard Disclosure.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Very high fire hazard severity zone",
+      "definition": "A mapped wildfire risk zone that drives insurance availability and cost across much of Southern California.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Three-year death rule",
+      "definition": "California's rule requiring disclosure of a death on the property within the past three years; direct questions must always be answered honestly.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Lead-based paint disclosure",
+      "definition": "Federal requirements for pre-1978 housing: disclose known hazards, provide the pamphlet and records, include a warning statement, and give a 10-day inspection opportunity.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Mello-Roos disclosure",
+      "definition": "The seller's good-faith obligation to obtain and deliver notice of a community facilities district lien.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "CID documents",
+      "definition": "The governing documents a seller must deliver for a common interest development: CC&Rs, bylaws, budget, reserves, assessments, minutes, and pending litigation.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Point-of-sale ordinance",
+      "definition": "A local requirement — retrofit, sewer lateral, or occupancy inspection — imposed by a city as a condition of transfer.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Requirements for valid escrow",
+      "definition": "A binding contract between the parties plus conditional delivery of instruments and funds to a neutral third party.",
+      "area": "transfer"
+    },
+    {
+      "term": "Escrow instructions",
+      "definition": "The written directions signed by both parties telling escrow what conditions must be met before closing.",
+      "area": "transfer"
+    },
+    {
+      "term": "Interpleader",
+      "definition": "A court action by which an escrow holder deposits disputed funds with the court and lets the parties litigate entitlement.",
+      "area": "transfer"
+    },
+    {
+      "term": "Close of escrow",
+      "definition": "Completion of the transaction; title passes on recording.",
+      "area": "transfer"
+    },
+    {
+      "term": "Trustee's deed",
+      "definition": "The deed delivered to the purchaser at a foreclosure trustee's sale.",
+      "area": "transfer"
+    },
+    {
+      "term": "Valid delivery",
+      "definition": "The grantor's intent to pass title presently and irrevocably; required for a deed to convey and not satisfied by holding a deed for delivery at death.",
+      "area": "transfer"
+    },
+    {
+      "term": "Cloud on title",
+      "definition": "A defect or unresolved claim casting doubt on title, such as a break in the chain or an unreleased lien.",
+      "area": "transfer"
+    },
+    {
+      "term": "Abstract of title",
+      "definition": "A written summary of everything recorded affecting a property.",
+      "area": "transfer"
+    },
+    {
+      "term": "Statement of information",
+      "definition": "A confidential form identifying the parties so the title company can distinguish them from similarly named judgment debtors.",
+      "area": "transfer"
+    },
+    {
+      "term": "Bona fide purchaser (BFP)",
+      "definition": "One who pays value, takes without notice of a prior interest, and records first; protected by the recording statute.",
+      "area": "transfer"
+    },
+    {
+      "term": "Lender's policy",
+      "definition": "Title insurance protecting the lender only, up to the loan balance, and decreasing as the loan is repaid.",
+      "area": "transfer"
     }
   ]
 }

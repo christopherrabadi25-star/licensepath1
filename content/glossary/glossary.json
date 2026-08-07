@@ -1,167 +1,854 @@
 {
   "meta": {
     "target_terms": 500,
-    "current_terms": 158,
+    "current_terms": 169,
     "note": "Seed glossary. Grows as each unit's key-terms box is authored. Feeds SRS flashcards and programmatic SEO pages. All definitions original — DRAFT until reviewed."
   },
   "terms": [
-    { "term": "DRE (Department of Real Estate)", "definition": "The California state agency that licenses and regulates real estate salespersons and brokers and approves pre-licensing courses.", "area": "practice-disclosures" },
-    { "term": "Real Estate Commissioner", "definition": "The appointed head of the California DRE who enforces the Real Estate Law and issues regulations that carry the force of law.", "area": "practice-disclosures" },
-    { "term": "Salesperson", "definition": "A licensee who may perform licensed real estate activities only while employed by and supervised by a responsible broker.", "area": "practice-disclosures" },
-    { "term": "Broker", "definition": "A licensee authorized to operate a real estate business, employ salespersons, and represent clients directly for compensation.", "area": "practice-disclosures" },
-    { "term": "Realtor®", "definition": "A trademarked designation for a licensee who is a member of the National Association of Realtors; not all licensees are Realtors®.", "area": "practice-disclosures" },
-    { "term": "Reciprocity", "definition": "Recognition of another state's real estate license; California has no license reciprocity with any state.", "area": "practice-disclosures" },
-    { "term": "Real property", "definition": "Land, anything affixed to it, anything appurtenant to it, and that which is immovable by law — the land plus the bundle of rights.", "area": "ownership-land-use" },
-    { "term": "Personal property", "definition": "Movable property (chattel) that is not real property; it transfers by bill of sale rather than by deed.", "area": "ownership-land-use" },
-    { "term": "Fixture", "definition": "An item of personal property that has become real property by being attached to land or improvements, judged by tests like MARIA.", "area": "ownership-land-use" },
-    { "term": "MARIA", "definition": "Memory aid for the fixture tests: Method of attachment, Adaptability, Relationship of the parties, Intention, and Agreement.", "area": "ownership-land-use" },
-    { "term": "Trade fixture", "definition": "An item installed by a business tenant for use in its trade; unlike ordinary fixtures, the tenant may remove it before the lease ends.", "area": "ownership-land-use" },
-    { "term": "Appurtenance", "definition": "A right or improvement that runs with the land and transfers automatically with it, such as an easement benefiting the parcel or mineral rights.", "area": "ownership-land-use" },
-    { "term": "Emblements", "definition": "Annual crops produced by labor (like strawberries or row crops); treated as the tenant farmer's personal property even after a tenancy ends.", "area": "ownership-land-use" },
-    { "term": "Riparian rights", "definition": "The water rights of an owner whose land borders a flowing watercourse such as a river or stream.", "area": "ownership-land-use" },
-    { "term": "Littoral rights", "definition": "The water rights of an owner whose land borders a non-flowing body of water such as a lake or the ocean.", "area": "ownership-land-use" },
-    { "term": "Bundle of rights", "definition": "The collection of ownership rights in real property: possession, use, enjoyment, encumbrance (exclusion), and disposition.", "area": "ownership-land-use" },
-    { "term": "Fee simple absolute", "definition": "The greatest estate in land — ownership of indefinite duration, freely transferable and inheritable, subject only to public and private restrictions.", "area": "ownership-land-use" },
-    { "term": "Fee simple defeasible", "definition": "A fee estate that can be lost if a stated condition is violated, such as land granted 'so long as' it is used for a school.", "area": "ownership-land-use" },
-    { "term": "Life estate", "definition": "A freehold estate whose duration is measured by someone's lifetime; the life tenant may use the property but not commit waste.", "area": "ownership-land-use" },
-    { "term": "Remainder", "definition": "The future interest held by a third party who takes title when a life estate ends.", "area": "ownership-land-use" },
-    { "term": "Reversion", "definition": "The future interest retained by a grantor who takes the property back when a lesser estate (like a life estate) ends.", "area": "ownership-land-use" },
-    { "term": "Estate for years", "definition": "A leasehold with a definite start and end date; it terminates automatically without notice.", "area": "ownership-land-use" },
-    { "term": "Periodic tenancy", "definition": "A leasehold that renews automatically period to period (like month-to-month) until either party gives proper notice.", "area": "ownership-land-use" },
-    { "term": "Estate at will", "definition": "A tenancy with no fixed term that either party may end at any time (with statutory notice in California).", "area": "ownership-land-use" },
-    { "term": "Estate at sufferance", "definition": "The interest of a tenant who lawfully took possession but stays after the right to possession has ended — a holdover tenant.", "area": "ownership-land-use" },
-    { "term": "Severalty", "definition": "Ownership by one person or entity alone — sole ownership, with interests 'severed' from everyone else.", "area": "ownership-land-use" },
-    { "term": "Joint tenancy", "definition": "Co-ownership with right of survivorship requiring the four unities of time, title, interest, and possession.", "area": "ownership-land-use" },
-    { "term": "Tenancy in common", "definition": "Co-ownership in undivided shares (which may be unequal) with no right of survivorship; each owner's share passes to their heirs.", "area": "ownership-land-use" },
-    { "term": "Community property", "definition": "Property acquired by California spouses during marriage through the labor of either; each spouse owns an equal, undivided one-half interest.", "area": "ownership-land-use" },
-    { "term": "Right of survivorship", "definition": "The feature of joint tenancy (and community property with right of survivorship) by which a deceased co-owner's interest passes automatically to the surviving co-owner(s).", "area": "ownership-land-use" },
-    { "term": "Undivided interest", "definition": "A co-owner's fractional interest in the whole property, entitling them to possession of all of it, not a physically divided piece.", "area": "ownership-land-use" },
-    { "term": "Partition action", "definition": "A lawsuit by a co-owner asking a court to divide co-owned property or order it sold and split the proceeds.", "area": "ownership-land-use" },
-    { "term": "Encumbrance", "definition": "Any claim, lien, charge, or liability attached to real property that limits or burdens it, such as easements, liens, or restrictions.", "area": "ownership-land-use" },
-    { "term": "Lien", "definition": "A money encumbrance — a charge against property making it security for a debt, such as a trust deed, tax lien, or judgment lien.", "area": "ownership-land-use" },
-    { "term": "Mechanic's lien", "definition": "A statutory lien available to contractors, subcontractors, laborers, and material suppliers who improve property and are not paid.", "area": "ownership-land-use" },
-    { "term": "Judgment lien", "definition": "An involuntary, general lien created by recording an abstract of judgment against the debtor's property in the county.", "area": "ownership-land-use" },
-    { "term": "Lis pendens", "definition": "A recorded notice of pending litigation affecting title to or possession of real property, clouding title until the suit resolves.", "area": "ownership-land-use" },
-    { "term": "Easement", "definition": "A non-possessory right to use another person's land for a specific purpose, such as a driveway or utility line.", "area": "ownership-land-use" },
-    { "term": "Easement appurtenant", "definition": "An easement that benefits a neighboring parcel (the dominant tenement) and runs with the land when either parcel is sold.", "area": "ownership-land-use" },
-    { "term": "Easement in gross", "definition": "An easement that benefits a person or company rather than a parcel of land — utility easements are the classic example.", "area": "ownership-land-use" },
-    { "term": "Dominant tenement", "definition": "The parcel of land that benefits from an easement appurtenant.", "area": "ownership-land-use" },
-    { "term": "Servient tenement", "definition": "The parcel of land that is burdened by an easement — the land the easement crosses.", "area": "ownership-land-use" },
-    { "term": "Prescription", "definition": "Acquiring an easement by open, notorious, hostile, and continuous use of another's land for five years in California.", "area": "ownership-land-use" },
-    { "term": "Encroachment", "definition": "A physical intrusion of a structure or improvement onto a neighbor's land, such as a fence built over the boundary line.", "area": "ownership-land-use" },
-    { "term": "CC&Rs", "definition": "Covenants, conditions, and restrictions — recorded private restrictions that control how property in a subdivision or common-interest development may be used.", "area": "ownership-land-use" },
-    { "term": "License (real property)", "definition": "A revocable, personal permission to use another's land that, unlike an easement, creates no interest in the land.", "area": "ownership-land-use" },
-    { "term": "Agency", "definition": "The relationship in which one person (the agent) represents another (the principal) in dealings with third parties.", "area": "agency" },
-    { "term": "Fiduciary", "definition": "A person in a position of trust and confidence who owes their principal utmost care, integrity, honesty, and loyalty.", "area": "agency" },
-    { "term": "Principal", "definition": "The person who authorizes an agent to represent them — in a listing, the seller; in a buyer representation agreement, the buyer.", "area": "agency" },
-    { "term": "OLD CAR", "definition": "Memory aid for fiduciary duties: Obedience, Loyalty, Disclosure, Confidentiality, Accounting, and Reasonable care.", "area": "agency" },
-    { "term": "Dual agency", "definition": "One brokerage representing both buyer and seller in the same transaction; lawful in California only with the informed written consent of both.", "area": "agency" },
-    { "term": "Ostensible agency", "definition": "Agency created by the principal's conduct causing a third party to reasonably believe someone is their agent, even without an express agreement.", "area": "agency" },
-    { "term": "Ratification", "definition": "Approval of an act after the fact — a principal accepting the benefits of an unauthorized act creates agency by ratification.", "area": "agency" },
-    { "term": "Subagent", "definition": "An agent of an agent — a person authorized to help perform the agency, owing the same duties to the principal.", "area": "agency" },
-    { "term": "Secret profit", "definition": "Any undisclosed compensation or benefit an agent gains from the agency; taking one violates the duty of loyalty and is grounds for discipline.", "area": "agency" },
-    { "term": "Puffing", "definition": "A non-factual, exaggerated sales statement of opinion ('best view in Pasadena') that a reasonable buyer would not rely on as fact.", "area": "agency" },
-    { "term": "Misrepresentation", "definition": "A false statement of material fact; if intentional it is fraud, and even innocent misrepresentation can allow rescission.", "area": "agency" },
-    { "term": "Contract", "definition": "A legally enforceable agreement requiring capable parties, mutual consent, lawful object, and consideration.", "area": "contracts" },
-    { "term": "Offer", "definition": "A proposal showing contractual intent, definite terms, and communication to the offeree, which the offeree can accept to form a contract.", "area": "contracts" },
-    { "term": "Acceptance", "definition": "The offeree's unqualified agreement to the offer's terms, communicated in the manner required by the offer.", "area": "contracts" },
-    { "term": "Counteroffer", "definition": "A response that changes the terms of an offer; it rejects and terminates the original offer and becomes a new offer.", "area": "contracts" },
-    { "term": "Consideration", "definition": "Something of value exchanged by each party — money, a promise, or forbearance — required for a valid contract.", "area": "contracts" },
-    { "term": "Statute of frauds", "definition": "The law (Civil Code §1624) requiring certain contracts, including those for the sale of real property, to be in writing to be enforceable.", "area": "contracts" },
-    { "term": "Void contract", "definition": "An agreement with no legal effect at all, such as a contract for an illegal purpose.", "area": "contracts" },
-    { "term": "Voidable contract", "definition": "A contract valid on its face that one party (such as a minor or a defrauded party) may elect to rescind.", "area": "contracts" },
-    { "term": "Unenforceable contract", "definition": "A contract that may be valid between the parties but that a court will not enforce, such as an oral real estate sale agreement.", "area": "contracts" },
-    { "term": "Executory contract", "definition": "A contract in which something remains to be performed — a purchase agreement is executory until closing.", "area": "contracts" },
-    { "term": "Executed contract", "definition": "A contract fully performed by both parties; also used loosely to mean 'signed.'", "area": "contracts" },
-    { "term": "Rescission", "definition": "A remedy that cancels the contract and restores the parties to their pre-contract positions, returning consideration paid.", "area": "contracts" },
-    { "term": "Liquidated damages", "definition": "An amount the parties agree in advance will serve as damages for breach; in California residential purchases, capped at 3% of the price for the buyer's deposit.", "area": "contracts" },
-    { "term": "Specific performance", "definition": "A court order compelling a breaching party to perform the contract; available for real estate because land is unique.", "area": "contracts" },
-    { "term": "Novation", "definition": "Substituting a new contract or a new party for an old one, with intent to extinguish the original obligation.", "area": "contracts" },
-    { "term": "Assignment", "definition": "Transferring one's rights under a contract to another person; the assignor remains secondarily liable unless there is a novation.", "area": "contracts" },
-    { "term": "Option", "definition": "A contract that keeps an offer open — the optionor sells the optionee the right, for consideration, to buy at set terms within a set time.", "area": "contracts" },
-    { "term": "Contingency", "definition": "A condition (like financing, appraisal, or inspection) that must be satisfied or waived before a party is obligated to close.", "area": "contracts" },
-    { "term": "Exclusive right to sell listing", "definition": "A listing under which the broker earns the commission no matter who procures the buyer — even if the owner sells it themselves.", "area": "contracts" },
-    { "term": "Exclusive agency listing", "definition": "A listing under which the broker is the only agent, but the owner may sell without paying a commission.", "area": "contracts" },
-    { "term": "Open listing", "definition": "A non-exclusive listing given to any number of brokers; only the broker who procures the buyer earns a commission.", "area": "contracts" },
-    { "term": "Safety clause", "definition": "A listing provision entitling the broker to a commission if, within a stated period after expiration, the owner sells to a buyer the broker introduced.", "area": "contracts" },
-    { "term": "Time is of the essence", "definition": "A contract clause making stated deadlines strict, so late performance is a material breach.", "area": "contracts" },
-    { "term": "TDS (Transfer Disclosure Statement)", "definition": "The statutory form on which a California residential seller discloses the property's known condition and defects to the buyer.", "area": "practice-disclosures" },
-    { "term": "NHD (Natural Hazard Disclosure)", "definition": "The statutory disclosure identifying whether property lies in mapped hazard zones such as flood, fire severity, or earthquake fault zones.", "area": "practice-disclosures" },
-    { "term": "Material fact", "definition": "Any fact that would affect a reasonable person's decision to buy or the price they would pay; agents must disclose material facts they know.", "area": "practice-disclosures" },
-    { "term": "As-is", "definition": "A sale term meaning the seller won't repair or credit for known conditions; it does not eliminate California disclosure duties.", "area": "practice-disclosures" },
-    { "term": "Stigmatized property", "definition": "Property psychologically impacted by an event such as a death; California limits required disclosure of deaths to those within three years, with exceptions.", "area": "practice-disclosures" },
-    { "term": "Megan's Law disclosure", "definition": "The statutorily required notice in sales contracts about the public sex-offender database maintained by the Department of Justice.", "area": "practice-disclosures" },
-    { "term": "Escrow", "definition": "A neutral third-party arrangement in which a depository holds funds and documents and closes the transaction per the parties' mutual instructions.", "area": "transfer" },
-    { "term": "Neutral depository", "definition": "The escrow holder's role: a dual agent of both parties for carrying out instructions, favoring neither.", "area": "transfer" },
-    { "term": "Chain of title", "definition": "The recorded history of successive ownership of a property, traced through public records.", "area": "transfer" },
-    { "term": "Marketable title", "definition": "Title reasonably free from doubt and defects that a prudent buyer would accept.", "area": "transfer" },
-    { "term": "Preliminary report", "definition": "The title company's report of the current condition of title — vesting, liens, and exceptions — offered before issuing a policy.", "area": "transfer" },
-    { "term": "CLTA policy", "definition": "The standard California title insurance policy, typically protecting the owner against recorded defects and matters of public record.", "area": "transfer" },
-    { "term": "ALTA policy", "definition": "The extended-coverage title policy, typically required by lenders, that adds protection for off-record matters like unrecorded liens and survey issues.", "area": "transfer" },
-    { "term": "Grant deed", "definition": "California's usual deed, carrying two implied warranties: the grantor has not already conveyed the property and has disclosed known encumbrances.", "area": "transfer" },
-    { "term": "Quitclaim deed", "definition": "A deed conveying whatever interest the grantor has, if any, with no warranties at all.", "area": "transfer" },
-    { "term": "Recording", "definition": "Filing a document with the county recorder, giving constructive notice of its contents to the world and establishing priority.", "area": "transfer" },
-    { "term": "Constructive notice", "definition": "Notice imputed by law — from recorded documents or from possession of the property — whether or not a person actually knows.", "area": "transfer" },
-    { "term": "Actual notice", "definition": "Knowledge a person actually has, however acquired.", "area": "transfer" },
-    { "term": "Acknowledgment", "definition": "A formal declaration before a notary that a signature is genuine and voluntary; required before a deed can be recorded.", "area": "transfer" },
-    { "term": "Promissory note", "definition": "The borrower's written promise to repay a debt; the evidence of the debt that the security instrument secures.", "area": "financing" },
-    { "term": "Deed of trust", "definition": "California's dominant security instrument, involving a trustor (borrower), beneficiary (lender), and trustee holding bare legal title with power of sale.", "area": "financing" },
-    { "term": "Trustor", "definition": "The borrower under a deed of trust, who conveys bare legal title to the trustee as security for the loan.", "area": "financing" },
-    { "term": "Trustee", "definition": "The neutral third party under a deed of trust who holds bare legal title and may sell the property upon default via the power of sale.", "area": "financing" },
-    { "term": "Beneficiary", "definition": "The lender under a deed of trust, for whose benefit the property is held as security.", "area": "financing" },
-    { "term": "Power of sale", "definition": "The clause in a deed of trust authorizing the trustee to sell the property non-judicially after default, following statutory notice periods.", "area": "financing" },
-    { "term": "Reinstatement", "definition": "The borrower's right to cure a default by paying the missed amounts (plus costs) and continue the loan, available until shortly before the trustee's sale.", "area": "financing" },
-    { "term": "Deed in lieu of foreclosure", "definition": "The borrower voluntarily deeding the property to the lender to avoid foreclosure; the lender takes subject to junior liens.", "area": "financing" },
-    { "term": "Acceleration clause", "definition": "A provision letting the lender declare the entire balance due upon default.", "area": "financing" },
-    { "term": "Alienation (due-on-sale) clause", "definition": "A provision letting the lender call the loan due if the borrower transfers the property.", "area": "financing" },
-    { "term": "Deficiency judgment", "definition": "A judgment against a borrower for the shortfall after a foreclosure sale; barred in California after non-judicial foreclosure and for standard purchase-money loans.", "area": "financing" },
-    { "term": "LTV (loan-to-value ratio)", "definition": "The loan amount divided by the lesser of price or appraised value; higher LTV means more leverage and more lender risk.", "area": "financing" },
-    { "term": "PITI", "definition": "The four components of a typical housing payment: principal, interest, taxes, and insurance.", "area": "financing" },
-    { "term": "Discount points", "definition": "Prepaid interest charged at closing — one point equals 1% of the loan amount — used to buy down the rate or increase lender yield.", "area": "financing" },
-    { "term": "APR (annual percentage rate)", "definition": "The cost of credit expressed as a yearly rate including certain fees, disclosed under the Truth in Lending Act.", "area": "financing" },
-    { "term": "Amortization", "definition": "Repaying a loan through regular payments that cover interest and gradually reduce principal to zero at maturity.", "area": "financing" },
-    { "term": "Conforming loan", "definition": "A conventional loan meeting Fannie Mae/Freddie Mac purchase standards, including the loan-size limit.", "area": "financing" },
-    { "term": "PMI (private mortgage insurance)", "definition": "Insurance protecting a conventional lender against borrower default, generally required when LTV exceeds 80%.", "area": "financing" },
-    { "term": "Wraparound (all-inclusive) trust deed", "definition": "Junior financing in which the new lender's note wraps the existing loan; the borrower pays the wrap lender, who keeps paying the underlying loan.", "area": "financing" },
-    { "term": "Seller financing (purchase-money)", "definition": "Credit the seller extends to the buyer, secured by the property being sold.", "area": "financing" },
-    { "term": "Market value", "definition": "The most probable price a property should bring in an open, competitive market with informed parties acting prudently and without duress.", "area": "valuation" },
-    { "term": "Principle of substitution", "definition": "The idea that a buyer will pay no more for a property than the cost of acquiring an equally desirable substitute — the foundation of the sales comparison approach.", "area": "valuation" },
-    { "term": "Highest and best use", "definition": "The legally permissible, physically possible, financially feasible use that produces the greatest value.", "area": "valuation" },
-    { "term": "Sales comparison approach", "definition": "Valuing property by adjusting recent sales of comparable properties for differences; the primary approach for houses.", "area": "valuation" },
-    { "term": "Cost approach", "definition": "Valuing property as land value plus replacement cost of improvements minus depreciation; most reliable for new or special-purpose buildings.", "area": "valuation" },
-    { "term": "Income approach", "definition": "Valuing property by capitalizing its net operating income: value = NOI ÷ capitalization rate.", "area": "valuation" },
-    { "term": "Capitalization rate", "definition": "The rate of return used to convert net operating income to value; higher cap rates mean lower values for the same income.", "area": "valuation" },
-    { "term": "Gross rent multiplier (GRM)", "definition": "A shortcut ratio — price divided by gross rent — used to estimate the value of rental property from its rent.", "area": "valuation" },
-    { "term": "Depreciation (appraisal)", "definition": "Loss in value from any cause: physical deterioration, functional obsolescence, or external (economic) obsolescence.", "area": "valuation" },
-    { "term": "Functional obsolescence", "definition": "Loss in value from outdated or poor design — a one-bath five-bedroom house, for example.", "area": "valuation" },
-    { "term": "External (economic) obsolescence", "definition": "Loss in value from factors outside the property, such as a new freeway ramp next door; it is incurable.", "area": "valuation" },
-    { "term": "CMA (comparative market analysis)", "definition": "A licensee's pricing analysis using comparable sales; it is not an appraisal, which only a licensed appraiser can perform.", "area": "valuation" },
-    { "term": "Reconciliation", "definition": "The appraiser's weighing of the value indications from the three approaches into a final opinion of value.", "area": "valuation" },
-    { "term": "Police power", "definition": "The government's inherent power to regulate for public health, safety, morals, and welfare — the basis of zoning — without compensation.", "area": "ownership-land-use" },
-    { "term": "Eminent domain", "definition": "The government's power to take private property for public use upon payment of just compensation, through condemnation.", "area": "ownership-land-use" },
-    { "term": "Inverse condemnation", "definition": "An owner's action against the government when its activity has effectively taken or damaged property without formal condemnation.", "area": "ownership-land-use" },
-    { "term": "Variance", "definition": "Permission to deviate from a zoning standard (like a setback) due to a parcel's special hardship; not a change of use classification.", "area": "ownership-land-use" },
-    { "term": "Nonconforming use", "definition": "A lawful use that predates a zoning change and may continue ('grandfathered') though it no longer conforms.", "area": "ownership-land-use" },
-    { "term": "Conditional use permit", "definition": "Permission for a use zoning allows only upon special approval and conditions, like a church or school in a residential zone.", "area": "ownership-land-use" },
-    { "term": "Protected class", "definition": "A group protected from housing discrimination — federally: race, color, religion, sex, national origin, disability, familial status; California adds more (e.g., source of income).", "area": "practice-disclosures" },
-    { "term": "Steering", "definition": "Channeling homebuyers toward or away from neighborhoods based on a protected characteristic; illegal.", "area": "practice-disclosures" },
-    { "term": "Blockbusting", "definition": "Inducing owners to sell by suggesting members of a protected class are moving into the neighborhood (panic selling); illegal.", "area": "practice-disclosures" },
-    { "term": "Redlining", "definition": "Refusing to lend or insure in an area based on its demographics rather than the applicant's qualifications; illegal.", "area": "practice-disclosures" },
-    { "term": "Familial status", "definition": "The protected class covering households with children under 18, pregnant persons, and those securing custody.", "area": "practice-disclosures" },
-    { "term": "Unruh Civil Rights Act", "definition": "California law prohibiting discrimination by all business establishments — including brokerages and landlords.", "area": "practice-disclosures" },
-    { "term": "FEHA", "definition": "California's Fair Employment and Housing Act, the state's primary fair-housing statute, broader than the federal act.", "area": "practice-disclosures" },
-    { "term": "Ad valorem", "definition": "'According to value' — property taxes are ad valorem taxes based on assessed value.", "area": "practice-disclosures" },
-    { "term": "Proposition 13", "definition": "The California constitutional limit capping the basic property tax rate at 1% of assessed value with assessment increases limited to 2% per year until a change of ownership.", "area": "practice-disclosures" },
-    { "term": "Documentary transfer tax", "definition": "A county (and sometimes city) tax on transferring real property, commonly $0.55 per $500 of consideration at the county level.", "area": "practice-disclosures" },
-    { "term": "Basis (tax)", "definition": "The owner's investment in property for tax purposes — generally cost plus improvements — used to measure gain on sale.", "area": "practice-disclosures" },
-    { "term": "1031 exchange", "definition": "A tax-deferred exchange of like-kind investment or business real property under Internal Revenue Code §1031.", "area": "practice-disclosures" },
-    { "term": "Boot", "definition": "Non-like-kind value (cash or debt relief) received in a 1031 exchange; taxable to the extent of gain.", "area": "practice-disclosures" },
-    { "term": "Trust fund", "definition": "Money or things of value received by a licensee on behalf of another in a transaction — deposits, rents — which must be placed in neutral escrow, a trust account, or the owner's hands within three business days.", "area": "practice-disclosures" },
-    { "term": "Commingling", "definition": "Mixing trust funds with the licensee's own funds — a license-discipline violation even without loss to anyone.", "area": "practice-disclosures" },
-    { "term": "Conversion", "definition": "Misappropriating trust funds — actually using client money; more serious than commingling and criminally chargeable.", "area": "practice-disclosures" },
-    { "term": "Proration", "definition": "Dividing ongoing expenses (taxes, rents, HOA dues) between buyer and seller as of closing, typically using a 30-day month/360-day year unless agreed otherwise.", "area": "practice-disclosures" },
-    { "term": "Impound account", "definition": "A lender-held account collecting monthly installments toward property taxes and insurance with each loan payment.", "area": "financing" },
-    { "term": "Unlawful detainer", "definition": "California's summary court action by which a landlord recovers possession from a tenant after proper notice.", "area": "practice-disclosures" },
-    { "term": "Constructive eviction", "definition": "A landlord's breach that makes the premises unusable, allowing the tenant to move out and end the lease without further liability.", "area": "practice-disclosures" }
+    {
+      "term": "DRE (Department of Real Estate)",
+      "definition": "The California state agency that licenses and regulates real estate salespersons and brokers and approves pre-licensing courses.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Real Estate Commissioner",
+      "definition": "The appointed head of the California DRE who enforces the Real Estate Law and issues regulations that carry the force of law.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Salesperson",
+      "definition": "A licensee who may perform licensed real estate activities only while employed by and supervised by a responsible broker.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Broker",
+      "definition": "A licensee authorized to operate a real estate business, employ salespersons, and represent clients directly for compensation.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Realtor®",
+      "definition": "A trademarked designation for a licensee who is a member of the National Association of Realtors; not all licensees are Realtors®.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Reciprocity",
+      "definition": "Recognition of another state's real estate license; California has no license reciprocity with any state.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Real property",
+      "definition": "Land, anything affixed to it, anything appurtenant to it, and that which is immovable by law — the land plus the bundle of rights.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Personal property",
+      "definition": "Movable property (chattel) that is not real property; it transfers by bill of sale rather than by deed.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Fixture",
+      "definition": "An item of personal property that has become real property by being attached to land or improvements, judged by tests like MARIA.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "MARIA",
+      "definition": "Memory aid for the fixture tests: Method of attachment, Adaptability, Relationship of the parties, Intention, and Agreement.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Trade fixture",
+      "definition": "An item installed by a business tenant for use in its trade; unlike ordinary fixtures, the tenant may remove it before the lease ends.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Appurtenance",
+      "definition": "A right or improvement that runs with the land and transfers automatically with it, such as an easement benefiting the parcel or mineral rights.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Emblements",
+      "definition": "Annual crops produced by labor (like strawberries or row crops); treated as the tenant farmer's personal property even after a tenancy ends.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Riparian rights",
+      "definition": "The water rights of an owner whose land borders a flowing watercourse such as a river or stream.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Littoral rights",
+      "definition": "The water rights of an owner whose land borders a non-flowing body of water such as a lake or the ocean.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Bundle of rights",
+      "definition": "The collection of ownership rights in real property: possession, use, enjoyment, encumbrance (exclusion), and disposition.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Fee simple absolute",
+      "definition": "The greatest estate in land — ownership of indefinite duration, freely transferable and inheritable, subject only to public and private restrictions.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Fee simple defeasible",
+      "definition": "A fee estate that can be lost if a stated condition is violated, such as land granted 'so long as' it is used for a school.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Life estate",
+      "definition": "A freehold estate whose duration is measured by someone's lifetime; the life tenant may use the property but not commit waste.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Remainder",
+      "definition": "The future interest held by a third party who takes title when a life estate ends.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Reversion",
+      "definition": "The future interest retained by a grantor who takes the property back when a lesser estate (like a life estate) ends.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Estate for years",
+      "definition": "A leasehold with a definite start and end date; it terminates automatically without notice.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Periodic tenancy",
+      "definition": "A leasehold that renews automatically period to period (like month-to-month) until either party gives proper notice.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Estate at will",
+      "definition": "A tenancy with no fixed term that either party may end at any time (with statutory notice in California).",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Estate at sufferance",
+      "definition": "The interest of a tenant who lawfully took possession but stays after the right to possession has ended — a holdover tenant.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Severalty",
+      "definition": "Ownership by one person or entity alone — sole ownership, with interests 'severed' from everyone else.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Joint tenancy",
+      "definition": "Co-ownership with right of survivorship requiring the four unities of time, title, interest, and possession.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Tenancy in common",
+      "definition": "Co-ownership in undivided shares (which may be unequal) with no right of survivorship; each owner's share passes to their heirs.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Community property",
+      "definition": "Property acquired by California spouses during marriage through the labor of either; each spouse owns an equal, undivided one-half interest.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Right of survivorship",
+      "definition": "The feature of joint tenancy (and community property with right of survivorship) by which a deceased co-owner's interest passes automatically to the surviving co-owner(s).",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Undivided interest",
+      "definition": "A co-owner's fractional interest in the whole property, entitling them to possession of all of it, not a physically divided piece.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Partition action",
+      "definition": "A lawsuit by a co-owner asking a court to divide co-owned property or order it sold and split the proceeds.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Encumbrance",
+      "definition": "Any claim, lien, charge, or liability attached to real property that limits or burdens it, such as easements, liens, or restrictions.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Lien",
+      "definition": "A money encumbrance — a charge against property making it security for a debt, such as a trust deed, tax lien, or judgment lien.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Mechanic's lien",
+      "definition": "A statutory lien available to contractors, subcontractors, laborers, and material suppliers who improve property and are not paid.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Judgment lien",
+      "definition": "An involuntary, general lien created by recording an abstract of judgment against the debtor's property in the county.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Lis pendens",
+      "definition": "A recorded notice of pending litigation affecting title to or possession of real property, clouding title until the suit resolves.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Easement",
+      "definition": "A non-possessory right to use another person's land for a specific purpose, such as a driveway or utility line.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Easement appurtenant",
+      "definition": "An easement that benefits a neighboring parcel (the dominant tenement) and runs with the land when either parcel is sold.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Easement in gross",
+      "definition": "An easement that benefits a person or company rather than a parcel of land — utility easements are the classic example.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Dominant tenement",
+      "definition": "The parcel of land that benefits from an easement appurtenant.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Servient tenement",
+      "definition": "The parcel of land that is burdened by an easement — the land the easement crosses.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Prescription",
+      "definition": "Acquiring an easement by open, notorious, hostile, and continuous use of another's land for five years in California.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Encroachment",
+      "definition": "A physical intrusion of a structure or improvement onto a neighbor's land, such as a fence built over the boundary line.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "CC&Rs",
+      "definition": "Covenants, conditions, and restrictions — recorded private restrictions that control how property in a subdivision or common-interest development may be used.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "License (real property)",
+      "definition": "A revocable, personal permission to use another's land that, unlike an easement, creates no interest in the land.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Agency",
+      "definition": "The relationship in which one person (the agent) represents another (the principal) in dealings with third parties.",
+      "area": "agency"
+    },
+    {
+      "term": "Fiduciary",
+      "definition": "A person in a position of trust and confidence who owes their principal utmost care, integrity, honesty, and loyalty.",
+      "area": "agency"
+    },
+    {
+      "term": "Principal",
+      "definition": "The person who authorizes an agent to represent them — in a listing, the seller; in a buyer representation agreement, the buyer.",
+      "area": "agency"
+    },
+    {
+      "term": "OLD CAR",
+      "definition": "Memory aid for fiduciary duties: Obedience, Loyalty, Disclosure, Confidentiality, Accounting, and Reasonable care.",
+      "area": "agency"
+    },
+    {
+      "term": "Dual agency",
+      "definition": "One brokerage representing both buyer and seller in the same transaction; lawful in California only with the informed written consent of both.",
+      "area": "agency"
+    },
+    {
+      "term": "Ostensible agency",
+      "definition": "Agency created by the principal's conduct causing a third party to reasonably believe someone is their agent, even without an express agreement.",
+      "area": "agency"
+    },
+    {
+      "term": "Ratification",
+      "definition": "Approval of an act after the fact — a principal accepting the benefits of an unauthorized act creates agency by ratification.",
+      "area": "agency"
+    },
+    {
+      "term": "Subagent",
+      "definition": "An agent of an agent — a person authorized to help perform the agency, owing the same duties to the principal.",
+      "area": "agency"
+    },
+    {
+      "term": "Secret profit",
+      "definition": "Any undisclosed compensation or benefit an agent gains from the agency; taking one violates the duty of loyalty and is grounds for discipline.",
+      "area": "agency"
+    },
+    {
+      "term": "Puffing",
+      "definition": "A non-factual, exaggerated sales statement of opinion ('best view in Pasadena') that a reasonable buyer would not rely on as fact.",
+      "area": "agency"
+    },
+    {
+      "term": "Misrepresentation",
+      "definition": "A false statement of material fact; if intentional it is fraud, and even innocent misrepresentation can allow rescission.",
+      "area": "agency"
+    },
+    {
+      "term": "Contract",
+      "definition": "A legally enforceable agreement requiring capable parties, mutual consent, lawful object, and consideration.",
+      "area": "contracts"
+    },
+    {
+      "term": "Offer",
+      "definition": "A proposal showing contractual intent, definite terms, and communication to the offeree, which the offeree can accept to form a contract.",
+      "area": "contracts"
+    },
+    {
+      "term": "Acceptance",
+      "definition": "The offeree's unqualified agreement to the offer's terms, communicated in the manner required by the offer.",
+      "area": "contracts"
+    },
+    {
+      "term": "Counteroffer",
+      "definition": "A response that changes the terms of an offer; it rejects and terminates the original offer and becomes a new offer.",
+      "area": "contracts"
+    },
+    {
+      "term": "Consideration",
+      "definition": "Something of value exchanged by each party — money, a promise, or forbearance — required for a valid contract.",
+      "area": "contracts"
+    },
+    {
+      "term": "Statute of frauds",
+      "definition": "The law (Civil Code §1624) requiring certain contracts, including those for the sale of real property, to be in writing to be enforceable.",
+      "area": "contracts"
+    },
+    {
+      "term": "Void contract",
+      "definition": "An agreement with no legal effect at all, such as a contract for an illegal purpose.",
+      "area": "contracts"
+    },
+    {
+      "term": "Voidable contract",
+      "definition": "A contract valid on its face that one party (such as a minor or a defrauded party) may elect to rescind.",
+      "area": "contracts"
+    },
+    {
+      "term": "Unenforceable contract",
+      "definition": "A contract that may be valid between the parties but that a court will not enforce, such as an oral real estate sale agreement.",
+      "area": "contracts"
+    },
+    {
+      "term": "Executory contract",
+      "definition": "A contract in which something remains to be performed — a purchase agreement is executory until closing.",
+      "area": "contracts"
+    },
+    {
+      "term": "Executed contract",
+      "definition": "A contract fully performed by both parties; also used loosely to mean 'signed.'",
+      "area": "contracts"
+    },
+    {
+      "term": "Rescission",
+      "definition": "A remedy that cancels the contract and restores the parties to their pre-contract positions, returning consideration paid.",
+      "area": "contracts"
+    },
+    {
+      "term": "Liquidated damages",
+      "definition": "An amount the parties agree in advance will serve as damages for breach; in California residential purchases, capped at 3% of the price for the buyer's deposit.",
+      "area": "contracts"
+    },
+    {
+      "term": "Specific performance",
+      "definition": "A court order compelling a breaching party to perform the contract; available for real estate because land is unique.",
+      "area": "contracts"
+    },
+    {
+      "term": "Novation",
+      "definition": "Substituting a new contract or a new party for an old one, with intent to extinguish the original obligation.",
+      "area": "contracts"
+    },
+    {
+      "term": "Assignment",
+      "definition": "Transferring one's rights under a contract to another person; the assignor remains secondarily liable unless there is a novation.",
+      "area": "contracts"
+    },
+    {
+      "term": "Option",
+      "definition": "A contract that keeps an offer open — the optionor sells the optionee the right, for consideration, to buy at set terms within a set time.",
+      "area": "contracts"
+    },
+    {
+      "term": "Contingency",
+      "definition": "A condition (like financing, appraisal, or inspection) that must be satisfied or waived before a party is obligated to close.",
+      "area": "contracts"
+    },
+    {
+      "term": "Exclusive right to sell listing",
+      "definition": "A listing under which the broker earns the commission no matter who procures the buyer — even if the owner sells it themselves.",
+      "area": "contracts"
+    },
+    {
+      "term": "Exclusive agency listing",
+      "definition": "A listing under which the broker is the only agent, but the owner may sell without paying a commission.",
+      "area": "contracts"
+    },
+    {
+      "term": "Open listing",
+      "definition": "A non-exclusive listing given to any number of brokers; only the broker who procures the buyer earns a commission.",
+      "area": "contracts"
+    },
+    {
+      "term": "Safety clause",
+      "definition": "A listing provision entitling the broker to a commission if, within a stated period after expiration, the owner sells to a buyer the broker introduced.",
+      "area": "contracts"
+    },
+    {
+      "term": "Time is of the essence",
+      "definition": "A contract clause making stated deadlines strict, so late performance is a material breach.",
+      "area": "contracts"
+    },
+    {
+      "term": "TDS (Transfer Disclosure Statement)",
+      "definition": "The statutory form on which a California residential seller discloses the property's known condition and defects to the buyer.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "NHD (Natural Hazard Disclosure)",
+      "definition": "The statutory disclosure identifying whether property lies in mapped hazard zones such as flood, fire severity, or earthquake fault zones.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Material fact",
+      "definition": "Any fact that would affect a reasonable person's decision to buy or the price they would pay; agents must disclose material facts they know.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "As-is",
+      "definition": "A sale term meaning the seller won't repair or credit for known conditions; it does not eliminate California disclosure duties.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Stigmatized property",
+      "definition": "Property psychologically impacted by an event such as a death; California limits required disclosure of deaths to those within three years, with exceptions.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Megan's Law disclosure",
+      "definition": "The statutorily required notice in sales contracts about the public sex-offender database maintained by the Department of Justice.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Escrow",
+      "definition": "A neutral third-party arrangement in which a depository holds funds and documents and closes the transaction per the parties' mutual instructions.",
+      "area": "transfer"
+    },
+    {
+      "term": "Neutral depository",
+      "definition": "The escrow holder's role: a dual agent of both parties for carrying out instructions, favoring neither.",
+      "area": "transfer"
+    },
+    {
+      "term": "Chain of title",
+      "definition": "The recorded history of successive ownership of a property, traced through public records.",
+      "area": "transfer"
+    },
+    {
+      "term": "Marketable title",
+      "definition": "Title reasonably free from doubt and defects that a prudent buyer would accept.",
+      "area": "transfer"
+    },
+    {
+      "term": "Preliminary report",
+      "definition": "The title company's report of the current condition of title — vesting, liens, and exceptions — offered before issuing a policy.",
+      "area": "transfer"
+    },
+    {
+      "term": "CLTA policy",
+      "definition": "The standard California title insurance policy, typically protecting the owner against recorded defects and matters of public record.",
+      "area": "transfer"
+    },
+    {
+      "term": "ALTA policy",
+      "definition": "The extended-coverage title policy, typically required by lenders, that adds protection for off-record matters like unrecorded liens and survey issues.",
+      "area": "transfer"
+    },
+    {
+      "term": "Grant deed",
+      "definition": "California's usual deed, carrying two implied warranties: the grantor has not already conveyed the property and has disclosed known encumbrances.",
+      "area": "transfer"
+    },
+    {
+      "term": "Quitclaim deed",
+      "definition": "A deed conveying whatever interest the grantor has, if any, with no warranties at all.",
+      "area": "transfer"
+    },
+    {
+      "term": "Recording",
+      "definition": "Filing a document with the county recorder, giving constructive notice of its contents to the world and establishing priority.",
+      "area": "transfer"
+    },
+    {
+      "term": "Constructive notice",
+      "definition": "Notice imputed by law — from recorded documents or from possession of the property — whether or not a person actually knows.",
+      "area": "transfer"
+    },
+    {
+      "term": "Actual notice",
+      "definition": "Knowledge a person actually has, however acquired.",
+      "area": "transfer"
+    },
+    {
+      "term": "Acknowledgment",
+      "definition": "A formal declaration before a notary that a signature is genuine and voluntary; required before a deed can be recorded.",
+      "area": "transfer"
+    },
+    {
+      "term": "Promissory note",
+      "definition": "The borrower's written promise to repay a debt; the evidence of the debt that the security instrument secures.",
+      "area": "financing"
+    },
+    {
+      "term": "Deed of trust",
+      "definition": "California's dominant security instrument, involving a trustor (borrower), beneficiary (lender), and trustee holding bare legal title with power of sale.",
+      "area": "financing"
+    },
+    {
+      "term": "Trustor",
+      "definition": "The borrower under a deed of trust, who conveys bare legal title to the trustee as security for the loan.",
+      "area": "financing"
+    },
+    {
+      "term": "Trustee",
+      "definition": "The neutral third party under a deed of trust who holds bare legal title and may sell the property upon default via the power of sale.",
+      "area": "financing"
+    },
+    {
+      "term": "Beneficiary",
+      "definition": "The lender under a deed of trust, for whose benefit the property is held as security.",
+      "area": "financing"
+    },
+    {
+      "term": "Power of sale",
+      "definition": "The clause in a deed of trust authorizing the trustee to sell the property non-judicially after default, following statutory notice periods.",
+      "area": "financing"
+    },
+    {
+      "term": "Reinstatement",
+      "definition": "The borrower's right to cure a default by paying the missed amounts (plus costs) and continue the loan, available until shortly before the trustee's sale.",
+      "area": "financing"
+    },
+    {
+      "term": "Deed in lieu of foreclosure",
+      "definition": "The borrower voluntarily deeding the property to the lender to avoid foreclosure; the lender takes subject to junior liens.",
+      "area": "financing"
+    },
+    {
+      "term": "Acceleration clause",
+      "definition": "A provision letting the lender declare the entire balance due upon default.",
+      "area": "financing"
+    },
+    {
+      "term": "Alienation (due-on-sale) clause",
+      "definition": "A provision letting the lender call the loan due if the borrower transfers the property.",
+      "area": "financing"
+    },
+    {
+      "term": "Deficiency judgment",
+      "definition": "A judgment against a borrower for the shortfall after a foreclosure sale; barred in California after non-judicial foreclosure and for standard purchase-money loans.",
+      "area": "financing"
+    },
+    {
+      "term": "LTV (loan-to-value ratio)",
+      "definition": "The loan amount divided by the lesser of price or appraised value; higher LTV means more leverage and more lender risk.",
+      "area": "financing"
+    },
+    {
+      "term": "PITI",
+      "definition": "The four components of a typical housing payment: principal, interest, taxes, and insurance.",
+      "area": "financing"
+    },
+    {
+      "term": "Discount points",
+      "definition": "Prepaid interest charged at closing — one point equals 1% of the loan amount — used to buy down the rate or increase lender yield.",
+      "area": "financing"
+    },
+    {
+      "term": "APR (annual percentage rate)",
+      "definition": "The cost of credit expressed as a yearly rate including certain fees, disclosed under the Truth in Lending Act.",
+      "area": "financing"
+    },
+    {
+      "term": "Amortization",
+      "definition": "Repaying a loan through regular payments that cover interest and gradually reduce principal to zero at maturity.",
+      "area": "financing"
+    },
+    {
+      "term": "Conforming loan",
+      "definition": "A conventional loan meeting Fannie Mae/Freddie Mac purchase standards, including the loan-size limit.",
+      "area": "financing"
+    },
+    {
+      "term": "PMI (private mortgage insurance)",
+      "definition": "Insurance protecting a conventional lender against borrower default, generally required when LTV exceeds 80%.",
+      "area": "financing"
+    },
+    {
+      "term": "Wraparound (all-inclusive) trust deed",
+      "definition": "Junior financing in which the new lender's note wraps the existing loan; the borrower pays the wrap lender, who keeps paying the underlying loan.",
+      "area": "financing"
+    },
+    {
+      "term": "Seller financing (purchase-money)",
+      "definition": "Credit the seller extends to the buyer, secured by the property being sold.",
+      "area": "financing"
+    },
+    {
+      "term": "Market value",
+      "definition": "The most probable price a property should bring in an open, competitive market with informed parties acting prudently and without duress.",
+      "area": "valuation"
+    },
+    {
+      "term": "Principle of substitution",
+      "definition": "The idea that a buyer will pay no more for a property than the cost of acquiring an equally desirable substitute — the foundation of the sales comparison approach.",
+      "area": "valuation"
+    },
+    {
+      "term": "Highest and best use",
+      "definition": "The legally permissible, physically possible, financially feasible use that produces the greatest value.",
+      "area": "valuation"
+    },
+    {
+      "term": "Sales comparison approach",
+      "definition": "Valuing property by adjusting recent sales of comparable properties for differences; the primary approach for houses.",
+      "area": "valuation"
+    },
+    {
+      "term": "Cost approach",
+      "definition": "Valuing property as land value plus replacement cost of improvements minus depreciation; most reliable for new or special-purpose buildings.",
+      "area": "valuation"
+    },
+    {
+      "term": "Income approach",
+      "definition": "Valuing property by capitalizing its net operating income: value = NOI ÷ capitalization rate.",
+      "area": "valuation"
+    },
+    {
+      "term": "Capitalization rate",
+      "definition": "The rate of return used to convert net operating income to value; higher cap rates mean lower values for the same income.",
+      "area": "valuation"
+    },
+    {
+      "term": "Gross rent multiplier (GRM)",
+      "definition": "A shortcut ratio — price divided by gross rent — used to estimate the value of rental property from its rent.",
+      "area": "valuation"
+    },
+    {
+      "term": "Depreciation (appraisal)",
+      "definition": "Loss in value from any cause: physical deterioration, functional obsolescence, or external (economic) obsolescence.",
+      "area": "valuation"
+    },
+    {
+      "term": "Functional obsolescence",
+      "definition": "Loss in value from outdated or poor design — a one-bath five-bedroom house, for example.",
+      "area": "valuation"
+    },
+    {
+      "term": "External (economic) obsolescence",
+      "definition": "Loss in value from factors outside the property, such as a new freeway ramp next door; it is incurable.",
+      "area": "valuation"
+    },
+    {
+      "term": "CMA (comparative market analysis)",
+      "definition": "A licensee's pricing analysis using comparable sales; it is not an appraisal, which only a licensed appraiser can perform.",
+      "area": "valuation"
+    },
+    {
+      "term": "Reconciliation",
+      "definition": "The appraiser's weighing of the value indications from the three approaches into a final opinion of value.",
+      "area": "valuation"
+    },
+    {
+      "term": "Police power",
+      "definition": "The government's inherent power to regulate for public health, safety, morals, and welfare — the basis of zoning — without compensation.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Eminent domain",
+      "definition": "The government's power to take private property for public use upon payment of just compensation, through condemnation.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Inverse condemnation",
+      "definition": "An owner's action against the government when its activity has effectively taken or damaged property without formal condemnation.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Variance",
+      "definition": "Permission to deviate from a zoning standard (like a setback) due to a parcel's special hardship; not a change of use classification.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Nonconforming use",
+      "definition": "A lawful use that predates a zoning change and may continue ('grandfathered') though it no longer conforms.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Conditional use permit",
+      "definition": "Permission for a use zoning allows only upon special approval and conditions, like a church or school in a residential zone.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Protected class",
+      "definition": "A group protected from housing discrimination — federally: race, color, religion, sex, national origin, disability, familial status; California adds more (e.g., source of income).",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Steering",
+      "definition": "Channeling homebuyers toward or away from neighborhoods based on a protected characteristic; illegal.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Blockbusting",
+      "definition": "Inducing owners to sell by suggesting members of a protected class are moving into the neighborhood (panic selling); illegal.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Redlining",
+      "definition": "Refusing to lend or insure in an area based on its demographics rather than the applicant's qualifications; illegal.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Familial status",
+      "definition": "The protected class covering households with children under 18, pregnant persons, and those securing custody.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Unruh Civil Rights Act",
+      "definition": "California law prohibiting discrimination by all business establishments — including brokerages and landlords.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "FEHA",
+      "definition": "California's Fair Employment and Housing Act, the state's primary fair-housing statute, broader than the federal act.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Ad valorem",
+      "definition": "'According to value' — property taxes are ad valorem taxes based on assessed value.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Proposition 13",
+      "definition": "The California constitutional limit capping the basic property tax rate at 1% of assessed value with assessment increases limited to 2% per year until a change of ownership.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Documentary transfer tax",
+      "definition": "A county (and sometimes city) tax on transferring real property, commonly $0.55 per $500 of consideration at the county level.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Basis (tax)",
+      "definition": "The owner's investment in property for tax purposes — generally cost plus improvements — used to measure gain on sale.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "1031 exchange",
+      "definition": "A tax-deferred exchange of like-kind investment or business real property under Internal Revenue Code §1031.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Boot",
+      "definition": "Non-like-kind value (cash or debt relief) received in a 1031 exchange; taxable to the extent of gain.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Trust fund",
+      "definition": "Money or things of value received by a licensee on behalf of another in a transaction — deposits, rents — which must be placed in neutral escrow, a trust account, or the owner's hands within three business days.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Commingling",
+      "definition": "Mixing trust funds with the licensee's own funds — a license-discipline violation even without loss to anyone.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Conversion",
+      "definition": "Misappropriating trust funds — actually using client money; more serious than commingling and criminally chargeable.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Proration",
+      "definition": "Dividing ongoing expenses (taxes, rents, HOA dues) between buyer and seller as of closing, typically using a 30-day month/360-day year unless agreed otherwise.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Impound account",
+      "definition": "A lender-held account collecting monthly installments toward property taxes and insurance with each loan payment.",
+      "area": "financing"
+    },
+    {
+      "term": "Unlawful detainer",
+      "definition": "California's summary court action by which a landlord recovers possession from a tenant after proper notice.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Constructive eviction",
+      "definition": "A landlord's breach that makes the premises unusable, allowing the tenant to move out and end the lease without further liability.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Live Scan",
+      "definition": "Electronic fingerprinting submitted with a California license application so the Department of Justice and FBI can complete a background check.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Inactive license",
+      "definition": "A valid real estate license not associated with an employing broker; the licensee may not perform licensed activity until a broker sponsors them.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Restricted license",
+      "definition": "A license issued or continued after discipline subject to conditions such as working for a named broker, filing reports, posting a bond, or serving probation.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "MLS (Multiple Listing Service)",
+      "definition": "A private cooperative listing database operated by associations of Realtors®, not a government registry; access generally requires association membership.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Manufactured (mobile) home",
+      "definition": "Factory-built housing that is personal property when registered with HCD on rented space, and becomes real property when placed on a permanent foundation on owned land as provided by statute.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Fixture filing",
+      "definition": "A UCC financing statement recorded against real property to perfect a security interest in goods that have become fixtures — leased solar systems are a common example.",
+      "area": "financing"
+    },
+    {
+      "term": "Chattel",
+      "definition": "Another name for personal property; chattel loans finance personal property at different rates and terms than real property mortgages.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Annexation",
+      "definition": "Attaching personal property to land so that it becomes real property, such as lumber built into a deck.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Severance",
+      "definition": "Detaching something from real property — crops, fixtures, minerals — so that it becomes personal property.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Accession",
+      "definition": "Acquiring property by its addition to property you already own, such as trade fixtures a tenant abandons after the tenancy ends.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Fructus naturales",
+      "definition": "Naturally occurring growth such as native trees and grasses; part of the real property until severed.",
+      "area": "ownership-land-use"
+    }
   ]
 }

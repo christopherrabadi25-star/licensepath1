@@ -1,7 +1,7 @@
 {
   "meta": {
     "target_terms": 500,
-    "current_terms": 169,
+    "current_terms": 216,
     "note": "Seed glossary. Grows as each unit's key-terms box is authored. Feeds SRS flashcards and programmatic SEO pages. All definitions original — DRAFT until reviewed."
   },
   "terms": [
@@ -849,6 +849,241 @@
       "term": "Fructus naturales",
       "definition": "Naturally occurring growth such as native trees and grasses; part of the real property until severed.",
       "area": "ownership-land-use"
+    },
+    {
+      "term": "Estate",
+      "definition": "The degree, quantity, nature, and extent of a person's interest in land.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Freehold estate",
+      "definition": "An ownership estate of indefinite duration — fee estates and life estates.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Less-than-freehold estate",
+      "definition": "A possessory leasehold estate for a determinable period; classified as personal property (chattel real).",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Possibility of reverter",
+      "definition": "The future interest a grantor retains after conveying a fee simple determinable; it takes effect automatically.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Right of re-entry (power of termination)",
+      "definition": "The grantor's future interest after a fee simple subject to a condition subsequent; the grantor must act to reclaim title.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Pur autre vie",
+      "definition": "A life estate measured by the life of someone other than the holder; it may pass to the holder's heirs until the measuring life ends.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Waste",
+      "definition": "Permanent injury to property by a life tenant or tenant that harms the interest of a future interest holder.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Leased fee",
+      "definition": "The landlord's remaining ownership interest in property subject to a lease.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "PETE",
+      "definition": "The four government limits on ownership: Police power, Eminent domain, Taxation, Escheat.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Escheat",
+      "definition": "Reversion of property to the state when an owner dies with no will and no heirs.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Concurrent ownership",
+      "definition": "Co-ownership of property by two or more persons at the same time.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "T-TIP (four unities)",
+      "definition": "Time, Title, Interest, Possession — the four unities required to create and maintain a joint tenancy.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Severance (joint tenancy)",
+      "definition": "Breaking a unity so that a joint tenancy interest converts to a tenancy in common.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Community property with right of survivorship",
+      "definition": "A California vesting combining community property treatment with automatic survivorship, avoiding probate on the first death.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Transmutation",
+      "definition": "A change in the character of marital property between community and separate, subject to statutory requirements.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Affidavit of death of joint tenant",
+      "definition": "The document recorded with a certified death certificate to clear a deceased joint tenant from title.",
+      "area": "transfer"
+    },
+    {
+      "term": "Certification of trust",
+      "definition": "An abbreviated document evidencing a trustee's authority to act without disclosing the trust's private terms.",
+      "area": "transfer"
+    },
+    {
+      "term": "Limited partnership",
+      "definition": "A partnership with general partners who manage and bear unlimited liability and limited partners who are passive with capped liability.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Limited liability company (LLC)",
+      "definition": "An entity combining liability protection with pass-through taxation; signing authority flows from the operating agreement.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Stock cooperative",
+      "definition": "A structure in which a corporation owns the building and residents own shares plus a proprietary lease — personal property, not real property.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Common interest development (CID)",
+      "definition": "Condominiums, planned developments, cooperatives, and community apartment projects, governed in California by the Davis-Stirling Act.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Voluntary lien",
+      "definition": "A lien the owner creates deliberately, such as a deed of trust securing a loan.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Involuntary lien",
+      "definition": "A lien imposed by operation of law without the owner's agreement, such as a tax, judgment, or mechanic's lien.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Specific lien",
+      "definition": "A lien attaching to one identified parcel of property.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "General lien",
+      "definition": "A lien attaching to all of a debtor's property in the county or state, such as a judgment lien.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Abstract of judgment",
+      "definition": "The document recorded to create a judgment lien against a debtor's real property in a county.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Relation back",
+      "definition": "The rule giving a perfected mechanic's lien priority as of the date work commenced rather than the date it was recorded.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Notice of completion",
+      "definition": "A document an owner may record after work finishes to shorten the period for filing mechanics' liens.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Notice of nonresponsibility",
+      "definition": "A notice protecting an owner from mechanics' liens for work ordered by another party, such as a tenant.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Special assessment",
+      "definition": "A lien for a local improvement benefiting the property, such as sewers, lighting, or a Mello-Roos district.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Attachment lien",
+      "definition": "A pre-judgment lien securing a claim while litigation is pending.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Priority",
+      "definition": "The order in which liens are paid from sale proceeds, generally set by recording date, with property taxes always first.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Subordination agreement",
+      "definition": "A recorded agreement by which a lienholder voluntarily accepts a lower priority position.",
+      "area": "financing"
+    },
+    {
+      "term": "Easement by necessity",
+      "definition": "An easement implied when a conveyance leaves a parcel landlocked without legal access.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Prescriptive easement",
+      "definition": "A use right acquired by open, notorious, hostile, and continuous use of another's land for five years in California.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Merger",
+      "definition": "Termination of an easement when one person acquires both the dominant and servient tenements.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Principal (client)",
+      "definition": "The person an agent represents and to whom fiduciary duties are owed.",
+      "area": "agency"
+    },
+    {
+      "term": "Third party (customer)",
+      "definition": "The other side of a transaction, owed honesty, fair dealing, and disclosure of material facts, but not fiduciary duties.",
+      "area": "agency"
+    },
+    {
+      "term": "Associate licensee",
+      "definition": "A salesperson acting for the broker; the agency relationship runs between the broker and the client.",
+      "area": "agency"
+    },
+    {
+      "term": "Express agency",
+      "definition": "Agency created by written or spoken agreement, such as a listing.",
+      "area": "agency"
+    },
+    {
+      "term": "Implied agency",
+      "definition": "Agency created by the conduct of the parties without an express agreement.",
+      "area": "agency"
+    },
+    {
+      "term": "Special agent",
+      "definition": "An agent authorized for one specific transaction with limited authority — the usual role of a real estate broker.",
+      "area": "agency"
+    },
+    {
+      "term": "General agent",
+      "definition": "An agent with ongoing authority over a range of matters, such as a property manager.",
+      "area": "agency"
+    },
+    {
+      "term": "Universal agent",
+      "definition": "An agent authorized to act for a principal in all matters, typically under a broad power of attorney.",
+      "area": "agency"
+    },
+    {
+      "term": "Concealment",
+      "definition": "Actively hiding a known material defect; as actionable as an affirmative false statement.",
+      "area": "agency"
+    },
+    {
+      "term": "Visual inspection duty",
+      "definition": "An agent's duty to conduct a reasonably competent and diligent visual inspection of accessible areas of 1–4 unit residential property and disclose material facts revealed.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Agency disclosure",
+      "definition": "California's statutory disclose–elect–confirm process identifying in writing whom each licensee represents.",
+      "area": "agency"
     }
   ]
 }

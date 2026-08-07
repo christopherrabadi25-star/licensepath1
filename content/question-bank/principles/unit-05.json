@@ -1,0 +1,404 @@
+{
+  "course": "principles",
+  "unit": 5,
+  "title": "Encumbrances: Liens, Easements & Restrictions",
+  "originality": "All items original to LicensePath. Modeled on the DRE exam blueprint and style only; no actual exam items reproduced.",
+  "questions": [
+    {
+      "id": "PRIN-05-001",
+      "course": "principles",
+      "unit": 5,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 1,
+      "stem": "A judgment lien is BEST classified as:",
+      "options": [
+        "Voluntary and specific",
+        "Involuntary and general",
+        "Voluntary and general",
+        "Involuntary and specific"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The debtor did not agree to it, and it is not limited to one parcel.",
+        "Correct. A judgment lien is imposed by law without the owner's consent (involuntary) and attaches to all of the debtor's real property in the county (general).",
+        "Nothing about a judgment lien is voluntary.",
+        "Judgment liens are general, not limited to a single identified parcel."
+      ],
+      "terms": ["involuntary lien", "general lien", "abstract of judgment"]
+    },
+    {
+      "id": "PRIN-05-002",
+      "course": "principles",
+      "unit": 5,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 1,
+      "stem": "A deed of trust securing a purchase loan is:",
+      "options": [
+        "Voluntary and specific",
+        "Involuntary and specific",
+        "Voluntary and general",
+        "A non-money encumbrance"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. The borrower deliberately created it (voluntary) and it attaches to one identified parcel (specific).",
+        "The owner signed it, so it is voluntary rather than imposed by law.",
+        "It attaches to the secured parcel only, not all the borrower's property.",
+        "It secures a debt, making it a money encumbrance."
+      ],
+      "terms": ["voluntary lien", "specific lien"]
+    },
+    {
+      "id": "PRIN-05-003",
+      "course": "principles",
+      "unit": 5,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Which encumbrance takes priority over all others regardless of when it arose?",
+      "options": [
+        "The first recorded deed of trust",
+        "A perfected mechanic's lien",
+        "Current property taxes and assessments",
+        "A recorded lis pendens"
+      ],
+      "answer": 2,
+      "rationales": [
+        "A first trust deed outranks later liens but yields to property taxes.",
+        "Mechanics' liens relate back to commencement of work, but taxes still come first.",
+        "Correct. Property tax and assessment liens hold first priority regardless of recording date — the great exception to 'first in time, first in right.'",
+        "A lis pendens clouds title but is not a lien with payment priority."
+      ],
+      "terms": ["priority", "special assessment"]
+    },
+    {
+      "id": "PRIN-05-004",
+      "course": "principles",
+      "unit": 5,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A foreclosure sale nets $540,000. Encumbrances: $9,000 property taxes; a 2019 first deed of trust of $395,000; a 2022 judgment lien of $60,000; a 2023 second deed of trust of $85,000. The 2023 second deed of trust receives:",
+      "options": [
+        "$85,000 in full",
+        "$76,000",
+        "$0",
+        "$136,000"
+      ],
+      "answer": 1,
+      "rationales": [
+        "There is not enough money left to pay it in full after higher-priority claims.",
+        "Correct. 540,000 − 9,000 (taxes) − 395,000 (2019 first) − 60,000 (2022 judgment) = $76,000 remaining, so the 2023 lien takes $76,000 and is short $9,000.",
+        "Funds do remain after the higher-priority liens are satisfied.",
+        "$136,000 is the balance before paying the 2022 judgment lien, which recorded earlier and outranks the 2023 trust deed."
+      ],
+      "terms": ["priority"]
+    },
+    {
+      "id": "PRIN-05-005",
+      "course": "principles",
+      "unit": 5,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "Visible construction began August 3. A construction lender recorded its deed of trust September 12. An unpaid subcontractor recorded a mechanic's lien November 20. As to priority, the mechanic's lien generally:",
+      "options": [
+        "Ranks last, because it recorded last",
+        "Relates back to August 3 and may outrank the September 12 deed of trust",
+        "Ranks ahead of property taxes",
+        "Is invalid because it recorded after the loan"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Mechanics' liens are the exception to ordinary recording-date priority.",
+        "Correct. A perfected mechanic's lien relates back to the date work first commenced, which is why lenders inspect for commenced work before recording and funding.",
+        "Nothing outranks property tax liens.",
+        "Recording after the loan does not invalidate the lien; timing rules run from work and completion dates."
+      ],
+      "terms": ["mechanic's lien", "relation back"]
+    },
+    {
+      "id": "PRIN-05-006",
+      "course": "principles",
+      "unit": 5,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "An owner records a document after construction finishes to shorten the time in which mechanics' liens may be filed. This document is a:",
+      "options": [
+        "Notice of default",
+        "Notice of completion",
+        "Preliminary notice",
+        "Notice of nonresponsibility"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A notice of default begins foreclosure proceedings.",
+        "Correct. Recording a notice of completion shortens the statutory window for claimants to record mechanics' liens.",
+        "A preliminary notice is served by claimants without a direct contract with the owner, to preserve their lien rights.",
+        "A notice of nonresponsibility protects an owner from liens for work ordered by someone else, such as a tenant."
+      ],
+      "terms": ["notice of completion", "mechanic's lien"]
+    },
+    {
+      "id": "PRIN-05-007",
+      "course": "principles",
+      "unit": 5,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A driveway easement allows Lot 12 to cross Lot 11 for access. Lot 11 is the:",
+      "options": [
+        "Dominant tenement",
+        "Servient tenement",
+        "Holder of an easement in gross",
+        "Licensee"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Lot 12 is dominant because it receives the benefit.",
+        "Correct. The burdened parcel the easement crosses is the servient tenement.",
+        "An easement in gross benefits a person or company, not a neighboring parcel.",
+        "A licensee holds revocable permission, not an easement."
+      ],
+      "terms": ["servient tenement", "dominant tenement", "easement appurtenant"]
+    },
+    {
+      "id": "PRIN-05-008",
+      "course": "principles",
+      "unit": 5,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A utility company's recorded right to run power lines across hundreds of separate parcels is an example of an:",
+      "options": [
+        "Easement appurtenant",
+        "Easement in gross",
+        "Easement by necessity",
+        "Encroachment"
+      ],
+      "answer": 1,
+      "rationales": [
+        "An appurtenant easement requires a benefited parcel; the utility has none.",
+        "Correct. An easement in gross benefits a person or company rather than a dominant tenement — utility easements are the classic example.",
+        "Necessity easements arise to provide access to landlocked parcels.",
+        "An encroachment is an unauthorized physical intrusion, not a granted right."
+      ],
+      "terms": ["easement in gross"]
+    },
+    {
+      "id": "PRIN-05-009",
+      "course": "principles",
+      "unit": 5,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "In California, a prescriptive easement requires open, notorious, hostile, and continuous use for:",
+      "options": [
+        "Three years",
+        "Five years",
+        "Seven years",
+        "Ten years"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Three years is not the California prescriptive period.",
+        "Correct. California's prescriptive period is five years of open, notorious, hostile, and continuous use.",
+        "Seven years applies in some other states, not California.",
+        "Ten years is a common distractor drawn from other jurisdictions."
+      ],
+      "terms": ["prescriptive easement"]
+    },
+    {
+      "id": "PRIN-05-010",
+      "course": "principles",
+      "unit": 5,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A neighbor has crossed an owner's land for eight years WITH the owner's written permission. The neighbor has acquired:",
+      "options": [
+        "A prescriptive easement, because eight years exceeds five",
+        "An easement by implication",
+        "Nothing beyond a revocable license",
+        "Title by adverse possession"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Permission defeats hostility, and hostility is required for prescription no matter how many years pass.",
+        "Implication requires a prior apparent use existing when a parcel was divided, which is not present here.",
+        "Correct. Use by permission is a license — personal, revocable, and creating no interest in land. This is why owners grant written permission to protect themselves.",
+        "Adverse possession requires hostile possession and payment of taxes; permissive use fails at the first element."
+      ],
+      "terms": ["license", "prescriptive easement"]
+    },
+    {
+      "id": "PRIN-05-011",
+      "course": "principles",
+      "unit": 5,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "An owner of a dominant tenement purchases the servient tenement. The easement is terminated by:",
+      "options": [
+        "Merger",
+        "Abandonment",
+        "Prescription",
+        "Condemnation"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. When one person owns both parcels, the easement is extinguished by merger — you cannot hold an easement over your own land.",
+        "Abandonment requires non-use plus clear intent to abandon.",
+        "Prescription in reverse requires the servient owner to block the use for the prescriptive period.",
+        "Condemnation is a government taking."
+      ],
+      "terms": ["merger", "easement"]
+    },
+    {
+      "id": "PRIN-05-012",
+      "course": "principles",
+      "unit": 5,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A neighbor's fence sits three feet inside the property line. This is BEST described as a(n):",
+      "options": [
+        "Easement appurtenant",
+        "Encroachment",
+        "License",
+        "Nonconforming use"
+      ],
+      "answer": 1,
+      "rationales": [
+        "No right of use was granted; this is an unauthorized physical intrusion.",
+        "Correct. A physical intrusion of an improvement across a boundary is an encroachment, typically revealed by survey rather than title search.",
+        "A license is permission to use, not a structure over the line.",
+        "Nonconforming use concerns zoning, not boundaries."
+      ],
+      "terms": ["encroachment"]
+    },
+    {
+      "id": "PRIN-05-013",
+      "course": "principles",
+      "unit": 5,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "Zoning permits a 35-foot building height, but the subdivision's recorded CC&Rs limit height to 25 feet. An owner may build to:",
+      "options": [
+        "35 feet, because public law preempts private restrictions",
+        "25 feet, because the stricter restriction governs",
+        "30 feet, splitting the difference",
+        "Any height, once the HOA is notified"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Private restrictions are not preempted; they bind those who took title subject to them.",
+        "Correct. Where zoning and CC&Rs differ, the more restrictive controls — private restrictions may be stricter than public law but never looser.",
+        "No averaging rule exists.",
+        "Notice to the HOA does not waive a recorded restriction."
+      ],
+      "terms": ["CC&Rs"]
+    },
+    {
+      "id": "PRIN-05-014",
+      "course": "principles",
+      "unit": 5,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A 1953 CC&R document recorded against a listing contains a racially restrictive covenant. The licensee should understand that the provision is:",
+      "options": [
+        "Enforceable because it was lawful when recorded",
+        "Void and unenforceable, with a statutory process available to strike the language",
+        "Enforceable only against non-original owners",
+        "Binding until the HOA votes to amend it"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Discriminatory covenants have long been unenforceable regardless of when recorded.",
+        "Correct. Racially restrictive covenants are void and unenforceable, and California provides a statutory procedure to have the offending language removed from recorded documents.",
+        "The provision binds no one; it is void as to all.",
+        "No association vote is needed to nullify what is already void."
+      ],
+      "terms": ["CC&Rs", "protected class"]
+    },
+    {
+      "id": "PRIN-05-015",
+      "course": "principles",
+      "unit": 5,
+      "blueprint_area": "transfer",
+      "difficulty": 3,
+      "stem": "A preliminary report on a pending sale shows a lis pendens recorded four months ago. The listing agent should recognize that:",
+      "options": [
+        "It is a routine item that will clear at closing through proration",
+        "Pending litigation affecting title will likely stop title insurance and lender funding until resolved or expunged",
+        "It automatically expires after 90 days",
+        "It can be removed by paying the amount claimed into escrow"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Prorations handle taxes and similar recurring charges, not litigation clouds.",
+        "Correct. A lis pendens gives notice of litigation affecting title or possession; title companies will not insure and lenders will not fund over it until it is resolved or expunged by court order.",
+        "There is no automatic 90-day expiration.",
+        "A lis pendens is not a monetary lien with a payoff figure; the underlying lawsuit must be resolved or the notice expunged."
+      ],
+      "terms": ["lis pendens"]
+    },
+    {
+      "id": "PRIN-05-016",
+      "course": "principles",
+      "unit": 5,
+      "blueprint_area": "financing",
+      "difficulty": 3,
+      "stem": "An owner refinances the first loan. The existing second-position lender signs and records an agreement accepting a position behind the new first loan. That agreement is a:",
+      "options": [
+        "Novation",
+        "Subordination agreement",
+        "Assumption agreement",
+        "Satisfaction of lien"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A novation substitutes a new contract or party, extinguishing the original obligation.",
+        "Correct. A subordination agreement voluntarily lowers a lienholder's priority — essential in refinances, because paying off the old first would otherwise promote the second automatically.",
+        "An assumption transfers responsibility for an existing loan to a new borrower.",
+        "A satisfaction evidences that a debt has been paid and the lien released."
+      ],
+      "terms": ["subordination agreement", "priority"]
+    },
+    {
+      "id": "PRIN-05-017",
+      "course": "principles",
+      "unit": 5,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A seller subdivides a parcel and conveys the rear portion, which now has no legal access to any public street. A court would most likely find an easement by:",
+      "options": [
+        "Prescription",
+        "Necessity",
+        "Express grant",
+        "Condemnation"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Prescription requires five years of hostile use, and the parcel was just created.",
+        "Correct. When a conveyance leaves a parcel landlocked, courts imply an easement by necessity so the land is not rendered useless.",
+        "An express grant requires written easement language, which the facts do not provide.",
+        "Condemnation is a government taking, not a private access remedy."
+      ],
+      "terms": ["easement by necessity"]
+    },
+    {
+      "id": "PRIN-05-018",
+      "course": "principles",
+      "unit": 5,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Which of the following is a NON-money encumbrance?",
+      "options": [
+        "A mechanic's lien",
+        "A special assessment for a new sewer",
+        "A recorded utility easement",
+        "An attachment lien"
+      ],
+      "answer": 2,
+      "rationales": [
+        "A mechanic's lien secures payment for unpaid labor or materials.",
+        "A special assessment is a lien securing the cost of a local improvement.",
+        "Correct. An easement burdens the use of the land rather than securing a debt, making it a non-money encumbrance.",
+        "An attachment lien secures a claim pending litigation."
+      ],
+      "terms": ["encumbrance", "easement"]
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "course": "principles",
+  "unit": 6,
+  "title": "Agency & Fiduciary Duties",
+  "originality": "All items original to LicensePath. Modeled on the DRE exam blueprint and style only; no actual exam items reproduced.",
+  "note": "Enlarged bank (20 items) because Laws of Agency & Fiduciary Duties is ~17% of the state exam.",
+  "questions": [
+    {
+      "id": "PRIN-06-001",
+      "course": "principles",
+      "unit": 6,
+      "blueprint_area": "agency",
+      "difficulty": 2,
+      "stem": "When a salesperson obtains a listing, the agency relationship legally exists between the seller and:",
+      "options": [
+        "The salesperson personally",
+        "The salesperson's employing broker",
+        "The multiple listing service",
+        "Both the salesperson and the broker as co-agents"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The salesperson acts for the broker; the listing does not belong to the salesperson.",
+        "Correct. The broker is the agent of the client, and the salesperson is the broker's associate licensee — which is why dual agency arises at the brokerage level.",
+        "The MLS is a private listing database, not a party to the agency.",
+        "There is one agent — the broker — not two co-agents."
+      ],
+      "terms": ["associate licensee", "agency"]
+    },
+    {
+      "id": "PRIN-06-002",
+      "course": "principles",
+      "unit": 6,
+      "blueprint_area": "agency",
+      "difficulty": 1,
+      "stem": "In OLD CAR, which duty requires an agent to protect the principal's motivation and financial condition from the other side?",
+      "options": [
+        "Obedience",
+        "Disclosure",
+        "Confidentiality",
+        "Accounting"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Obedience concerns following lawful instructions.",
+        "Disclosure requires telling the *principal* material information — the opposite direction.",
+        "Correct. Confidentiality protects the principal's confidential information, including motivation and the lowest price they would accept, and it survives termination of the agency.",
+        "Accounting concerns funds and property entrusted to the agent."
+      ],
+      "terms": ["OLD CAR", "fiduciary"]
+    },
+    {
+      "id": "PRIN-06-003",
+      "course": "principles",
+      "unit": 6,
+      "blueprint_area": "agency",
+      "difficulty": 2,
+      "stem": "A seller instructs the listing agent not to present offers from buyers with young children. The agent should:",
+      "options": [
+        "Comply, because obedience is a fiduciary duty",
+        "Comply, but document the instruction in the file",
+        "Refuse, because the instruction is unlawful discrimination",
+        "Present the offers but recommend the seller reject them"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Obedience extends only to lawful instructions.",
+        "Documenting an unlawful instruction does not make following it lawful.",
+        "Correct. Familial status is a protected class; the agent must refuse the instruction and should advise the seller of the law, withdrawing if the seller persists.",
+        "Steering the seller toward rejecting protected-class buyers is the same violation in another form."
+      ],
+      "terms": ["OLD CAR", "protected class"]
+    },
+    {
+      "id": "PRIN-06-004",
+      "course": "principles",
+      "unit": 6,
+      "blueprint_area": "agency",
+      "difficulty": 2,
+      "stem": "A listing agent learns the buyer is willing to pay $30,000 more than the offer submitted. The agent must:",
+      "options": [
+        "Keep it confidential to protect the transaction",
+        "Disclose it to the seller under the duty of disclosure",
+        "Disclose it only if the seller specifically asks",
+        "Disclose it to the buyer's agent first"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The agent owes confidentiality to the *seller*, not the buyer; protecting the deal is not a recognized duty.",
+        "Correct. The duty of disclosure requires telling the principal all material information affecting their interests, including a buyer's greater willingness to pay.",
+        "The duty is affirmative and does not depend on the client asking.",
+        "The information belongs to the seller's side of the analysis; disclosing it to the buyer's agent serves no duty."
+      ],
+      "terms": ["OLD CAR", "fiduciary"]
+    },
+    {
+      "id": "PRIN-06-005",
+      "course": "principles",
+      "unit": 6,
+      "blueprint_area": "agency",
+      "difficulty": 2,
+      "stem": "A brokerage lists a home; a different salesperson at the SAME brokerage represents the buyer. This situation is:",
+      "options": [
+        "Not dual agency, because different salespersons are involved",
+        "Dual agency at the brokerage level, requiring informed written consent from both parties",
+        "Subagency",
+        "Prohibited in California under all circumstances"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Assigning different salespersons manages the conflict but does not eliminate brokerage-level dual agency.",
+        "Correct. Because the broker is the agent of both clients, dual agency exists and requires informed written consent from buyer and seller.",
+        "Subagency involves an agent of the agent, typically a cooperating broker acting for the seller.",
+        "Dual agency is lawful in California with informed written consent."
+      ],
+      "terms": ["dual agency"]
+    },
+    {
+      "id": "PRIN-06-006",
+      "course": "principles",
+      "unit": 6,
+      "blueprint_area": "agency",
+      "difficulty": 3,
+      "stem": "A properly consented dual agent knows the sellers are financially distressed and that the roof leaks. The dual agent may disclose to the buyer:",
+      "options": [
+        "Both the distress and the leak",
+        "The leak only",
+        "The distress only",
+        "Neither, without written permission"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Financial distress is confidential motivation that a dual agent may not reveal without permission.",
+        "Correct. Property condition is never confidential — known material defects must be disclosed — while the sellers' financial motivation must be protected.",
+        "This reverses the rule: motivation is protected and condition is disclosed.",
+        "Material defects must be disclosed regardless of permission; silence would be concealment."
+      ],
+      "terms": ["dual agency", "material fact"]
+    },
+    {
+      "id": "PRIN-06-007",
+      "course": "principles",
+      "unit": 6,
+      "blueprint_area": "agency",
+      "difficulty": 2,
+      "stem": "An agent lists a property and, without disclosing his ownership interest, arranges for an LLC he partly owns to purchase it below market. The agent's gain on resale is recoverable by the seller as a:",
+      "options": [
+        "Referral fee",
+        "Secret profit",
+        "Liquidated damage",
+        "Commission override"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A referral fee is disclosed compensation for referring business.",
+        "Correct. An undisclosed benefit derived from the agency is a secret profit, recoverable by the principal and grounds for license discipline.",
+        "Liquidated damages are contractual pre-agreed damages for breach.",
+        "A commission override is a share of commission paid within a brokerage structure."
+      ],
+      "terms": ["secret profit", "OLD CAR"]
+    },
+    {
+      "id": "PRIN-06-008",
+      "course": "principles",
+      "unit": 6,
+      "blueprint_area": "agency",
+      "difficulty": 2,
+      "stem": "Which statement is PUFFING rather than a representation of fact?",
+      "options": [
+        "'This home is zoned for commercial use.'",
+        "'The roof was replaced in 2021.'",
+        "'This is the most charming street in Claremont.'",
+        "'The lot is 8,400 square feet.'"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Zoning is verifiable fact; misstating it is misrepresentation.",
+        "Roof age is a verifiable fact.",
+        "Correct. An exaggerated subjective opinion no reasonable buyer would rely on as fact is puffing.",
+        "Lot size is a verifiable fact and a frequent source of misrepresentation claims."
+      ],
+      "terms": ["puffing", "misrepresentation"]
+    },
+    {
+      "id": "PRIN-06-009",
+      "course": "principles",
+      "unit": 6,
+      "blueprint_area": "agency",
+      "difficulty": 3,
+      "stem": "An agent innocently tells a buyer the home has permitted square footage of 2,400 based on an outdated flyer. The permitted area is 1,950. The agent is:",
+      "options": [
+        "Not liable, because the statement was innocent",
+        "Potentially liable, because even innocent misrepresentation of a material fact can support rescission or damages",
+        "Liable only if the buyer can prove intent to deceive",
+        "Protected because square footage is always considered puffing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Lack of intent limits some remedies but does not eliminate liability.",
+        "Correct. Innocent, negligent, and intentional misrepresentations can all create liability; a competent agent verifies square footage rather than repeating a flyer.",
+        "Intent is required for fraud, not for all misrepresentation remedies.",
+        "Square footage is a verifiable fact, never puffing."
+      ],
+      "terms": ["misrepresentation", "material fact"]
+    },
+    {
+      "id": "PRIN-06-010",
+      "course": "principles",
+      "unit": 6,
+      "blueprint_area": "agency",
+      "difficulty": 2,
+      "stem": "Agency created when a principal's own conduct leads a third party to reasonably believe someone represents them is called:",
+      "options": [
+        "Implied agency",
+        "Ostensible agency",
+        "Ratification",
+        "Express agency"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Implied agency arises from the conduct of the parties to the relationship itself.",
+        "Correct. Ostensible (apparent) agency arises from the principal's conduct causing a third party's reasonable belief.",
+        "Ratification is after-the-fact approval of an unauthorized act.",
+        "Express agency arises from a written or spoken agreement."
+      ],
+      "terms": ["ostensible (apparent) agency"]
+    },
+    {
+      "id": "PRIN-06-011",
+      "course": "principles",
+      "unit": 6,
+      "blueprint_area": "agency",
+      "difficulty": 2,
+      "stem": "An unauthorized person negotiates a lease for an owner. Learning all the facts, the owner accepts the rent and honors the lease. The agency was created by:",
+      "options": [
+        "Estoppel",
+        "Ratification",
+        "Necessity",
+        "Subagency"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Estoppel concerns preventing a party from denying a state of affairs they created; the facts describe after-the-fact acceptance.",
+        "Correct. Accepting the benefits of an unauthorized act with knowledge of the facts ratifies it, binding the principal.",
+        "Necessity is a doctrine for easements, not agency creation here.",
+        "Subagency describes an agent of an agent."
+      ],
+      "terms": ["ratification"]
+    },
+    {
+      "id": "PRIN-06-012",
+      "course": "principles",
+      "unit": 6,
+      "blueprint_area": "agency",
+      "difficulty": 2,
+      "stem": "A real estate broker hired to find a buyer for one specific property is acting as a:",
+      "options": [
+        "General agent",
+        "Universal agent",
+        "Special agent",
+        "Subagent"
+      ],
+      "answer": 2,
+      "rationales": [
+        "A general agent has ongoing authority over a range of matters, like a property manager.",
+        "A universal agent may act in all matters, typically under a broad power of attorney.",
+        "Correct. A broker engaged for one transaction with limited authority is a special agent — the usual real estate role.",
+        "A subagent is an agent of the agent."
+      ],
+      "terms": ["special agent"]
+    },
+    {
+      "id": "PRIN-06-013",
+      "course": "principles",
+      "unit": 6,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "While showing a 1948 home, an agent sees a large brown ceiling stain under an upstairs bathroom, freshly painted over. The seller's TDS discloses no leaks. The agent must:",
+      "options": [
+        "Say nothing, since the TDS is the seller's disclosure",
+        "Disclose the observation in writing to the buyer and recommend further inspection",
+        "Diagnose the cause and estimate repair cost for the buyer",
+        "Report the seller to the DRE before proceeding"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The agent's own visual inspection duty is independent of the seller's TDS.",
+        "Correct. The duty of reasonably competent and diligent visual inspection of accessible areas requires disclosing observed red flags and referring the buyer to a qualified inspector.",
+        "Agents are not inspectors and must not diagnose causes or estimate repair costs.",
+        "The immediate obligation is disclosure to the buyer, not a regulatory complaint."
+      ],
+      "terms": ["visual inspection duty", "material fact"]
+    },
+    {
+      "id": "PRIN-06-014",
+      "course": "principles",
+      "unit": 6,
+      "blueprint_area": "agency",
+      "difficulty": 2,
+      "stem": "A seller contributes to the compensation of the buyer's brokerage. This payment:",
+      "options": [
+        "Makes the buyer's broker an agent of the seller",
+        "Creates dual agency automatically",
+        "Does not change who the buyer's broker represents",
+        "Requires the buyer's broker to disclose the buyer's maximum price"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Compensation does not create agency; representation flows from the agency agreement.",
+        "No dual agency arises merely because the seller contributed to compensation.",
+        "Correct. Who pays and who is represented are separate questions — the buyer's broker continues to owe full fiduciary duties to the buyer.",
+        "Disclosing the buyer's maximum price would breach confidentiality owed to the buyer."
+      ],
+      "terms": ["agency", "dual agency"]
+    },
+    {
+      "id": "PRIN-06-015",
+      "course": "principles",
+      "unit": 6,
+      "blueprint_area": "agency",
+      "difficulty": 1,
+      "stem": "To a third party (customer) in the transaction, a licensee owes:",
+      "options": [
+        "Loyalty and confidentiality",
+        "Honesty, fair dealing, and disclosure of known material facts",
+        "The same fiduciary duties owed to a principal",
+        "No duties whatsoever"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Loyalty and confidentiality run to the principal only.",
+        "Correct. Third parties are owed honesty, fair dealing, and disclosure of known material facts, but not fiduciary duties.",
+        "Fiduciary duties are reserved for the principal.",
+        "Licensees always owe third parties honesty and material-fact disclosure."
+      ],
+      "terms": ["third party (customer)", "material fact"]
+    },
+    {
+      "id": "PRIN-06-016",
+      "course": "principles",
+      "unit": 6,
+      "blueprint_area": "agency",
+      "difficulty": 2,
+      "stem": "California's agency disclosure process for residential 1–4 unit sales is best summarized as:",
+      "options": [
+        "Advertise, negotiate, close",
+        "Disclose, elect, confirm",
+        "Notify, record, verify",
+        "Present, accept, ratify"
+      ],
+      "answer": 1,
+      "rationales": [
+        "These are transaction activities, not the statutory agency disclosure steps.",
+        "Correct. The licensee delivers the agency disclosure form, elects in writing which party is represented, and confirms the relationships in writing with the purchase contract.",
+        "Recording concerns documents affecting title, not agency disclosure.",
+        "These describe contract formation, not agency disclosure."
+      ],
+      "terms": ["agency disclosure"]
+    },
+    {
+      "id": "PRIN-06-017",
+      "course": "principles",
+      "unit": 6,
+      "blueprint_area": "agency",
+      "difficulty": 2,
+      "stem": "An exclusive listing agreement that contains NO definite termination date is:",
+      "options": [
+        "Valid, because listings run until the property sells",
+        "Grounds for disciplinary action against the licensee",
+        "Automatically converted to an open listing",
+        "Valid if the seller initials the omission"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Open-ended exclusive listings are exactly what the rule prohibits.",
+        "Correct. An exclusive listing must specify a definite termination date; omitting one is grounds for discipline.",
+        "No automatic conversion occurs.",
+        "The seller cannot waive the requirement by initialing."
+      ],
+      "terms": ["exclusive right to sell listing"]
+    },
+    {
+      "id": "PRIN-06-018",
+      "course": "principles",
+      "unit": 6,
+      "blueprint_area": "agency",
+      "difficulty": 2,
+      "stem": "After a listing expires unsold, the former listing agent may:",
+      "options": [
+        "Freely tell prospective buyers the lowest price the seller would have accepted",
+        "Not disclose the seller's confidential information, because confidentiality survives termination",
+        "Disclose confidential information after six months",
+        "Disclose it only to other licensees"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Termination of the agency does not release the agent to reveal what was learned in confidence.",
+        "Correct. The duty of confidentiality survives the end of the agency relationship.",
+        "No waiting period converts confidential information into public information.",
+        "The identity of the recipient does not matter; the information remains protected."
+      ],
+      "terms": ["OLD CAR", "fiduciary"]
+    },
+    {
+      "id": "PRIN-06-019",
+      "course": "principles",
+      "unit": 6,
+      "blueprint_area": "agency",
+      "difficulty": 3,
+      "stem": "At an open house, a listing agent counsels a visiting unrepresented buyer on offer strategy, reveals the seller must close by September, and suggests offering below asking. The agent has MOST likely:",
+      "options": [
+        "Provided good customer service consistent with fair dealing",
+        "Breached confidentiality and loyalty, and risked creating an undisclosed dual agency",
+        "Created a valid buyer representation agreement",
+        "Committed puffing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Fair dealing requires honesty with customers, not advocacy against one's own client.",
+        "Correct. Revealing the seller's timing motivation breaches confidentiality, advising a lower offer breaches loyalty, and the counseling conduct may create an implied agency producing undisclosed dual agency.",
+        "A buyer representation agreement requires an agreement, not incidental advice.",
+        "Puffing concerns exaggerated opinion about the property, which is not what occurred."
+      ],
+      "terms": ["implied agency", "dual agency", "OLD CAR"]
+    },
+    {
+      "id": "PRIN-06-020",
+      "course": "principles",
+      "unit": 6,
+      "blueprint_area": "agency",
+      "difficulty": 2,
+      "stem": "Which event does NOT terminate an agency relationship?",
+      "options": [
+        "Expiration of the listing term",
+        "Destruction of the property",
+        "The salesperson who took the listing leaving the brokerage",
+        "Mutual agreement of the parties"
+      ],
+      "answer": 2,
+      "rationales": [
+        "A listing ends on its stated termination date.",
+        "Destruction of the subject property makes performance impossible and ends the agency.",
+        "Correct. The listing belongs to the broker, so the departure of the individual salesperson does not terminate the agency between the broker and the client.",
+        "The parties may always agree to cancel."
+      ],
+      "terms": ["agency", "associate licensee"]
+    }
+  ]
+}

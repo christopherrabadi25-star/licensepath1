@@ -1,0 +1,515 @@
+{
+  "set": "sample-set-01",
+  "purpose": "Demonstration set for the exam simulator and the free 'Could you pass the California exam?' diagnostic. 25 original items distributed roughly per the DRE blueprint weights. All items original to LicensePath — modeled on the published blueprint and style only; no actual DRE exam items reproduced.",
+  "distribution": {
+    "practice-disclosures": 6,
+    "agency": 4,
+    "ownership-land-use": 4,
+    "valuation": 4,
+    "contracts": 3,
+    "financing": 2,
+    "transfer": 2
+  },
+  "questions": [
+    {
+      "id": "SIM-01-001",
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A broker receives a buyer's $20,000 earnest money check on Monday. The offer directs that the check be held uncashed until acceptance. The seller accepts Wednesday. Absent contrary instructions, the broker must place the funds in escrow, a trust account, or the principal's hands no later than:",
+      "options": [
+        "The end of Wednesday",
+        "Three business days after acceptance",
+        "Ten calendar days after acceptance",
+        "Whenever escrow opens"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Same-day deposit is not required.",
+        "Correct. Trust funds must be deposited within three business days of receipt — and when a check is properly held uncashed pending acceptance, the clock runs from acceptance.",
+        "Ten days exceeds the statutory window.",
+        "The deadline is fixed by regulation, not by escrow's convenience."
+      ],
+      "terms": ["trust fund"]
+    },
+    {
+      "id": "SIM-01-002",
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A licensee deposits a client's rent collections into her personal checking account 'temporarily' over a weekend and transfers them to the trust account Monday. No money is lost. The licensee has committed:",
+      "options": [
+        "No violation, because the funds were fully restored",
+        "Conversion",
+        "Commingling",
+        "A secret profit"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Restoration does not cure the violation; mixing is itself the offense.",
+        "Conversion is actually using client funds — worse than what happened here.",
+        "Correct. Placing trust funds in a personal account mixes client money with the licensee's own — commingling, disciplinable even without loss.",
+        "A secret profit is undisclosed compensation from the agency, not mishandled deposits."
+      ],
+      "terms": ["commingling", "conversion"]
+    },
+    {
+      "id": "SIM-01-003",
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A seller tells his listing agent, 'Don't show the house to families with small children — the pool isn't fenced.' The agent should:",
+      "options": [
+        "Follow the instruction, because obedience is a fiduciary duty",
+        "Follow it only after the seller signs a hold-harmless letter",
+        "Refuse, because screening buyers by familial status is illegal discrimination",
+        "Show the home to families but warn them the seller prefers other buyers"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Obedience extends only to lawful instructions.",
+        "No waiver makes housing discrimination lawful.",
+        "Correct. Familial status is a protected class under federal and California law; the agent must refuse the unlawful instruction (and may address the pool as a safety disclosure instead).",
+        "Steering families away — even softly — is still discrimination."
+      ],
+      "terms": ["familial status", "protected class"]
+    },
+    {
+      "id": "SIM-01-004",
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 1,
+      "stem": "Refusing to make loans on qualified properties located in a particular neighborhood because of its racial composition is known as:",
+      "options": [
+        "Steering",
+        "Blockbusting",
+        "Redlining",
+        "Panic selling"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Steering channels buyers toward or away from areas.",
+        "Blockbusting induces owners to sell by exploiting fear of neighborhood change.",
+        "Correct. Redlining is area-based lending or insurance discrimination.",
+        "Panic selling is another name for blockbusting."
+      ],
+      "terms": ["redlining", "steering", "blockbusting"]
+    },
+    {
+      "id": "SIM-01-005",
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "Closing on an Ontario rental home is set for March 16 (buyer owns the day of closing). The tenant paid March rent of $2,400 on March 1. Using a 30-day month and banker's method, the rent proration credit to the buyer is:",
+      "options": [
+        "$1,200",
+        "$1,240",
+        "$1,160",
+        "$2,400"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Daily rent = $2,400 ÷ 30 = $80. The buyer owns the day of closing, so the buyer's share covers March 16–30 = 15 days; 15 × $80 = $1,200.",
+        "$1,240 uses 15.5 days — no half-day convention applies to prorations.",
+        "$1,160 uses 14.5 days; count whole days, with the closing day belonging to the buyer as the facts state.",
+        "The full $2,400 ignores the seller's ownership of March 1–15; only the buyer's portion is credited."
+      ],
+      "terms": ["proration"]
+    },
+    {
+      "id": "SIM-01-006",
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which sale is EXEMPT from the seller's duty to deliver a Transfer Disclosure Statement (TDS)?",
+      "options": [
+        "A 60-year-old Alhambra bungalow sold 'as-is'",
+        "A probate sale by an estate's executor",
+        "A duplex sold by an out-of-state owner",
+        "A condominium resale"
+      ],
+      "answer": 1,
+      "rationales": [
+        "'As-is' never eliminates the TDS for a standard residential sale of 1–4 units.",
+        "Correct. Court-supervised and fiduciary transfers such as probate sales are statutorily exempt from the TDS requirement.",
+        "The seller's residence elsewhere does not create an exemption.",
+        "Condo resales of 1–4 residential units require the TDS."
+      ],
+      "terms": ["TDS (Transfer Disclosure Statement)", "as-is"]
+    },
+    {
+      "id": "SIM-01-007",
+      "blueprint_area": "agency",
+      "difficulty": 2,
+      "stem": "During a listing appointment in San Marino, the sellers mention they will 'take $1.4M if pushed.' The property lists at $1.5M. A buyer asks the listing agent, 'Will they take less?' The agent must:",
+      "options": [
+        "Disclose the $1.4M figure, because honesty is owed to all parties",
+        "Keep the sellers' price flexibility confidential",
+        "Reveal it only if the buyer signs a nondisclosure agreement",
+        "Refer the question to the sellers' attorney"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The duty of honesty to third parties does not require betraying the principal's confidential information.",
+        "Correct. Price motivation is confidential client information; disclosing it without authorization breaches the fiduciary duty of confidentiality and loyalty.",
+        "An NDA changes nothing — the information belongs to the sellers.",
+        "No attorney referral is needed; the agent simply may not disclose."
+      ],
+      "terms": ["fiduciary", "OLD CAR"]
+    },
+    {
+      "id": "SIM-01-008",
+      "blueprint_area": "agency",
+      "difficulty": 2,
+      "stem": "A brokerage represents both the buyer and the seller in the same Glendale transaction. This dual agency is lawful in California only if:",
+      "options": [
+        "The brokerage assigns different salespersons to each party",
+        "Both principals give informed written consent",
+        "The commission is reduced to offset the conflict",
+        "The transaction is all cash"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Assigning different salespersons is common but does not by itself satisfy the law.",
+        "Correct. Dual agency requires disclosure to and informed written consent from both buyer and seller; undisclosed dual agency risks discipline and rescission.",
+        "Commission size is irrelevant to the legality of dual agency.",
+        "Payment method has nothing to do with agency consent."
+      ],
+      "terms": ["dual agency"]
+    },
+    {
+      "id": "SIM-01-009",
+      "blueprint_area": "agency",
+      "difficulty": 3,
+      "stem": "A listing agent learns the roof leaked last winter and the seller repainted the ceiling stains without repairs. The seller instructs, 'Say nothing — it looks fine now.' If the agent stays silent and sells to an unknowing buyer, the agent is liable for:",
+      "options": [
+        "Nothing, because obedience to the principal controls",
+        "Puffing",
+        "Concealment of a known material fact",
+        "Breach of the safety clause"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Obedience never extends to unlawful instructions like hiding defects.",
+        "Puffing is exaggerated opinion, not silence about a defect.",
+        "Correct. A known leak concealed by cosmetic repainting is a material fact; both seller and agent face liability for fraudulent concealment, and the agent faces DRE discipline.",
+        "A safety clause protects a broker's commission after listing expiration — unrelated."
+      ],
+      "terms": ["material fact", "misrepresentation"]
+    },
+    {
+      "id": "SIM-01-010",
+      "blueprint_area": "agency",
+      "difficulty": 1,
+      "stem": "In the fiduciary-duty memory aid OLD CAR, the 'A' stands for:",
+      "options": [
+        "Agency",
+        "Accounting",
+        "Acceptance",
+        "Authorization"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Agency is the relationship itself, not a duty within it.",
+        "Correct. Obedience, Loyalty, Disclosure, Confidentiality, Accounting, Reasonable care — the agent must account for all funds and property entrusted to them.",
+        "Acceptance is contract vocabulary.",
+        "Authorization is not one of the six duties."
+      ],
+      "terms": ["OLD CAR"]
+    },
+    {
+      "id": "SIM-01-011",
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Three siblings hold title to inherited Riverside land as joint tenants. One sibling sells her interest to a friend. The result is:",
+      "options": [
+        "The friend becomes a joint tenant with the two siblings",
+        "The joint tenancy ends entirely; all three now hold as tenants in common",
+        "The two siblings remain joint tenants with each other; the friend holds as a tenant in common",
+        "The sale is void without the other siblings' consent"
+      ],
+      "answer": 2,
+      "rationales": [
+        "The friend cannot be a joint tenant — the four unities of time and title are broken as to him.",
+        "The conveyance severs only the seller's interest; the remaining joint tenants' relationship survives.",
+        "Correct. The two siblings still hold two-thirds as joint tenants between themselves; the buyer holds one-third as a tenant in common with them.",
+        "A joint tenant may convey her interest without consent."
+      ],
+      "terms": ["joint tenancy", "tenancy in common"]
+    },
+    {
+      "id": "SIM-01-012",
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "For 12 years, a Chino Hills homeowner's neighbor has driven across a corner of her lot to reach his garage — openly, without permission, and continuously. The neighbor has most likely acquired:",
+      "options": [
+        "Title by adverse possession",
+        "A prescriptive easement",
+        "A license",
+        "An easement by necessity"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Adverse possession requires, among other things, payment of property taxes — rarely met by mere crossing, and he claims use, not ownership.",
+        "Correct. Open, notorious, hostile, continuous use for five years creates an easement by prescription — a right to keep using, not ownership.",
+        "A license is permissive and revocable; this use was without permission.",
+        "Necessity requires common ownership history and landlocked circumstances."
+      ],
+      "terms": ["prescription", "easement"]
+    },
+    {
+      "id": "SIM-01-013",
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A Pomona corner lot is zoned residential, but its 40-year-old corner market lawfully predates the zoning. The market is a:",
+      "options": [
+        "Variance",
+        "Conditional use",
+        "Nonconforming use",
+        "Spot zone"
+      ],
+      "answer": 2,
+      "rationales": [
+        "A variance is permission for a dimensional deviation granted for hardship.",
+        "A conditional use is specially permitted by the current ordinance after review.",
+        "Correct. A lawful use predating a zoning change may continue as a nonconforming ('grandfathered') use, though it typically cannot expand or resume after abandonment.",
+        "Spot zoning is an (often invalid) rezoning of a single parcel inconsistent with the plan."
+      ],
+      "terms": ["nonconforming use", "variance"]
+    },
+    {
+      "id": "SIM-01-014",
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "Caltrans widens a freeway, taking no land from an adjacent Baldwin Park parcel, but the project walls off its street access, destroying most of its commercial value. The owner's remedy is:",
+      "options": [
+        "An action in inverse condemnation",
+        "A petition for a variance",
+        "A quiet title action",
+        "Nothing — no land was physically taken"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. When government action effectively takes or substantially damages property (such as destroying access) without condemnation proceedings, the owner sues in inverse condemnation for just compensation.",
+        "A variance addresses zoning standards, not compensation.",
+        "Quiet title resolves ownership disputes; ownership is not in doubt.",
+        "Physical occupation is not required — substantial impairment of access can be a compensable taking."
+      ],
+      "terms": ["inverse condemnation", "eminent domain"]
+    },
+    {
+      "id": "SIM-01-015",
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "A Covina fourplex produces $72,000 gross annual rent with $22,000 in operating expenses. Investors in the area expect an 8% return. Using the income approach, the property's indicated value is:",
+      "options": [
+        "$900,000",
+        "$625,000",
+        "$550,000",
+        "$690,000"
+      ],
+      "answer": 1,
+      "rationales": [
+        "$900,000 capitalizes gross income ($72,000 ÷ 0.08) — expenses must come out first.",
+        "Correct. NOI = $72,000 − $22,000 = $50,000; value = NOI ÷ cap rate = $50,000 ÷ 0.08 = $625,000.",
+        "$550,000 subtracts expenses twice or uses a 9%+ rate.",
+        "$690,000 corresponds to no standard calculation — a plausible-looking distractor."
+      ],
+      "terms": ["income approach", "capitalization rate"]
+    },
+    {
+      "id": "SIM-01-016",
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "A comparable home sold for $780,000. It has a three-car garage worth $30,000 more than the subject's two-car garage, but the subject has a $15,000 superior view. The indicated value of the subject is:",
+      "options": [
+        "$795,000",
+        "$765,000",
+        "$825,000",
+        "$735,000"
+      ],
+      "answer": 1,
+      "rationales": [
+        "$795,000 results from adding the view adjustment without subtracting for the comp's superior garage.",
+        "Correct. Adjust the comparable to the subject: subtract $30,000 (comp superior garage), add $15,000 (subject superior view): $780,000 − $30,000 + $15,000 = $765,000.",
+        "$825,000 adds both adjustments — the classic wrong direction: you adjust the comp, never the subject.",
+        "$735,000 subtracts both adjustments."
+      ],
+      "terms": ["sales comparison approach"]
+    },
+    {
+      "id": "SIM-01-017",
+      "blueprint_area": "valuation",
+      "difficulty": 1,
+      "stem": "The principle underlying the sales comparison approach — that a buyer will pay no more for a home than the cost of an equally desirable alternative — is the principle of:",
+      "options": [
+        "Conformity",
+        "Contribution",
+        "Substitution",
+        "Anticipation"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Conformity says value is protected by reasonable similarity among neighborhood properties.",
+        "Contribution measures a feature by what it adds to value, not its cost.",
+        "Correct. Substitution caps value at the cost of acquiring an equivalent substitute — the foundation of comparing sales.",
+        "Anticipation bases value on expected future benefits — the foundation of the income approach."
+      ],
+      "terms": ["principle of substitution"]
+    },
+    {
+      "id": "SIM-01-018",
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "A well-maintained Monrovia home loses value because it sits under a newly approved flight path. This loss is classified as:",
+      "options": [
+        "Physical deterioration",
+        "Functional obsolescence",
+        "External obsolescence",
+        "Deferred maintenance"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Nothing about the structure has worn out.",
+        "The floor plan and features are fine; the problem is outside the lot lines.",
+        "Correct. Value loss from outside factors — noise, economic decline, nearby nuisances — is external (economic) obsolescence, and it is incurable by the owner.",
+        "Deferred maintenance is postponed repair work, a form of physical deterioration."
+      ],
+      "terms": ["external (economic) obsolescence", "depreciation (appraisal)"]
+    },
+    {
+      "id": "SIM-01-019",
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A buyer offers $925,000 for a La Verne home. The seller crosses out the price, writes $945,000, signs, and returns it. Before the buyer responds, another buyer offers $960,000. The seller may:",
+      "options": [
+        "Accept the second offer, because her counteroffer is only an offer the first buyer has not yet accepted",
+        "Not negotiate with anyone until the first buyer responds",
+        "Accept the second offer only if the first buyer waives in writing",
+        "Be liable to the first buyer for breach of contract"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. The counteroffer rejected the original offer and stands as a new offer; until accepted it may be revoked, freeing the seller to take the better offer (revoking the counter first is best practice).",
+        "No exclusivity arises from an unaccepted counteroffer.",
+        "The first buyer holds no right requiring waiver — only an unaccepted offer.",
+        "No contract exists yet, so there is nothing to breach."
+      ],
+      "terms": ["counteroffer", "offer"]
+    },
+    {
+      "id": "SIM-01-020",
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A 17-year-old signs a contract to buy a Fontana condo. The contract is:",
+      "options": [
+        "Void",
+        "Voidable by the minor",
+        "Valid if a parent co-signs later",
+        "Enforceable against the minor once she turns 18"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. In California, a minor cannot contract concerning real property at all — such a contract is void, not merely voidable. (An emancipated minor is the exception.)",
+        "Voidable is the general minors rule for many contracts elsewhere, but California treats a minor's real property contract as void from the start.",
+        "A later co-signature cannot breathe life into a void agreement.",
+        "A void contract does not ripen into validity at majority."
+      ],
+      "terms": ["void contract", "voidable contract"]
+    },
+    {
+      "id": "SIM-01-021",
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "In a California residential purchase of an owner-occupied home (1–4 units), a valid liquidated damages clause generally limits the seller's retention of the buyer's deposit to:",
+      "options": [
+        "The full deposit, whatever its size",
+        "3% of the purchase price",
+        "10% of the purchase price",
+        "One month of the seller's carrying costs"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Amounts above the cap are presumed unreasonable and refundable.",
+        "Correct. For owner-occupied residential property of 1–4 units, liquidated damages retained from the deposit are capped at 3% of the purchase price.",
+        "10% has no basis in the statute.",
+        "Carrying costs are not the statutory measure."
+      ],
+      "terms": ["liquidated damages"]
+    },
+    {
+      "id": "SIM-01-022",
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "A buyer purchases a $700,000 Upland home with a $560,000 first loan. The loan-to-value ratio is:",
+      "options": [
+        "70%",
+        "75%",
+        "80%",
+        "85%"
+      ],
+      "answer": 2,
+      "rationales": [
+        "70% would be a $490,000 loan.",
+        "75% would be a $525,000 loan.",
+        "Correct. LTV = 560,000 ÷ 700,000 = 0.80 = 80% — the classic threshold at or below which conventional lenders typically do not require PMI.",
+        "85% would be a $595,000 loan."
+      ],
+      "terms": ["LTV (loan-to-value ratio)", "PMI (private mortgage insurance)"]
+    },
+    {
+      "id": "SIM-01-023",
+      "blueprint_area": "financing",
+      "difficulty": 3,
+      "stem": "After a lender completes a NON-judicial foreclosure (trustee's sale) on a California home loan, the lender may recover any remaining shortfall from the borrower:",
+      "options": [
+        "By suing within 90 days of the sale",
+        "Only if the loan was a purchase-money loan",
+        "Never — a deficiency judgment is barred after a trustee's sale",
+        "Only with the Real Estate Commissioner's approval"
+      ],
+      "answer": 2,
+      "rationales": [
+        "No 90-day deficiency window exists after a trustee's sale.",
+        "Purchase-money status is a separate, additional bar — but the trustee's-sale bar applies regardless of loan purpose.",
+        "Correct. California's anti-deficiency rules prohibit a deficiency judgment following non-judicial foreclosure; the lender's choice of the quicker trustee's sale costs it any deficiency claim.",
+        "The Commissioner has no role in deficiency actions."
+      ],
+      "terms": ["deficiency judgment", "power of sale"]
+    },
+    {
+      "id": "SIM-01-024",
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "A Claremont home sells for $840,000. At the typical county documentary transfer tax rate of $0.55 per $500 of consideration, the transfer tax is:",
+      "options": [
+        "$462",
+        "$924",
+        "$1,848",
+        "$4,620"
+      ],
+      "answer": 1,
+      "rationales": [
+        "$462 uses $0.55 per $1,000 — the rate applies per $500.",
+        "Correct. $840,000 ÷ 500 = 1,680 increments; 1,680 × $0.55 = $924.",
+        "$1,848 doubles the correct figure (a $1.10/$500 city-plus-county rate would do this — watch for cities with their own tax).",
+        "$4,620 misplaces a decimal."
+      ],
+      "terms": ["documentary transfer tax"]
+    },
+    {
+      "id": "SIM-01-025",
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "A buyer closes on a Rialto home but fails to record her grant deed. The seller then fraudulently deeds the same property to a second buyer, who pays value, knows nothing of the first sale, and promptly records. California's recording system awards title to:",
+      "options": [
+        "The first buyer, because her deed was delivered first",
+        "The second buyer, as a good-faith purchaser who recorded first",
+        "The first buyer, if she sues within one year",
+        "Both buyers as tenants in common"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Between the parties delivery controls, but against a subsequent bona fide purchaser an unrecorded deed loses.",
+        "Correct. A subsequent purchaser for value, without notice, who records first prevails under the recording statute — the reason buyers record immediately at closing.",
+        "No one-year grace period rescues an unrecorded deed against a BFP.",
+        "The recording race has one winner, not co-ownership."
+      ],
+      "terms": ["recording", "constructive notice"]
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "course": "principles",
+  "unit": 2,
+  "title": "Property: Real vs. Personal, Fixtures & Appurtenances",
+  "originality": "All items original to LicensePath. Modeled on the DRE exam blueprint and style only; no actual exam items reproduced.",
+  "questions": [
+    {
+      "id": "PRIN-02-001",
+      "course": "principles",
+      "unit": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 1,
+      "stem": "Which of the following is classified as REAL property?",
+      "options": [
+        "A harvested avocado crop stored in the barn",
+        "A mobile home resting on rented land, registered with HCD",
+        "An orange tree growing in the backyard",
+        "Patio furniture arranged around a built-in fire pit"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Once severed (harvested), crops are personal property.",
+        "A mobile home not permanently affixed on a foundation remains personal property.",
+        "Correct. Growing trees attached by roots are part of the land — real property until severed.",
+        "Furniture rests by its own weight and is movable — personal property (the built-in fire pit, by contrast, is real)."
+      ],
+      "terms": ["real property", "severance"]
+    },
+    {
+      "id": "PRIN-02-002",
+      "course": "principles",
+      "unit": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 1,
+      "stem": "Real property is transferred by deed. Personal property is transferred by:",
+      "options": [
+        "Assignment",
+        "Bill of sale",
+        "Novation",
+        "Quitclaim"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Assignment transfers contract rights, not title to chattels generally.",
+        "Correct. A bill of sale is the instrument that conveys personal property.",
+        "Novation substitutes a new contract or party; it conveys nothing.",
+        "A quitclaim is a deed — it transfers interests in real property."
+      ],
+      "terms": ["personal property"]
+    },
+    {
+      "id": "PRIN-02-003",
+      "course": "principles",
+      "unit": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "In the MARIA fixture analysis, which factor, when present, overrides all the others?",
+      "options": [
+        "The method of attachment",
+        "The intention of the person attaching the item",
+        "A written agreement between the parties",
+        "The item's adaptation to the property"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Attachment is evidence, but it yields to the parties' contract.",
+        "Intention is the most important test courts apply in the absence of an agreement — but an agreement still controls.",
+        "Correct. The parties may agree to treat an item as real or personal, and that agreement governs between them regardless of the other tests.",
+        "Adaptation is persuasive evidence only."
+      ],
+      "terms": ["MARIA", "fixture"]
+    },
+    {
+      "id": "PRIN-02-004",
+      "course": "principles",
+      "unit": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A dry-cleaning tenant bolted pressing machines to the floor of a leased Duarte storefront. Two weeks before the lease expires, the tenant unbolts and removes them, patching the bolt holes. The machines are:",
+      "options": [
+        "Fixtures that unlawfully damaged the landlord's real property",
+        "Trade fixtures the tenant properly removed",
+        "The landlord's property by accession",
+        "Emblements"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Attachment alone does not make a business tenant's equipment part of the realty.",
+        "Correct. Equipment installed by a business tenant for its trade remains the tenant's personal property and may be removed before the lease ends, repairing removal damage.",
+        "Accession would apply only if the tenant abandoned the machines after the tenancy ended.",
+        "Emblements are cultivated annual crops, not equipment."
+      ],
+      "terms": ["trade fixture", "accession"]
+    },
+    {
+      "id": "PRIN-02-005",
+      "course": "principles",
+      "unit": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A tenant farmer's lease on Chino farmland ends October 1, but his strawberry crop — planted and tended by him — ripens in November. The crop belongs to:",
+      "options": [
+        "The landlord, because the lease ended before harvest",
+        "The tenant, because emblements are the cultivator's personal property",
+        "The landlord and tenant equally",
+        "Whoever records a claim first"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The end of the tenancy does not forfeit crops the tenant's labor produced.",
+        "Correct. Annual cultivated crops (fructus industriales) are emblements — the tenant's personal property, with a right to re-enter and harvest.",
+        "No equal-split doctrine applies to emblements.",
+        "Crop ownership does not depend on recording."
+      ],
+      "terms": ["emblements"]
+    },
+    {
+      "id": "PRIN-02-006",
+      "course": "principles",
+      "unit": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 1,
+      "stem": "An owner whose land borders the San Gabriel River holds what type of water rights?",
+      "options": [
+        "Littoral",
+        "Appropriative",
+        "Riparian",
+        "Prescriptive"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Littoral rights attach to land on a lake or the ocean — non-flowing water.",
+        "Appropriative rights are permit-based diversions for non-riparian land.",
+        "Correct. Land bordering a flowing watercourse carries riparian rights, subject to reasonable and beneficial use.",
+        "Prescription is a way to acquire an easement, not a water-rights class."
+      ],
+      "terms": ["riparian rights", "littoral rights"]
+    },
+    {
+      "id": "PRIN-02-007",
+      "course": "principles",
+      "unit": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A winter storm suddenly shifts a creek channel, tearing away a strip of a Glendora parcel. This event is called ______, and the boundary ______.",
+      "options": [
+        "Accretion; moves with the new channel",
+        "Avulsion; does not immediately change",
+        "Reliction; moves to the old high-water mark",
+        "Erosion; is fixed by the county surveyor"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Accretion is gradual gain of soil, not sudden loss, and this event was sudden.",
+        "Correct. A sudden tearing away of land by water is avulsion, and unlike gradual processes it does not immediately shift the legal boundary.",
+        "Reliction is land exposed by receding water.",
+        "Erosion is gradual; surveyors document boundaries but a sudden shift is avulsion."
+      ],
+      "terms": ["avulsion", "accretion"]
+    },
+    {
+      "id": "PRIN-02-008",
+      "course": "principles",
+      "unit": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 1,
+      "stem": "Soil gradually deposited on a riverside parcel by the current is called:",
+      "options": [
+        "Alluvium",
+        "Avulsion",
+        "Reliction",
+        "Dedication"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Alluvium is the soil deposited through accretion; the owner gains it.",
+        "Avulsion is a sudden change, not gradual deposit.",
+        "Reliction is land uncovered by receding water.",
+        "Dedication is a gift of private land for public use."
+      ],
+      "terms": ["accretion / alluvium"]
+    },
+    {
+      "id": "PRIN-02-009",
+      "course": "principles",
+      "unit": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Which of the following is an appurtenance that passes automatically with the land even if the deed does not mention it?",
+      "options": [
+        "The seller's stock in a mutual water company serving the parcel",
+        "The seller's shares in a publicly traded water utility",
+        "The seller's tractor stored on the parcel",
+        "A month-to-month rental agreement for the seller's other property"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Mutual water company stock is appurtenant to the land it serves and transfers with it, inseparable from the parcel.",
+        "Ordinary corporate shares are personal property with no tie to the parcel.",
+        "Equipment is personal property; it passes only by agreement.",
+        "A contract about different land is not appurtenant to this parcel."
+      ],
+      "terms": ["appurtenance"]
+    },
+    {
+      "id": "PRIN-02-010",
+      "course": "principles",
+      "unit": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A developer excavating at the lot line causes the neighbor's soil to slump into the pit. The developer has violated the neighbor's right of:",
+      "options": [
+        "Subjacent support",
+        "Lateral support",
+        "Riparian use",
+        "Quiet enjoyment"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Subjacent support concerns support from beneath, as when mineral rights are severed.",
+        "Correct. Adjoining owners owe each other lateral support; excavation that collapses neighboring land breaches that duty.",
+        "No watercourse is involved.",
+        "Quiet enjoyment is a tenant's right against the landlord, not a boundary-support doctrine."
+      ],
+      "terms": ["lateral / subjacent support"]
+    },
+    {
+      "id": "PRIN-02-011",
+      "course": "principles",
+      "unit": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A Pasadena seller's contract is silent about the antique dining-room chandelier, which is hard-wired and mounted to a ceiling medallion installed for it. Before closing, the seller replaces it with a basic light and takes the antique. The BEST analysis is:",
+      "options": [
+        "Proper, because chandeliers are always personal property",
+        "Proper, because the seller replaced it with a working fixture",
+        "Improper, because the chandelier was a fixture and the contract did not exclude it",
+        "Improper, because used fixtures may never be replaced before closing"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Hard-wired, adapted light fixtures are classic fixtures, not automatically personal.",
+        "Substituting different property does not cure removing a fixture the buyer contracted to receive.",
+        "Correct. By method of attachment and adaptation the chandelier was real property; silent contract means it passes with the house, and removal breaches the agreement.",
+        "Sellers may replace items when the contract excludes them — the flaw here is the missing exclusion, not replacement itself."
+      ],
+      "terms": ["fixture", "MARIA"]
+    },
+    {
+      "id": "PRIN-02-012",
+      "course": "principles",
+      "unit": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "After a 1950s deed severed and reserved the mineral estate under an Upland parcel, the mineral rights are:",
+      "options": [
+        "Personal property of the prior owner",
+        "A separate real property interest owned apart from the surface",
+        "Extinguished if unused for five years",
+        "Automatically reunited with the surface upon resale"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Minerals in place are real property; they become personal only when extracted.",
+        "Correct. A severed mineral estate is its own real property interest, which can be owned, sold, and inherited separately from the surface.",
+        "Mere non-use does not extinguish a mineral estate (statutory dormant-mineral procedures require formal action).",
+        "Resale of the surface conveys only what the seller owns — not the previously reserved minerals."
+      ],
+      "terms": ["severance", "real property"]
+    },
+    {
+      "id": "PRIN-02-013",
+      "course": "principles",
+      "unit": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "In a close dispute over whether an installed item passes with the property, courts tend to favor:",
+      "options": [
+        "Seller over buyer, and landlord over tenant",
+        "Buyer over seller, and tenant over landlord",
+        "Whichever party installed the item",
+        "Neither party; the item is sold at auction"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The presumptions run the other way.",
+        "Correct. Under the relationship-of-the-parties factor, close calls favor buyer over seller and tenant over landlord.",
+        "Installation matters to intention but does not create an automatic preference.",
+        "There is no auction rule for fixture disputes."
+      ],
+      "terms": ["MARIA"]
+    },
+    {
+      "id": "PRIN-02-014",
+      "course": "principles",
+      "unit": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A condominium owner's interest is best described as:",
+      "options": [
+        "A leasehold in airspace plus a license to use common areas",
+        "Personal property, because the unit cannot be moved",
+        "Fee ownership of a unit of airspace plus an undivided interest in common areas",
+        "A share of stock entitling the holder to occupy a unit"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Condominium ownership is a freehold, not a leasehold or license.",
+        "Immovability is a hallmark of real, not personal, property.",
+        "Correct. A condo is real property: fee title to defined airspace (the unit) together with an undivided interest in the common areas.",
+        "Stock plus occupancy right describes a cooperative, not a condominium."
+      ],
+      "terms": ["real property"]
+    },
+    {
+      "id": "PRIN-02-015",
+      "course": "principles",
+      "unit": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A café tenant vacates a Montclair storefront when its lease expires, leaving its plumbed-in espresso machine behind. Six weeks later it returns to collect the machine. Who owns it?",
+      "options": [
+        "The tenant, because trade fixtures are always personal property",
+        "The landlord, because trade fixtures left after the tenancy generally pass to the landlord",
+        "The tenant, if it pays reasonable storage fees",
+        "The city, as abandoned property"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Trade fixtures are the tenant's personal property only while the removal right lasts — through the end of the tenancy.",
+        "Correct. Trade fixtures not removed by the end of the tenancy are treated as abandoned to the landlord by accession.",
+        "Paying storage does not revive an expired removal right.",
+        "Municipal abandoned-property rules do not apply to fixtures left on private leased premises."
+      ],
+      "terms": ["trade fixture", "accession"]
+    },
+    {
+      "id": "PRIN-02-016",
+      "course": "principles",
+      "unit": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A buyer's contract for a Whittier home includes 'all attached floor coverings and window treatments.' At walk-through, custom-cut wall-to-wall carpet remains but the seller took the custom plantation shutters, leaving mounting frames. Which item was the seller entitled to take?",
+      "options": [
+        "The shutters, because they detach from their frames",
+        "The carpet, because it can be rolled up",
+        "Neither — both were fixtures and both were included by the agreement",
+        "Both, because custom items reflect the seller's personal taste"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Detachability does not defeat classification: shutters custom-fitted and mounted to the windows are adapted fixtures — and 'window treatments' were expressly included.",
+        "Custom-cut installed carpet is adapted to the property and was expressly included as an attached floor covering.",
+        "Correct. Under MARIA both items lean real (adaptation, attachment), and the agreement — which controls — included both. The seller breached by removing the shutters.",
+        "Personal taste is not a MARIA factor; intention is judged objectively."
+      ],
+      "terms": ["MARIA", "fixture"]
+    }
+  ]
+}

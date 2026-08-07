@@ -1,0 +1,56 @@
+{
+  "exam": {
+    "name": "California Salesperson Exam",
+    "questions": 150,
+    "time_limit_minutes": 195,
+    "passing_pct": 70,
+    "passing_correct": 105,
+    "note": "Reverify current DRE content weightings before launch — CLAUDE.md §14."
+  },
+  "areas": [
+    {
+      "id": "practice-disclosures",
+      "name": "Practice of Real Estate & Disclosures (incl. trust funds, fair housing)",
+      "weight_pct": 25,
+      "questions_per_form": 38
+    },
+    {
+      "id": "agency",
+      "name": "Laws of Agency & Fiduciary Duties",
+      "weight_pct": 17,
+      "questions_per_form": 25
+    },
+    {
+      "id": "ownership-land-use",
+      "name": "Property Ownership & Land Use Controls",
+      "weight_pct": 15,
+      "questions_per_form": 23
+    },
+    {
+      "id": "valuation",
+      "name": "Property Valuation & Financial Analysis",
+      "weight_pct": 14,
+      "questions_per_form": 21
+    },
+    {
+      "id": "contracts",
+      "name": "Contracts",
+      "weight_pct": 12,
+      "questions_per_form": 18
+    },
+    {
+      "id": "financing",
+      "name": "Financing",
+      "weight_pct": 9,
+      "questions_per_form": 13
+    },
+    {
+      "id": "transfer",
+      "name": "Transfer of Property",
+      "weight_pct": 8,
+      "questions_per_form": 12
+    }
+  ],
+  "difficulty_mix_per_form": { "1": 0.3, "2": 0.5, "3": 0.2 },
+  "originality_rule": "All simulator items are original. Never reproduce actual DRE exam questions — model the published blueprint and question style only."
+}

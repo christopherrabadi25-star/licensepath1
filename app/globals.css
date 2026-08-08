@@ -148,3 +148,122 @@
     scroll-behavior: auto !important;
   }
 }
+
+/*
+ * Lesson typography.
+ *
+ * Course units run 2,500–4,000 words with dense tables and worked math. Most
+ * studying happens on phones (CLAUDE.md §11), so the measure, scale, and table
+ * behavior below are tuned for sustained reading at 390px first.
+ */
+@layer components {
+  .lesson {
+    color: var(--ink-2);
+    font-size: 1.0625rem;
+    line-height: 1.75;
+  }
+
+  .lesson > * + * {
+    margin-top: 1.35em;
+  }
+
+  .lesson p,
+  .lesson li {
+    max-width: 68ch;
+  }
+
+  .lesson h2 {
+    margin-top: 2.75em;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--rule);
+    font-size: 1.6rem;
+    font-weight: 600;
+    line-height: 1.25;
+  }
+
+  .lesson h3 {
+    margin-top: 2em;
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
+
+  .lesson h2 + *,
+  .lesson h3 + * {
+    margin-top: 0.85em;
+  }
+
+  .lesson strong {
+    color: var(--ink);
+    font-weight: 600;
+  }
+
+  .lesson a {
+    color: var(--ink);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .lesson ul,
+  .lesson ol {
+    padding-left: 1.35rem;
+  }
+
+  .lesson ul { list-style: disc; }
+  .lesson ol { list-style: decimal; }
+  .lesson li + li { margin-top: 0.5em; }
+
+  .lesson li::marker {
+    color: var(--gold-deep);
+  }
+
+  /* Tables carry blueprint weights, adjustment grids, and closing math.
+     They must scroll independently rather than pushing the page sideways. */
+  .lesson table {
+    display: block;
+    overflow-x: auto;
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9375rem;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .lesson th,
+  .lesson td {
+    border-bottom: 1px solid var(--rule);
+    padding: 0.6rem 1rem 0.6rem 0;
+    text-align: left;
+    vertical-align: top;
+  }
+
+  .lesson th {
+    color: var(--ink);
+    font-weight: 600;
+    white-space: nowrap;
+    border-bottom-color: var(--rule-strong);
+  }
+
+  /* Blockquotes carry the required-component and compliance callouts. */
+  .lesson blockquote {
+    border-left: 2px solid var(--gold);
+    padding: 0.25rem 0 0.25rem 1.5rem;
+    color: var(--ink-3);
+  }
+
+  .lesson code {
+    font-family: var(--font-mono), ui-monospace, monospace;
+    font-size: 0.875em;
+    background: var(--paper-sunk);
+    padding: 0.15em 0.4em;
+  }
+
+  .lesson hr {
+    border: 0;
+    border-top: 1px solid var(--rule);
+    margin: 2.5em 0;
+  }
+}
+
+@media (max-width: 640px) {
+  .lesson { font-size: 1.0625rem; }
+  .lesson h2 { font-size: 1.4rem; }
+}

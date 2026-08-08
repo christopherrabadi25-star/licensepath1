@@ -276,3 +276,6 @@ Generate content **one unit at a time**, self-review against the checklist, upda
 - [ ] Enrollment agreement + cancellation/refund disclosure requirements; "pass guarantee" legality.
 - [ ] Statutory citations flagged `<!-- VERIFY -->` inside course content.
 - [ ] Final brand identity sign-off; trademark usage guidelines for "LicensePath."
+- [ ] **Exam math weighting.** Secondary sources indicate computational questions are ~10–15% of the salesperson exam, with basic formulas only (interest = rate × principal, area = W × L, commission = rate × price, value = income ÷ rate) and an emphasis on concepts over complex arithmetic. Our bank currently sits at 8.4% computational. dre.ca.gov was unreachable from the build environment — confirm against the DRE's official exam content outline and adjust proportion if needed.
+- [ ] **Course hour accounting.** Each course must credibly account for 45 hours. Principles currently accounts for ~45 estimated hours across 18 units, but reading time alone is well short; confirm what evidence of engaged time the DRE expects and ensure activities, assessments, and the final exam close the gap.
+- [ ] **Seat time must move server-side before enrollment.** The current course player tracks engaged time in localStorage, which is not auditable. §3.2 requires server-side enforcement writing to `seat_time_logs`.

@@ -102,3 +102,19 @@ Lint, typecheck, and build all pass; 348 static pages generated.
 - Authored Practice Unit 5 (Pricing Property): comparable selection hierarchy and criteria, adjustment direction and order, deriving adjustment values through paired sales analysis, net and gross adjustment guardrails, why price per square foot misleads across size differences, months of inventory and absorption, and presenting a range with stated assumptions. Worked examples include a full three-comparable adjustment grid with reconciliation by reliability rather than averaging, a derived pool adjustment, the per-square-foot extrapolation trap, and a sale-to-list ratio argument worth $51,200 on an $800,000 home.
 - Authored Practice Unit 6 (Marketing Listings & Advertising Compliance): the scope of solicitation materials, identification requirements and blind ads across every medium, writing compliant copy with a table of problem phrases, puffing versus factual representation, photography rules covering virtual staging, digital alteration, AI-generated imagery, and photo copyright, advertising other brokers' listings and sold properties, and digital channel compliance. Worked examples include a full line-by-line rewrite of non-compliant copy, an Instagram blind ad, virtual staging that concealed a defect, and a square footage misrepresentation.
 - Question bank now 489 items, all validated.
+
+## 2026-08-08 — Course player (Phase 2 groundwork)
+
+- Built the student course player: `/learn` course index, `/learn/[course]` unit list with hour and question accounting, and `/learn/[course]/[unit]` lesson pages. All 24 authored units render as static pages.
+- `lib/content.ts` reads the MDX source and question banks directly, so the curriculum files remain the single source of truth — no duplication between content and app.
+- Lesson typography tuned for sustained reading: 68ch measure, rule-separated sections, independently scrolling tables for blueprint grids and closing math, and a mobile-first scale verified at 390px.
+- `SeatTimeTracker` implements the §3.2 heartbeat model — accrues on a 15-second interval, pauses after 10 minutes idle, pauses on tab hide. **Marked in-code as a compliance seam:** it persists to localStorage so the player works before Supabase exists, and must be replaced by an authenticated server endpoint writing to `seat_time_logs` before enrollment. localStorage totals are not auditable.
+- `UnitQuiz` reveals all four rationales after an answer, correct option marked distinctly from the chosen one. Unlimited retakes, 70% standard. **Marked in-code as not reusable for final exams**, which require server-side scoring, pacing enforcement, rotating forms, and identity re-verification.
+- Coursework routes are `noindex` — curriculum is not public marketing content.
+- Course pages surface authored-vs-required hours and display an explicit "course in development" notice when short, so the player cannot imply a complete approved course.
+
+### Curriculum check: is math part of the California exam?
+
+Investigated on request. Secondary sources indicate computational questions are roughly **10–15%** of the salesperson exam, limited to basic formulas — interest, area, commission, and the IRV relationship — with the DRE emphasizing concepts over complex arithmetic. Our bank measures **8.4% computational**, so math is proportionate and arguably slightly light rather than heavy; it was retained. **dre.ca.gov is blocked by the build environment's network policy**, so this could not be confirmed against the primary source and has been added to CLAUDE.md §14.
+
+Also added to §14: course hour accounting, and the requirement to move seat time server-side before enrollment.

@@ -42,7 +42,7 @@ Only humans may move a unit past `self-reviewed` (CLAUDE.md §13). Every unit is
 | 09 | Contract-to-Close | self-reviewed | Full unit + 18-question bank |
 | 10 | Financing the Buyer | draft | Full unit + 18-question bank. |
 | 11 | Disclosures & Risk Management in Practice | draft | Full unit + 16-question bank. |
-| 12 | Trust Funds & Recordkeeping in Practice | pending | |
+| 12 | Trust Funds & Recordkeeping in Practice | draft | Full unit + 16-question bank. |
 | 13 | Escrow, Title & Closing Procedures | pending | |
 | 14 | Property Management & Leasing Basics | pending | |
 | 15 | Building a Compliant Long-Term Business (capstone) | pending | |

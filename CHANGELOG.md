@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-08 — Course 2 Practice Unit 12
+
+- Authored Practice Unit 12 (Trust Funds & Recordkeeping in Practice): funds-handling boundaries, neutral escrow and broker-trust roles, chain of custody, receipt and delivery workflow, beneficiary records, reconciliation, disputes, commingling, conversion, and wire-fraud controls. Includes three worked examples and a 16-question original bank with per-option rationales.
+
 ## 2026-08-08 — Course 2 Practice Unit 11
 
 - Authored Practice Unit 11 (Disclosures & Risk Management in Practice): materiality, visual inspection boundaries, disclosure versus diagnosis, useful transaction records, confidentiality, cybercrime, privacy, advertising, scope of competence, and escalation. Includes three worked examples and a 16-question original bank with per-option rationales.

@@ -94,9 +94,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 </Link>
               ))}
             </nav>
-            <Link href="/#notify" className="btn btn-ink !px-4 !py-2 !text-xs">
-              Get launch updates
-            </Link>
+            <div className="flex items-center gap-4"><Link href="/sign-in" className="hidden text-xs sm:block" style={{ color: "var(--ink-3)" }}>Student sign in</Link><Link href="/#notify" className="btn btn-ink !px-4 !py-2 !text-xs">Get launch updates</Link></div>
           </div>
         </header>
 

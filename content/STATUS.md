@@ -34,9 +34,9 @@ Only humans may move a unit past `self-reviewed` (CLAUDE.md §13). Every unit is
 | 01 | Starting Your Practice: Brokerage Models, Teams & Business Planning | self-reviewed | Full unit + 18-question bank |
 | 02 | Prospecting & Lead Generation | self-reviewed | Full unit + 18-question bank |
 | 03 | Fair Housing in Practice & Implicit Bias | self-reviewed | **SB 263 component.** Full unit + 20-question bank + 5 required participatory activities (scripted response drill, service self-audit, case analysis, role-play, practice standard). Verify SB 263 hour/interactivity specs before submission. |
-| 04 | Listing Presentations & Seller Counseling | pending | |
-| 05 | Pricing Property: CMA Methodology | pending | |
-| 06 | Marketing Listings & Advertising Compliance | pending | |
+| 04 | Listing Presentations & Seller Counseling | self-reviewed | Full unit + 18-question bank |
+| 05 | Pricing Property: CMA Methodology | self-reviewed | Full unit + 20-question bank |
+| 06 | Marketing Listings & Advertising Compliance | self-reviewed | Full unit + 18-question bank |
 | 07 | Working with Buyers | pending | |
 | 08 | Writing & Negotiating Offers | pending | |
 | 09 | Contract-to-Close | pending | |
@@ -60,4 +60,4 @@ Only humans may move a unit past `self-reviewed` (CLAUDE.md §13). Every unit is
 | glossary.json | draft | 336 terms of 500+ target; grows with each unit's key-terms box |
 | exam-sim/blueprint.json | draft | Blueprint weights per CLAUDE.md §9; reverify current DRE weightings before launch (§14) |
 | exam-sim sample set | draft | 25 original exam-style items across all 7 blueprint areas |
-| Question bank total | draft | 433 items. **Rebalancing needed before launch:** agency (6% vs 17% target) and valuation (7% vs 14%) are under-weighted relative to the blueprint; author exam-level fill items per CLAUDE.md §9. |
+| Question bank total | draft | 489 items. **Rebalancing needed before launch:** agency (6% vs 17% target) and valuation (7% vs 14%) are under-weighted relative to the blueprint; author exam-level fill items per CLAUDE.md §9. |

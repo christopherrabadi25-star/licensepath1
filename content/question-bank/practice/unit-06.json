@@ -1,0 +1,404 @@
+{
+  "course": "practice",
+  "unit": 6,
+  "title": "Marketing Listings & Advertising Compliance",
+  "originality": "All items original to LicensePath. Modeled on the DRE exam blueprint and style only; no actual exam items reproduced.",
+  "questions": [
+    {
+      "id": "PRAC-06-001",
+      "course": "practice",
+      "unit": 6,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "An agent posts a listing photo, price, and her personal cell number to her Instagram account, with no brokerage identification anywhere in the post. This is most likely:",
+      "options": [
+        "Acceptable, because social media is personal rather than commercial",
+        "A blind ad, because it fails to reveal the advertiser is a licensee acting through a broker",
+        "A RESPA violation",
+        "Acceptable if her bio mentions she is an agent"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The DRE treats social media as solicitation material; the platform's informality is irrelevant.",
+        "Correct. Advertising property without identifying the licensee's status and responsible broker is a blind ad and is prohibited.",
+        "RESPA governs settlement service referrals, not advertising identification.",
+        "A bio mention does not cure identification missing from the material advertising the property."
+      ],
+      "terms": ["blind ad", "solicitation materials"]
+    },
+    {
+      "id": "PRAC-06-002",
+      "course": "practice",
+      "unit": 6,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which listing phrase presents BOTH a fair housing problem and a separate factual-representation risk?",
+      "options": [
+        "Updated kitchen with quartz counters",
+        "Quiet, safe family neighborhood",
+        "Detached two-car garage",
+        "Corner lot with mature landscaping"
+      ],
+      "answer": 1,
+      "rationales": [
+        "This describes a property feature objectively.",
+        "Correct. 'Family' implicates familial status, while 'safe' is an unverifiable claim about crime that creates misrepresentation exposure independently.",
+        "This describes a physical feature.",
+        "This describes the lot objectively."
+      ],
+      "terms": ["puffing"]
+    },
+    {
+      "id": "PRAC-06-003",
+      "course": "practice",
+      "unit": 6,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Virtually staged listing photographs are:",
+      "options": [
+        "Prohibited in California",
+        "Permitted, but must be disclosed as virtually staged",
+        "Permitted without disclosure if the staging is realistic",
+        "Permitted only for vacant land"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Virtual staging is widely used and lawful.",
+        "Correct. Virtual staging must be clearly labeled; an unlabeled staged image misrepresents the property's actual condition and scale.",
+        "Realism makes an undisclosed alteration more misleading, not less.",
+        "Virtual staging is used for improved property, not land."
+      ],
+      "terms": ["virtual staging"]
+    },
+    {
+      "id": "PRAC-06-004",
+      "course": "practice",
+      "unit": 6,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An agent virtually stages a room, placing a rug over an area of damaged flooring, and does not label the photo. The most serious problem is that the image:",
+      "options": [
+        "Used furniture the seller does not own",
+        "Concealed a property condition a buyer would want to see",
+        "Was taken with a wide-angle lens",
+        "Was not credited to the photographer"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Depicting furniture the seller does not own is ordinary staging and is not itself the problem.",
+        "Correct. Beyond the labeling failure, placing a virtual element over a defect moves the conduct toward active concealment of a material condition.",
+        "Lens choice raises separate scale concerns but is not what happened here.",
+        "Attribution is a copyright matter, unrelated to concealment."
+      ],
+      "terms": ["virtual staging"]
+    },
+    {
+      "id": "PRAC-06-005",
+      "course": "practice",
+      "unit": 6,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which statement in listing copy is lawful puffing rather than a representation of fact?",
+      "options": [
+        "Approximately 2,180 square feet",
+        "Permitted bonus room",
+        "Charming curb appeal",
+        "Zoned for commercial use"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Square footage is verifiable fact and a frequent source of misrepresentation claims.",
+        "Permit status is verifiable and must never be stated without seeing the permit.",
+        "Correct. 'Charming' is subjective opinion no reasonable buyer relies on as fact.",
+        "Zoning is verifiable fact."
+      ],
+      "terms": ["puffing"]
+    },
+    {
+      "id": "PRAC-06-006",
+      "course": "practice",
+      "unit": 6,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An agent repeats a 2,450 sq ft figure from a prior listing; the assessor shows 2,180, and part of the difference is an unpermitted patio enclosure. The agent's exposure is:",
+      "options": [
+        "None, because the figure came from a prior listing",
+        "Misrepresentation, because innocent misstatement of a material fact can support rescission or damages",
+        "Limited to a DRE warning letter",
+        "None, if the buyer had the opportunity to measure"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Repeating an unverified figure is not verification and provides no defense.",
+        "Correct. Even innocent misrepresentation of a material fact can support rescission or damages, and the unpermitted enclosure is separately material and should have been disclosed.",
+        "Civil liability and license discipline both remain available; a warning is not the ceiling.",
+        "A buyer's opportunity to verify does not excuse an affirmative misstatement by the agent."
+      ],
+      "terms": ["puffing"]
+    },
+    {
+      "id": "PRAC-06-007",
+      "course": "practice",
+      "unit": 6,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "The safest way to advertise square footage is to:",
+      "options": [
+        "State the figure without qualification",
+        "Cite the source and recommend buyer verification",
+        "Round up to the nearest hundred",
+        "Omit square footage entirely"
+      ],
+      "answer": 1,
+      "rationales": [
+        "An unqualified figure is an affirmative representation the agent must be able to support.",
+        "Correct. Attributing the figure to its source — assessor, appraisal, or builder — and recommending buyer verification is the standard protective practice.",
+        "Rounding up overstates the property and compounds the risk.",
+        "Omitting a material marketing detail disserves the seller when a qualified statement is available."
+      ],
+      "terms": ["solicitation materials"]
+    },
+    {
+      "id": "PRAC-06-008",
+      "course": "practice",
+      "unit": 6,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which advertising phrase constitutes source of income discrimination in California?",
+      "options": [
+        "Cash offers preferred",
+        "No Section 8",
+        "Conventional financing welcome",
+        "Seller will consider all offers"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Preferring cash concerns transaction certainty, not a protected characteristic.",
+        "Correct. Source of income is protected under California law, and refusing housing vouchers in advertising is a clear violation.",
+        "Noting acceptable financing types does not exclude a protected source of income.",
+        "This states openness and excludes no one."
+      ],
+      "terms": ["Equal Housing Opportunity"]
+    },
+    {
+      "id": "PRAC-06-009",
+      "course": "practice",
+      "unit": 6,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Listing photographs are typically owned by:",
+      "options": [
+        "The listing agent automatically",
+        "The photographer, unless the agreement transfers rights",
+        "The seller, as owner of the property",
+        "The MLS"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Paying for photos does not by itself transfer copyright.",
+        "Correct. Photographs are copyrighted works owned by the photographer absent a written transfer or license — which is why agents need a written license covering their intended uses.",
+        "Owning the property does not create copyright in images of it.",
+        "MLS submission grants usage rights within the MLS framework but does not transfer ownership."
+      ],
+      "terms": ["attribution"]
+    },
+    {
+      "id": "PRAC-06-010",
+      "course": "practice",
+      "unit": 6,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An agent who represented the buyer places a 'SOLD' rider bearing her name on a property she did not list. This is:",
+      "options": [
+        "Standard practice for the buyer's agent",
+        "Misleading, because it implies a listing role she did not have",
+        "Permitted with the buyer's consent",
+        "Permitted if the sign is removed within a week"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Sign riders on a listing belong to the listing broker.",
+        "Correct. Advertising a sale in a way that implies a role the agent did not have is misleading; 'Just sold — represented the buyer' would be accurate.",
+        "The buyer cannot authorize a misleading representation about the agent's role.",
+        "Duration does not cure a misleading implication."
+      ],
+      "terms": ["attribution"]
+    },
+    {
+      "id": "PRAC-06-011",
+      "course": "practice",
+      "unit": 6,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Displaying another broker's listings on an agent's website is generally permitted through IDX, provided the agent:",
+      "options": [
+        "Removes the listing broker's name to avoid confusion",
+        "Complies with MLS attribution requirements",
+        "Obtains the seller's written consent",
+        "Pays the listing broker a display fee"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Removing the listing broker's identification is precisely the violation attribution rules prevent.",
+        "Correct. IDX permits display of other participants' listings subject to attribution requirements identifying the listing broker.",
+        "Seller consent flows through the listing broker's MLS participation, not individual permission.",
+        "IDX display does not involve a per-listing payment to the listing broker."
+      ],
+      "terms": ["IDX", "attribution"]
+    },
+    {
+      "id": "PRAC-06-012",
+      "course": "practice",
+      "unit": 6,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An agent digitally removes overhead power lines from a listing photograph. This is:",
+      "options": [
+        "Acceptable image enhancement",
+        "A misrepresentation of the property's actual condition",
+        "Acceptable if disclosed only to the buyer's agent",
+        "Acceptable because power lines are outside the property line"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Removing a real feature goes beyond enhancement into altering what the property is.",
+        "Correct. Editing out power lines, neighboring structures, or other real conditions misrepresents the property, distinct from disclosed virtual staging.",
+        "Selective disclosure to one party does not cure a misleading public advertisement.",
+        "A condition visible from and affecting the property is material regardless of where the poles sit."
+      ],
+      "terms": ["virtual staging"]
+    },
+    {
+      "id": "PRAC-06-013",
+      "course": "practice",
+      "unit": 6,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "AI-generated or AI-enhanced listing imagery should be treated:",
+      "options": [
+        "As ordinary photography requiring no special handling",
+        "The same as virtual staging — permitted, clearly labeled, and never used to conceal a condition",
+        "As prohibited under all circumstances",
+        "As acceptable only for exterior shots"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Imagery that does not depict the property as it is cannot be presented as ordinary photography.",
+        "Correct. If an image does not show the property as it actually exists, it must be disclosed as an alteration and must never mask a defect.",
+        "Enhancement is not categorically prohibited; undisclosed misrepresentation is.",
+        "The concern is accuracy, not which elevation is depicted."
+      ],
+      "terms": ["virtual staging"]
+    },
+    {
+      "id": "PRAC-06-014",
+      "course": "practice",
+      "unit": 6,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A licensee's website must display licensee and broker identification:",
+      "options": [
+        "Only on the contact page",
+        "On pages a consumer may land on, not buried in a single interior page",
+        "Only if the site advertises specific listings",
+        "Only in the site's terms of use"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Consumers arrive on many pages directly from search and social links.",
+        "Correct. Identification must be present where a consumer encounters the solicitation, not hidden on one interior page.",
+        "The identification obligation attaches to solicitation generally, not only to listing pages.",
+        "Legal boilerplate is not where required identification belongs."
+      ],
+      "terms": ["license identification requirement"]
+    },
+    {
+      "id": "PRAC-06-015",
+      "course": "practice",
+      "unit": 6,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An agent advertises 'Sold 12 homes last year,' but 12 was the team's total and the agent personally represented 4. The claim is:",
+      "options": [
+        "Acceptable industry shorthand",
+        "Misleading, because production claims must accurately reflect the agent's own role",
+        "Acceptable if the team name appears nearby",
+        "Acceptable because team production is shared"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Ambiguity that inflates an agent's record is not shorthand; it is a misrepresentation.",
+        "Correct. Advertised production statistics must be accurate and not misleading about the agent's personal involvement.",
+        "Proximity of a team name does not clarify that the agent personally handled four transactions.",
+        "Shared team effort does not permit an individual to claim the team's total as personal production."
+      ],
+      "terms": ["solicitation materials"]
+    },
+    {
+      "id": "PRAC-06-016",
+      "course": "practice",
+      "unit": 6,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Marketing imagery that consistently depicts only one demographic group can:",
+      "options": [
+        "Never raise legal concerns, since images make no statements",
+        "Signal an unlawful preference under fair housing law",
+        "Be cured by adding the Equal Housing Opportunity logo",
+        "Be justified as reflecting the neighborhood's composition"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Images communicate preference as effectively as words and are treated accordingly.",
+        "Correct. Advertising imagery indicating a preference for or against protected groups is a documented enforcement theory.",
+        "The logo is required but does not cure imagery that signals a preference.",
+        "Reflecting neighborhood composition is not a defense to advertising that signals who is welcome."
+      ],
+      "terms": ["Equal Housing Opportunity"]
+    },
+    {
+      "id": "PRAC-06-017",
+      "course": "practice",
+      "unit": 6,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Describing a property as 'walking distance to St. Anne's' raises a concern under:",
+      "options": [
+        "Truth in Lending",
+        "Fair housing law, because it may signal a religious preference",
+        "RESPA",
+        "The statute of frauds"
+      ],
+      "answer": 1,
+      "rationales": [
+        "TILA governs credit cost disclosure.",
+        "Correct. Naming a religious institution as a landmark can indicate a religious preference; a neutral proximity reference is the safer construction.",
+        "RESPA governs settlement service referrals.",
+        "The statute of frauds concerns which contracts must be written."
+      ],
+      "terms": ["Equal Housing Opportunity"]
+    },
+    {
+      "id": "PRAC-06-018",
+      "course": "practice",
+      "unit": 6,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "The single best test to apply before publishing any listing copy or social post is:",
+      "options": [
+        "Does it sound professional?",
+        "Does it describe the property rather than the people?",
+        "Is it under the character limit?",
+        "Does it mention the price?"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Tone does not detect fair housing problems.",
+        "Correct. Nearly every advertising fair housing violation fails this one test, and applying it consistently also produces better marketing copy.",
+        "Length has no bearing on compliance.",
+        "Price disclosure is unrelated to the fair housing risk in copy."
+      ],
+      "terms": ["solicitation materials", "Equal Housing Opportunity"]
+    }
+  ]
+}

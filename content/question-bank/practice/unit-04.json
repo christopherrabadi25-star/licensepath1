@@ -1,0 +1,404 @@
+{
+  "course": "practice",
+  "unit": 4,
+  "title": "Listing Presentations & Seller Counseling",
+  "originality": "All items original to LicensePath. Modeled on the DRE exam blueprint and style only; no actual exam items reproduced.",
+  "questions": [
+    {
+      "id": "PRAC-04-001",
+      "course": "practice",
+      "unit": 4,
+      "blueprint_area": "agency",
+      "difficulty": 2,
+      "stem": "At a listing appointment, the correct sequence is to deliver the agency disclosure:",
+      "options": [
+        "After the seller signs the listing agreement",
+        "Before the seller signs the listing agreement",
+        "At the same time as the first offer is presented",
+        "Only if the seller asks about representation"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Delivering it afterward defeats its purpose and creates a technical violation.",
+        "Correct. The agency disclosure must be delivered and the relationship elected in writing before the listing is signed, so the seller understands whom the agent represents before committing.",
+        "Confirmation occurs with the purchase contract, but initial disclosure comes far earlier.",
+        "The obligation is affirmative and does not depend on the client raising it."
+      ],
+      "terms": ["agency disclosure"]
+    },
+    {
+      "id": "PRAC-04-002",
+      "course": "practice",
+      "unit": 4,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "The most useful document an agent can bring to a listing appointment, from the seller's perspective, is:",
+      "options": [
+        "A brokerage marketing brochure",
+        "A written seller's net sheet",
+        "A list of the agent's designations",
+        "A printout of active listings only"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Brokerage materials speak to the agent's story rather than the seller's decision.",
+        "Correct. Sellers decide in net proceeds, not gross price; a written estimate of proceeds after payoff, commissions, costs, and prorations addresses the question they actually have.",
+        "Designations rarely influence a seller's decision and do not answer their questions.",
+        "Actives show competition but omit the closed sales that constitute evidence of value."
+      ],
+      "terms": ["seller's net sheet"]
+    },
+    {
+      "id": "PRAC-04-003",
+      "course": "practice",
+      "unit": 4,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "An exclusive listing agreement that omits a definite termination date is:",
+      "options": [
+        "Enforceable until the property sells",
+        "Grounds for disciplinary action against the licensee",
+        "Automatically limited to six months",
+        "Valid if the seller initials the omission"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Open-ended exclusive listings are what the rule prohibits.",
+        "Correct. A definite termination date is required in an exclusive listing, and omitting it — or including an automatic extension — is grounds for discipline.",
+        "No statutory default term fills the gap.",
+        "The requirement cannot be waived by initialing."
+      ],
+      "terms": ["definite termination date"]
+    },
+    {
+      "id": "PRAC-04-004",
+      "course": "practice",
+      "unit": 4,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "Before taking a listing, public records show title vested as 'Rosa M., a life estate; remainder to David M. and Ana M.' To deliver insurable fee title, the listing agreement should be signed by:",
+      "options": [
+        "Rosa alone, as the party in possession",
+        "Rosa, David, and Ana",
+        "David and Ana alone, as the ultimate owners",
+        "Rosa, with the remaindermen notified at closing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Rosa can convey only her life estate, which ends at her death.",
+        "Correct. Combining the life estate and the remainder produces fee simple absolute, so all three must be parties — a threshold question to resolve at the appointment rather than in escrow.",
+        "The remaindermen hold no present possessory interest and cannot convey the life estate.",
+        "Notification at closing is far too late; the remaindermen must be signatories."
+      ],
+      "terms": ["estoppel certificate"]
+    },
+    {
+      "id": "PRAC-04-005",
+      "course": "practice",
+      "unit": 4,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A home is expected to sell for $845,000. Payoff is $412,000, total commission 5%, and other closing costs total $9,804.50. Ignoring prorations, estimated seller net is approximately:",
+      "options": [
+        "$433,000",
+        "$380,945",
+        "$390,750",
+        "$423,196"
+      ],
+      "answer": 1,
+      "rationales": [
+        "$433,000 subtracts only the loan payoff, omitting commission and costs.",
+        "Correct. $845,000 − $412,000 payoff − $42,250 commission − $9,804.50 costs = $380,945.50.",
+        "$390,750 omits part of the closing costs.",
+        "$423,196 omits the commission."
+      ],
+      "terms": ["seller's net sheet"]
+    },
+    {
+      "id": "PRAC-04-006",
+      "course": "practice",
+      "unit": 4,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "The most persuasive pricing exhibit when counseling a seller against overpricing is:",
+      "options": [
+        "Active listings currently on the market",
+        "Expired and withdrawn listings",
+        "The agent's personal opinion of value",
+        "The seller's original purchase price"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Actives show what sellers hope for, not what buyers pay.",
+        "Correct. Expireds are evidence of what the market refused, which demonstrates the cost of testing a high price better than any argument.",
+        "Opinion invites debate; evidence does not.",
+        "What the seller paid has no bearing on current market value."
+      ],
+      "terms": ["days on market (DOM)"]
+    },
+    {
+      "id": "PRAC-04-007",
+      "course": "practice",
+      "unit": 4,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "The best time to agree on a price reduction schedule is:",
+      "options": [
+        "After the first thirty days without an offer",
+        "At the listing appointment, before the property goes on market",
+        "When the seller raises the subject",
+        "Only if the property fails to sell within the listing term"
+      ],
+      "answer": 1,
+      "rationales": [
+        "By then the seller is frustrated and emotion has attached to the price.",
+        "Correct. Agreeing the review schedule before marketing begins converts a difficult negotiation into a plan the seller already accepted.",
+        "Waiting for the seller to raise it means it usually never gets raised.",
+        "A reduction discussion after the term expires is too late to help."
+      ],
+      "terms": ["price reduction schedule"]
+    },
+    {
+      "id": "PRAC-04-008",
+      "course": "practice",
+      "unit": 4,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A seller says another agent quoted a lower commission. The licensee may:",
+      "options": [
+        "Explain that commission rates are set by the local association",
+        "Negotiate the rate freely, but never claim any rate is standard or fixed",
+        "Match the rate only with DRE approval",
+        "Refuse to discuss commission before the listing is signed"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Associations do not and cannot set commission rates; claiming so risks an antitrust problem.",
+        "Correct. Commissions are always negotiable, and a licensee may negotiate — but representing a rate as standard, customary, or fixed by law is prohibited.",
+        "The DRE does not approve commission rates.",
+        "Compensation is a core listing term and must be discussed openly."
+      ],
+      "terms": ["definite termination date"]
+    },
+    {
+      "id": "PRAC-04-009",
+      "course": "practice",
+      "unit": 4,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A seller wants to reserve the right to sell to her cousin without paying a commission, but otherwise wants full representation. The best solution is:",
+      "options": [
+        "An open listing",
+        "An exclusive right to sell with the cousin as a written named exclusion",
+        "An oral side agreement",
+        "A net listing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "An open listing gives up the protection the seller says she wants.",
+        "Correct. A named written exclusion honors the seller's actual intent while protecting the broker as to every other buyer, and it puts the understanding in the contract.",
+        "Oral commission agreements are unenforceable and invite disputes.",
+        "A net listing is a conflict-prone compensation structure and does not address the exclusion question."
+      ],
+      "terms": ["named exclusion"]
+    },
+    {
+      "id": "PRAC-04-010",
+      "course": "practice",
+      "unit": 4,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Completing the seller's disclosures BEFORE the property is marketed primarily:",
+      "options": [
+        "Increases the sale price",
+        "Eliminates the buyer's statutory termination right that arises from post-offer delivery",
+        "Satisfies the agent's visual inspection duty",
+        "Removes the need for a natural hazard report"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Early disclosure does not itself raise price.",
+        "Correct. When disclosures are delivered after a buyer signs an offer, a statutory right to terminate arises; delivering beforehand eliminates that risk entirely.",
+        "The agent's visual inspection duty is separate and must still be performed.",
+        "The NHD remains required regardless of timing."
+      ],
+      "terms": ["seller's net sheet"]
+    },
+    {
+      "id": "PRAC-04-011",
+      "course": "practice",
+      "unit": 4,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "When listing an occupied rental property, the agent should obtain from the seller:",
+      "options": [
+        "Only the current rent amount",
+        "The leases, rent roll, security deposit accounting, and tenant estoppel certificates",
+        "The tenants' credit reports",
+        "Written tenant consent to the sale"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Rent alone tells a buyer nothing about the obligations they are inheriting.",
+        "Correct. A buyer takes subject to existing leases, so leases, rent roll, deposit accounting, and estoppel certificates confirming terms are essential.",
+        "Tenant credit reports are private and not the seller's to distribute.",
+        "Tenants have no consent right over the owner's sale."
+      ],
+      "terms": ["estoppel certificate"]
+    },
+    {
+      "id": "PRAC-04-012",
+      "course": "practice",
+      "unit": 4,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A seller directs the agent to omit a known recurring roof leak from the disclosures and refuses to reconsider. The agent should:",
+      "options": [
+        "Take the listing and complete the disclosure accurately without telling the seller",
+        "Decline or withdraw from the listing",
+        "Take the listing and note the disagreement in the file",
+        "Take the listing and disclose only if a buyer asks"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Completing the seller's own disclosure form contrary to their instruction without addressing it does not resolve a client actively directing concealment.",
+        "Correct. The agent cannot participate in concealing a known material fact; when the seller persists after being informed, declining or withdrawing is the appropriate course.",
+        "A file note does not cure participation in concealment.",
+        "Waiting to be asked is concealment."
+      ],
+      "terms": ["seller's net sheet"]
+    },
+    {
+      "id": "PRAC-04-013",
+      "course": "practice",
+      "unit": 4,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A new licensee with no closed transactions is asked about experience at a listing appointment. The best response is to:",
+      "options": [
+        "Describe team transactions as though they were personally closed",
+        "State the situation honestly and describe the broker's oversight and the attention the agent can give",
+        "Avoid the question and redirect to marketing",
+        "Claim more experience than the agent has to win the listing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Presenting others' transactions as your own is a misrepresentation and easily discovered.",
+        "Correct. A new agent's honest position — the broker's experience behind them and more available time than a busy top producer — is a genuine argument sellers respond to.",
+        "Evading a direct question damages credibility more than the honest answer would.",
+        "Inflating a track record is a misrepresentation and grounds for discipline."
+      ],
+      "terms": ["marketing plan"]
+    },
+    {
+      "id": "PRAC-04-014",
+      "course": "practice",
+      "unit": 4,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Researching a property's vesting BEFORE the listing appointment matters most because it determines:",
+      "options": [
+        "The likely sale price",
+        "Who must sign to convey marketable title",
+        "The commission rate",
+        "The marketing strategy"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Vesting does not affect market value.",
+        "Correct. Trusts, life estates, community property, and co-ownership each change who must sign — a threshold question best resolved before marketing rather than in escrow.",
+        "Compensation is negotiated independently of how title is held.",
+        "Marketing strategy flows from the property and market, not the vesting."
+      ],
+      "terms": ["estoppel certificate"]
+    },
+    {
+      "id": "PRAC-04-015",
+      "course": "practice",
+      "unit": 4,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A safety (protection) clause typically requires the broker to deliver, within a stated period after expiration:",
+      "options": [
+        "A final marketing report",
+        "A written list of protected prospects",
+        "A recorded notice of the broker's interest",
+        "An accounting of marketing expenses"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A marketing report is not what triggers the clause.",
+        "Correct. Enforceability generally depends on timely delivery of a written list identifying prospects the broker introduced during the listing — calendar it the day the listing expires.",
+        "Brokers do not record interests against a seller's title to secure commissions.",
+        "Expense accounting is unrelated to the protection period."
+      ],
+      "terms": ["named exclusion"]
+    },
+    {
+      "id": "PRAC-04-016",
+      "course": "practice",
+      "unit": 4,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A seller's net sheet should always be:",
+      "options": [
+        "Presented as a guaranteed figure",
+        "Labeled an estimate, with conservative assumptions",
+        "Withheld until an offer is received",
+        "Prepared only by the escrow officer"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Guaranteeing proceeds is impossible and creates liability when figures shift.",
+        "Correct. Label it an estimate and be conservative — sellers remember the number they were shown, and optimistic figures create disappointment and claims.",
+        "Its greatest value is at the listing appointment, when the seller is deciding.",
+        "Agents routinely prepare estimates; escrow prepares the final settlement statement."
+      ],
+      "terms": ["seller's net sheet"]
+    },
+    {
+      "id": "PRAC-04-017",
+      "course": "practice",
+      "unit": 4,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A seller insists on a list price well above what the data supports and refuses any review schedule. The agent's best course is to:",
+      "options": [
+        "Take the listing, since any listing generates exposure",
+        "Decline plainly, explain why, and leave the door open",
+        "Take the listing and reduce the price unilaterally later",
+        "Take the listing at the seller's price and market it minimally"
+      ],
+      "answer": 1,
+      "rationales": [
+        "An overpriced listing consumes months of effort, goes stale, and often sells below what correct pricing would have achieved.",
+        "Correct. Declining without insult preserves the relationship — many such sellers call back within sixty days — and avoids committing to a price the agent cannot defend.",
+        "An agent cannot change the list price without the seller's authorization.",
+        "Accepting a listing while intending to underserve it breaches the duty of reasonable care."
+      ],
+      "terms": ["price reduction schedule"]
+    },
+    {
+      "id": "PRAC-04-018",
+      "course": "practice",
+      "unit": 4,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Settling which fixtures and personal property are included or excluded is best done:",
+      "options": [
+        "At the final walk-through",
+        "In writing at the listing appointment",
+        "By relying on the MARIA tests if a dispute arises",
+        "Verbally with the buyer's agent"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The walk-through is where unresolved fixture questions become disputes, not where they should first be raised.",
+        "Correct. Documenting inclusions and exclusions in the listing prevents the single most common closing argument, and written agreement controls over the fixture tests.",
+        "MARIA resolves disputes expensively; a written term prevents them entirely.",
+        "Verbal understandings about fixtures are unenforceable and routinely disputed."
+      ],
+      "terms": ["marketing plan"]
+    }
+  ]
+}

@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-08 — Course 2 Practice Unit 11
+
+- Authored Practice Unit 11 (Disclosures & Risk Management in Practice): materiality, visual inspection boundaries, disclosure versus diagnosis, useful transaction records, confidentiality, cybercrime, privacy, advertising, scope of competence, and escalation. Includes three worked examples and a 16-question original bank with per-option rationales.
+
 ## 2026-08-08 — Course 2 Practice Unit 10
 
 - Authored Practice Unit 10 (Financing the Buyer): role boundaries between agent and lender; prequalification through clear to close; loan timeline coordination; LTV, down-payment, seller-credit, and appraisal-gap math; Loan Estimate and Closing Disclosure purpose; fair-lending and privacy boundaries; financing red flags; and wire-fraud controls. Includes three worked SoCal transaction examples and an 18-question original bank with per-option rationales.

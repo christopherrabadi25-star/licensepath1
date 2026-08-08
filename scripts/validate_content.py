@@ -39,7 +39,10 @@ def main() -> int:
 
     for path in banks:
         try:
-            data = json.load(open(path))
+            # Curriculum source files are UTF-8. Be explicit so validation works
+            # consistently on Windows hosts whose default codec is cp1252.
+            with open(path, encoding="utf-8") as source_file:
+                data = json.load(source_file)
         except json.JSONDecodeError as exc:
             errors.append(f"{path}: invalid JSON — {exc}")
             continue

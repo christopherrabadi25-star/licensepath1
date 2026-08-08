@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-08 — Course 2 Practice Unit 14
+
+- Authored Practice Unit 14 (Property Management & Leasing Basics): agency, fair-housing-safe leasing, application privacy, maintenance and emergency routing, trust-fund boundaries, resident entry/privacy, notices, vendors, reporting, turnover, and neutral records. Includes six worked examples and a 16-question original bank with per-option rationales.
+
 ## 2026-08-08 — Course 2 Practice Unit 13
 
 - Authored Practice Unit 13 (Escrow, Title & Closing Procedures): role boundaries, escrow instruction discipline, preliminary title review, vesting and payoff red flags, contingency tracking, signing/funding/recording/possession distinctions, closing communication, and post-close records. Includes five worked examples and a 16-question original bank with per-option rationales.

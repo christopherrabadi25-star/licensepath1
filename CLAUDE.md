@@ -83,9 +83,10 @@ These rules shape the entire product. Enforce them **server-side, in code and da
 1. Form the LicensePath legal entity; finalize ownership.
 2. Prepare and submit DRE statutory course approval applications (RE 306-series forms — verify current form numbers, fees, and requirements at dre.ca.gov before filing; see §14).
 3. Submit complete course materials per course: full text, final exams, quizzes, hour breakdown, and course outline — everything in `/content` must be packaged for this submission.
-4. Practice course must include the post-2024 required components: **implicit bias training and an expanded fair housing component with interactive/participatory elements** (SB 263). This is built into Course 2's outline below.
-5. Confirm private-postsecondary (BPPE) exemption status for schools offering solely DRE-approved courses (§14).
-6. Expect a multi-month review; sequence marketing launch after approval.
+4. Practice course must include the post-2024 required components. **Verified 2026-08:** effective January 1, 2024, any Real Estate Practice course submitted to qualify an applicant for a license examination must include **implicit bias** and **fair housing** components, with an **interactive participatory component in which the applicant role plays as BOTH the consumer AND the real estate professional**. Built into Course 2 Unit 3, whose Activity 4 requires all six role assignments (three scenarios × two roles).
+5. **Verified 2026-08 — education structure:** three courses totaling **135 hours** (Principles 45, Practice 45, one approved elective 45). **Legal Aspects of Real Estate is on the DRE's approved elective list**, alongside Escrows, Property Management, Real Estate Finance, Real Estate Appraisal, Real Estate Economics, Common Interest Developments, Business Law, Accounting, Mortgage Loan Brokering and Lending, Computer Applications in Real Estate, and Real Estate Office Administration. Our elective choice is valid. (Confirmed via secondary sources; dre.ca.gov was unreachable from the build environment — reconfirm at filing.)
+6. Confirm private-postsecondary (BPPE) exemption status for schools offering solely DRE-approved courses (§14).
+7. Expect a multi-month review; sequence marketing launch after approval.
 
 ### 3.4 Legal guardrails
 

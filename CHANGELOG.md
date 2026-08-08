@@ -118,3 +118,19 @@ Lint, typecheck, and build all pass; 348 static pages generated.
 Investigated on request. Secondary sources indicate computational questions are roughly **10–15%** of the salesperson exam, limited to basic formulas — interest, area, commission, and the IRV relationship — with the DRE emphasizing concepts over complex arithmetic. Our bank measures **8.4% computational**, so math is proportionate and arguably slightly light rather than heavy; it was retained. **dre.ca.gov is blocked by the build environment's network policy**, so this could not be confirmed against the primary source and has been added to CLAUDE.md §14.
 
 Also added to §14: course hour accounting, and the requirement to move seat time server-side before enrollment.
+
+## 2026-08-08 — Curriculum verification + SB 263 dual-role correction
+
+Verified the curriculum structure against California requirements. Findings:
+
+- **Education structure confirmed correct.** Three courses totaling 135 hours: Real Estate Principles (45), Real Estate Practice (45), and one approved elective (45).
+- **Our elective choice is valid.** Legal Aspects of Real Estate appears on the DRE's approved elective list, alongside Escrows, Property Management, Real Estate Finance, Real Estate Appraisal, Real Estate Economics, Common Interest Developments, Business Law, Accounting, Mortgage Loan Brokering and Lending, Computer Applications in Real Estate, and Real Estate Office Administration.
+- **SB 263 requirement is more specific than previously built for.** Effective January 1, 2024, a Real Estate Practice course submitted to qualify an applicant for the license exam must include implicit bias and fair housing components with an interactive participatory component in which the applicant **role plays as both the consumer and the real estate professional**. The prior Activity 4 had partners switching roles but did not frame both roles as mandatory or document them.
+
+**Correction applied to Practice Unit 3, Activity 4** — rebuilt as an explicit dual-role exercise:
+- Three scenarios (seller's discriminatory request, buyer's neighborhood question, rental applicant with a voucher and assistance animal), each performed **twice — once as the consumer, once as the professional** — for six required role assignments.
+- Debrief questions now probe the consumer experience specifically ("how did the refusal feel?", "what did playing the consumer teach you that playing the professional did not?"), because the pedagogical value of the consumer role is hearing how a refusal lands.
+- Submission requires attestation or recording of all six role assignments.
+- Unit header and frontmatter `interactivity` field updated to name the dual-role requirement.
+
+CLAUDE.md §3.3 updated with both verified findings, marked with verification date and the caveat that dre.ca.gov was unreachable from the build environment so both were confirmed via secondary sources and must be reconfirmed at filing.

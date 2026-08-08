@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-08 — Course 2 Practice Unit 13
+
+- Authored Practice Unit 13 (Escrow, Title & Closing Procedures): role boundaries, escrow instruction discipline, preliminary title review, vesting and payoff red flags, contingency tracking, signing/funding/recording/possession distinctions, closing communication, and post-close records. Includes five worked examples and a 16-question original bank with per-option rationales.
+
 ## 2026-08-08 — Course 2 Practice Unit 12
 
 - Authored Practice Unit 12 (Trust Funds & Recordkeeping in Practice): funds-handling boundaries, neutral escrow and broker-trust roles, chain of custody, receipt and delivery workflow, beneficiary records, reconciliation, disputes, commingling, conversion, and wire-fraud controls. Includes three worked examples and a 16-question original bank with per-option rationales.

@@ -2,15 +2,57 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Brand tokens — CLAUDE.md §11. Working values; confirm with Christopher before public launch. */
+/*
+ * LicensePath design tokens.
+ *
+ * Navy + gold carry over from The Rabadi Group (CLAUDE.md §11) for brand
+ * continuity. The §11 tokens are marked "working — confirm final brand with
+ * Christopher before public launch"; the typography here is a proposed upgrade
+ * from Outfit/Inter to a document-native pairing.
+ *
+ * Neutrals are biased toward the navy rather than pure grey, so greys read as
+ * chosen rather than inherited.
+ */
 :root {
-  --navy: #0b1f3a;
+  --ink: #0b1f3a;
+  --ink-2: #29405e;
+  --ink-3: #5a6b83;
+  --ink-4: #8b98a9;
+
+  --rule: #d8dee7;
+  --rule-strong: #b6c0ce;
+
+  --paper: #f7f8fa;
+  --paper-2: #ffffff;
+  --paper-sunk: #eef1f5;
+
   --gold: #c9a96e;
-  --emerald: #0f7b5f;
-  --surface: #fbfaf7;
-  --surface-alt: #f4f1ea;
-  --ink: #12151a;
-  --ink-muted: #4a5361;
+  --gold-deep: #9c7c42;
+  --gold-wash: #f5edde;
+
+  --seal: #0f7b5f;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ink: #eef2f7;
+    --ink-2: #c3cddb;
+    --ink-3: #94a2b5;
+    --ink-4: #6c7c92;
+
+    --rule: #23324a;
+    --rule-strong: #35486597;
+
+    --paper: #08131f;
+    --paper-2: #0d1b2b;
+    --paper-sunk: #060f19;
+
+    --gold: #d9bd85;
+    --gold-deep: #e6d2a8;
+    --gold-wash: #1a2436;
+
+    --seal: #4bbf9a;
+  }
 }
 
 @layer base {
@@ -19,38 +61,81 @@
   }
 
   body {
-    background-color: var(--surface);
+    background: var(--paper);
     color: var(--ink);
-    font-family: var(--font-body), Inter, system-ui, sans-serif;
+    font-family: var(--font-body), system-ui, sans-serif;
+    font-feature-settings: "ss01", "cv05";
     text-rendering: optimizeLegibility;
   }
 
   h1,
   h2,
-  h3,
-  h4 {
-    font-family: var(--font-display), Outfit, system-ui, sans-serif;
-    letter-spacing: -0.02em;
+  h3 {
+    font-family: var(--font-display), Georgia, serif;
+    color: var(--ink);
+    text-wrap: balance;
+    font-variation-settings: "SOFT" 0, "WONK" 0;
   }
 
-  /* Accessibility: visible focus for keyboard users (WCAG 2.1 AA — CLAUDE.md §3.4) */
+  ::selection {
+    background: var(--gold);
+    color: #0b1f3a;
+  }
+
   :focus-visible {
-    outline: 3px solid var(--gold);
-    outline-offset: 2px;
+    outline: 2px solid var(--gold-deep);
+    outline-offset: 3px;
   }
 }
 
 @layer components {
-  .btn-primary {
-    @apply inline-flex items-center justify-center rounded-lg bg-navy px-6 py-3 font-semibold text-white transition hover:bg-navy-700 focus-visible:outline-none;
+  /* Monospace annotation — the parcel-map callout voice */
+  .anno {
+    font-family: var(--font-mono), ui-monospace, monospace;
+    font-size: 0.6875rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink-3);
   }
 
-  .btn-secondary {
-    @apply inline-flex items-center justify-center rounded-lg border-2 border-navy px-6 py-3 font-semibold text-navy transition hover:bg-navy hover:text-white focus-visible:outline-none;
+  .rule-t {
+    border-top: 1px solid var(--rule);
   }
 
-  .container-content {
-    @apply mx-auto w-full max-w-content px-5 sm:px-8;
+  .wrap {
+    @apply mx-auto w-full px-5 sm:px-8;
+    max-width: 74rem;
+  }
+
+  .measure {
+    max-width: 62ch;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center px-6 py-3 text-sm font-semibold transition;
+    font-family: var(--font-body), system-ui, sans-serif;
+    letter-spacing: 0.01em;
+  }
+
+  .btn-ink {
+    background: var(--ink);
+    color: var(--paper-2);
+  }
+  .btn-ink:hover {
+    background: var(--ink-2);
+  }
+
+  .btn-line {
+    border: 1px solid var(--rule-strong);
+    color: var(--ink);
+  }
+  .btn-line:hover {
+    border-color: var(--ink);
+  }
+
+  /* Tabular data — settlement statements, exam blueprints, fee tables */
+  .tabular {
+    font-variant-numeric: tabular-nums;
   }
 }
 
@@ -60,5 +145,6 @@
   *::after {
     animation-duration: 0.01ms !important;
     transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
   }
 }

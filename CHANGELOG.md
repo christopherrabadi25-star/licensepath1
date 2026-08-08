@@ -43,3 +43,41 @@
 - Added `scripts/validate_content.py` — CI-enforced validation of the §8 question schema (4 options, 4 rationales, answer index matching the "Correct" rationale, unique IDs, unique glossary terms) plus a blueprint coverage report against §9 weights.
 - Added GitHub Actions CI running lint, typecheck, build, and content validation on every PR (Phase 0 definition of done).
 - Content validator confirms 377 questions and 336 glossary terms pass, and flags agency (6.1% vs 17% target) and valuation (6.9% vs 14%) as under-weighted for simulator assembly.
+
+## 2026-08-08 — Marketing site redesign + SEO infrastructure
+
+### Copy correction (important)
+The first homepage described unbuilt features in the present tense — an AI tutor that
+answers questions "grounded in the exact course text," and an implied complete question
+bank. Neither exists. It also carried an invented tagline and founder voice that the
+founders never wrote. For a school whose compliance posture depends on marketing
+truthfulness while awaiting DRE approval (§3.2), present-tense claims for unbuilt
+features are a real liability, not a stylistic quibble. All such copy is removed.
+
+The homepage now carries an explicit build-status section stating what is written, what
+is in progress, and that the AI tutor is "in development — not yet available."
+
+### Design
+- Rebuilt the visual system around real estate's own document vernacular — hairline
+  rules, monospace annotations, tabular data, sequential numbering that encodes the
+  actual licensing path rather than decorating cards.
+- Typography moved from Outfit/Inter to Fraunces (display), Public Sans (body — the US
+  government design system face, apt for a regulatory subject), IBM Plex Mono
+  (annotations). CLAUDE.md §11 marks the prior tokens "working, confirm before launch";
+  navy and gold are retained for Rabadi Group brand continuity.
+- Neutrals rebiased toward navy; added dark mode via prefers-color-scheme.
+
+### SEO
+- **336 statically generated glossary term pages** at `/glossary/[slug]`, each with
+  DefinedTerm and BreadcrumbList structured data, unique title and meta description, and
+  internal links to same-area terms for crawl depth. This is the §2.4 programmatic SEO
+  base.
+- `/exam` guide with FAQPage structured data on six high-intent queries.
+- `/courses` with Course structured data for all three courses; `/about`.
+- EducationalOrganization JSON-LD in the root layout.
+- `sitemap.xml` (341 URLs) and `robots.txt` generated from the content source.
+- Per-page canonical URLs; legal placeholders marked noindex.
+- `lib/exam.ts` centralizes exam facts and blueprint weights so a regulatory change is a
+  one-file edit rather than a hunt through JSX.
+
+Lint, typecheck, and build all pass; 348 static pages generated.

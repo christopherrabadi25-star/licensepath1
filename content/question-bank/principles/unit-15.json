@@ -1,0 +1,493 @@
+{
+  "course": "principles",
+  "unit": 15,
+  "title": "Fair Housing & Ethics",
+  "originality": "All items original to LicensePath. Modeled on the DRE exam blueprint and style only; no actual exam items reproduced.",
+  "note": "Enlarged bank (22 items) given fair housing's weight within the Practice of Real Estate & Disclosures area and its consequence in practice.",
+  "questions": [
+    {
+      "id": "PRIN-15-001",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 1,
+      "stem": "Which is NOT one of the seven federal protected classes under the Fair Housing Act?",
+      "options": [
+        "Familial status",
+        "National origin",
+        "Source of income",
+        "Disability"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Familial status was added in 1988 and is federally protected.",
+        "National origin is one of the original protected classes.",
+        "Correct. Source of income is protected in California under FEHA but is not a federal protected class — a distinction the exam tests directly.",
+        "Disability was added in 1988 and is federally protected."
+      ],
+      "terms": ["federal protected classes", "source of income"]
+    },
+    {
+      "id": "PRIN-15-002",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A California landlord tells an applicant, 'We don't accept Section 8 vouchers.' This statement:",
+      "options": [
+        "Is lawful, because vouchers are a financing method",
+        "Violates California's source of income protection",
+        "Is lawful if applied to all applicants equally",
+        "Is lawful for buildings with four or fewer units"
+      ],
+      "answer": 1,
+      "rationales": [
+        "California treats source of income as a protected characteristic, not a neutral financing preference.",
+        "Correct. Refusing to rent because an applicant will pay with a housing voucher violates FEHA; landlords may apply uniform financial criteria but must count the voucher as income.",
+        "Applying an unlawful criterion uniformly does not make it lawful.",
+        "Small-building exemptions do not authorize source of income discrimination in California."
+      ],
+      "terms": ["source of income", "FEHA"]
+    },
+    {
+      "id": "PRIN-15-003",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A buyer mentions her religion, and the agent responds, 'There's a wonderful community near the mosque in Rowland Heights — you'd feel right at home,' then focuses showings there. The agent has committed:",
+      "options": [
+        "No violation, because the agent was being helpful",
+        "Steering",
+        "Blockbusting",
+        "Redlining"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Good intentions are irrelevant; steering violations are typically well-meant, which is precisely why they are common.",
+        "Correct. Directing a buyer toward a neighborhood based on a protected characteristic and narrowing her options accordingly is steering, regardless of intent.",
+        "Blockbusting involves inducing owners to sell by exploiting fear of neighborhood change.",
+        "Redlining is area-based denial of loans, insurance, or services."
+      ],
+      "terms": ["steering"]
+    },
+    {
+      "id": "PRIN-15-004",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "An agent tells homeowners that families of a particular ethnicity are moving in and values will fall, urging them to list now. This is:",
+      "options": [
+        "Steering",
+        "Blockbusting",
+        "Puffing",
+        "Lawful market commentary if statistically accurate"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Steering directs buyers or renters toward or away from areas.",
+        "Correct. Inducing owners to sell by representing that members of a protected class are entering the neighborhood is blockbusting, also called panic selling, and it is illegal whether or not the statements are true.",
+        "Puffing is exaggerated opinion about a property's qualities.",
+        "Accuracy is no defense; the conduct is prohibited regardless."
+      ],
+      "terms": ["blockbusting"]
+    },
+    {
+      "id": "PRIN-15-005",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A lender refuses to make loans in a specific neighborhood because of its racial composition, regardless of individual applicant qualifications. This violates the Fair Housing Act and California's:",
+      "options": [
+        "Subdivided Lands Act",
+        "Holden Act (Housing Financial Discrimination Act)",
+        "Davis-Stirling Act",
+        "Subdivision Map Act"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The Subdivided Lands Act governs subdivision marketing and public reports.",
+        "Correct. The Holden Act prohibits lending discrimination based on the characteristics of the borrower or the neighborhood — California's direct statutory attack on redlining.",
+        "Davis-Stirling governs common interest developments.",
+        "The Map Act governs the physical division of land."
+      ],
+      "terms": ["redlining", "Holden Act"]
+    },
+    {
+      "id": "PRIN-15-006",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A tenant with a disability asks the landlord to waive the no-pets policy for her assistance animal. This request is for a:",
+      "options": [
+        "Reasonable modification, at the tenant's expense",
+        "Reasonable accommodation, at the housing provider's expense",
+        "Variance",
+        "Conditional use permit"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A modification is a physical change to the premises; waiving a policy is not physical.",
+        "Correct. A change in rules, policies, practices, or services is a reasonable accommodation, and because it costs nothing to implement, the housing provider bears it.",
+        "A variance is zoning relief, unrelated to tenancy.",
+        "A CUP is a land use approval, unrelated to tenancy."
+      ],
+      "terms": ["reasonable accommodation", "assistance animal"]
+    },
+    {
+      "id": "PRIN-15-007",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A tenant with a disability wants to install grab bars in the bathroom. This is a reasonable modification, and generally:",
+      "options": [
+        "The landlord must pay for it",
+        "The tenant pays for it",
+        "The cost is split equally",
+        "It may be refused as an alteration"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Providers bear the cost of policy accommodations, not physical modifications.",
+        "Correct. Reasonable modifications are physical changes generally made at the tenant's expense, with restoration on move-out required only where reasonable.",
+        "No cost-splitting rule applies.",
+        "A landlord may not refuse a reasonable modification needed because of a disability."
+      ],
+      "terms": ["reasonable modification"]
+    },
+    {
+      "id": "PRIN-15-008",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An applicant discloses an emotional support animal. The housing provider may lawfully:",
+      "options": [
+        "Demand the applicant's medical records",
+        "Request documentation of the disability-related need when the disability is not obvious",
+        "Charge pet rent and a pet deposit",
+        "Apply the building's breed and weight restrictions"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Medical records demands are prohibited; the provider may not inquire into diagnosis or severity.",
+        "Correct. When the disability is not obvious, a provider may request documentation of the disability-related need for the animal — not diagnosis, records, or a purchased 'registration.'",
+        "An assistance animal is not a pet, so pet rent and pet deposits do not apply.",
+        "Breed and weight restrictions generally do not apply to assistance animals."
+      ],
+      "terms": ["assistance animal", "reasonable accommodation"]
+    },
+    {
+      "id": "PRIN-15-009",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which advertising phrase most clearly violates fair housing law?",
+      "options": [
+        "Three-bedroom home with updated kitchen",
+        "Quiet cul-de-sac location",
+        "Perfect for a young family",
+        "Detached two-car garage"
+      ],
+      "answer": 2,
+      "rationales": [
+        "This describes the property objectively.",
+        "This describes location, not occupants.",
+        "Correct. Referencing buyer characteristics — age and familial status — states a preference. Advertising must describe the property, never the people.",
+        "This describes a physical feature."
+      ],
+      "terms": ["discriminatory advertising"]
+    },
+    {
+      "id": "PRIN-15-010",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A seller instructs the listing agent not to present offers from buyers who do not speak English. The agent should:",
+      "options": [
+        "Comply, because the seller owns the property",
+        "Comply if the instruction is documented in the file",
+        "Refuse, explain the law, and withdraw from the listing if the seller persists",
+        "Present all offers but disclose the seller's preference to buyers"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Ownership creates no exemption, and any theoretical exemption disappears once a licensee is involved.",
+        "Documenting an unlawful instruction does not make following it lawful.",
+        "Correct. Screening by primary language and national origin is unlawful; the agent must refuse, explain the obligation, and withdraw rather than participate.",
+        "Communicating the discriminatory preference to buyers would itself violate fair housing law."
+      ],
+      "terms": ["FEHA", "federal protected classes"]
+    },
+    {
+      "id": "PRIN-15-011",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "The Unruh Civil Rights Act prohibits discrimination by:",
+      "options": [
+        "Federal agencies only",
+        "All business establishments in California, including brokerages and landlords",
+        "Employers only",
+        "Lenders only"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Unruh is a California statute governing private business conduct.",
+        "Correct. The Unruh Act reaches all business establishments in California, and courts have applied it broadly to arbitrary discrimination beyond an exhaustive list.",
+        "Employment discrimination is addressed by other provisions of FEHA.",
+        "Lending discrimination is addressed specifically by the Holden Act."
+      ],
+      "terms": ["Unruh Civil Rights Act"]
+    },
+    {
+      "id": "PRIN-15-012",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Familial status protects households that include:",
+      "options": [
+        "Any two or more related adults",
+        "Children under 18, pregnant persons, and those securing legal custody",
+        "Married couples only",
+        "Any household with a dependent of any age"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Related adults without minor children are not the protected category.",
+        "Correct. Familial status covers households with children under 18, pregnant persons, and persons securing legal custody, with a narrow exception for qualified housing for older persons.",
+        "Marital status is a separate California protection; familial status is about children.",
+        "Adult dependents do not trigger familial status protection."
+      ],
+      "terms": ["familial status", "housing for older persons (HOPA)"]
+    },
+    {
+      "id": "PRIN-15-013",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A condominium association wishes to advertise itself as 'adults only' to exclude children. This is:",
+      "options": [
+        "Lawful, because associations may set occupancy rules",
+        "Unlawful unless the community satisfies the strict criteria for housing for older persons",
+        "Lawful if a majority of owners vote for it",
+        "Lawful if children may still visit"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Association authority does not extend to violating familial status protections.",
+        "Correct. Excluding children requires qualification as housing for older persons under strict statutory criteria; a community cannot simply declare itself adults only.",
+        "An owner vote cannot authorize unlawful discrimination.",
+        "Permitting visits does not cure an unlawful exclusion of families from residency."
+      ],
+      "terms": ["housing for older persons (HOPA)", "familial status"]
+    },
+    {
+      "id": "PRIN-15-014",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "An individual who poses as a prospective buyer or renter to detect discrimination is known as a:",
+      "options": [
+        "Tester",
+        "Straw buyer",
+        "Subagent",
+        "Principal"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Testers pose as prospects to detect discriminatory treatment; they have standing to sue and the evidence they gather is admissible.",
+        "A straw buyer conceals the true purchaser's identity, often in mortgage fraud.",
+        "A subagent is an agent of an agent.",
+        "A principal is the party an agent represents."
+      ],
+      "terms": ["tester", "paired testing"]
+    },
+    {
+      "id": "PRIN-15-015",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An agent's records show she gives clients with certain surnames fewer showings and slower response times, though she intended no discrimination. This pattern:",
+      "options": [
+        "Is legally irrelevant without discriminatory intent",
+        "Can constitute discrimination because fair housing enforcement examines outcomes, not only intent",
+        "Is protected as a business judgment",
+        "Matters only if a client files a complaint"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Intent is not required; differential treatment producing disparate outcomes is actionable.",
+        "Correct. Fair housing enforcement examines outcomes and differential service, which is exactly what paired testing is designed to reveal — the reason implicit bias matters legally, not just ethically.",
+        "Differential service correlated with protected characteristics is not a protected business judgment.",
+        "Liability does not depend on a complaint being filed, and self-auditing to correct a pattern is far better than being investigated."
+      ],
+      "terms": ["implicit bias", "paired testing"]
+    },
+    {
+      "id": "PRIN-15-016",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A buyer asks the agent, 'Is this a good neighborhood?' The BEST response is to:",
+      "options": [
+        "Give an honest personal assessment of the area's residents",
+        "Provide objective data sources and let the buyer evaluate them",
+        "Describe the demographic makeup accurately",
+        "Decline to discuss the neighborhood at all"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Characterizing residents invites steering liability.",
+        "Correct. Direct the buyer to objective published sources — crime statistics, school ratings, census data — so the buyer evaluates the area themselves without the agent characterizing it.",
+        "Describing demographics is precisely what an agent must not do.",
+        "Refusing to engage is unhelpful; providing neutral factual resources is both compliant and better service."
+      ],
+      "terms": ["steering"]
+    },
+    {
+      "id": "PRIN-15-017",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "California protects several characteristics beyond the federal seven, INCLUDING:",
+      "options": [
+        "Credit score",
+        "Marital status and immigration status",
+        "Employment tenure",
+        "Debt-to-income ratio"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Credit score is a legitimate, uniformly applied financial criterion.",
+        "Correct. California adds marital status, ancestry, source of income, sexual orientation, gender identity and expression, genetic information, citizenship and immigration status, primary language, military status, and age, among others.",
+        "Length of employment is a financial qualification factor, not a protected characteristic.",
+        "Debt-to-income ratio is a legitimate underwriting measure."
+      ],
+      "terms": ["FEHA"]
+    },
+    {
+      "id": "PRIN-15-018",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A fair housing violation by a licensee can result in:",
+      "options": [
+        "Civil liability only",
+        "DRE discipline only",
+        "Civil liability, agency enforcement, and DRE license discipline",
+        "A warning letter for a first offense"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Civil damages are one exposure among several.",
+        "License discipline is independent of, but not exclusive of, other remedies.",
+        "Correct. Three consequences stack independently: civil liability with damages and fees, administrative fair housing enforcement, and DRE suspension or revocation — settling one does not resolve the others.",
+        "No first-offense warning system protects licensees from fair housing consequences."
+      ],
+      "terms": ["FEHA", "Unruh Civil Rights Act"]
+    },
+    {
+      "id": "PRIN-15-019",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "The federal exemption for certain owner-occupied buildings of four or fewer units does NOT apply when:",
+      "options": [
+        "The owner lives in one of the units",
+        "A real estate licensee is involved in the transaction",
+        "The building was constructed before 1968",
+        "The tenants share a common entrance"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Owner occupancy is a condition of the exemption, not something that defeats it.",
+        "Correct. The exemptions never apply when a licensee participates, and they never permit discriminatory advertising — and California's broader statutes largely eliminate them in practice.",
+        "The construction date does not control the exemption.",
+        "Shared entrances are not the determining factor."
+      ],
+      "terms": ["Fair Housing Act", "FEHA"]
+    },
+    {
+      "id": "PRIN-15-020",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which listing phrase is MOST likely to raise a fair housing concern?",
+      "options": [
+        "Walking distance to St. Rita's parish",
+        "Newly remodeled kitchen with quartz counters",
+        "Close to public transit and shopping",
+        "Covered patio and mature landscaping"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Naming a religious institution as a landmark can signal a religious preference; a neutral proximity reference is the safer construction.",
+        "This describes a physical feature of the property.",
+        "This describes neutral, objective proximity to amenities.",
+        "This describes physical features."
+      ],
+      "terms": ["discriminatory advertising"]
+    },
+    {
+      "id": "PRIN-15-021",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Implicit bias is best defined as:",
+      "options": [
+        "Deliberate discrimination concealed from regulators",
+        "Unconscious association that influences judgment without conscious intent",
+        "A lawful business preference among clients",
+        "A defense to a fair housing claim"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Deliberate concealed discrimination is intentional, not implicit.",
+        "Correct. Implicit bias operates unconsciously, which is why standardizing processes is more effective than relying on good intentions.",
+        "Preferences among clients based on protected characteristics are never lawful.",
+        "Lack of conscious intent is not a defense; enforcement examines conduct and outcomes."
+      ],
+      "terms": ["implicit bias"]
+    },
+    {
+      "id": "PRIN-15-022",
+      "course": "principles",
+      "unit": 15,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A seller says she prefers owner-occupant buyers over investors. The agent may:",
+      "options": [
+        "Not honor the preference, because it is discriminatory",
+        "Honor it, because investor status is not a protected characteristic",
+        "Honor it only if the buyer pool is diverse",
+        "Honor it only with written DRE approval"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Preferring owner-occupants does not implicate any protected characteristic.",
+        "Correct. Investor status is not protected, so a seller may lawfully prefer owner-occupant buyers — unlike preferences based on familial status, national origin, or language, which are unlawful.",
+        "The composition of the buyer pool does not determine the legality of a non-protected preference.",
+        "No DRE approval process exists or is needed for a lawful buyer preference."
+      ],
+      "terms": ["federal protected classes", "FEHA"]
+    }
+  ]
+}

@@ -21,8 +21,8 @@ Only humans may move a unit past `self-reviewed` (CLAUDE.md §13). Every unit is
 | 11 | Real Estate Finance I: Instruments & Foreclosure | self-reviewed | Full unit + 20-question bank |
 | 12 | Real Estate Finance II: Markets, Loans & Programs | self-reviewed | Full unit + 20-question bank |
 | 13 | Appraisal & Valuation | self-reviewed | Full unit + 22-question bank (valuation = ~14% of exam) |
-| 14 | Land Use, Planning & Zoning | pending | |
-| 15 | Fair Housing & Ethics | pending | |
+| 14 | Land Use, Planning & Zoning | self-reviewed | Full unit + 20-question bank |
+| 15 | Fair Housing & Ethics | self-reviewed | Full unit + 22-question bank |
 | 16 | Real Estate Taxation | pending | |
 | 17 | Landlord–Tenant & Property Management | pending | |
 | 18 | The Transaction Lifecycle, Trust Funds & Career Launch | pending | |

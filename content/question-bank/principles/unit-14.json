@@ -1,0 +1,448 @@
+{
+  "course": "principles",
+  "unit": 14,
+  "title": "Land Use, Planning & Zoning",
+  "originality": "All items original to LicensePath. Modeled on the DRE exam blueprint and style only; no actual exam items reproduced.",
+  "questions": [
+    {
+      "id": "PRIN-14-001",
+      "course": "principles",
+      "unit": 14,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A city downzones a parcel from 20 units per acre to 8, substantially reducing its value. The owner is entitled to:",
+      "options": [
+        "Just compensation, because value was taken",
+        "No compensation, because zoning is an exercise of police power",
+        "Severance damages",
+        "An automatic variance"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Compensation is required for eminent domain takings, not ordinary regulation.",
+        "Correct. Zoning rests on police power, which permits regulation for public health, safety, and welfare without compensation, even when value declines.",
+        "Severance damages arise when part of a parcel is condemned, reducing the remainder's value.",
+        "Variances are granted for parcel-specific hardship after application, never automatically."
+      ],
+      "terms": ["police power", "eminent domain"]
+    },
+    {
+      "id": "PRIN-14-002",
+      "course": "principles",
+      "unit": 14,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "An owner's oddly shaped lot cannot accommodate a house within the required side setbacks. The appropriate relief is a:",
+      "options": [
+        "Conditional use permit",
+        "Variance",
+        "Rezoning",
+        "Nonconforming use designation"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A CUP authorizes a particular use the ordinance contemplates, not a dimensional deviation.",
+        "Correct. A variance permits deviation from a dimensional standard because of a hardship unique to the parcel, without changing the permitted use.",
+        "Rezoning changes the parcel's classification, which is not needed for a setback problem.",
+        "Nonconforming status applies to uses that lawfully predate a zoning change."
+      ],
+      "terms": ["variance"]
+    },
+    {
+      "id": "PRIN-14-003",
+      "course": "principles",
+      "unit": 14,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A congregation wants to operate a church in a residential zone where the ordinance lists churches as permitted subject to approval. The congregation should apply for a:",
+      "options": [
+        "Variance",
+        "Conditional use permit",
+        "Zone change",
+        "Amortization extension"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A variance addresses dimensional hardship, not the type of use.",
+        "Correct. When an ordinance contemplates a use in a zone but requires discretionary review, a conditional use permit is the proper mechanism, typically with conditions on parking, hours, and lighting.",
+        "No reclassification is needed because the ordinance already allows the use conditionally.",
+        "Amortization concerns phasing out an existing nonconforming use."
+      ],
+      "terms": ["conditional use permit (CUP)"]
+    },
+    {
+      "id": "PRIN-14-004",
+      "course": "principles",
+      "unit": 14,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A variance may NOT properly be granted on the basis that:",
+      "options": [
+        "The lot has an unusual triangular shape",
+        "The parcel has extreme slope limiting the buildable area",
+        "The owner needs additional square footage to afford the mortgage",
+        "The lot is substantially smaller than others in the zone"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Unusual shape is a classic parcel-specific hardship supporting a variance.",
+        "Topographic constraints are a legitimate physical hardship.",
+        "Correct. The hardship must attach to the land, not the owner's finances; personal or economic need is never a valid basis for a variance.",
+        "Substandard lot size relative to the zone is a parcel-specific hardship."
+      ],
+      "terms": ["variance"]
+    },
+    {
+      "id": "PRIN-14-005",
+      "course": "principles",
+      "unit": 14,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A neighborhood market lawfully established in 1974 continued operating after the area was rezoned residential in 1991. The market is a:",
+      "options": [
+        "Conditional use",
+        "Variance holder",
+        "Nonconforming use",
+        "Spot zone"
+      ],
+      "answer": 2,
+      "rationales": [
+        "A conditional use is approved under the current ordinance, not grandfathered from an earlier one.",
+        "No dimensional variance is involved.",
+        "Correct. A use lawful when established that no longer conforms after a zoning change is a nonconforming use, which generally cannot expand and may be lost by abandonment.",
+        "Spot zoning is an invalid rezoning of a single parcel, not a grandfathered use."
+      ],
+      "terms": ["nonconforming use"]
+    },
+    {
+      "id": "PRIN-14-006",
+      "course": "principles",
+      "unit": 14,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A nonconforming corner market closed and sat vacant for three years. A buyer wants to reopen it. Most likely the:",
+      "options": [
+        "Nonconforming use continues indefinitely once established",
+        "Nonconforming status was lost by abandonment, requiring a rezoning or CUP",
+        "Buyer may reopen after notifying the assessor",
+        "Use automatically converts to a conditional use"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Nonconforming rights are not perpetual; ordinances terminate them on discontinuance.",
+        "Correct. Most ordinances end nonconforming status after a period of discontinuance — often six months to a year — so three years of vacancy almost certainly forfeited it, and discretionary approval would now be required.",
+        "The assessor has no role in land use approvals.",
+        "No automatic conversion to conditional use occurs."
+      ],
+      "terms": ["nonconforming use", "conditional use permit (CUP)"]
+    },
+    {
+      "id": "PRIN-14-007",
+      "course": "principles",
+      "unit": 14,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A local zoning ordinance must be:",
+      "options": [
+        "Approved by the DRE",
+        "Consistent with the jurisdiction's general plan",
+        "Identical to neighboring cities' ordinances",
+        "Reviewed by the county assessor annually"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The DRE regulates licensees and subdivision sales, not municipal zoning.",
+        "Correct. The general plan is the community's blueprint and zoning implements it; an inconsistent ordinance is vulnerable to legal challenge.",
+        "Each jurisdiction adopts its own ordinances.",
+        "The assessor values property for taxation and has no zoning review role."
+      ],
+      "terms": ["general plan", "zoning ordinance"]
+    },
+    {
+      "id": "PRIN-14-008",
+      "course": "principles",
+      "unit": 14,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Rezoning a single parcel inconsistently with surrounding zoning, for the benefit of one owner, is called:",
+      "options": [
+        "Spot zoning",
+        "Downzoning",
+        "Cluster zoning",
+        "Inclusionary zoning"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Spot zoning singles out one parcel inconsistently with the surrounding pattern and the general plan, and is frequently held invalid.",
+        "Downzoning reduces permitted intensity across an area.",
+        "Cluster zoning permits concentrated development with preserved open space.",
+        "Inclusionary zoning requires affordable units within market-rate projects."
+      ],
+      "terms": ["spot zoning"]
+    },
+    {
+      "id": "PRIN-14-009",
+      "course": "principles",
+      "unit": 14,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "When the government takes only part of a parcel and the remainder loses value, the owner may recover:",
+      "options": [
+        "Punitive damages",
+        "Severance damages",
+        "Liquidated damages",
+        "Nothing beyond the value of the portion taken"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Punitive damages are not available in ordinary condemnation.",
+        "Correct. Severance damages compensate for the reduction in value to the remaining property when part of a parcel is condemned.",
+        "Liquidated damages are a contractual remedy, unrelated to condemnation.",
+        "Just compensation extends to damage suffered by the remainder, not only the part taken."
+      ],
+      "terms": ["severance damages", "eminent domain"]
+    },
+    {
+      "id": "PRIN-14-010",
+      "course": "principles",
+      "unit": 14,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A public project permanently blocks all street access to a commercial parcel, destroying most of its value, but no land is formally taken. The owner's action is for:",
+      "options": [
+        "Inverse condemnation",
+        "Quiet title",
+        "Partition",
+        "Declaratory relief on the general plan"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Inverse condemnation is the owner's remedy when government activity effectively takes or substantially damages property without formal condemnation proceedings.",
+        "Quiet title resolves competing ownership claims, which are not in dispute.",
+        "Partition divides co-owned property.",
+        "A challenge to the general plan does not compensate the owner for lost access."
+      ],
+      "terms": ["inverse condemnation"]
+    },
+    {
+      "id": "PRIN-14-011",
+      "course": "principles",
+      "unit": 14,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "The Subdivision Map Act is administered by ______ and primarily protects ______.",
+      "options": [
+        "the DRE; purchasers of subdivided lots",
+        "local government; the community's orderly development",
+        "the Bureau of Real Estate Appraisers; lenders",
+        "the federal government; interstate land buyers"
+      ],
+      "answer": 1,
+      "rationales": [
+        "That describes the Subdivided Lands Act, the companion consumer protection statute.",
+        "Correct. The Map Act is administered by cities and counties and governs the physical division of land — maps, dedications, and improvements — to ensure orderly community development.",
+        "Appraiser regulation is unrelated to subdivision mapping.",
+        "The Map Act is a California statute administered locally, not federally."
+      ],
+      "terms": ["Subdivision Map Act", "Subdivided Lands Act"]
+    },
+    {
+      "id": "PRIN-14-012",
+      "course": "principles",
+      "unit": 14,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "The Subdivided Lands Act is administered by the:",
+      "options": [
+        "City planning commission",
+        "Department of Real Estate",
+        "Board of supervisors",
+        "Department of Housing and Community Development"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Planning commissions administer local mapping and zoning under the Map Act.",
+        "Correct. The DRE administers the Subdivided Lands Act, a consumer protection statute governing the marketing and sale of subdivided lots through the public report.",
+        "Boards of supervisors act on local subdivision maps, not the state consumer statute.",
+        "HCD regulates manufactured housing and housing programs, not subdivision public reports."
+      ],
+      "terms": ["Subdivided Lands Act", "public report"]
+    },
+    {
+      "id": "PRIN-14-013",
+      "course": "principles",
+      "unit": 14,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "Holding only a PRELIMINARY public report, a subdivider may lawfully:",
+      "options": [
+        "Accept binding purchase contracts with non-refundable deposits",
+        "Accept fully refundable, non-binding reservations",
+        "Close escrow on completed homes",
+        "Waive the public report requirement for cash buyers"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Binding contracts and non-refundable purchase money deposits require the final public report.",
+        "Correct. A preliminary public report permits only reservations that are fully refundable and cancellable by either party.",
+        "Closing sales requires the final public report and delivery to the buyer with a signed receipt.",
+        "The requirement cannot be waived based on how the buyer pays."
+      ],
+      "terms": ["preliminary public report", "public report"]
+    },
+    {
+      "id": "PRIN-14-014",
+      "course": "principles",
+      "unit": 14,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Before accepting a purchase money deposit in a covered subdivision, the subdivider must give the buyer the public report and obtain:",
+      "options": [
+        "A recorded acknowledgment",
+        "A signed receipt",
+        "Approval from the county recorder",
+        "A title insurance binder"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Public report delivery is not a recorded event.",
+        "Correct. The subdivider must deliver the public report and obtain the prospective purchaser's signed receipt before taking a purchase money deposit — a document DRE audits examine closely.",
+        "The recorder has no approval role in subdivision sales.",
+        "Title insurance is separate from the public report requirement."
+      ],
+      "terms": ["public report"]
+    },
+    {
+      "id": "PRIN-14-015",
+      "course": "principles",
+      "unit": 14,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A rectangular parcel measures 330 feet by 264 feet. Its area in acres is:",
+      "options": [
+        "1.5 acres",
+        "2.0 acres",
+        "2.5 acres",
+        "3.0 acres"
+      ],
+      "answer": 1,
+      "rationales": [
+        "1.5 acres would be about 65,340 square feet.",
+        "Correct. 330 × 264 = 87,120 square feet; 87,120 ÷ 43,560 = exactly 2.0 acres.",
+        "2.5 acres would be 108,900 square feet.",
+        "3.0 acres would be 130,680 square feet."
+      ],
+      "terms": ["43,560"]
+    },
+    {
+      "id": "PRIN-14-016",
+      "course": "principles",
+      "unit": 14,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A 2.0-acre site must dedicate 18% for streets and drainage. Zoning permits 8 units per acre. The maximum number of units is:",
+      "options": [
+        "16",
+        "13",
+        "14",
+        "12"
+      ],
+      "answer": 1,
+      "rationales": [
+        "16 units applies the density to gross acreage without deducting the dedication.",
+        "Correct. Net area = 2.0 − (2.0 × 0.18) = 1.64 acres; 1.64 × 8 = 13.12 units, and density calculations round down to 13.",
+        "14 rounds the 13.12 figure up, but a partial unit cannot be built.",
+        "12 understates the permitted density."
+      ],
+      "terms": ["43,560", "zoning ordinance"]
+    },
+    {
+      "id": "PRIN-14-017",
+      "course": "principles",
+      "unit": 14,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A 4.75-acre parcel is listed at $1,235,000. The price per square foot is approximately:",
+      "options": [
+        "$5.97",
+        "$260.00",
+        "$0.26",
+        "$28.35"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. 4.75 × 43,560 = 206,910 square feet; 1,235,000 ÷ 206,910 = about $5.97 per square foot.",
+        "$260,000 is the price per acre, not per square foot.",
+        "$0.26 misplaces a decimal.",
+        "$28.35 corresponds to no step in the calculation."
+      ],
+      "terms": ["43,560"]
+    },
+    {
+      "id": "PRIN-14-018",
+      "course": "principles",
+      "unit": 14,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Under CEQA, when an initial study finds a project may have significant environmental effects, the agency must prepare:",
+      "options": [
+        "A negative declaration",
+        "An environmental impact report",
+        "A public report",
+        "A general plan amendment"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A negative declaration is adopted when the project will NOT have significant effects.",
+        "Correct. Significant effects require an EIR analyzing impacts, alternatives, and mitigation measures.",
+        "A public report is a DRE subdivision sales disclosure, unrelated to CEQA.",
+        "A general plan amendment changes the community blueprint and is not the CEQA response to identified impacts."
+      ],
+      "terms": ["CEQA", "environmental impact report (EIR)"]
+    },
+    {
+      "id": "PRIN-14-019",
+      "course": "principles",
+      "unit": 14,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "CEQA is best described as a statute that:",
+      "options": [
+        "Prohibits projects causing any environmental impact",
+        "Requires agencies to study, disclose, and mitigate environmental impacts of discretionary projects",
+        "Sets air quality standards for new construction",
+        "Transfers polluted property to state ownership"
+      ],
+      "answer": 1,
+      "rationales": [
+        "CEQA does not ban impacts; agencies may approve projects with unavoidable impacts upon making required findings.",
+        "Correct. CEQA is a disclosure and process statute requiring environmental review, feasible mitigation, and public disclosure for discretionary approvals.",
+        "Air quality standards come from separate air quality regulation.",
+        "Contaminated property liability arises under CERCLA and related cleanup laws, not CEQA."
+      ],
+      "terms": ["CEQA"]
+    },
+    {
+      "id": "PRIN-14-020",
+      "course": "principles",
+      "unit": 14,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Where a city's zoning permits a 35-foot building but the subdivision's recorded CC&Rs limit height to 25 feet, an owner may build to:",
+      "options": [
+        "35 feet",
+        "25 feet",
+        "30 feet",
+        "Any height, since public law preempts private restrictions"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Zoning sets a public ceiling but does not override a stricter private covenant.",
+        "Correct. Where public zoning and private CC&Rs differ, the more restrictive governs — private restrictions may be stricter than public law, never looser.",
+        "No averaging rule exists between public and private limits.",
+        "Private recorded restrictions bind those who took title subject to them and are not preempted."
+      ],
+      "terms": ["CC&Rs", "zoning ordinance"]
+    }
+  ]
+}

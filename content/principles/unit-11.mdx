@@ -1,0 +1,255 @@
+---
+course: principles
+unit: 11
+title: "Real Estate Finance I: Instruments & Foreclosure"
+estimated_hours: 2.5
+blueprint_areas: ["financing", "transfer"]
+status: self-reviewed
+---
+
+# Unit 11 — Real Estate Finance I: Instruments & Foreclosure
+
+## Learning Objectives
+
+By the end of this unit you will be able to:
+
+1. **Distinguish** the promissory note from the security instrument and explain the role of each.
+2. **Identify** the three parties to a deed of trust and **compare** deeds of trust with mortgages.
+3. **Explain** California's lien theory and why it matters to joint tenancy and foreclosure.
+4. **Describe** the non-judicial foreclosure timeline, including reinstatement and redemption periods.
+5. **Compare** judicial and non-judicial foreclosure and their consequences for deficiency judgments.
+6. **Apply** California's anti-deficiency protections, including the purchase-money rule.
+7. **Explain** acceleration, alienation, prepayment, subordination, and release clauses.
+8. **Calculate** interest, loan balances, and foreclosure sale distributions.
+
+---
+
+## 1. Two Documents, Two Jobs
+
+Every real estate loan involves **two separate instruments**, and confusing them is the most common error in this material.
+
+**The promissory note is the debt.** It is the borrower's written promise to repay: the amount, the interest rate, the payment schedule, the maturity date, and the consequences of default. The note is a **negotiable instrument** — it can be sold, which is exactly what happens when your buyer's loan is "sold to another servicer" a month after closing.
+
+**The security instrument is the collateral.** It pledges the property as security for the note. Without it, an unpaid lender is just an unsecured creditor who must sue on the note and chase assets. With it, the lender can force a sale of the property.
+
+The relationship runs one direction: **the security instrument follows the note.** Transfer the note and the security follows automatically. The note can exist without security (an unsecured loan); security cannot exist without an underlying debt.
+
+When the debt is paid, the lender must release the security. Under a deed of trust the beneficiary requests, and the trustee records, a **deed of reconveyance** clearing the lien. Under a mortgage the instrument is a **satisfaction of mortgage**. A lender who fails to reconvey after payoff faces statutory penalties — and you will occasionally find an ancient unreconveyed trust deed clouding a title in a preliminary report.
+
+## 2. The Deed of Trust — California's Instrument
+
+California overwhelmingly uses the **deed of trust**, not the mortgage. It has **three parties**:
+
+- **Trustor** — the **borrower**, who conveys bare legal title to the trustee as security.
+- **Beneficiary** — the **lender**, for whose benefit the property is held.
+- **Trustee** — a neutral third party (usually a title company or trustee service) holding **bare legal title** with the **power of sale**.
+
+A **mortgage** has only **two** parties: **mortgagor** (borrower) and **mortgagee** (lender).
+
+Memorize the direction of the "-or" and "-ee" endings, because the exam swaps them constantly: the **trustOR** and **mortgagOR** are the borrowers; the **beneficiary** and **mortgagEE** are the lenders.
+
+### Why California prefers the deed of trust
+
+The **power of sale**. It authorizes the trustee to sell the property **non-judicially** — outside of court — after statutory notice periods. Non-judicial foreclosure is dramatically faster and cheaper than suing, which is why virtually every California residential loan uses a deed of trust.
+
+The trade-off is built into the law: **speed costs the lender its deficiency claim.** More on that in Section 5.
+
+### Lien theory
+
+California is a **lien theory** state. The lender holds a **lien**, not title. The trustee's "bare legal title" is a technical device to support the power of sale; the borrower retains equitable and beneficial ownership, possession, and every incident of ownership.
+
+Two consequences the exam tests:
+
+1. **Recording a deed of trust does not sever a joint tenancy** in California (Unit 4), because no unity of title is broken — the lender took a lien, not title.
+2. The borrower is the owner for all practical purposes: they can sell (subject to the loan), lease, and improve the property without the lender's permission unless the loan documents say otherwise.
+
+## 3. Non-Judicial Foreclosure: the Trustee's Sale
+
+This is the process you will see in practice, and its timeline is heavily tested. The statutory sequence: <!-- VERIFY: current statutory notice periods, contact requirements, and any recent amendments -->
+
+**Step 1 — Default.** The borrower misses payments. Before recording, the servicer generally must attempt to contact the borrower to assess the situation and discuss alternatives, and must wait a period after that contact requirement is satisfied.
+
+**Step 2 — Notice of Default (NOD).** The trustee records an NOD and mails it to the trustor and to anyone who recorded a **request for notice**. This starts the clock and puts the default in the public record — which is why default-shopping investors watch NOD filings.
+
+**Step 3 — Reinstatement period (approximately 3 months).** For at least three months after the NOD is recorded, the borrower has the **right to reinstate**: pay the delinquent amounts plus costs and fees, and the loan continues as if nothing happened. Reinstatement means curing the arrears — *not* paying off the entire balance.
+
+**Step 4 — Notice of Trustee's Sale (approximately 3 weeks).** After the reinstatement period, the trustee records and publishes a Notice of Sale, posts it on the property, and mails it. It must be published weekly and posted for the statutory period — roughly **21 days** before the sale date.
+
+**Step 5 — The trustee's sale.** A public auction, typically for cash. The beneficiary may **credit bid** up to the amount owed without producing cash; anyone else bids cash. The successful bidder receives a **trustee's deed**.
+
+**The total minimum timeline is roughly four months** from NOD to sale, and in practice it usually runs longer due to postponements, loan modification review, and bankruptcy filings.
+
+### Reinstatement vs. redemption — a critical distinction
+
+- **Reinstatement**: curing the arrears to revive the loan. Available for roughly the first three months after the NOD.
+- **Equitable right of redemption**: paying the **entire** debt plus costs to stop the sale. In California this runs until roughly **five business days before** the sale date, after which the borrower must generally pay the full amount to stop it.
+- **Statutory right of redemption after the sale**: **none** following a non-judicial trustee's sale. Once the gavel falls, the borrower's interest is gone. This is a defining feature of the California trustee's sale and a favorite exam item.
+
+Contrast **judicial foreclosure**, which *does* carry a post-sale statutory redemption period — generally one year if a deficiency was sought, or three months if the sale satisfied the debt. <!-- VERIFY: current judicial redemption periods -->
+
+## 4. Judicial Foreclosure
+
+The lender may instead sue in court, obtain a judgment, and have the property sold by the sheriff. It is slower and more expensive, so lenders choose it for one reason: **it preserves the possibility of a deficiency judgment.**
+
+| | Non-judicial (trustee's sale) | Judicial |
+|---|---|---|
+| **Speed** | ~4 months minimum | Often a year or more |
+| **Cost** | Low | High (litigation) |
+| **Deficiency judgment** | **Never permitted** | Possible, subject to limits |
+| **Post-sale redemption** | **None** | Yes (3 months or 1 year) |
+| **Court involvement** | None | Full lawsuit |
+
+## 5. Anti-Deficiency Protections
+
+A **deficiency judgment** is a personal judgment against the borrower for the shortfall when the sale proceeds do not cover the debt. California limits them heavily, and you must know the two main bars:
+
+**Bar 1 — The trustee's sale bar.** After **any** non-judicial foreclosure, **no deficiency judgment is permitted**, regardless of the type of loan. The lender chose speed; it gave up the deficiency. This applies to investment property, commercial property, and refinances alike.
+
+**Bar 2 — The purchase-money rule.** No deficiency is permitted on a **purchase-money loan** secured by a **one-to-four unit owner-occupied dwelling**, or on **seller carry-back** financing for the property sold — even in a judicial foreclosure. A purchase-money loan is one used to *buy* the property.
+
+Layer them and the practical picture emerges: a homeowner who bought with a purchase-money loan and lost the home to a trustee's sale generally owes nothing further on that loan. But note the gap that catches people — a **cash-out refinance** is generally *not* purchase-money, so a lender who forecloses **judicially** on a refinanced loan may pursue a deficiency. <!-- VERIFY: current scope of purchase-money protection and refinance treatment -->
+
+Related concepts:
+
+- **Short sale** — the lender agrees to accept less than the balance and release the lien so a sale can close. California law restricts deficiency pursuit after certain approved short sales. <!-- VERIFY: current short sale deficiency protections -->
+- **Deed in lieu of foreclosure** — the borrower voluntarily deeds the property to the lender. The lender takes **subject to junior liens**, which is why lenders often refuse a deed in lieu when there is a second trust deed: foreclosure wipes out juniors, a deed in lieu does not.
+
+### What happens to junior liens
+
+A **foreclosure by a senior lienholder wipes out all junior liens** on the property. The second trust deed, the HELOC, the judgment lien recorded after the first — all are extinguished from the title. The debts may survive as unsecured obligations (subject to the anti-deficiency rules), but the liens are gone.
+
+The reverse is not true: a **junior lienholder foreclosing takes subject to the senior**. A second trust deed holder who forecloses gets the property still burdened by the first loan, which is why juniors often bid to protect their position or simply let the senior foreclose.
+
+Property tax liens remain paramount throughout (Unit 5).
+
+## 6. Loan Clauses You Must Recognize
+
+**Acceleration clause.** Lets the lender declare the entire balance immediately due upon default. Every foreclosure depends on it — without acceleration the lender could only sue for missed payments one at a time.
+
+**Alienation (due-on-sale) clause.** Lets the lender call the loan due if the borrower transfers the property. This is why most modern loans cannot simply be assumed — the lender must consent. Federal law protects certain transfers from triggering it, such as transfers to a spouse or child on death or divorce, or into a living trust in which the borrower remains a beneficiary. <!-- VERIFY: current Garn-St Germain exemptions -->
+
+**Prepayment clause / penalty.** Addresses whether the borrower may pay early and at what cost. California restricts prepayment penalties on owner-occupied residential loans. <!-- VERIFY: current prepayment penalty restrictions -->
+
+**Subordination clause.** Agrees that this loan will take a lower priority position than a later loan — essential in construction and land development, where a seller carrying back financing subordinates to the construction lender.
+
+**Release (partial reconveyance) clause.** Releases individual parcels from a blanket loan as they are paid off — standard in subdivision development, where a builder needs clear title to each lot as it sells.
+
+**Assumption vs. subject to.** A buyer who **assumes** a loan becomes personally liable and, with a novation, releases the seller. A buyer taking **subject to** the loan makes payments but does not assume personal liability — leaving the original borrower on the hook. That difference is worth real money to your seller, and it is a classic exam distinction.
+
+## 7. Worked Examples
+
+### Example 1 — Interest calculation on a note (Ontario)
+
+A borrower holds an interest-only note for **$420,000** at **6.75%** annual simple interest, payable monthly.
+
+**Walkthrough.**
+1. Annual interest: $420,000 × 0.0675 = **$28,350**
+2. Monthly interest payment: $28,350 ÷ 12 = **$2,362.50**
+3. Because the note is interest-only, the principal stays at $420,000 until maturity, when a balloon payment of the full principal comes due.
+
+Now a variation the exam loves: **how much interest accrues in 73 days** at that rate? Using a 360-day banker's year:
+- Daily interest: $28,350 ÷ 360 = **$78.75/day**
+- 73 days × $78.75 = **$5,748.75**
+
+Read the question carefully for whether it wants a 360-day or 365-day year — the difference is real, and both answers will be offered.
+
+### Example 2 — Foreclosure timeline (Rancho Cucamonga)
+
+A borrower misses payments beginning in January. The trustee records a **Notice of Default on March 10**.
+
+**Walkthrough.**
+1. **Reinstatement period:** roughly three months from March 10 → the borrower may cure the arrears through approximately **June 10**.
+2. **Notice of Sale:** may be recorded and published after the reinstatement period expires, with the sale set at least **21 days** after the Notice of Sale is given → earliest sale roughly **July 1**.
+3. **Right to stop the sale:** after reinstatement expires, the borrower must generally pay the **entire** debt to stop the sale, and that right runs until about **five business days before** the sale date.
+4. **After the sale:** **no redemption period.** The trustee's deed transfers title, and the former owner's interest is extinguished.
+5. **Deficiency:** none — the lender chose non-judicial foreclosure.
+
+Minimum total: roughly **four months** from NOD to sale. Real-world timelines run longer.
+
+### Example 3 — Foreclosure sale distribution with junior liens (Fontana)
+
+A Fontana property sells at a **first** trust deed's trustee's sale for **$465,000**. Recorded against it:
+
+| Lien | Recorded | Amount |
+|---|---|---|
+| Delinquent property taxes | — | $11,500 |
+| First deed of trust (foreclosing) | 2018 | $402,000 |
+| Second deed of trust | 2021 | $70,000 |
+| Judgment lien | 2023 | $25,000 |
+
+**Walkthrough.**
+1. **Property taxes first:** $465,000 − $11,500 = **$453,500**
+2. **Foreclosing first trust deed:** $453,500 − $402,000 = **$51,500 remaining**
+3. **Second trust deed (2021)**, next in priority, receives the remaining **$51,500** — short by $18,500.
+4. **Judgment lien (2023)** receives **$0**.
+5. **Both junior liens are extinguished from title** by the senior foreclosure regardless of payment.
+6. The second's $18,500 shortfall and the judgment creditor's $25,000 may survive as unsecured claims — but if the second was a **purchase-money loan on an owner-occupied home**, the anti-deficiency rules bar collection.
+
+The two lessons: run the distribution in strict priority order, and remember that being wiped from *title* is separate from whether the *debt* survives.
+
+### Example 4 — Assumption vs. subject to (Covina)
+
+A Covina seller has a $310,000 loan at 3.25% — far below current rates. A buyer wants that loan.
+
+**Analysis.** Three possibilities:
+
+- **Assumption with novation.** The lender approves the buyer, the buyer becomes personally liable, and the seller is **released**. Best outcome for the seller.
+- **Assumption without novation.** The buyer becomes liable, but the seller remains **secondarily liable** if the buyer defaults.
+- **Taking subject to.** The buyer makes payments but never assumes liability. The seller remains **fully liable** on the note, and the loan's **alienation clause** likely lets the lender call the entire balance due upon the transfer anyway.
+
+Counsel the seller plainly: without lender consent and a written release, transferring the property while leaving the loan in place exposes them to a debt on a house they no longer own — and risks acceleration. This is attorney territory, not agent improvisation.
+
+### Example 5 — Why the lender refused a deed in lieu (West Covina)
+
+A borrower with a $480,000 first and a $95,000 HELOC offers the first lender a deed in lieu of foreclosure.
+
+**Analysis.** The first lender will likely refuse. A **deed in lieu takes the property subject to junior liens** — accepting the deed means accepting the property still burdened by the $95,000 HELOC. **Foreclosure, by contrast, extinguishes the junior lien.** The lender's economically rational move is to foreclose and take clear title.
+
+Deeds in lieu work best when there are **no junior liens**. Your practical takeaway: pull a preliminary report before telling a distressed seller that a deed in lieu is an option.
+
+## 8. Key Terms
+
+| Term | Definition |
+|---|---|
+| **Promissory note** | The borrower's written promise to repay; the evidence of the debt, and a negotiable instrument that may be sold. |
+| **Security instrument** | The document pledging property as collateral for a note; it follows the note when the note is transferred. |
+| **Deed of trust** | California's dominant security instrument, involving three parties and containing a power of sale. |
+| **Trustor** | The borrower under a deed of trust, who conveys bare legal title to the trustee as security. |
+| **Beneficiary** | The lender under a deed of trust, for whose benefit the property is held. |
+| **Trustee (deed of trust)** | The neutral third party holding bare legal title with authority to sell non-judicially upon default. |
+| **Mortgage** | A two-party security instrument between mortgagor (borrower) and mortgagee (lender); uncommon in California. |
+| **Power of sale** | The clause authorizing a trustee to sell the property non-judicially after statutory notice. |
+| **Lien theory** | California's rule that a lender holds a lien rather than title, so a loan does not sever a joint tenancy. |
+| **Deed of reconveyance** | The instrument recorded to clear a deed of trust from title once the debt is paid. |
+| **Notice of Default (NOD)** | The recorded notice beginning non-judicial foreclosure and starting the reinstatement period. |
+| **Reinstatement** | Curing the delinquent amounts plus costs to revive the loan; available roughly three months after the NOD. |
+| **Equitable right of redemption** | The borrower's right to pay the entire debt and stop the sale, running until about five business days before the trustee's sale. |
+| **Notice of Trustee's Sale** | The recorded, published, posted, and mailed notice setting the auction date, roughly 21 days before the sale. |
+| **Trustee's deed** | The deed delivered to the successful bidder at a trustee's sale. |
+| **Credit bid** | The foreclosing beneficiary's right to bid up to the amount owed without producing cash. |
+| **Judicial foreclosure** | Foreclosure by lawsuit and sheriff's sale; slower and costlier, but preserves a possible deficiency and carries post-sale redemption. |
+| **Deficiency judgment** | A personal judgment for the shortfall after a foreclosure sale; barred after any non-judicial sale and on purchase-money loans. |
+| **Purchase-money loan** | A loan used to buy the property, including seller carry-back financing; protected from deficiency on 1–4 unit owner-occupied dwellings. |
+| **Deed in lieu of foreclosure** | A voluntary conveyance to the lender to avoid foreclosure; the lender takes subject to junior liens. |
+| **Short sale** | A sale for less than the loan balance with the lender's agreement to release the lien. |
+| **Acceleration clause** | A provision allowing the lender to declare the entire balance due upon default. |
+| **Alienation (due-on-sale) clause** | A provision allowing the lender to call the loan due upon transfer of the property. |
+| **Subordination clause** | A provision under which a loan accepts a lower priority position than a later loan. |
+| **Release (partial reconveyance) clause** | A provision releasing individual parcels from a blanket loan as they are paid. |
+| **Assumption vs. subject to** | Assuming makes the buyer personally liable (and with novation releases the seller); taking subject to leaves the original borrower liable. |
+
+## 9. Exam Tips
+
+- **Note = debt; security instrument = collateral.** The security follows the note, never the reverse.
+- **Deed of trust has THREE parties, mortgage has TWO.** Trustor/mortgagor = borrower; beneficiary/mortgagee = lender. Expect swapped-name distractors.
+- **Memorize the timeline:** NOD → ~3 months reinstatement → ~21 days notice of sale → auction. Minimum roughly 4 months.
+- **Reinstate = cure the arrears. Redeem = pay the whole debt.** Questions hinge on this difference.
+- **NO post-sale redemption after a trustee's sale.** Judicial foreclosure does have one (3 months or 1 year).
+- **No deficiency after ANY non-judicial foreclosure**, and none on purchase-money loans for owner-occupied 1–4 units even judicially. Watch for cash-out refinances, which lose purchase-money protection.
+- **Senior foreclosure wipes out juniors; a junior foreclosing takes subject to the senior.** Property taxes stay paramount.
+- **Deed in lieu takes subject to junior liens** — that is why lenders refuse it when a second exists.
+- **Interest math:** annual = principal × rate; monthly = ÷ 12; daily = ÷ 360 (banker's) or ÷ 365. Check which the question wants.
+
+## 10. Unit Quiz
+
+The 20-question quiz for this unit lives in `/content/question-bank/principles/unit-11.json` with full per-option rationales.

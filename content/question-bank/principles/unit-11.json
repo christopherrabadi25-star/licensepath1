@@ -1,0 +1,448 @@
+{
+  "course": "principles",
+  "unit": 11,
+  "title": "Real Estate Finance I: Instruments & Foreclosure",
+  "originality": "All items original to LicensePath. Modeled on the DRE exam blueprint and style only; no actual exam items reproduced.",
+  "questions": [
+    {
+      "id": "PRIN-11-001",
+      "course": "principles",
+      "unit": 11,
+      "blueprint_area": "financing",
+      "difficulty": 1,
+      "stem": "The three parties to a California deed of trust are the:",
+      "options": [
+        "Mortgagor, mortgagee, and escrow holder",
+        "Trustor, trustee, and beneficiary",
+        "Grantor, grantee, and trustee",
+        "Vendor, vendee, and lender"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Mortgagor and mortgagee are the two parties to a mortgage; escrow is not a party to the security instrument.",
+        "Correct. The trustor is the borrower, the beneficiary is the lender, and the trustee holds bare legal title with the power of sale.",
+        "Grantor and grantee are deed terms, not the parties to a deed of trust.",
+        "Vendor and vendee describe seller and buyer under a land contract."
+      ],
+      "terms": ["deed of trust", "trustor", "beneficiary"]
+    },
+    {
+      "id": "PRIN-11-002",
+      "course": "principles",
+      "unit": 11,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "Which statement about the promissory note and the deed of trust is TRUE?",
+      "options": [
+        "The note secures the deed of trust",
+        "The deed of trust is the evidence of the debt",
+        "The security instrument follows the note when the note is sold",
+        "Both must be recorded to be valid"
+      ],
+      "answer": 2,
+      "rationales": [
+        "The relationship runs the other way — the deed of trust secures the note.",
+        "The note is the evidence of the debt; the deed of trust is the collateral.",
+        "Correct. The security follows the note automatically, which is why a borrower's loan servicer can change without any new security instrument.",
+        "The note is generally not recorded, and recording is not required for validity between the parties."
+      ],
+      "terms": ["promissory note", "security instrument"]
+    },
+    {
+      "id": "PRIN-11-003",
+      "course": "principles",
+      "unit": 11,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "California is a lien theory state, which means that when a borrower signs a deed of trust, the lender:",
+      "options": [
+        "Receives legal title until the loan is repaid",
+        "Receives a lien against the property while the borrower retains ownership",
+        "Becomes a co-owner with the borrower",
+        "Receives possession of the property"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The trustee holds bare legal title as a technical device; the lender does not take title.",
+        "Correct. In a lien theory state the lender holds a lien, the borrower retains ownership and possession, and a loan therefore does not sever a joint tenancy.",
+        "No co-ownership arises from a loan.",
+        "The borrower keeps possession throughout."
+      ],
+      "terms": ["lien theory", "deed of trust"]
+    },
+    {
+      "id": "PRIN-11-004",
+      "course": "principles",
+      "unit": 11,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "The document recorded to clear a paid-off deed of trust from title is a:",
+      "options": [
+        "Satisfaction of mortgage",
+        "Deed of reconveyance",
+        "Trustee's deed",
+        "Notice of completion"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A satisfaction of mortgage clears a mortgage, the two-party instrument uncommon in California.",
+        "Correct. Upon payoff the beneficiary requests, and the trustee records, a deed of reconveyance releasing the lien.",
+        "A trustee's deed conveys title to the buyer at a foreclosure sale.",
+        "A notice of completion relates to mechanics' lien deadlines."
+      ],
+      "terms": ["deed of reconveyance"]
+    },
+    {
+      "id": "PRIN-11-005",
+      "course": "principles",
+      "unit": 11,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "The recorded document that begins a non-judicial foreclosure and starts the reinstatement period is the:",
+      "options": [
+        "Notice of Trustee's Sale",
+        "Notice of Default",
+        "Lis pendens",
+        "Abstract of judgment"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The Notice of Sale comes later, after the reinstatement period expires.",
+        "Correct. Recording the Notice of Default starts the roughly three-month reinstatement period and places the default in the public record.",
+        "A lis pendens gives notice of pending litigation affecting title.",
+        "An abstract of judgment creates a judgment lien."
+      ],
+      "terms": ["Notice of Default (NOD)", "reinstatement"]
+    },
+    {
+      "id": "PRIN-11-006",
+      "course": "principles",
+      "unit": 11,
+      "blueprint_area": "financing",
+      "difficulty": 3,
+      "stem": "A borrower wants to stop foreclosure two months after the Notice of Default was recorded. To reinstate the loan, the borrower must pay:",
+      "options": [
+        "The entire outstanding loan balance",
+        "The delinquent amounts plus costs and fees",
+        "One year of future payments in advance",
+        "The trustee's estimated sale price"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Paying the entire balance is redemption, required only after the reinstatement period expires.",
+        "Correct. Reinstatement means curing the arrears plus costs and fees, after which the loan continues on its original terms.",
+        "No advance-payment requirement exists.",
+        "The sale price is irrelevant to reinstatement."
+      ],
+      "terms": ["reinstatement", "equitable right of redemption"]
+    },
+    {
+      "id": "PRIN-11-007",
+      "course": "principles",
+      "unit": 11,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "Following a completed non-judicial trustee's sale in California, the former owner's statutory right of redemption is:",
+      "options": [
+        "One year",
+        "Three months",
+        "Ninety days",
+        "Nonexistent"
+      ],
+      "answer": 3,
+      "rationales": [
+        "One year is the judicial foreclosure redemption period where a deficiency was sought.",
+        "Three months is the judicial redemption period where the sale satisfied the debt.",
+        "Ninety days corresponds to no California post-trustee-sale right.",
+        "Correct. There is no post-sale statutory redemption after a trustee's sale — once the sale concludes, the borrower's interest is extinguished."
+      ],
+      "terms": ["equitable right of redemption", "judicial foreclosure"]
+    },
+    {
+      "id": "PRIN-11-008",
+      "course": "principles",
+      "unit": 11,
+      "blueprint_area": "financing",
+      "difficulty": 3,
+      "stem": "A lender forecloses non-judicially on an investment fourplex and the sale leaves a $60,000 shortfall. The lender may:",
+      "options": [
+        "Obtain a deficiency judgment, because the property was not owner-occupied",
+        "Not obtain a deficiency judgment, because non-judicial foreclosure bars it entirely",
+        "Obtain a deficiency judgment within 90 days of the sale",
+        "Obtain a deficiency judgment only with the Commissioner's approval"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Owner-occupancy matters to the separate purchase-money bar, but the trustee's-sale bar applies regardless of property type.",
+        "Correct. No deficiency judgment is permitted after any non-judicial foreclosure — the lender traded that right for speed when it chose the trustee's sale.",
+        "There is no 90-day deficiency window after a trustee's sale.",
+        "The Commissioner has no role in deficiency actions."
+      ],
+      "terms": ["deficiency judgment", "power of sale"]
+    },
+    {
+      "id": "PRIN-11-009",
+      "course": "principles",
+      "unit": 11,
+      "blueprint_area": "financing",
+      "difficulty": 3,
+      "stem": "Which loan retains California's purchase-money anti-deficiency protection?",
+      "options": [
+        "A cash-out refinance on an owner-occupied home",
+        "A loan used to buy an owner-occupied single-family home",
+        "A commercial loan on a retail center",
+        "A HELOC used to consolidate credit card debt"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A cash-out refinance is generally not purchase-money and can lose the protection in a judicial foreclosure.",
+        "Correct. A loan used to purchase a one-to-four unit owner-occupied dwelling — including seller carry-back financing — is protected from deficiency even in judicial foreclosure.",
+        "Commercial property is outside the owner-occupied dwelling protection.",
+        "A HELOC used for debt consolidation was not used to purchase the property."
+      ],
+      "terms": ["purchase-money loan", "deficiency judgment"]
+    },
+    {
+      "id": "PRIN-11-010",
+      "course": "principles",
+      "unit": 11,
+      "blueprint_area": "financing",
+      "difficulty": 3,
+      "stem": "A first trust deed forecloses. A second trust deed and a later judgment lien are recorded against the property. After the sale, the junior liens are:",
+      "options": [
+        "Extinguished from title by the senior foreclosure",
+        "Assumed by the successful bidder",
+        "Elevated to first position",
+        "Unaffected and still enforceable against the property"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Foreclosure by a senior lienholder wipes junior liens from title, though the underlying debts may survive as unsecured claims subject to anti-deficiency rules.",
+        "The bidder takes free of the wiped junior liens.",
+        "Junior liens are eliminated, not promoted.",
+        "The liens no longer attach to the property after the senior's sale."
+      ],
+      "terms": ["priority", "deficiency judgment"]
+    },
+    {
+      "id": "PRIN-11-011",
+      "course": "principles",
+      "unit": 11,
+      "blueprint_area": "financing",
+      "difficulty": 3,
+      "stem": "A trustee's sale by the FIRST trust deed holder nets $465,000. Delinquent taxes are $11,500, the foreclosing first is $402,000, a 2021 second is $70,000, and a 2023 judgment lien is $25,000. The second trust deed holder receives:",
+      "options": [
+        "$70,000",
+        "$51,500",
+        "$63,000",
+        "$0"
+      ],
+      "answer": 1,
+      "rationales": [
+        "There are insufficient proceeds to pay the second in full.",
+        "Correct. 465,000 − 11,500 (taxes) − 402,000 (first) = $51,500 available to the second, leaving it $18,500 short.",
+        "$63,000 corresponds to no step in the priority distribution.",
+        "Funds do remain for the second after taxes and the foreclosing first are paid."
+      ],
+      "terms": ["priority"]
+    },
+    {
+      "id": "PRIN-11-012",
+      "course": "principles",
+      "unit": 11,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "An interest-only note of $420,000 bears 6.75% annual interest. The monthly interest payment is:",
+      "options": [
+        "$2,362.50",
+        "$2,835.00",
+        "$28,350.00",
+        "$3,150.00"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. $420,000 × 0.0675 = $28,350 per year; ÷ 12 = $2,362.50 per month.",
+        "$2,835 divides the annual interest by 10 rather than 12.",
+        "$28,350 is the annual interest, not the monthly payment.",
+        "$3,150 corresponds to a 9% rate."
+      ],
+      "terms": []
+    },
+    {
+      "id": "PRIN-11-013",
+      "course": "principles",
+      "unit": 11,
+      "blueprint_area": "financing",
+      "difficulty": 3,
+      "stem": "Using a 360-day banker's year, interest accruing over 73 days on a $420,000 note at 6.75% is:",
+      "options": [
+        "$5,748.75",
+        "$5,670.00",
+        "$78.75",
+        "$2,362.50"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Annual interest = $28,350; daily = 28,350 ÷ 360 = $78.75; × 73 days = $5,748.75.",
+        "$5,670 uses a 365-day year daily rate applied incorrectly.",
+        "$78.75 is the daily interest, not the 73-day total.",
+        "$2,362.50 is one month's interest."
+      ],
+      "terms": []
+    },
+    {
+      "id": "PRIN-11-014",
+      "course": "principles",
+      "unit": 11,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "The clause permitting a lender to declare the entire loan balance immediately due upon the borrower's default is the:",
+      "options": [
+        "Alienation clause",
+        "Acceleration clause",
+        "Subordination clause",
+        "Release clause"
+      ],
+      "answer": 1,
+      "rationales": [
+        "An alienation clause is triggered by transfer of the property, not by default.",
+        "Correct. The acceleration clause makes the whole balance due on default, and every foreclosure depends on it.",
+        "A subordination clause changes lien priority.",
+        "A release clause frees individual parcels from a blanket loan."
+      ],
+      "terms": ["acceleration clause"]
+    },
+    {
+      "id": "PRIN-11-015",
+      "course": "principles",
+      "unit": 11,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "A lender may call a loan due when the borrower sells the property because of the:",
+      "options": [
+        "Acceleration clause",
+        "Alienation (due-on-sale) clause",
+        "Prepayment clause",
+        "Defeasance clause"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Acceleration is triggered by default; here the borrower is current but transferring.",
+        "Correct. The alienation, or due-on-sale, clause lets the lender call the balance due upon transfer, which is why most modern loans cannot simply be assumed without consent.",
+        "A prepayment clause addresses early payoff, not transfer.",
+        "A defeasance clause concerns defeating the security upon payment."
+      ],
+      "terms": ["alienation (due-on-sale) clause"]
+    },
+    {
+      "id": "PRIN-11-016",
+      "course": "principles",
+      "unit": 11,
+      "blueprint_area": "financing",
+      "difficulty": 3,
+      "stem": "A buyer takes title 'subject to' the seller's existing loan rather than assuming it. As to the note, the SELLER:",
+      "options": [
+        "Is released from all liability",
+        "Remains liable on the note",
+        "Becomes a guarantor only",
+        "Is liable only for one year"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Only an assumption with novation releases the original borrower.",
+        "Correct. Taking subject to leaves the original borrower fully liable on the note, and the loan's alienation clause may also let the lender accelerate upon the transfer.",
+        "No guarantor status is created; the seller's original promise stands.",
+        "Liability does not expire after a year."
+      ],
+      "terms": ["assumption vs. subject to", "alienation (due-on-sale) clause"]
+    },
+    {
+      "id": "PRIN-11-017",
+      "course": "principles",
+      "unit": 11,
+      "blueprint_area": "financing",
+      "difficulty": 3,
+      "stem": "A borrower with a $480,000 first and a $95,000 HELOC offers the first lender a deed in lieu of foreclosure. The lender will most likely refuse because:",
+      "options": [
+        "A deed in lieu requires court approval",
+        "Accepting the deed means taking the property subject to the junior HELOC, whereas foreclosure would extinguish it",
+        "Deeds in lieu are prohibited in California",
+        "The borrower would retain a right of redemption"
+      ],
+      "answer": 1,
+      "rationales": [
+        "No court approval is required for a deed in lieu.",
+        "Correct. A deed in lieu takes the property subject to junior liens, while foreclosure wipes them out — so a lender facing a second lien rationally chooses foreclosure.",
+        "Deeds in lieu are lawful; lenders simply often decline them.",
+        "A deed in lieu is a voluntary conveyance, not a foreclosure creating redemption rights."
+      ],
+      "terms": ["deed in lieu of foreclosure", "priority"]
+    },
+    {
+      "id": "PRIN-11-018",
+      "course": "principles",
+      "unit": 11,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "At a trustee's sale, the foreclosing beneficiary may bid up to the amount owed without producing cash. This is called a:",
+      "options": [
+        "Credit bid",
+        "Short bid",
+        "Deficiency bid",
+        "Subordinated bid"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. A credit bid lets the beneficiary offset its bid against the debt owed rather than paying cash, up to the amount of the obligation.",
+        "'Short bid' is not a recognized term.",
+        "A deficiency is the shortfall after sale, not a bidding method.",
+        "Subordination concerns lien priority, not bidding."
+      ],
+      "terms": ["credit bid", "trustee's deed"]
+    },
+    {
+      "id": "PRIN-11-019",
+      "course": "principles",
+      "unit": 11,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "A lender chooses judicial foreclosure over a trustee's sale primarily to:",
+      "options": [
+        "Complete the process faster",
+        "Reduce legal costs",
+        "Preserve the possibility of a deficiency judgment",
+        "Avoid giving the borrower any redemption rights"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Judicial foreclosure is substantially slower, often taking a year or more.",
+        "Litigation makes judicial foreclosure more expensive, not less.",
+        "Correct. The sole practical advantage is preserving a possible deficiency judgment, which the non-judicial route forfeits entirely.",
+        "Judicial foreclosure creates post-sale redemption rights; the trustee's sale is what eliminates them."
+      ],
+      "terms": ["judicial foreclosure", "deficiency judgment"]
+    },
+    {
+      "id": "PRIN-11-020",
+      "course": "principles",
+      "unit": 11,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "A subdivision builder's blanket loan covers 40 lots. The provision allowing individual lots to be freed from the lien as they are sold and paid for is a:",
+      "options": [
+        "Subordination clause",
+        "Release (partial reconveyance) clause",
+        "Acceleration clause",
+        "Alienation clause"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Subordination changes priority relative to another loan.",
+        "Correct. A release clause permits partial reconveyance of individual parcels from a blanket loan so the builder can deliver clear title to each buyer.",
+        "Acceleration makes the balance due on default.",
+        "An alienation clause lets the lender call the loan on transfer — the opposite of what a builder needs."
+      ],
+      "terms": ["release (partial reconveyance) clause"]
+    }
+  ]
+}

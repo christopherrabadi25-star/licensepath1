@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-08 — Course 3 Legal Aspects Unit 1
+
+- Authored Legal Aspects Unit 1 (Sources of Real Estate Law & the Court System): legal hierarchy, statutes, regulations, agencies, case law, courts, local rules, private restrictions, legal-risk workflow, source reading, and authority-versus-evidence distinction. Includes five worked examples and a 16-question original bank with per-option rationales.
+
 ## 2026-08-08 — Course 2 Practice Unit 15
 
 - Authored Practice Unit 15 (Building a Compliant, Ethical Long-Term Business): broker supervision, ethical decision system, technology and AI controls, referral boundaries, cybersecurity, service-focused metrics, incident response, conflict management, and a full transaction capstone. Includes five worked examples and a 16-question original bank with per-option rationales.

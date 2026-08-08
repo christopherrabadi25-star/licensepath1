@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-08 — Course 3 Legal Aspects Unit 2
+
+- Authored Legal Aspects Unit 2 (Law of Agency: Duties, Disclosure & Conflict): agency creation, fiduciary duties, authority, confidentiality, disclosure, dual agency, conflicts, informed consent, team information controls, and practical escalation. Includes five worked examples and a 16-question original bank with per-option rationales.
+
 ## 2026-08-08 — Course 3 Legal Aspects Unit 1
 
 - Authored Legal Aspects Unit 1 (Sources of Real Estate Law & the Court System): legal hierarchy, statutes, regulations, agencies, case law, courts, local rules, private restrictions, legal-risk workflow, source reading, and authority-versus-evidence distinction. Includes five worked examples and a 16-question original bank with per-option rationales.

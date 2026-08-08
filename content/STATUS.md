@@ -37,9 +37,9 @@ Only humans may move a unit past `self-reviewed` (CLAUDE.md §13). Every unit is
 | 04 | Listing Presentations & Seller Counseling | self-reviewed | Full unit + 18-question bank |
 | 05 | Pricing Property: CMA Methodology | self-reviewed | Full unit + 20-question bank |
 | 06 | Marketing Listings & Advertising Compliance | self-reviewed | Full unit + 18-question bank |
-| 07 | Working with Buyers | pending | |
-| 08 | Writing & Negotiating Offers | pending | |
-| 09 | Contract-to-Close | pending | |
+| 07 | Working with Buyers | self-reviewed | Full unit + 18-question bank |
+| 08 | Writing & Negotiating Offers | self-reviewed | Full unit + 20-question bank |
+| 09 | Contract-to-Close | self-reviewed | Full unit + 18-question bank |
 | 10 | Financing the Buyer | pending | |
 | 11 | Disclosures & Risk Management in Practice | pending | |
 | 12 | Trust Funds & Recordkeeping in Practice | pending | |
@@ -60,4 +60,4 @@ Only humans may move a unit past `self-reviewed` (CLAUDE.md §13). Every unit is
 | glossary.json | draft | 336 terms of 500+ target; grows with each unit's key-terms box |
 | exam-sim/blueprint.json | draft | Blueprint weights per CLAUDE.md §9; reverify current DRE weightings before launch (§14) |
 | exam-sim sample set | draft | 25 original exam-style items across all 7 blueprint areas |
-| Question bank total | draft | 489 items. **Rebalancing needed before launch:** agency (6% vs 17% target) and valuation (7% vs 14%) are under-weighted relative to the blueprint; author exam-level fill items per CLAUDE.md §9. |
+| Question bank total | draft | 545 items. **Rebalancing needed before launch:** agency (6% vs 17% target) and valuation (7% vs 14%) are under-weighted relative to the blueprint; author exam-level fill items per CLAUDE.md §9. |

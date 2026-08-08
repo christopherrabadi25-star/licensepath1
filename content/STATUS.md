@@ -18,9 +18,9 @@ Only humans may move a unit past `self-reviewed` (CLAUDE.md §13). Every unit is
 | 08 | Real Estate Contracts in Practice | self-reviewed | Full unit + 20-question bank |
 | 09 | Disclosures in Residential Transactions | self-reviewed | Full unit + 20-question bank |
 | 10 | Escrow & Title Insurance | self-reviewed | Full unit + 20-question bank |
-| 11 | Real Estate Finance I: Instruments & Foreclosure | pending | |
-| 12 | Real Estate Finance II: Markets, Loans & Programs | pending | |
-| 13 | Appraisal & Valuation | pending | |
+| 11 | Real Estate Finance I: Instruments & Foreclosure | self-reviewed | Full unit + 20-question bank |
+| 12 | Real Estate Finance II: Markets, Loans & Programs | self-reviewed | Full unit + 20-question bank |
+| 13 | Appraisal & Valuation | self-reviewed | Full unit + 22-question bank (valuation = ~14% of exam) |
 | 14 | Land Use, Planning & Zoning | pending | |
 | 15 | Fair Housing & Ethics | pending | |
 | 16 | Real Estate Taxation | pending | |

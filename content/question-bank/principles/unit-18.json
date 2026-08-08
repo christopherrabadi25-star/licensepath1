@@ -1,0 +1,449 @@
+{
+  "course": "principles",
+  "unit": 18,
+  "title": "The Transaction Lifecycle, Trust Funds & Career Launch",
+  "originality": "All items original to LicensePath. Modeled on the DRE exam blueprint and style only; no actual exam items reproduced.",
+  "note": "Includes integrated capstone items drawing on multiple units.",
+  "questions": [
+    {
+      "id": "PRIN-18-001",
+      "course": "principles",
+      "unit": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 1,
+      "stem": "Trust funds received by a broker must be placed into escrow, a trust account, or the hands of the principal not later than:",
+      "options": [
+        "The end of the business day received",
+        "Three business days after receipt",
+        "Five business days after receipt",
+        "Ten calendar days after receipt"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Same-day deposit is best practice but is not the regulatory deadline.",
+        "Correct. The three-business-day rule governs deposits of trust funds by a broker or the broker's salesperson.",
+        "Five days exceeds the regulatory window.",
+        "Ten days exceeds the regulatory window."
+      ],
+      "terms": ["trust funds", "three-business-day rule"]
+    },
+    {
+      "id": "PRIN-18-002",
+      "course": "principles",
+      "unit": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A buyer's $25,000 deposit reaches the brokerage Friday at 4 p.m. with written instructions to hold the check uncashed until acceptance. The seller accepts Monday. The deposit deadline runs from:",
+      "options": [
+        "Friday, when the check was received",
+        "Monday, when the offer was accepted",
+        "The date escrow opens",
+        "The date the buyer's contingencies are removed"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A properly disclosed instruction to hold the check pending acceptance postpones the obligation past receipt.",
+        "Correct. When the offer directs the check be held uncashed and the seller is informed of that instruction, the three-business-day clock runs from acceptance.",
+        "The regulatory deadline is not tied to escrow's opening.",
+        "Contingency removal occurs well after the deposit obligation attaches."
+      ],
+      "terms": ["uncashed-check exception", "three-business-day rule"]
+    },
+    {
+      "id": "PRIN-18-003",
+      "course": "principles",
+      "unit": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A broker deposits a client's earnest money into the brokerage's general operating account over a weekend, then transfers it to the trust account Monday with no loss to anyone. The broker has committed:",
+      "options": [
+        "No violation, because the funds were restored",
+        "Commingling",
+        "Conversion",
+        "A permissible temporary transfer"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Restoration does not cure the violation; the mixing itself is the offense.",
+        "Correct. Placing trust funds in the broker's own account is commingling, disciplinable even when no client suffers a loss and the funds are promptly restored.",
+        "Conversion requires actually using the funds for another purpose, which did not occur here.",
+        "No allowance permits routing trust funds through a general business account."
+      ],
+      "terms": ["commingling", "conversion"]
+    },
+    {
+      "id": "PRIN-18-004",
+      "course": "principles",
+      "unit": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A broker uses a client's trust funds to cover the brokerage payroll, intending to replace the money next month. This is:",
+      "options": [
+        "Commingling only",
+        "Conversion, supporting revocation and criminal charges",
+        "A permitted short-term loan",
+        "Acceptable if repaid with interest"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Commingling is mixing; here the funds were actually spent, which is the more serious offense.",
+        "Correct. Using trust funds for another purpose is conversion, grounds for license revocation and criminal prosecution.",
+        "Trust funds may never be borrowed by the broker.",
+        "Repayment with interest does not cure misappropriation."
+      ],
+      "terms": ["conversion", "commingling"]
+    },
+    {
+      "id": "PRIN-18-005",
+      "course": "principles",
+      "unit": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A broker's monthly trust account reconciliation must show agreement among:",
+      "options": [
+        "The bank statement and the broker's tax return",
+        "The control record, the sum of all beneficiary ledgers, and the bank statement",
+        "The listing agreements and the escrow instructions",
+        "The commission ledger and the operating account"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Tax filings are unrelated to trust fund reconciliation.",
+        "Correct. All three must agree, and the reconciliation must be performed monthly in writing and retained — a leading DRE audit finding when it is missing.",
+        "Contracts are transaction records, not trust accounting records.",
+        "The operating account is separate from trust funds by definition."
+      ],
+      "terms": ["monthly reconciliation", "control record", "beneficiary ledger"]
+    },
+    {
+      "id": "PRIN-18-006",
+      "course": "principles",
+      "unit": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A trust account holds funds for eight beneficiaries. The broker disburses more than one beneficiary's balance, causing that ledger to go negative while total account funds remain positive. This is:",
+      "options": [
+        "Acceptable, because the account overall is positive",
+        "Conversion, because one beneficiary's funds were used for another",
+        "Commingling only",
+        "A bookkeeping error with no regulatory consequence"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A positive overall balance does not excuse a negative individual ledger.",
+        "Correct. Using one beneficiary's funds to cover another's disbursement is conversion; no beneficiary's balance may ever go negative.",
+        "The violation goes beyond mixing — client funds were actually applied to another's obligation.",
+        "Negative beneficiary balances are a serious violation, not a harmless error."
+      ],
+      "terms": ["conversion", "beneficiary ledger"]
+    },
+    {
+      "id": "PRIN-18-007",
+      "course": "principles",
+      "unit": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Brokerage transaction records must generally be retained for:",
+      "options": [
+        "One year",
+        "Three years",
+        "Seven years",
+        "Indefinitely"
+      ],
+      "answer": 1,
+      "rationales": [
+        "One year is insufficient under the Real Estate Law.",
+        "Correct. Brokers must retain transaction records for three years, running from closing or from the listing date where no closing occurred.",
+        "Seven years is a common tax retention period, not the brokerage requirement.",
+        "Indefinite retention is prudent for some records but is not the regulatory standard."
+      ],
+      "terms": ["record retention"]
+    },
+    {
+      "id": "PRIN-18-008",
+      "course": "principles",
+      "unit": 18,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "On a settlement statement, the purchase price appears as a:",
+      "options": [
+        "Debit to the buyer and a credit to the seller",
+        "Credit to the buyer and a debit to the seller",
+        "Debit to both parties",
+        "Credit to both parties"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. The buyer owes the price (debit) and the seller receives it (credit).",
+        "This reverses the entries.",
+        "The price cannot be an obligation of both parties.",
+        "The price cannot be a benefit to both parties."
+      ],
+      "terms": ["debit / credit", "settlement statement"]
+    },
+    {
+      "id": "PRIN-18-009",
+      "course": "principles",
+      "unit": 18,
+      "blueprint_area": "transfer",
+      "difficulty": 3,
+      "stem": "At closing on a rental property, tenant security deposits held by the seller are:",
+      "options": [
+        "Prorated as of the closing date",
+        "Transferred in full as a debit to the seller and credit to the buyer",
+        "Retained by the seller",
+        "Paid directly to the tenants at closing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Security deposits are never prorated; they are the tenants' money in full.",
+        "Correct. Deposits transfer in their entirety, debited to the seller and credited to the buyer, who assumes the obligation to account to the tenants.",
+        "The seller cannot keep funds belonging to tenants.",
+        "Deposits are not refunded at sale; the obligation passes to the new owner."
+      ],
+      "terms": ["security deposit transfer", "proration"]
+    },
+    {
+      "id": "PRIN-18-010",
+      "course": "principles",
+      "unit": 18,
+      "blueprint_area": "transfer",
+      "difficulty": 3,
+      "stem": "A sale closes June 20 with the buyer owning the day of closing. The seller prepaid $9,180 in annual taxes for the fiscal year beginning July 1. Using a 360-day year, the proration is:",
+      "options": [
+        "$280.50 credit to the seller",
+        "$8,899.50 credit to the seller",
+        "$280.50 credit to the buyer",
+        "$4,590.00 credit to the buyer"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Daily = 9,180 ÷ 360 = 25.50. Seller owned July 1 through June 19 = 349 days = $8,899.50 consumed; the prepaid remainder of $280.50 benefits the buyer and is credited to the seller.",
+        "$8,899.50 is the seller's own consumed share, not the amount reimbursed.",
+        "The direction is reversed — a prepaid expense produces a seller credit.",
+        "$4,590 is half the annual bill and corresponds to no step here."
+      ],
+      "terms": ["proration", "debit / credit"]
+    },
+    {
+      "id": "PRIN-18-011",
+      "course": "principles",
+      "unit": 18,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "Unpaid property taxes that accrued during the seller's ownership appear at closing as a:",
+      "options": [
+        "Credit to the seller and debit to the buyer",
+        "Debit to the seller and credit to the buyer",
+        "Debit to both parties",
+        "Item excluded from proration"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Prepaid taxes produce a seller credit; these taxes are unpaid.",
+        "Correct. An accrued but unpaid expense is charged to the seller and credited to the buyer, who will pay the bill when it comes due.",
+        "Only one party bears the accrued obligation.",
+        "Taxes are the most commonly prorated closing item."
+      ],
+      "terms": ["proration", "debit / credit"]
+    },
+    {
+      "id": "PRIN-18-012",
+      "course": "principles",
+      "unit": 18,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "In a California transaction, title passes to the buyer upon:",
+      "options": [
+        "Signing the purchase agreement",
+        "Signing the loan documents",
+        "Recording",
+        "Delivery of the keys"
+      ],
+      "answer": 2,
+      "rationales": [
+        "The purchase agreement creates contract rights, not title.",
+        "Loan signing is a step toward funding, not the transfer of title.",
+        "Correct. Close of escrow occurs at recording, which is when title passes and after which escrow disburses.",
+        "Possession may be delivered before or after closing and does not determine title."
+      ],
+      "terms": ["debit / credit"]
+    },
+    {
+      "id": "PRIN-18-013",
+      "course": "principles",
+      "unit": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A trustee of a family trust sells a home she personally occupied for six years and knows the roof leaks. The sale is TDS-exempt as a fiduciary transfer. She must:",
+      "options": [
+        "Say nothing, since the exemption applies",
+        "Disclose the known leak, because the form exemption does not excuse concealing known material facts",
+        "Disclose only if the buyer requests a TDS",
+        "Disclose only to the buyer's agent"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A form exemption is never a knowledge exemption.",
+        "Correct. A transferor with actual knowledge of a material defect must disclose it regardless of any exemption from the statutory form.",
+        "The duty is affirmative and does not depend on a buyer's request.",
+        "Disclosure must reach the buyer, not merely the buyer's agent informally."
+      ],
+      "terms": ["record retention"]
+    },
+    {
+      "id": "PRIN-18-014",
+      "course": "principles",
+      "unit": 18,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A seller wants to negotiate with two buyers at once without risk of forming two binding contracts. She should use:",
+      "options": [
+        "Two ordinary counteroffers",
+        "A multiple counteroffer form requiring her final acceptance",
+        "A backup offer addendum with each",
+        "An option agreement with each"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Sending ordinary counteroffers to two buyers risks binding her twice if both accept.",
+        "Correct. A multiple counteroffer provides that no contract forms until the seller signs a final acceptance of one buyer's response, preserving her choice.",
+        "Backup offers address what happens after a primary contract fails.",
+        "Options require consideration and would bind her to sell."
+      ],
+      "terms": ["settlement statement"]
+    },
+    {
+      "id": "PRIN-18-015",
+      "course": "principles",
+      "unit": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A salesperson closes a transaction. Escrow should disburse the commission to:",
+      "options": [
+        "The salesperson directly",
+        "The salesperson's employing broker",
+        "The salesperson and broker in their agreed shares",
+        "Whichever party the salesperson designates"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A salesperson may not be paid directly for licensed activity by escrow.",
+        "Correct. Escrow pays the brokerages; the broker then compensates the salesperson under their written agreement — a salesperson may accept compensation only from their employing broker.",
+        "Escrow does not split commissions inside a brokerage.",
+        "The salesperson has no authority to redirect commission payments."
+      ],
+      "terms": ["responsible broker"]
+    },
+    {
+      "id": "PRIN-18-016",
+      "course": "principles",
+      "unit": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which is the BEST practice for a broker holding a small amount of personal funds in the trust account?",
+      "options": [
+        "Keep several months of operating capital there for convenience",
+        "Keep only a limited amount to cover bank service charges, as regulations permit",
+        "Keep earned commissions there indefinitely",
+        "Keep personal funds equal to the largest client balance"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Holding operating capital in the trust account is commingling.",
+        "Correct. Regulations permit only a limited amount of the broker's own funds to cover bank service charges; that narrow allowance is the sole intentional mixing permitted.",
+        "Leaving earned commissions in the trust account beyond a limited period is commingling.",
+        "No provision ties permitted personal funds to client balances."
+      ],
+      "terms": ["commingling", "trust funds"]
+    },
+    {
+      "id": "PRIN-18-017",
+      "course": "principles",
+      "unit": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "During a DRE audit, the MOST common trust fund findings involve:",
+      "options": [
+        "Deliberate theft of client funds",
+        "Missing monthly reconciliations, absent per-beneficiary ledgers, and late deposits",
+        "Failure to carry E&O insurance",
+        "Improper advertising language"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Outright theft is rare compared with recordkeeping failures.",
+        "Correct. Audit findings are typically mundane: reconciliations not performed, ledgers not maintained per beneficiary, deposits made late, and personal funds left in the account.",
+        "E&O coverage is a business and brokerage matter, not a trust fund audit finding.",
+        "Advertising issues arise under separate rules, not trust fund audits."
+      ],
+      "terms": ["monthly reconciliation", "beneficiary ledger"]
+    },
+    {
+      "id": "PRIN-18-018",
+      "course": "principles",
+      "unit": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "For a newly licensed salesperson choosing a first brokerage, the factor that generally matters MOST is:",
+      "options": [
+        "The highest available commission split",
+        "Training, mentorship, and the quality of broker supervision",
+        "The size of the national brand",
+        "The lowest desk fee"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A high split with no support is worth less than a lower split with real guidance, especially before the first closings.",
+        "Correct. For a new licensee, training and accessible supervision outweigh split, because the responsible broker's oversight both develops competence and protects against liability.",
+        "Brand recognition does not substitute for supervision and training.",
+        "Low fees do not help an agent who has no transactions and no one to consult."
+      ],
+      "terms": ["responsible broker", "E&O insurance"]
+    },
+    {
+      "id": "PRIN-18-019",
+      "course": "principles",
+      "unit": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A capstone transaction closes at $845,000 with no assumed loan. At $0.55 per $500, the county documentary transfer tax is:",
+      "options": [
+        "$464.75",
+        "$929.50",
+        "$1,859.00",
+        "$4,225.00"
+      ],
+      "answer": 1,
+      "rationales": [
+        "$464.75 applies $0.55 per $1,000 rather than per $500.",
+        "Correct. 845,000 ÷ 500 = 1,690 increments; 1,690 × $0.55 = $929.50. With no assumed loan, the full price is taxed.",
+        "$1,859.00 doubles the correct figure, which would reflect an added city tax at the same rate.",
+        "$4,225.00 is 0.5% of the price and corresponds to no standard rate."
+      ],
+      "terms": ["settlement statement"]
+    },
+    {
+      "id": "PRIN-18-020",
+      "course": "principles",
+      "unit": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A seller instructs her agent to prefer 'a nice family, not investors.' The agent should understand that:",
+      "options": [
+        "Both preferences are lawful because the seller owns the property",
+        "Preferring owner-occupants over investors is lawful, but preferring a 'family' implicates familial status and cannot be honored",
+        "Both preferences are unlawful",
+        "Either preference is lawful if documented in the file"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Ownership creates no exemption from fair housing law for a protected characteristic.",
+        "Correct. Investor status is not a protected characteristic, so an owner-occupant preference is lawful; familial status is protected, so the 'family' preference must be refused.",
+        "The investor preference is lawful; only the familial status preference is not.",
+        "Documenting an unlawful instruction does not authorize following it."
+      ],
+      "terms": ["responsible broker"]
+    }
+  ]
+}

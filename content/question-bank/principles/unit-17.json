@@ -1,0 +1,448 @@
+{
+  "course": "principles",
+  "unit": 17,
+  "title": "Landlord–Tenant & Property Management",
+  "originality": "All items original to LicensePath. Modeled on the DRE exam blueprint and style only; no actual exam items reproduced.",
+  "questions": [
+    {
+      "id": "PRIN-17-001",
+      "course": "principles",
+      "unit": 17,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A residential lease contains a clause stating the tenant waives the warranty of habitability. This clause is:",
+      "options": [
+        "Enforceable if the tenant initialed it",
+        "Void, because the warranty of habitability cannot be waived",
+        "Enforceable if rent is below market",
+        "Enforceable in month-to-month tenancies only"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Initialing cannot validate a waiver the law forbids.",
+        "Correct. California implies a non-waivable warranty of habitability in every residential lease; a clause purporting to waive it is void.",
+        "Reduced rent does not purchase a waiver of habitability.",
+        "The warranty applies regardless of tenancy type."
+      ],
+      "terms": ["warranty of habitability"]
+    },
+    {
+      "id": "PRIN-17-002",
+      "course": "principles",
+      "unit": 17,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which deduction from a residential security deposit is NOT permitted?",
+      "options": [
+        "Unpaid rent",
+        "Cleaning to the level of cleanliness at the start of the tenancy",
+        "Repainting due to normal fading after a two-year tenancy",
+        "Repairing a large hole punched in a wall"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Unpaid rent is expressly deductible.",
+        "Cleaning to restore the original level of cleanliness is deductible.",
+        "Correct. Ordinary wear and tear — including paint that has simply aged through normal occupancy — may never be deducted.",
+        "Damage beyond ordinary wear and tear is deductible."
+      ],
+      "terms": ["ordinary wear and tear", "security deposit"]
+    },
+    {
+      "id": "PRIN-17-003",
+      "course": "principles",
+      "unit": 17,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "After a residential tenant vacates, the landlord must return the security deposit with an itemized statement within:",
+      "options": [
+        "14 days",
+        "21 days",
+        "30 days",
+        "45 days"
+      ],
+      "answer": 1,
+      "rationales": [
+        "14 days is not the California deadline.",
+        "Correct. California requires return of the deposit with an itemized statement, and supporting receipts or invoices for deductions, within 21 days after the tenant vacates.",
+        "30 days is a common figure in other states but not California's rule.",
+        "45 days is not the California deadline."
+      ],
+      "terms": ["21-day rule", "security deposit"]
+    },
+    {
+      "id": "PRIN-17-004",
+      "course": "principles",
+      "unit": 17,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A California residential landlord charges a $400 'non-refundable cleaning fee' at move-in. This charge is:",
+      "options": [
+        "Lawful if disclosed in the lease",
+        "Unlawful, because California residential deposits must be refundable",
+        "Lawful if the unit is furnished",
+        "Lawful up to one month's rent"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Disclosure does not convert a prohibited non-refundable charge into a lawful one.",
+        "Correct. All residential security deposits in California are refundable; labeling a charge non-refundable does not make it so, though actual cleaning costs may be deducted at move-out.",
+        "Furnishing status affects deposit caps historically, not refundability.",
+        "The cap governs the amount, not whether a charge may be non-refundable."
+      ],
+      "terms": ["security deposit"]
+    },
+    {
+      "id": "PRIN-17-005",
+      "course": "principles",
+      "unit": 17,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A tenant has not paid rent. The landlord's first step toward eviction is to serve a:",
+      "options": [
+        "Three-day notice to pay rent or quit",
+        "Thirty-day notice to terminate",
+        "Writ of possession",
+        "Notice of default"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Nonpayment requires a three-day notice to pay rent or quit before an unlawful detainer may be filed.",
+        "A 30-day notice terminates a month-to-month tenancy without cause; it is not the nonpayment remedy.",
+        "A writ of possession issues after judgment, at the end of the process.",
+        "A notice of default begins foreclosure on a loan, not an eviction."
+      ],
+      "terms": ["three-day notice", "unlawful detainer"]
+    },
+    {
+      "id": "PRIN-17-006",
+      "course": "principles",
+      "unit": 17,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "After obtaining an unlawful detainer judgment and a writ of possession, the tenant is physically removed by:",
+      "options": [
+        "The landlord",
+        "The property manager",
+        "The sheriff",
+        "A licensed private security firm"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Landlord self-help removal is illegal and exposes the landlord to significant damages.",
+        "A property manager has no more authority to remove a tenant than the owner does.",
+        "Correct. Only the sheriff, acting under a writ of possession, may physically remove a tenant.",
+        "Private parties may not execute a lockout regardless of licensing."
+      ],
+      "terms": ["writ of possession", "unlawful detainer"]
+    },
+    {
+      "id": "PRIN-17-007",
+      "course": "principles",
+      "unit": 17,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "Frustrated by a holdover tenant, a landlord shuts off the water and removes the front door. The landlord has:",
+      "options": [
+        "Lawfully exercised the right of reentry",
+        "Committed an illegal self-help eviction exposing him to damages",
+        "Constructively evicted the tenant, ending all obligations",
+        "Properly mitigated damages"
+      ],
+      "answer": 1,
+      "rationales": [
+        "No right of reentry authorizes utility shutoffs or removing doors.",
+        "Correct. Self-help evictions — lockouts, utility shutoffs, removing doors or belongings — are illegal in California and expose the landlord to actual damages, statutory penalties, and attorney's fees.",
+        "Constructive eviction is a tenant's remedy against a landlord, not a lawful landlord tactic.",
+        "Illegal conduct is not damage mitigation."
+      ],
+      "terms": ["unlawful detainer", "constructive eviction"]
+    },
+    {
+      "id": "PRIN-17-008",
+      "course": "principles",
+      "unit": 17,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A landlord wishes to enter a tenant's unit to show it to a prospective buyer. Generally the landlord must give:",
+      "options": [
+        "No notice, since the landlord owns the property",
+        "Reasonable written notice, with 24 hours presumed reasonable",
+        "One week's written notice",
+        "Notice only if the tenant objects"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Ownership does not eliminate the tenant's right to possession and quiet enjoyment.",
+        "Correct. Entry for repairs, inspections, or showings requires reasonable written notice, with 24 hours presumed reasonable, during normal business hours.",
+        "A week exceeds the statutory expectation.",
+        "The notice obligation is affirmative and does not depend on the tenant objecting."
+      ],
+      "terms": ["right of entry"]
+    },
+    {
+      "id": "PRIN-17-009",
+      "course": "principles",
+      "unit": 17,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A tenant complains to the city about a code violation, and two weeks later the landlord serves a rent increase and termination notice. This is likely:",
+      "options": [
+        "Lawful, because landlords may raise rent at will",
+        "A prohibited retaliatory eviction",
+        "Constructive eviction",
+        "A permitted no-fault termination"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Rent increases are not unlimited, and motive matters when it follows protected activity.",
+        "Correct. Retaliation for complaining to a code enforcement agency or exercising repair rights is prohibited, and California presumes retaliation when adverse action follows protected activity within a statutory window.",
+        "Constructive eviction describes conditions making premises unusable.",
+        "A no-fault termination must have a legitimate statutory basis and cannot mask retaliation."
+      ],
+      "terms": ["retaliatory eviction"]
+    },
+    {
+      "id": "PRIN-17-010",
+      "course": "principles",
+      "unit": 17,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "Under the Tenant Protection Act, an annual rent increase on covered property is generally limited to:",
+      "options": [
+        "3% flat",
+        "5% plus local CPI, not to exceed 10%",
+        "10% plus CPI",
+        "Whatever the market supports"
+      ],
+      "answer": 1,
+      "rationales": [
+        "No flat 3% statewide cap applies under AB 1482.",
+        "Correct. The statewide cap is 5% plus local CPI, with a hard ceiling of 10%, whichever is lower — and local ordinances may be stricter.",
+        "This inverts the formula and exceeds the statutory ceiling.",
+        "Covered property is subject to the statutory cap regardless of market conditions."
+      ],
+      "terms": ["Tenant Protection Act (AB 1482)"]
+    },
+    {
+      "id": "PRIN-17-011",
+      "course": "principles",
+      "unit": 17,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A tenant in a covered 1985 building pays $1,850. Local CPI is 3.2%. The maximum lawful new rent is approximately:",
+      "options": [
+        "$1,942.50",
+        "$2,001.70",
+        "$2,035.00",
+        "$2,200.00"
+      ],
+      "answer": 1,
+      "rationales": [
+        "$1,942.50 applies only a 5% increase, omitting the CPI component.",
+        "Correct. 5% + 3.2% = 8.2%, below the 10% ceiling; $1,850 × 1.082 = $2,001.70.",
+        "$2,035.00 corresponds to a 10% increase, which exceeds the applicable formula here.",
+        "$2,200 is an 18.9% increase and is unlawful under the Act."
+      ],
+      "terms": ["Tenant Protection Act (AB 1482)"]
+    },
+    {
+      "id": "PRIN-17-012",
+      "course": "principles",
+      "unit": 17,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Under the Tenant Protection Act, just cause is required to terminate a tenancy once the tenant has occupied the unit for:",
+      "options": [
+        "30 days",
+        "6 months",
+        "12 months",
+        "24 months"
+      ],
+      "answer": 2,
+      "rationales": [
+        "No just cause protection attaches that quickly.",
+        "Six months is not the statutory threshold.",
+        "Correct. After 12 months of occupancy, a covered tenancy may be terminated only for a stated just cause, either at-fault or no-fault.",
+        "24 months exceeds the statutory threshold."
+      ],
+      "terms": ["just cause", "Tenant Protection Act (AB 1482)"]
+    },
+    {
+      "id": "PRIN-17-013",
+      "course": "principles",
+      "unit": 17,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A landlord terminates a covered tenancy so the owner's daughter can move in. This no-fault just cause generally requires:",
+      "options": [
+        "Nothing beyond proper notice",
+        "Relocation assistance to the tenant",
+        "A court order",
+        "Payment of the tenant's moving company invoice in full"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Notice alone is insufficient for a no-fault termination under the Act.",
+        "Correct. No-fault just cause terminations require relocation assistance, typically one month's rent or an equivalent rent waiver.",
+        "No court order is required to serve a proper just cause notice.",
+        "The obligation is a statutory relocation payment, not reimbursement of actual moving invoices."
+      ],
+      "terms": ["relocation assistance", "just cause"]
+    },
+    {
+      "id": "PRIN-17-014",
+      "course": "principles",
+      "unit": 17,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A tenant transfers her ENTIRE remaining lease term to a new tenant. Absent a novation, the original tenant:",
+      "options": [
+        "Is fully released from the lease",
+        "Remains secondarily liable to the landlord",
+        "Becomes a sublessor",
+        "Must vacate within three days"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Only a novation, with the landlord's agreement, releases the original tenant.",
+        "Correct. An assignment transfers the entire remaining interest, but the assignor remains secondarily liable unless the landlord grants a release — the reason a clean exit requires an assignment plus a written release.",
+        "Transferring the entire interest is an assignment; a sublease transfers less than the whole.",
+        "No vacate deadline arises from an assignment."
+      ],
+      "terms": ["assignment", "sublease"]
+    },
+    {
+      "id": "PRIN-17-015",
+      "course": "principles",
+      "unit": 17,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "In a sublease, the subtenant's contractual relationship is with the:",
+      "options": [
+        "Original landlord",
+        "Original tenant",
+        "Property manager",
+        "Lender"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A sublease creates no direct privity between the subtenant and the landlord.",
+        "Correct. In a sublease the subtenant answers to the original tenant, who becomes a sublessor and remains fully liable on the master lease.",
+        "The manager acts for the owner but is not a party to the sublease.",
+        "A lender has no role in the sublease relationship."
+      ],
+      "terms": ["sublease", "assignment"]
+    },
+    {
+      "id": "PRIN-17-016",
+      "course": "principles",
+      "unit": 17,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A retail lease providing base rent plus a percentage of the tenant's gross sales is a:",
+      "options": [
+        "Gross lease",
+        "Percentage lease",
+        "Ground lease",
+        "Index lease"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A gross lease has fixed rent with the landlord paying operating expenses.",
+        "Correct. A percentage lease combines base rent with a share of the tenant's gross sales, aligning landlord and tenant interests; it is standard in shopping centers.",
+        "A ground lease is a long-term lease of land on which the tenant builds.",
+        "An index lease adjusts rent by reference to a published index such as CPI."
+      ],
+      "terms": ["percentage lease", "gross lease"]
+    },
+    {
+      "id": "PRIN-17-017",
+      "course": "principles",
+      "unit": 17,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "In a triple net (NNN) lease, the tenant typically pays rent plus:",
+      "options": [
+        "Nothing additional",
+        "Taxes, insurance, and maintenance",
+        "A percentage of gross sales",
+        "The landlord's mortgage payment"
+      ],
+      "answer": 1,
+      "rationales": [
+        "That describes a gross lease.",
+        "Correct. Triple net shifts taxes, insurance, and maintenance to the tenant in addition to base rent; it is standard in commercial and retail leasing.",
+        "That describes a percentage lease.",
+        "Debt service is the owner's obligation and is not a tenant expense category."
+      ],
+      "terms": ["net lease / triple net (NNN)"]
+    },
+    {
+      "id": "PRIN-17-018",
+      "course": "principles",
+      "unit": 17,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A property manager engaged by an owner under a management agreement acts as a:",
+      "options": [
+        "Special agent",
+        "General agent",
+        "Universal agent",
+        "Subagent of the tenants"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A special agent has authority for one specific transaction, like a listing broker.",
+        "Correct. A property manager has ongoing authority over a range of matters for the owner, making the relationship a general agency — broader than a listing broker's special agency.",
+        "A universal agent may act in all matters under a broad power of attorney.",
+        "The manager represents the owner, not the tenants."
+      ],
+      "terms": ["management agreement", "general agent"]
+    },
+    {
+      "id": "PRIN-17-019",
+      "course": "principles",
+      "unit": 17,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A property manager deposits collected rents into the brokerage's general operating account for a week before transferring them to the trust account. This is:",
+      "options": [
+        "Acceptable if the funds are fully transferred",
+        "Commingling, a disciplinary violation even without loss",
+        "Acceptable if the owner consents",
+        "Conversion, but only if funds are spent"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Restoring the funds does not cure the mixing.",
+        "Correct. Rents are trust funds belonging to the owner; placing them in a general business account is commingling, which is disciplinable even when no one suffers a loss.",
+        "An owner cannot consent to a violation of trust fund handling rules.",
+        "Conversion is the more serious offense of actually using the funds; commingling is already a violation here."
+      ],
+      "terms": ["trust account", "commingling"]
+    },
+    {
+      "id": "PRIN-17-020",
+      "course": "principles",
+      "unit": 17,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A manager collects rent from 7 of 8 units at $2,150 each and charges a 7% fee on collected rents. Expenses are $1,340 maintenance and $620 utilities. The owner's distribution is:",
+      "options": [
+        "$12,036.50",
+        "$13,090.00",
+        "$11,832.00",
+        "$15,050.00"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Collected rent = 7 × 2,150 = 15,050; fee = 15,050 × 0.07 = 1,053.50; distribution = 15,050 − 1,053.50 − 1,340 − 620 = $12,036.50.",
+        "$13,090.00 omits the management fee.",
+        "$11,832.00 applies the fee to scheduled rent for all eight units rather than collected rent.",
+        "$15,050.00 is gross collected rent before any disbursements."
+      ],
+      "terms": ["management agreement"]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "meta": {
     "target_terms": 500,
-    "current_terms": 257,
+    "current_terms": 336,
     "note": "Seed glossary. Grows as each unit's key-terms box is authored. Feeds SRS flashcards and programmatic SEO pages. All definitions original — DRAFT until reviewed."
   },
   "terms": [
@@ -1289,6 +1289,401 @@
       "term": "Lender's policy",
       "definition": "Title insurance protecting the lender only, up to the loan balance, and decreasing as the loan is repaid.",
       "area": "transfer"
+    },
+    {
+      "term": "Base year value",
+      "definition": "The assessed value established at acquisition, growing no more than 2% annually until a change of ownership.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Lien date",
+      "definition": "January 1, when California property taxes attach as a lien for the following fiscal year.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "No Darn Fooling Around",
+      "definition": "Memory aid for the California property tax calendar: November 1, December 10, February 1, April 10.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Supplemental assessment",
+      "definition": "A separate tax bill for the difference between old and new assessed values after a change of ownership or new construction.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Proposition 19",
+      "definition": "The measure narrowing the parent-child reassessment exclusion and expanding base year value portability for those 55+, severely disabled, or disaster victims.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Homeowners' exemption",
+      "definition": "A modest assessed value reduction for an owner-occupied residence, requiring a filing with the assessor.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Mello-Roos (CFD)",
+      "definition": "A community facilities district special assessment funding infrastructure in newer developments; must be disclosed and can add hundreds of dollars monthly.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Capital improvement vs. repair",
+      "definition": "An improvement adds to basis; a repair does not.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Amount realized",
+      "definition": "Sale price less selling costs.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Principal residence exclusion (§121)",
+      "definition": "Exclusion of up to $250,000 of gain (single) or $500,000 (married filing jointly), requiring ownership and use for 2 of the last 5 years.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Depreciation (cost recovery)",
+      "definition": "Deduction of improvement cost over a recovery period; land is never depreciated, and depreciation reduces basis.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Qualified intermediary",
+      "definition": "The party who must hold 1031 exchange proceeds; the exchange fails if the taxpayer receives the funds.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "45-day / 180-day rules",
+      "definition": "Deadlines to identify replacement property in writing and complete acquisition in a 1031 exchange, running concurrently from the relinquished closing.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "FIRPTA",
+      "definition": "Federal withholding on dispositions of real property by foreign persons.",
+      "area": "transfer"
+    },
+    {
+      "term": "California withholding",
+      "definition": "State withholding on certain sales, including by out-of-state sellers, with principal residence and threshold exemptions.",
+      "area": "transfer"
+    },
+    {
+      "term": "Lessor / lessee",
+      "definition": "The landlord who conveys possession / the tenant who receives it.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Gross lease",
+      "definition": "A lease in which the tenant pays fixed rent and the landlord pays operating expenses.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Net lease / triple net (NNN)",
+      "definition": "A lease in which the tenant pays rent plus some expenses / taxes, insurance, and maintenance.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Percentage lease",
+      "definition": "A lease with base rent plus a percentage of the tenant's gross sales; common in retail.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Ground lease",
+      "definition": "A long-term lease of land on which the tenant constructs improvements.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Warranty of habitability",
+      "definition": "The non-waivable implied promise that residential premises are fit for human occupancy.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Repair and deduct",
+      "definition": "A tenant remedy allowing repair of a defect and deduction from rent, subject to statutory limits.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Retaliatory eviction",
+      "definition": "Prohibited adverse action taken because a tenant exercised legal rights; presumed within a statutory window.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Right of entry",
+      "definition": "The landlord's limited right to enter with reasonable written notice, with 24 hours presumed reasonable.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Security deposit",
+      "definition": "A refundable deposit capped by statute; California permits no non-refundable residential deposits.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Ordinary wear and tear",
+      "definition": "Normal deterioration from ordinary use, which may never be deducted from a security deposit.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "21-day rule",
+      "definition": "The deadline to return a security deposit with an itemized statement and receipts after the tenant vacates.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Three-day notice",
+      "definition": "Notice to pay rent or quit, to perform a covenant or quit, or to quit for incurable conduct.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Writ of possession",
+      "definition": "The court order authorizing the sheriff to restore possession to the landlord.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Tenant Protection Act (AB 1482)",
+      "definition": "The statewide law imposing rent caps and just cause eviction requirements on covered residential property.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Just cause",
+      "definition": "The required basis for terminating a covered tenancy after 12 months; either at-fault or no-fault.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Relocation assistance",
+      "definition": "Payment or rent waiver required for a no-fault termination under the Tenant Protection Act.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Ellis Act",
+      "definition": "The law permitting a landlord to withdraw rental property from the rental market.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Estoppel certificate",
+      "definition": "A signed tenant statement confirming lease terms, rent, deposit, and any claims, used by buyers and lenders.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Management agreement",
+      "definition": "The contract between owner and broker establishing a general agency and defining scope, fees, and authority.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Trust funds",
+      "definition": "Money or things of value received on behalf of another in a transaction — deposits, rents, security deposits.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Three-business-day rule",
+      "definition": "Trust funds must be placed in escrow, a trust account, or the principal's hands within three business days of receipt.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Uncashed-check exception",
+      "definition": "Permission to hold a deposit check pending acceptance when the offer so instructs and the seller is informed; the clock then runs from acceptance.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Control record",
+      "definition": "The chronological columnar record of all trust funds received and disbursed.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Beneficiary ledger",
+      "definition": "A separate trust fund record for each beneficiary or transaction showing all receipts, disbursements, and running balance.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Monthly reconciliation",
+      "definition": "The written monthly agreement of the control record, the sum of beneficiary ledgers, and the bank statement.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Record retention",
+      "definition": "The period a broker must keep transaction records — three years for brokerage transaction records.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Debit / credit",
+      "definition": "An amount a party owes or pays / an amount a party receives or has already paid on a settlement statement.",
+      "area": "transfer"
+    },
+    {
+      "term": "Settlement statement",
+      "definition": "The escrow accounting showing each party's debits and credits at closing.",
+      "area": "transfer"
+    },
+    {
+      "term": "E&O insurance",
+      "definition": "Errors and omissions coverage protecting licensees against claims arising from professional services.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "DUST",
+      "definition": "The four elements of value: Demand, Utility, Scarcity, Transferability — all four required.",
+      "area": "valuation"
+    },
+    {
+      "term": "CBS / CIA",
+      "definition": "Comparable Better, Subtract; Comparable Inferior, Add — adjust the comparable, never the subject.",
+      "area": "valuation"
+    },
+    {
+      "term": "Reproduction vs. replacement cost",
+      "definition": "Cost to build an exact replica / cost to build equivalent utility with current materials and methods.",
+      "area": "valuation"
+    },
+    {
+      "term": "Physical deterioration",
+      "definition": "Loss in value from wear, tear, and deferred maintenance; usually curable.",
+      "area": "valuation"
+    },
+    {
+      "term": "Effective age",
+      "definition": "Apparent age based on condition and updating, which may differ substantially from actual age.",
+      "area": "valuation"
+    },
+    {
+      "term": "Economic life",
+      "definition": "The period over which improvements contribute to value.",
+      "area": "valuation"
+    },
+    {
+      "term": "Assemblage / plottage",
+      "definition": "Combining adjacent parcels under one ownership / the increment of value that combination creates.",
+      "area": "valuation"
+    },
+    {
+      "term": "Progression / regression",
+      "definition": "A lower-value property gains from higher-value neighbors / a higher-value property loses from lower-value neighbors.",
+      "area": "valuation"
+    },
+    {
+      "term": "Anticipation",
+      "definition": "Value reflects expected future benefits; the foundation of the income approach.",
+      "area": "valuation"
+    },
+    {
+      "term": "USPAP",
+      "definition": "The Uniform Standards of Professional Appraisal Practice governing licensed appraisers.",
+      "area": "valuation"
+    },
+    {
+      "term": "General plan",
+      "definition": "A city or county's long-term blueprint for development; zoning must be consistent with it.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Setback",
+      "definition": "The minimum required distance between a structure and a lot line.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Spot zoning",
+      "definition": "Rezoning a single parcel inconsistently with surrounding zoning and the general plan; often invalid.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Rezoning",
+      "definition": "A legislative amendment reclassifying a parcel's zoning designation.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Subdivision Map Act",
+      "definition": "The state law administered locally governing the physical division of land, maps, dedications, and improvements; protects the community.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Subdivided Lands Act",
+      "definition": "The state consumer protection law administered by the DRE governing marketing and sale of subdivided lots; protects the buyer.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Public report",
+      "definition": "The Commissioner's disclosure document that must be given to prospective purchasers, with a signed receipt, before a purchase money deposit is taken.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Preliminary public report",
+      "definition": "An interim report permitting only fully refundable, non-binding reservations — not binding purchase contracts.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "CEQA",
+      "definition": "The California Environmental Quality Act, requiring agencies to study and disclose environmental impacts of discretionary projects.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Environmental impact report (EIR)",
+      "definition": "The detailed CEQA document analyzing significant impacts, alternatives, and mitigation.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "CERCLA / Superfund",
+      "definition": "Federal hazardous substance cleanup liability, which can attach to current owners; the reason for Phase I assessments.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Dedication",
+      "definition": "The transfer of private land to public use, often required as a condition of subdivision approval.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "43,560",
+      "definition": "Square feet in one acre.",
+      "area": "ownership-land-use"
+    },
+    {
+      "term": "Fair Housing Act",
+      "definition": "The federal law prohibiting housing discrimination based on seven protected classes.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Federal protected classes",
+      "definition": "Race, color, religion, national origin, sex (including sexual orientation and gender identity), disability, and familial status.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Housing for older persons (HOPA)",
+      "definition": "The narrow exception permitting age-restricted communities meeting strict statutory criteria.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Holden Act",
+      "definition": "California's Housing Financial Discrimination Act, prohibiting lending discrimination based on borrower or neighborhood characteristics.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Reasonable accommodation",
+      "definition": "A change in rules, policies, or services for a person with a disability; the housing provider bears the cost.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Reasonable modification",
+      "definition": "A physical change to the premises for a person with a disability; generally at the tenant's expense.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Assistance animal",
+      "definition": "A service or support animal that is not a pet; exempt from no-pet policies, pet rent, deposits, and breed or weight limits.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Implicit bias",
+      "definition": "Unconscious association influencing judgment without conscious discriminatory intent.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Tester",
+      "definition": "A person posing as a prospect to detect discrimination; testers have standing to sue and their evidence is admissible.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "Paired testing",
+      "definition": "A method sending similarly qualified testers of different backgrounds to detect differential treatment.",
+      "area": "practice-disclosures"
+    },
+    {
+      "term": "NAR Code of Ethics",
+      "definition": "The ethical code binding Realtor members, organized around duties to clients, the public, and other Realtors.",
+      "area": "practice-disclosures"
     }
   ]
 }

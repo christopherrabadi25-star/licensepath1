@@ -81,3 +81,17 @@ is in progress, and that the AI tutor is "in development — not yet available."
   one-file edit rather than a hunt through JSX.
 
 Lint, typecheck, and build all pass; 348 static pages generated.
+
+## 2026-08-08 — Course 2 (Practice) Units 1–3
+
+- Authored Practice Unit 1 (Starting Your Practice): brokerage compensation models with net-income arithmetic at realistic transaction counts, the independent-contractor/employee duality, team structures and California team-name rules, a four-number business plan built backward from an income goal, the costs new agents omit, and E&O scope and exclusions. Worked examples compare two brokerage offers at both 6 and 2 transactions to show fixed fees dominate at low volume. 18-question bank.
+- Authored Practice Unit 2 (Prospecting & Lead Generation): the conversion hierarchy of lead sources, sphere-of-influence construction, geographic farm selection by turnover and competition, the legal rules of outreach (DNC, autodialer exposure on texts, CAN-SPAM), FSBO and expired-listing practice, referral fee rules including the unlicensed-payee prohibition and RESPA, fair housing risk in ad targeting, and CPL/ROI measurement. Worked examples show farm selection math and an ROI comparison where the higher cost-per-lead source returns nearly double. 18-question bank.
+- Authored Practice Unit 3 (Fair Housing in Practice & Implicit Bias) — **the SB 263 required component**, built as participatory activities rather than reading:
+  - **Activity 1** scripted response drill: four live scenarios requiring written responses plus recorded verbal delivery, with model language.
+  - **Activity 2** personal service audit: structured data collection on response times, showing counts, and follow-up, with written pattern analysis. Built on the premise that bias is measurable but not introspectable.
+  - **Activity 3** case study analysis: four composite cases (paired testing, disability accommodation, advertising copy, and a silent differential-service case) with structured analytical questions.
+  - **Activity 4** paired role-play with debrief questions.
+  - **Activity 5** written personal practice standard covering response, intake, criteria, advertising, refusal script, and audit schedule.
+  - 20-question assessment. Activities are required in addition and are recorded for the completion record and potential DRE audit.
+- Question bank now 433 items, all validated.
+- Note: practice-disclosures coverage is now 41% against a 25% blueprint target — expected, since the Practice course concentrates there. Exam-simulator fill items will need to rebalance toward agency and valuation.

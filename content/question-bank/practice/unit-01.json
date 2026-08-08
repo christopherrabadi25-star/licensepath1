@@ -1,0 +1,404 @@
+{
+  "course": "practice",
+  "unit": 1,
+  "title": "Starting Your Practice: Brokerage Models, Teams & Business Planning",
+  "originality": "All items original to LicensePath. Modeled on the DRE exam blueprint and style only; no actual exam items reproduced.",
+  "questions": [
+    {
+      "id": "PRAC-01-001",
+      "course": "practice",
+      "unit": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A salesperson receives 1099 income from her brokerage. For purposes of the Real Estate Law's supervision requirements, she is treated as:",
+      "options": [
+        "An independent principal responsible only to herself",
+        "The employee of her responsible broker",
+        "A co-broker with shared liability",
+        "An unsupervised contractor"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Tax classification does not relieve the broker of supervision duties or the salesperson of working under them.",
+        "Correct. A salesperson may be an independent contractor for tax purposes while being treated as the broker's employee for supervision and accountability — both are true simultaneously.",
+        "Salespersons do not hold co-broker status.",
+        "All licensed activity by a salesperson is subject to broker supervision."
+      ],
+      "terms": ["independent contractor", "responsible broker"]
+    },
+    {
+      "id": "PRAC-01-002",
+      "course": "practice",
+      "unit": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "In a cap-based commission model, the 'cap' refers to:",
+      "options": [
+        "The maximum commission a client may be charged",
+        "A cumulative amount paid to the brokerage in a year, after which the agent's split improves",
+        "The largest transaction size the brokerage will accept",
+        "A limit on the agent's annual earnings"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Commissions charged to clients are always negotiable and are not capped by brokerage models.",
+        "Correct. Once the agent has paid the brokerage the cap amount within the anniversary year, the split typically improves, often to 100%.",
+        "Caps concern compensation structure, not transaction size limits.",
+        "A cap raises an agent's earnings after it is met; it does not limit them."
+      ],
+      "terms": ["cap", "commission split"]
+    },
+    {
+      "id": "PRAC-01-003",
+      "course": "practice",
+      "unit": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An agent expects 6 transactions at $19,500 gross commission per side. Brokerage A offers a 60/40 split with a $395 per-transaction fee and no desk fee. The agent's annual net from Brokerage A is:",
+      "options": [
+        "$117,000",
+        "$70,200",
+        "$67,830",
+        "$63,180"
+      ],
+      "answer": 2,
+      "rationales": [
+        "$117,000 is total gross commission for six sides before any split.",
+        "$70,200 applies the 60% split but omits the per-transaction fees.",
+        "Correct. $19,500 × 0.60 = $11,700 per deal; less $395 = $11,305; × 6 = $67,830.",
+        "$63,180 applies a 54% split, which is not the stated arrangement."
+      ],
+      "terms": ["commission split"]
+    },
+    {
+      "id": "PRAC-01-004",
+      "course": "practice",
+      "unit": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A fixed monthly desk fee is MOST damaging to an agent's economics when:",
+      "options": [
+        "Transaction volume is high",
+        "Transaction volume is low",
+        "The market is appreciating",
+        "The agent works on a team"
+      ],
+      "answer": 1,
+      "rationales": [
+        "At high volume the fixed fee is spread across many closings and its per-transaction impact shrinks.",
+        "Correct. A fixed fee is owed whether or not the agent closes anything, so it hurts most at low volume — exactly when a new agent can least absorb it.",
+        "Market direction does not change the fixed nature of the fee.",
+        "Team membership does not alter how a fixed fee interacts with volume."
+      ],
+      "terms": ["desk fee", "cap"]
+    },
+    {
+      "id": "PRAC-01-005",
+      "course": "practice",
+      "unit": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A California salesperson team wishes to advertise under a team name. The name must generally:",
+      "options": [
+        "Be registered as a fictitious business name by the salesperson",
+        "Include a team member's surname plus a term such as 'team,' 'group,' or 'associates'",
+        "Be approved by the local association of Realtors",
+        "Include the word 'Realty' to signal professionalism"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Salespersons do not obtain their own fictitious business name licensing; that is a broker function.",
+        "Correct. A team name must generally include a team member's surname together with a term like team, group, or associates, must not imply an independent brokerage, and advertising must identify the responsible broker.",
+        "Association approval is not the legal requirement.",
+        "Terms suggesting an independent brokerage — like 'Realty' — are precisely what the rule guards against."
+      ],
+      "terms": ["team"]
+    },
+    {
+      "id": "PRAC-01-006",
+      "course": "practice",
+      "unit": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A team sign displays only the team name and a phone number, with no mention of the brokerage. This creates a risk of:",
+      "options": [
+        "A blind ad, because it conceals that the advertiser is a licensee acting through a broker",
+        "A RESPA violation",
+        "A trust fund violation",
+        "An antitrust violation"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Advertising that hides the licensee's status and the responsible broker is a blind ad and is prohibited; team advertising must identify the broker.",
+        "RESPA governs settlement service referrals and kickbacks, not signage.",
+        "Trust fund rules govern client money, not advertising.",
+        "Antitrust concerns price-fixing and market allocation, not sign content."
+      ],
+      "terms": ["team", "responsible broker"]
+    },
+    {
+      "id": "PRAC-01-007",
+      "course": "practice",
+      "unit": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An agent needs to earn $60,000. Median price is $540,000, she earns a 2.5% side, and her split is 70/30 in her favor. She needs approximately:",
+      "options": [
+        "5 transactions",
+        "7 transactions",
+        "9 transactions",
+        "4 transactions"
+      ],
+      "answer": 1,
+      "rationales": [
+        "5 transactions would yield about $47,250, short of the goal.",
+        "Correct. $540,000 × 0.025 = $13,500 gross per side; × 0.70 = $9,450 to the agent; $60,000 ÷ $9,450 = 6.35, so 7 transactions.",
+        "9 transactions would substantially exceed the target.",
+        "4 transactions would yield about $37,800."
+      ],
+      "terms": ["gross commission income (GCI)"]
+    },
+    {
+      "id": "PRAC-01-008",
+      "course": "practice",
+      "unit": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Because a salesperson receives 1099 income with no withholding, the most important financial habit in year one is to:",
+      "options": [
+        "Maximize deductions by delaying expense tracking until tax season",
+        "Set aside a portion of every commission for taxes and pay quarterly estimates",
+        "Wait until the first tax return to determine liability",
+        "Treat all commission income as spendable"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Delaying expense tracking loses deductions and makes reconstruction difficult.",
+        "Correct. Nothing is withheld from commission checks, so the agent must reserve roughly 25–35% for income and self-employment tax and make quarterly estimated payments.",
+        "Waiting until filing produces a liability the agent has not reserved for.",
+        "Treating gross commission as spendable income is the classic first-year mistake."
+      ],
+      "terms": ["independent contractor"]
+    },
+    {
+      "id": "PRAC-01-009",
+      "course": "practice",
+      "unit": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Errors and omissions insurance generally does NOT cover:",
+      "options": [
+        "An alleged failure to disclose a known material fact",
+        "A clerical error in preparing a contract",
+        "Commingling or misappropriation of trust funds",
+        "A negligence claim arising from a showing"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Disclosure claims are a core reason E&O exists.",
+        "Errors in document preparation are within typical coverage.",
+        "Correct. E&O excludes intentional wrongdoing, fraud, and trust fund misappropriation — there is no insurance product for taking client money.",
+        "Negligence claims arising from professional services are typically covered."
+      ],
+      "terms": ["E&O insurance"]
+    },
+    {
+      "id": "PRAC-01-010",
+      "course": "practice",
+      "unit": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "For a brand-new licensee, the factor most predictive of remaining in the business past year two is:",
+      "options": [
+        "Securing the highest available commission split",
+        "Having six to twelve months of living expenses in reserve",
+        "Joining the largest national brand",
+        "Buying online portal leads immediately"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A high split on zero closings is worth nothing.",
+        "Correct. Commissions arrive months after work begins, and running out of money before the pipeline matures is the most common reason new agents leave.",
+        "Brand size does not address the cash flow gap.",
+        "Purchased leads add cost during the period when cash is scarcest."
+      ],
+      "terms": ["gross commission income (GCI)"]
+    },
+    {
+      "id": "PRAC-01-011",
+      "course": "practice",
+      "unit": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "When interviewing brokerages, the question most valuable to a new licensee is:",
+      "options": [
+        "What is your commission split?",
+        "Who reviews my first purchase contract, and who do I call on a Sunday?",
+        "How many agents work here?",
+        "What is your market share?"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Split matters, but it is secondary to competence and liability protection in year one.",
+        "Correct. Supervision quality is both the fastest route to competence and a liability shield, and it is the question new agents most often fail to ask.",
+        "Headcount says little about the support an individual agent receives.",
+        "Brokerage market share does not translate into support for a new licensee."
+      ],
+      "terms": ["responsible broker"]
+    },
+    {
+      "id": "PRAC-01-012",
+      "course": "practice",
+      "unit": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A franchise fee in a national brand brokerage is typically taken:",
+      "options": [
+        "From the agent's share after the broker split",
+        "Off the top of the commission before the broker/agent split",
+        "Only from the broker's share",
+        "Annually as a flat membership charge"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Taking it after the split would understate its effect on the agent.",
+        "Correct. A franchise fee is commonly deducted off the top before the split, which is why agents must model it explicitly when comparing offers.",
+        "The fee reduces the pool both parties share, not only the broker's portion.",
+        "Franchise fees are typically transaction-based rather than a flat annual charge."
+      ],
+      "terms": ["franchise fee", "commission split"]
+    },
+    {
+      "id": "PRAC-01-013",
+      "course": "practice",
+      "unit": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A new agent joins a team that supplies leads and takes 50% of the agent's side on team-generated business. The primary trade-off being accepted is:",
+      "options": [
+        "Higher compensation for less work",
+        "Lower per-transaction income in exchange for lead flow, systems, and supervision",
+        "Freedom from broker supervision",
+        "Exemption from team advertising rules"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Team splits reduce per-transaction income; the benefit lies elsewhere.",
+        "Correct. The agent trades a smaller share for leads before they can generate their own, established systems, and experienced review of their work — often the fastest route to competence.",
+        "Team members remain fully subject to the responsible broker's supervision.",
+        "Team advertising rules apply regardless of the compensation arrangement."
+      ],
+      "terms": ["team", "commission split"]
+    },
+    {
+      "id": "PRAC-01-014",
+      "course": "practice",
+      "unit": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which expense is most commonly omitted from a new agent's first-year budget?",
+      "options": [
+        "MLS and association dues",
+        "Six to twelve months of personal living expenses",
+        "Business cards",
+        "A lockbox key"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Dues are a known, recurring line most agents anticipate.",
+        "Correct. New agents routinely budget business costs and omit the personal runway needed to survive the four to six month gap before the first commission arrives.",
+        "Marketing materials are typically anticipated.",
+        "Lockbox access is a small, expected cost."
+      ],
+      "terms": ["gross commission income (GCI)"]
+    },
+    {
+      "id": "PRAC-01-015",
+      "course": "practice",
+      "unit": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A new agent is unsure how to complete an unfamiliar contract provision. The correct action is to:",
+      "options": [
+        "Draft language that captures the parties' intent",
+        "Ask the responsible broker before completing it",
+        "Copy language from a contract in another transaction",
+        "Leave it blank and address it at closing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Drafting custom legal language is the unauthorized practice of law.",
+        "Correct. Broker supervision exists for exactly this, and asking is both the competent and the protected course.",
+        "Borrowing language from an unrelated transaction risks importing terms that do not fit and still amounts to drafting.",
+        "Leaving material terms blank creates ambiguity and potential unenforceability."
+      ],
+      "terms": ["responsible broker"]
+    },
+    {
+      "id": "PRAC-01-016",
+      "course": "practice",
+      "unit": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An agent closes 2 transactions in year one at $19,500 per side. Brokerage A: 60/40 split, $395 per transaction, no desk fee. Brokerage B: 80/20 split, $295 per transaction, $800 monthly desk fee. Which nets more, and why?",
+      "options": [
+        "Brokerage A, because $9,600 in annual desk fees outweighs B's better split at this volume",
+        "Brokerage B, because a higher split always wins",
+        "The two are identical at every volume",
+        "Brokerage B, because per-transaction fees matter more than desk fees"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. A: ($19,500 × 0.60 − $395) × 2 = $22,610. B: ($19,500 × 0.80 − $295) × 2 − $9,600 = $30,610 − $9,600 = $21,010. A nets $1,600 more, because fixed fees are owed regardless of production and dominate at low volume.",
+        "A higher split only wins once volume is sufficient to absorb the fixed costs; at two transactions it does not.",
+        "The structures diverge at every volume; which one leads depends on transaction count.",
+        "Here the $9,600 in desk fees dwarfs the $200 per-transaction difference — the fixed cost is what decides it."
+      ],
+      "terms": ["desk fee", "commission split"]
+    },
+    {
+      "id": "PRAC-01-017",
+      "course": "practice",
+      "unit": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Working backward from an income goal, the most useful final output of a business plan is:",
+      "options": [
+        "A target gross commission income figure",
+        "A daily or weekly activity count the agent can schedule",
+        "A list of desired brokerages",
+        "A projected market appreciation rate"
+      ],
+      "answer": 1,
+      "rationales": [
+        "An income target is the starting input, not something the agent can act on directly.",
+        "Correct. Converting the income goal into transactions, then into conversations, produces a schedulable daily activity — and consistent activity, not knowledge, is what new agents most often lack.",
+        "Brokerage selection is a separate decision.",
+        "Appreciation is outside the agent's control and does not drive daily behavior."
+      ],
+      "terms": ["conversion ratio", "gross commission income (GCI)"]
+    },
+    {
+      "id": "PRAC-01-018",
+      "course": "practice",
+      "unit": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "The habit that most reduces an agent's long-term liability exposure is:",
+      "options": [
+        "Carrying higher E&O limits",
+        "Confirming every material conversation in writing the same day",
+        "Working only with referred clients",
+        "Avoiding older properties"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Higher limits pay claims; they do not prevent them.",
+        "Correct. A written record created contemporaneously is the single most effective protection, because most disputes turn on what was said and when.",
+        "Referred clients sue too, and limiting the client base is not a risk strategy.",
+        "Property age does not determine liability; disclosure practice does."
+      ],
+      "terms": ["E&O insurance"]
+    }
+  ]
+}

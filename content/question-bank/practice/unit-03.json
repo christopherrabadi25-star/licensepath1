@@ -1,0 +1,449 @@
+{
+  "course": "practice",
+  "unit": 3,
+  "title": "Fair Housing in Practice & Implicit Bias",
+  "originality": "All items original to LicensePath. Modeled on the DRE exam blueprint and style only; no actual exam items reproduced.",
+  "note": "SB 263 required component. Completion of Activities 1–5 in the unit is required in addition to this assessment.",
+  "questions": [
+    {
+      "id": "PRAC-03-001",
+      "course": "practice",
+      "unit": 3,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A seller says at the listing appointment, 'I'd rather not sell to a young family — the street is quiet.' The agent should:",
+      "options": [
+        "Note the preference and screen offers accordingly",
+        "Decline the instruction, explain that familial status is protected, and state what the agent will do instead",
+        "Agree verbally but present all offers anyway",
+        "Ask the seller to put the instruction in writing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Screening offers by familial status is unlawful discrimination.",
+        "Correct. The agent must decline clearly, explain the legal obligation without lecturing, and redirect the seller to lawful decision criteria such as price, financing, and timeline.",
+        "Agreeing verbally while doing otherwise leaves the client believing the instruction was accepted and does not correct the underlying problem.",
+        "Documenting an unlawful instruction does not make following it lawful and creates written evidence of the intent."
+      ],
+      "terms": ["differential service", "steering"]
+    },
+    {
+      "id": "PRAC-03-002",
+      "course": "practice",
+      "unit": 3,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "Paired testers with identical finances contact the same agent. One is shown 11 homes across six neighborhoods; the other is shown 4 homes in two neighborhoods and asked twice about affordability. The agent sincerely believes she treated both professionally. This is:",
+      "options": [
+        "Not a violation, because there was no discriminatory intent",
+        "Unlawful differential service, because fair housing enforcement examines conduct and outcomes rather than motive",
+        "Lawful, because agents may exercise judgment about client readiness",
+        "A violation only if a tester files a complaint"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Intent is not an element; sincere belief in one's own fairness is common among agents whose conduct violates the law.",
+        "Correct. Differential service in showings, information provided, and qualification assumptions is actionable regardless of intent — which is precisely why implicit bias matters legally.",
+        "Judgment about readiness applied unequally by protected characteristic is the violation itself.",
+        "Liability does not depend on a complaint being filed, and testers have standing to sue."
+      ],
+      "terms": ["differential service", "paired testing", "implicit bias"]
+    },
+    {
+      "id": "PRAC-03-003",
+      "course": "practice",
+      "unit": 3,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A buyer asks, 'What kind of people live in this neighborhood?' The best response is to:",
+      "options": [
+        "Describe the demographics accurately",
+        "Decline to characterize residents and direct the buyer to objective published data",
+        "Say the neighborhood is 'very diverse'",
+        "Say you are not allowed to answer and change the subject"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Describing residents by protected characteristics is steering, however accurate.",
+        "Correct. Refuse to characterize residents, then redirect to census data, school reports, and crime statistics the buyer can evaluate independently — compliant and more genuinely useful.",
+        "Characterizing an area as 'diverse' still describes the people rather than the property and can itself signal a preference.",
+        "A bare refusal without a useful alternative serves the client poorly; the redirect is what makes the response work."
+      ],
+      "terms": ["steering"]
+    },
+    {
+      "id": "PRAC-03-004",
+      "course": "practice",
+      "unit": 3,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A property management client instructs the agent to 'screen out the voucher applicants.' In California this instruction is:",
+      "options": [
+        "Lawful, because vouchers involve additional paperwork",
+        "Unlawful, because source of income is a protected characteristic",
+        "Lawful if applied to every applicant equally",
+        "Lawful for buildings with fewer than five units"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Administrative inconvenience is not a lawful basis for refusing a protected source of income.",
+        "Correct. Source of income is protected under California law; landlords may apply uniform financial criteria but must count the voucher as income.",
+        "Applying an unlawful criterion uniformly does not make it lawful.",
+        "No small-building exemption authorizes source of income discrimination in California."
+      ],
+      "terms": ["source of income"]
+    },
+    {
+      "id": "PRAC-03-005",
+      "course": "practice",
+      "unit": 3,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Implicit bias is best understood as:",
+      "options": [
+        "Deliberate discrimination that the actor conceals",
+        "Unconscious association that shapes judgment without conscious intent",
+        "A defense available when no discriminatory motive existed",
+        "A concern only for agents who lack fair housing training"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Concealed deliberate discrimination is intentional conduct, not implicit bias.",
+        "Correct. Implicit bias operates unconsciously and affects everyone, including people sincerely committed to fairness — which is why process rather than resolve is the countermeasure.",
+        "Absence of conscious motive is not a defense; enforcement examines conduct and outcomes.",
+        "Training alone does not eliminate implicit bias; standardized process does more."
+      ],
+      "terms": ["implicit bias"]
+    },
+    {
+      "id": "PRAC-03-006",
+      "course": "practice",
+      "unit": 3,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "The most effective practical countermeasure to implicit bias in an agent's practice is:",
+      "options": [
+        "Committing personally to treat everyone fairly",
+        "Standardizing intake, response times, and follow-up so every client receives an identical process",
+        "Avoiding clients from unfamiliar backgrounds",
+        "Relying on the brokerage's annual training"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Good intentions do not reliably change behavior under time pressure, which is when bias operates fastest.",
+        "Correct. Uniform process removes the discretionary moments where bias enters and produces data the agent can audit — consistency defeats bias more reliably than resolve.",
+        "Avoiding certain clients is itself discriminatory and worsens the problem.",
+        "Annual training raises awareness but does not change the daily decisions where bias operates."
+      ],
+      "terms": ["practice standard", "implicit bias"]
+    },
+    {
+      "id": "PRAC-03-007",
+      "course": "practice",
+      "unit": 3,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An agent's records show she responds to some inquiries within an hour and to others in three hours, and the pattern correlates with the apparent national origin of the inquirer. She intended no discrimination. This pattern:",
+      "options": [
+        "Is legally irrelevant absent intent",
+        "Can constitute unlawful differential service and is exactly what paired testing is designed to reveal",
+        "Is acceptable because response time is not a housing service",
+        "Matters only if a client complains"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Intent is not required for a differential service claim.",
+        "Correct. Unequal service quality correlated with a protected characteristic is actionable, and response-time and showing-count disparities are precisely what testing surfaces — which is why self-auditing is better than being audited.",
+        "Response time is part of the service provided and counts.",
+        "Liability does not depend on a complaint, and the agent who finds the pattern first can fix it."
+      ],
+      "terms": ["differential service", "paired testing"]
+    },
+    {
+      "id": "PRAC-03-008",
+      "course": "practice",
+      "unit": 3,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A tenant with a disability requests permission to install grab bars at her own expense. The landlord must:",
+      "options": [
+        "Deny it under a no-alterations policy",
+        "Permit it as a reasonable modification, generally at the tenant's expense",
+        "Permit it and pay for the installation",
+        "Require a physician's letter describing the diagnosis"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A no-alterations policy does not override the right to a reasonable modification.",
+        "Correct. A physical change to the premises is a reasonable modification, generally at the tenant's cost, with restoration required only where reasonable — a landlord typically cannot require removal of grab bars.",
+        "The provider bears the cost of accommodations (policy changes), not modifications (physical changes).",
+        "Diagnosis and medical records may not be demanded; only documentation of disability-related need when the disability is not obvious."
+      ],
+      "terms": ["reasonable modification", "reasonable accommodation"]
+    },
+    {
+      "id": "PRAC-03-009",
+      "course": "practice",
+      "unit": 3,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "An applicant discloses an emotional support animal that exceeds the building's weight limit. The housing provider may:",
+      "options": [
+        "Apply the weight limit and deny the animal",
+        "Charge pet rent and a pet deposit",
+        "Request documentation of the disability-related need if the disability is not obvious",
+        "Require proof of registration from an online service"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Breed and weight restrictions generally do not apply to assistance animals.",
+        "An assistance animal is not a pet, so pet rent and pet deposits do not apply.",
+        "Correct. Where the disability is not obvious, the provider may request documentation of the disability-related need — not diagnosis, records, or severity.",
+        "Online 'registrations' have no legal force and may not be required."
+      ],
+      "terms": ["assistance animal", "reasonable accommodation"]
+    },
+    {
+      "id": "PRAC-03-010",
+      "course": "practice",
+      "unit": 3,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An agent shows only single-story homes to a buyer who uses a mobility device, without the buyer having asked for that limitation. This is:",
+      "options": [
+        "Considerate service tailored to the client",
+        "Steering, because the agent narrowed options based on a protected characteristic rather than stated criteria",
+        "Required under accessibility law",
+        "Acceptable if the agent explains the reasoning"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Well-intended tailoring based on an assumption about disability is the classic steering pattern.",
+        "Correct. The agent inferred criteria from a protected characteristic instead of asking; letting the client define their own criteria is the rule.",
+        "No law requires narrowing a buyer's options by disability.",
+        "Explaining the reasoning does not cure having narrowed the options without being asked."
+      ],
+      "terms": ["steering"]
+    },
+    {
+      "id": "PRAC-03-011",
+      "course": "practice",
+      "unit": 3,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which listing phrase creates a fair housing problem AND a separate factual-representation risk?",
+      "options": [
+        "Updated kitchen with quartz counters",
+        "Quiet, safe family neighborhood",
+        "Detached two-car garage",
+        "Corner lot with mature landscaping"
+      ],
+      "answer": 1,
+      "rationales": [
+        "This describes a property feature objectively.",
+        "Correct. 'Family' implicates familial status, and 'safe' is an unverifiable factual claim about crime that creates misrepresentation exposure independent of fair housing.",
+        "This describes a physical feature.",
+        "This describes the lot objectively."
+      ],
+      "terms": ["differential service"]
+    },
+    {
+      "id": "PRAC-03-012",
+      "course": "practice",
+      "unit": 3,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "An agent may lawfully disclose to a seller that the buyer:",
+      "options": [
+        "Uses a wheelchair",
+        "Is offering all cash with a 10-day close",
+        "Recently immigrated to the United States",
+        "Has three young children"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Disability is protected and is never relevant to the seller's decision; volunteering it invites a claim.",
+        "Correct. Offer terms — price, financing, timeline — are the lawful basis for a seller's decision and are properly communicated.",
+        "Immigration status and national origin are protected characteristics.",
+        "Familial status is protected and must not be communicated as a decision factor."
+      ],
+      "terms": ["differential service"]
+    },
+    {
+      "id": "PRAC-03-013",
+      "course": "practice",
+      "unit": 3,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A colleague mentions casually that he sent a family 'to the east side, where they'll be more comfortable.' This describes:",
+      "options": [
+        "Good client service",
+        "Steering",
+        "Blockbusting",
+        "Redlining"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Directing clients to areas based on assumed comfort tied to a protected characteristic is not service.",
+        "Correct. Channeling prospects toward particular neighborhoods based on a protected characteristic is steering, and it usually arrives phrased as helpfulness.",
+        "Blockbusting involves inducing owners to sell by exploiting fear of neighborhood change.",
+        "Redlining is area-based denial of loans, insurance, or services."
+      ],
+      "terms": ["steering"]
+    },
+    {
+      "id": "PRAC-03-014",
+      "course": "practice",
+      "unit": 3,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An agent replies to an inquiry four hours later and demands a preapproval before scheduling showings, though her standard practice is to reply within an hour and offer a consultation first. The inquiry had a name she could not pronounce and minor grammatical errors. The violation here is difficult to detect because:",
+      "options": [
+        "No protected characteristic was involved",
+        "Nothing was explicitly said or refused, and the agent never revisits the interaction",
+        "The buyer failed to follow up",
+        "Response time is not a service"
+      ],
+      "answer": 1,
+      "rationales": [
+        "National origin and primary language are protected, and both are implicated.",
+        "Correct. The differential treatment is invisible in any single interaction, the buyer simply disappears, and the agent never thinks about it again — which is why counting one's own behavior matters more than introspection.",
+        "The buyer's non-response is a consequence of the treatment, not an excuse for it.",
+        "Response time and the service offered are both part of the service provided."
+      ],
+      "terms": ["implicit bias", "differential service"]
+    },
+    {
+      "id": "PRAC-03-015",
+      "course": "practice",
+      "unit": 3,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "The purpose of writing a personal practice standard is to:",
+      "options": [
+        "Satisfy a brokerage paperwork requirement",
+        "Predetermine uniform responses and processes before the pressure of a live situation",
+        "Create a marketing document for clients",
+        "Substitute for fair housing continuing education"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It is a professional tool, not a compliance formality.",
+        "Correct. Fair housing failures happen in the seconds after an unexpected statement; deciding your response and process in advance is what makes the right action automatic.",
+        "It is an internal operating standard, not marketing collateral.",
+        "It complements required education rather than replacing it."
+      ],
+      "terms": ["practice standard"]
+    },
+    {
+      "id": "PRAC-03-016",
+      "course": "practice",
+      "unit": 3,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A seller states a preference for owner-occupant buyers over investors. The agent may:",
+      "options": [
+        "Not honor it, because all buyer preferences are discriminatory",
+        "Honor it, because investor status is not a protected characteristic",
+        "Honor it only if the buyer pool is diverse",
+        "Honor it only with written DRE approval"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Only preferences based on protected characteristics are unlawful.",
+        "Correct. Investor status is not protected, so an owner-occupant preference is lawful — unlike preferences based on familial status, national origin, or language.",
+        "The composition of the buyer pool does not determine whether a non-protected preference is lawful.",
+        "No DRE approval process exists or is needed for a lawful preference."
+      ],
+      "terms": ["differential service"]
+    },
+    {
+      "id": "PRAC-03-017",
+      "course": "practice",
+      "unit": 3,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Before a showing, the best way to address a client's possible accessibility needs is to:",
+      "options": [
+        "Assume needs based on observation and plan accordingly",
+        "Ask whether there is anything about the property or showing you should plan for",
+        "Avoid the topic entirely to prevent a discrimination claim",
+        "Ask the client to describe their medical condition"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Assuming needs based on appearance leads directly to steering.",
+        "Correct. An open question lets the client state what they need without the agent presuming a limitation or ignoring a real one.",
+        "Avoiding the topic can leave a genuine access barrier unaddressed and serves the client poorly.",
+        "Asking about a medical condition is inappropriate and unnecessary."
+      ],
+      "terms": ["reasonable accommodation", "steering"]
+    },
+    {
+      "id": "PRAC-03-018",
+      "course": "practice",
+      "unit": 3,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A seller insists on an unlawful screening instruction after the agent explains the law. The agent should:",
+      "options": [
+        "Continue the listing and quietly disregard the instruction",
+        "Withdraw from the listing",
+        "Follow the instruction since the seller was warned",
+        "Ask another agent in the office to take the listing and follow it"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Quietly disregarding leaves the agent representing a client actively directing unlawful conduct and does not resolve the exposure.",
+        "Correct. Obedience extends only to lawful instructions; when a client insists on unlawful screening, withdrawal is the appropriate course — no commission is worth the license.",
+        "A warning does not transfer responsibility for unlawful conduct to the client alone.",
+        "Passing the listing to a colleague transfers the violation rather than preventing it and implicates the brokerage."
+      ],
+      "terms": ["practice standard"]
+    },
+    {
+      "id": "PRAC-03-019",
+      "course": "practice",
+      "unit": 3,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Federal fair housing exemptions for certain owner-occupied small buildings do NOT apply when:",
+      "options": [
+        "The owner occupies one of the units",
+        "A real estate licensee participates in the transaction",
+        "The building predates 1968",
+        "The units share a common entrance"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Owner occupancy is a condition of the exemption rather than something defeating it.",
+        "Correct. The exemptions never apply when a licensee is involved and never permit discriminatory advertising — and California's broader statutes eliminate them in most practical situations.",
+        "Construction date does not control the exemption.",
+        "Shared entrances are not the determining factor."
+      ],
+      "terms": ["source of income"]
+    },
+    {
+      "id": "PRAC-03-020",
+      "course": "practice",
+      "unit": 3,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A single fair housing violation by a licensee can produce:",
+      "options": [
+        "Civil damages only",
+        "Civil damages and attorney's fees, administrative enforcement, and DRE license discipline, each independently",
+        "DRE discipline only",
+        "A warning for a first offense"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Civil damages are one of several independent exposures.",
+        "Correct. The three consequences stack and proceed independently — settling a civil case does not resolve an administrative complaint or prevent license discipline.",
+        "License discipline is independent of, but not exclusive of, the other remedies.",
+        "No first-offense warning system shields licensees from fair housing consequences."
+      ],
+      "terms": ["practice standard"]
+    }
+  ]
+}

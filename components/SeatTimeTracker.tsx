@@ -2,91 +2,84 @@
 
 import { useCallback, useEffect, useRef, useState } from "react";
 
-const HEARTBEAT_MS = 15_000; // how often engaged time accrues
-const IDLE_TIMEOUT_MS = 10 * 60_000; // pause after 10 minutes idle (CLAUDE.md §3.2)
+const HEARTBEAT_MS = 30_000;
+const IDLE_TIMEOUT_MS = 10 * 60_000;
 const ACTIVITY_EVENTS = ["mousemove", "keydown", "scroll", "click", "touchstart"] as const;
 
-type Props = { courseSlug: string; unitNumber: number };
+type Props = { courseSlug: string; unitNumber: number; enrollmentId?: string };
+type State = "preview" | "connecting" | "active" | "paused" | "sign-in" | "unavailable";
+
+function getDeviceId() {
+  const key = "licensepath:learning-device-id";
+  const stored = window.sessionStorage.getItem(key);
+  if (stored) return stored;
+  const id = window.crypto.randomUUID();
+  window.sessionStorage.setItem(key, id);
+  return id;
+}
 
 /**
- * Tracks engaged time on a lesson: accrues on a heartbeat, pauses after 10
- * minutes without interaction, and pauses when the tab is hidden.
- *
- * ⚠️ COMPLIANCE SEAM — CLAUDE.md §3.2 requires seat time to be enforced
- * SERVER-SIDE. This component is the client half only. It currently persists to
- * localStorage so the player works before Supabase exists, which means a
- * determined student could edit it. Before any DRE submission or paid
- * enrollment, the heartbeat must POST to an authenticated endpoint that writes
- * to `seat_time_logs`, and the server — not this component — must be the
- * system of record. Do not treat localStorage totals as auditable.
+ * Browser activity reporter for an enrolled student. It sends no duration: the
+ * server uses its own clock, enrollment checks, and RLS-protected records.
+ * Without a real enrollment, coursework remains in clearly labeled preview mode.
  */
-export default function SeatTimeTracker({ courseSlug, unitNumber }: Props) {
-  const storageKey = `lp:seat:${courseSlug}:${unitNumber}`;
-
+export default function SeatTimeTracker({ courseSlug: _courseSlug, unitNumber, enrollmentId }: Props) {
   const [seconds, setSeconds] = useState(0);
-  const [idle, setIdle] = useState(false);
+  const [state, setState] = useState<State>(enrollmentId ? "connecting" : "preview");
   const lastActivity = useRef(Date.now());
-  const loaded = useRef(false);
+  const deviceId = useRef<string | null>(null);
 
-  // Restore any prior accrued time for this unit.
+  useEffect(() => { deviceId.current = getDeviceId(); }, []);
+
+  const markActive = useCallback(() => { lastActivity.current = Date.now(); }, []);
   useEffect(() => {
-    const stored = Number(window.localStorage.getItem(storageKey) ?? 0);
-    if (Number.isFinite(stored)) setSeconds(stored);
-    loaded.current = true;
-  }, [storageKey]);
-
-  const markActive = useCallback(() => {
-    lastActivity.current = Date.now();
-    setIdle(false);
-  }, []);
-
-  useEffect(() => {
-    ACTIVITY_EVENTS.forEach((e) => window.addEventListener(e, markActive, { passive: true }));
-    return () =>
-      ACTIVITY_EVENTS.forEach((e) => window.removeEventListener(e, markActive));
+    ACTIVITY_EVENTS.forEach((event) => window.addEventListener(event, markActive, { passive: true }));
+    return () => ACTIVITY_EVENTS.forEach((event) => window.removeEventListener(event, markActive));
   }, [markActive]);
 
   useEffect(() => {
-    const tick = window.setInterval(() => {
-      const idleFor = Date.now() - lastActivity.current;
-      const hidden = document.visibilityState === "hidden";
+    if (!enrollmentId) return;
+    let cancelled = false;
 
-      if (idleFor >= IDLE_TIMEOUT_MS || hidden) {
-        setIdle(true);
-        return;
-      }
+    async function heartbeat() {
+      const inactive = Date.now() - lastActivity.current >= IDLE_TIMEOUT_MS || document.visibilityState === "hidden";
+      if (inactive) { if (!cancelled) setState("paused"); return; }
+      if (!deviceId.current) return;
 
-      setSeconds((prev) => {
-        const next = prev + HEARTBEAT_MS / 1000;
-        if (loaded.current) window.localStorage.setItem(storageKey, String(next));
-        return next;
-      });
-    }, HEARTBEAT_MS);
+      try {
+        const response = await fetch("/api/learning/heartbeat", {
+          method: "POST", headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ enrollmentId, unitNumber, deviceId: deviceId.current }),
+          cache: "no-store",
+        });
+        const result = (await response.json()) as { totalSeconds?: number };
+        if (cancelled) return;
+        if (response.status === 401) return setState("sign-in");
+        if (response.status === 503) return setState("unavailable");
+        if (!response.ok) return setState("paused");
+        setSeconds(Number(result.totalSeconds ?? 0));
+        setState("active");
+      } catch { if (!cancelled) setState("unavailable"); }
+    }
 
-    return () => window.clearInterval(tick);
-  }, [storageKey]);
+    heartbeat();
+    const timer = window.setInterval(heartbeat, HEARTBEAT_MS);
+    return () => { cancelled = true; window.clearInterval(timer); };
+  }, [enrollmentId, unitNumber]);
 
   const mins = Math.floor(seconds / 60);
   const hrs = Math.floor(mins / 60);
   const label = hrs > 0 ? `${hrs}h ${mins % 60}m` : `${mins}m`;
+  const labels: Record<State, string> = {
+    preview: "Preview mode", connecting: "Connecting", active: "Official time", paused: "Paused",
+    "sign-in": "Sign in required", unavailable: "Records offline",
+  };
 
   return (
-    <div
-      className="flex items-center gap-2 text-xs"
-      style={{ color: "var(--ink-3)" }}
-      aria-live="off"
-    >
-      <span
-        aria-hidden
-        className="inline-block h-1.5 w-1.5 rounded-full"
-        style={{ background: idle ? "var(--ink-4)" : "var(--seal)" }}
-      />
-      <span className="anno" style={{ fontSize: "0.6875rem" }}>
-        {idle ? "Paused" : "Time on unit"}
-      </span>
-      <span className="tabular font-medium" style={{ color: "var(--ink-2)" }}>
-        {label}
-      </span>
+    <div className="flex items-center gap-2 text-xs" style={{ color: "var(--ink-3)" }} aria-live="polite">
+      <span aria-hidden className="inline-block h-1.5 w-1.5 rounded-full" style={{ background: state === "active" ? "var(--seal)" : "var(--ink-4)" }} />
+      <span className="anno" style={{ fontSize: "0.6875rem" }}>{labels[state]}</span>
+      {enrollmentId && <span className="tabular font-medium" style={{ color: "var(--ink-2)" }}>{label}</span>}
     </div>
   );
 }

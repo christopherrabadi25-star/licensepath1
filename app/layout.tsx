@@ -36,6 +36,7 @@ export const metadata: Metadata = {
 const nav = [
   { href: "/exam", label: "The exam" },
   { href: "/courses", label: "Courses" },
+  { href: "/pricing", label: "Pricing" },
   { href: "/glossary", label: "Glossary" },
   { href: "/about", label: "About" },
 ];
@@ -117,6 +118,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 links: [
                   ["/exam", "The California exam"],
                   ["/courses", "The three courses"],
+                  ["/pricing", "Planned pricing"],
                   ["/glossary", "Real estate glossary"],
                 ],
               },

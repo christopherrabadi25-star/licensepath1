@@ -40,7 +40,7 @@ Only humans may move a unit past `self-reviewed` (CLAUDE.md §13). Every unit is
 | 07 | Working with Buyers | self-reviewed | Full unit + 18-question bank |
 | 08 | Writing & Negotiating Offers | self-reviewed | Full unit + 20-question bank |
 | 09 | Contract-to-Close | self-reviewed | Full unit + 18-question bank |
-| 10 | Financing the Buyer | pending | |
+| 10 | Financing the Buyer | draft | Full unit + 18-question bank. |
 | 11 | Disclosures & Risk Management in Practice | pending | |
 | 12 | Trust Funds & Recordkeeping in Practice | pending | |
 | 13 | Escrow, Title & Closing Procedures | pending | |

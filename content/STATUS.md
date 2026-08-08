@@ -45,7 +45,7 @@ Only humans may move a unit past `self-reviewed` (CLAUDE.md §13). Every unit is
 | 12 | Trust Funds & Recordkeeping in Practice | draft | Full unit + 16-question bank. |
 | 13 | Escrow, Title & Closing Procedures | draft | Full unit + 16-question bank. |
 | 14 | Property Management & Leasing Basics | draft | Full unit + 16-question bank. |
-| 15 | Building a Compliant Long-Term Business (capstone) | pending | |
+| 15 | Building a Compliant Long-Term Business (capstone) | draft | Full unit + 16-question bank. |
 
 ## Course 3 — Legal Aspects of Real Estate (15 units)
 

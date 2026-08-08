@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-08 — Course 2 Practice Unit 15
+
+- Authored Practice Unit 15 (Building a Compliant, Ethical Long-Term Business): broker supervision, ethical decision system, technology and AI controls, referral boundaries, cybersecurity, service-focused metrics, incident response, conflict management, and a full transaction capstone. Includes five worked examples and a 16-question original bank with per-option rationales.
+
 ## 2026-08-08 — Course 2 Practice Unit 14
 
 - Authored Practice Unit 14 (Property Management & Leasing Basics): agency, fair-housing-safe leasing, application privacy, maintenance and emergency routing, trust-fund boundaries, resident entry/privacy, notices, vendors, reporting, turnover, and neutral records. Includes six worked examples and a 16-question original bank with per-option rationales.

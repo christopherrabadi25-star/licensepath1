@@ -30,3 +30,16 @@
 - Authored Principles Unit 10 (Escrow & Title Insurance), ~3,370 words: escrow requirements and the neutral depository's dual-agent role, the escrow lifecycle, deed validity and the delivery-intent rule, chain of title and the preliminary report, recording with constructive vs. actual notice and bona fide purchaser protection, and CLTA vs. ALTA coverage. Worked examples cover a full tax proration with direction of credit, documentary transfer tax net of an assumed loan, the unrecorded-deed race with a possession twist that flips the outcome, CLTA gaps revealed by survey, and a failed safe-deposit-box delivery. 20-question bank.
 - Glossary expanded from 216 to 257 original definitions; all unique.
 - Question bank now 213 items, all validated. Blueprint coverage to date: ownership/land use 64, practice & disclosures 49, contracts 42, transfer 28, agency 23. Valuation and financing remain light by design — Units 11–13 supply them.
+
+## 2026-08-08 — Phase 0: application scaffold + marketing homepage
+
+- Scaffolded the Next.js 14 App Router application: TypeScript strict, Tailwind, ESLint, and the `dev`/`build`/`lint`/`typecheck` scripts required by CLAUDE.md §4.
+- Added brand tokens per §11 — navy `#0B1F3A`, gold `#C9A96E`, emerald success, warm off-white surfaces; Outfit for display and Inter for body.
+- Built the marketing homepage: hero with the California exam spec panel (150 Q / 3h15m / 70%), differentiators, the three-course catalog with the 18-day pacing note, and founder credibility section with both DRE license numbers.
+- **Compliance built into the layout, not bolted on:** a persistent footer notice states courses are pending DRE approval, are not yet offered for sale, cannot yet satisfy licensing requirements, and that LicensePath is not affiliated with or endorsed by the DRE. A "Pending DRE approval" badge appears in the hero. Page metadata carries the same language per §3.2.
+- Accessibility groundwork toward the §3.4 WCAG 2.1 AA target: skip-to-content link, visible focus rings, semantic landmarks and heading order, and a reduced-motion media query.
+- Verified at 1440px and 390px viewports; the course player mobile requirement in §11 is served by the same token system.
+- Added `.env.example` documenting Supabase, Stripe, Anthropic, and Resend variables with server-side-only keys marked; `.gitignore` excludes all env files.
+- Added `scripts/validate_content.py` — CI-enforced validation of the §8 question schema (4 options, 4 rationales, answer index matching the "Correct" rationale, unique IDs, unique glossary terms) plus a blueprint coverage report against §9 weights.
+- Added GitHub Actions CI running lint, typecheck, build, and content validation on every PR (Phase 0 definition of done).
+- Content validator confirms 377 questions and 336 glossary terms pass, and flags agency (6.1% vs 17% target) and valuation (6.9% vs 14%) as under-weighted for simulator assembly.

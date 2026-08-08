@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Brand tokens — CLAUDE.md §11. Working values; confirm with Christopher before public launch. */
+:root {
+  --navy: #0b1f3a;
+  --gold: #c9a96e;
+  --emerald: #0f7b5f;
+  --surface: #fbfaf7;
+  --surface-alt: #f4f1ea;
+  --ink: #12151a;
+  --ink-muted: #4a5361;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background-color: var(--surface);
+    color: var(--ink);
+    font-family: var(--font-body), Inter, system-ui, sans-serif;
+    text-rendering: optimizeLegibility;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display), Outfit, system-ui, sans-serif;
+    letter-spacing: -0.02em;
+  }
+
+  /* Accessibility: visible focus for keyboard users (WCAG 2.1 AA — CLAUDE.md §3.4) */
+  :focus-visible {
+    outline: 3px solid var(--gold);
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center justify-center rounded-lg bg-navy px-6 py-3 font-semibold text-white transition hover:bg-navy-700 focus-visible:outline-none;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center rounded-lg border-2 border-navy px-6 py-3 font-semibold text-navy transition hover:bg-navy hover:text-white focus-visible:outline-none;
+  }
+
+  .container-content {
+    @apply mx-auto w-full max-w-content px-5 sm:px-8;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

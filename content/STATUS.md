@@ -49,9 +49,16 @@ Only humans may move a unit past `self-reviewed` (CLAUDE.md §13). Every unit is
 
 ## Course 3 — Legal Aspects of Real Estate (15 units)
 
-| Unit | Title | Status |
-|---|---|---|
-| 01–15 | See CLAUDE.md §7 outline | pending |
+| Unit | Title | Status | Notes |
+|---|---|---|---|
+| 01 | Sources of Real Estate Law & the Court System | draft | Full unit + 18-question bank. Written on the `codex/server-learning-foundation` branch; lacks the §8.4 SoCal-city worked-example grounding used elsewhere — flagged for a consistency pass, not a compliance blocker. |
+| 02 | Law of Agency (Deep Dive & Case Law) | draft | Full unit + 16-question bank. Same authorship/consistency note as Unit 1. |
+| 03 | Contract Law Deep Dive: Formation Defenses, Interpretation & Remedies | self-reviewed | Full unit + 18-question bank |
+| 04 | Real Property Interests & Conveyancing | self-reviewed | Full unit + 18-question bank |
+| 05 | Deeds, Recording, Priorities & Title Problems | self-reviewed | Full unit + 18-question bank |
+| 06 | Escrow & Closing Law; RESPA in Depth | self-reviewed | Full unit + 16-question bank |
+| 07 | Finance Law: Security Instruments, Foreclosure Litigation & Anti-Deficiency Rules | self-reviewed | Full unit + 18-question bank |
+| 08–15 | See CLAUDE.md §7 outline | pending | |
 
 ## Shared assets
 
@@ -60,4 +67,8 @@ Only humans may move a unit past `self-reviewed` (CLAUDE.md §13). Every unit is
 | glossary.json | draft | 336 terms of 500+ target; grows with each unit's key-terms box |
 | exam-sim/blueprint.json | draft | Blueprint weights per CLAUDE.md §9; reverify current DRE weightings before launch (§14) |
 | exam-sim sample set | draft | 25 original exam-style items across all 7 blueprint areas |
-| Question bank total | draft | 545 items. **Rebalancing needed before launch:** agency (6% vs 17% target) and valuation (7% vs 14%) are under-weighted relative to the blueprint; author exam-level fill items per CLAUDE.md §9. |
+| Question bank total | draft | 763 items. **Rebalancing needed before launch:** agency (9.6% vs 17% target) and valuation (6.0% vs 14%) remain under-weighted relative to the blueprint; author exam-level fill items per CLAUDE.md §9. |
+
+## Cross-branch note (2026-08-09)
+
+Content authoring is now shared: this session (Claude) continues curriculum material (Legal Aspects units 3–15, question-bank rebalancing, glossary growth) while a parallel Codex session works UI/visual/experience on `codex/server-learning-foundation`. That branch's commits (server-side learning-record foundation, Supabase auth scaffold, Practice units 10–15, Legal Aspects units 1–2) were merged into `claude/licensepath-constitution-ti7o8r` via fast-forward on 2026-08-09 — no conflicts, all 675 questions re-validated clean.

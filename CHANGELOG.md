@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-08-09 — Merged Codex UI/experience work; Course 3 Legal Aspects Units 3–7
+
+- Merged `codex/server-learning-foundation` into this branch (fast-forward, no conflicts): server-side learning-record foundation (Supabase auth scaffold, `/api/learning/heartbeat`, `middleware.ts`, `supabase/migrations/202608080001_learning_records.sql`), sign-in/pricing pages, and Practice Units 10–15 + Legal Aspects Units 1–2 authored by a parallel Codex session. All 675 questions re-validated clean post-merge. Content and UI work now proceed on separate tracks against the same branch.
+- Flagged in STATUS.md: Legal Aspects Units 1–2 (Codex-authored) are solid on substance but don't yet carry the §8.4 SoCal-city worked-example grounding used elsewhere in the curriculum — noted as a consistency pass, not a compliance blocker.
+- Authored Legal Aspects Unit 3 (Contract Law Deep Dive: Formation Defenses, Interpretation & Remedies): void/voidable/unenforceable, fraud/duress/undue influence/mistake, parol evidence rule, liquidated damages, rescission vs. specific performance, unconscionability. Four worked examples (Chino Hills, Whittier, Rancho Cucamonga, Ontario) including a liquidated-damages math walkthrough. 18-question bank.
+- Authored Legal Aspects Unit 4 (Real Property Interests & Conveyancing): deed validity elements, delivery and the "deed in the drawer" trap, deed types and their warranties, recording/priority/constructive notice, legal descriptions, involuntary transfer, vesting consequences. Three worked examples (Pomona, San Bernardino, Fontana). 18-question bank.
+- Authored Legal Aspects Unit 5 (Deeds, Recording, Priorities & Title Problems): chain of title, record/marketable/insurable title distinctions, reading a preliminary report, CLTA vs. ALTA, common defects (forged deeds, undisclosed heirs, wild documents, unreleased liens), quiet title actions. Two worked examples (Upland, Riverside). 18-question bank.
+- Authored Legal Aspects Unit 6 (Escrow & Closing Law; RESPA in Depth): escrow as dual agency of limited purpose, DFPI licensing, RESPA Section 8 anti-kickback rule, Affiliated Business Arrangements, California good-funds rules, wire fraud prevention. Two worked examples (Inland Empire, Ontario). 16-question bank.
+- Authored Legal Aspects Unit 7 (Finance Law: Security Instruments, Foreclosure Litigation & Anti-Deficiency Rules): note vs. deed of trust, judicial vs. non-judicial foreclosure, anti-deficiency rules for purchase-money vs. refinanced loans, the one-action rule, redemption rights, wrongful foreclosure, licensee boundaries with distressed homeowners. Two worked examples (Chino, Fontana). 18-question bank.
+- Question bank total: 763 items, all validated. Blueprint coverage: agency and valuation remain under-weighted (9.6% vs 17%, 6.0% vs 14%) — flagged for a dedicated exam-level fill pass per CLAUDE.md §9.
+
 ## 2026-08-08 — Course 3 Legal Aspects Unit 2
 
 - Authored Legal Aspects Unit 2 (Law of Agency: Duties, Disclosure & Conflict): agency creation, fiduciary duties, authority, confidentiality, disclosure, dual agency, conflicts, informed consent, team information controls, and practical escalation. Includes five worked examples and a 16-question original bank with per-option rationales.

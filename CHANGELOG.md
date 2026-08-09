@@ -1,5 +1,42 @@
 # Changelog
 
+## 2026-08-09 — Homepage visual identity: "Golden hour over the San Gabriels"
+
+Rebuilt the marketing homepage against the `artifact-design` methodology, replacing
+the generic SaaS treatment (mint-on-near-black, glassmorphic floating card, orbiting
+rings, pill buttons) that had drifted away from the brand CLAUDE.md §11 mandates.
+
+- **Restored the mandated palette.** Navy `#0B1F3A` + gold `#C9A96E` per §11, for
+  continuity with The Rabadi Group. The previous violet/aqua/coral scheme had made
+  the homepage and the course player look like two different companies.
+- **New hero: `components/CaliforniaHorizon.tsx`.** A generated golden-hour view of
+  the San Gabriel ridgeline — the founders' actual market horizon — drawn on canvas
+  with midpoint-displacement terrain, atmospheric perspective, valley window lights,
+  and palm silhouettes as edge framing. Deterministic (fixed seed) so the composition
+  is reviewed rather than re-randomised per load, and rendered once with no animation
+  loop: the cinematic quality comes from composition and light, not motion.
+- **New section: `components/ExamQuestionShowcase.tsx`.** Replaces the deleted
+  `InteractiveCoursePreview`, which showed a fabricated dashboard with an invented
+  "68% progress" and a fake "07-day study streak" for a product with no students.
+  The replacement reads three real items out of `/content/question-bank` at build
+  time and reveals all four written rationales on answer — the actual product.
+- **Every figure on the page is now computed from the repo at build time** (units
+  drafted, assessment items, per-course counts) rather than hardcoded, so the page
+  cannot drift from what has actually been written.
+- Added a "Where this actually stands" section that names the AI tutor, flashcards,
+  and certificates as **not yet built**, and DRE approval as required first.
+- Structural device: the page descends from night into daylight across its sections,
+  mirroring the unlicensed-to-licensed progression. Numbered markers kept only on the
+  three-course path, where the sequence is real.
+- Both light and dark themes defined at token level (`--ember`, `--bone`, `--warm-*`
+  in both blocks); the hero is a deliberate single dark visual world that paints every
+  colour explicitly. Mobile verified at 390px per §11.
+- Regenerated `public/og.png` from the new hero at a correct 1200×630 (419KB, down
+  from 1.4MB) and updated OG/Twitter metadata, which still carried the old tagline.
+- `npm run lint`, `tsc --noEmit`, and `npm run build` all clean; 907 content questions
+  re-validated.
+
+
 ## 2026-08-09 — Course 3 complete: Legal Aspects Units 11–15 (all 48 curriculum units drafted)
 
 - Authored Legal Aspects Unit 11 (Easements, Boundaries, Nuisance & Neighbor Disputes): easement creation methods (express, implication, necessity, prescription), appurtenant vs. in gross, termination, encroachment remedies, private vs. public nuisance, boundary surveys. Two worked examples (Glendora, San Dimas). 18-question bank.

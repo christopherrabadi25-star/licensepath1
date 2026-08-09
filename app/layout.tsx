@@ -29,14 +29,23 @@ export const metadata: Metadata = {
     type: "website",
     siteName: "LicensePath Real Estate Academy",
     locale: "en_US",
-    title: "LicensePath — California real estate, reimagined.",
-    description: "Modern California real estate pre-licensing education. Course approval pending.",
-    images: [{ url: "/og.png", width: 1774, height: 887, alt: "LicensePath — California real estate, reimagined." }],
+    title: "LicensePath — Everything California requires.",
+    description:
+      "California real estate pre-licensing: the three statutory 45-hour courses and the 150-question state exam, written by licensed California agents. Course approval pending.",
+    images: [
+      {
+        url: "/og.png",
+        width: 1200,
+        height: 630,
+        alt: "LicensePath — everything California requires, taught by agents who work here.",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "LicensePath — California real estate, reimagined.",
-    description: "Modern California real estate pre-licensing education. Course approval pending.",
+    title: "LicensePath — Everything California requires.",
+    description:
+      "The three statutory courses and the 150-question California salesperson exam, written by licensed California agents. Course approval pending.",
     images: ["/og.png"],
   },
   robots: { index: true, follow: true },

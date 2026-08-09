@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-08-09 — Course 3 complete: Legal Aspects Units 11–15 (all 48 curriculum units drafted)
+
+- Authored Legal Aspects Unit 11 (Easements, Boundaries, Nuisance & Neighbor Disputes): easement creation methods (express, implication, necessity, prescription), appurtenant vs. in gross, termination, encroachment remedies, private vs. public nuisance, boundary surveys. Two worked examples (Glendora, San Dimas). 18-question bank.
+- Authored Legal Aspects Unit 12 (Construction, Mechanics' Liens & New-Home Law): mechanics' lien theory and priority (including relation-back), preliminary 20-day notice, conditional/unconditional releases, the "paid the GC, liened by the sub" trap, Right to Repair Act pre-litigation process, unpermitted work as a distinct risk. Two worked examples (Rialto, Fontana). 18-question bank.
+- Authored Legal Aspects Unit 13 (Common Interest Developments & HOA Law — Davis-Stirling): the four CID types, governing-document hierarchy, CID-specific disclosures, reserve study red flags, assessment liens and foreclosure risk, board governance/records access, ARC review and statutory solar protections. Two worked examples (Chino Hills, Fontana). 18-question bank.
+- Authored Legal Aspects Unit 14 (Real Estate Litigation, ADR & License Discipline): mediation vs. arbitration, DRE investigation/accusation process and disciplinary range, civil liability and license discipline as separate tracks, recurring litigation sources, documentation as the primary risk-reduction tool. Two worked examples (Upland, Ontario). 18-question bank.
+- Authored Legal Aspects Unit 15 (Regulatory Compliance Capstone): synthesizes Units 1–14 into a four-question issue-spotting framework, a consolidated "licensee can / licensee cannot" table, a multi-issue worked example (Chino Hills) touching title, HOA, agency, and vesting simultaneously, and closing guidance on documentation discipline. 16-question capstone bank.
+- **All 48 curriculum units across all three DRE statutory courses (135 hours total) now have full lesson content and question banks: Principles 18/18, Practice 15/15, Legal Aspects 15/15.** Question bank total: 907 items, all validated (one mis-keyed answer index caught and fixed pre-commit). Blueprint coverage: ownership-land-use and contracts now both exceed target; agency (8.2% vs 17%) and valuation (5.1% vs 14%) remain the two areas needing a dedicated exam-level fill pass toward the 1,500+ question target.
+- Next phase: question-bank rebalancing (agency/valuation fill items), glossary growth toward 500+ terms, and a consistency pass on the two Codex-authored Legal Aspects units (1–2) to add the SoCal-city worked-example grounding used elsewhere.
+
 ## 2026-08-09 — Course 3 Legal Aspects Units 8–10
 
 - Authored Legal Aspects Unit 8 (Landlord-Tenant Law in Depth): implied warranty of habitability, AB 1482 rent cap/just-cause framework, unlawful detainer process, self-help eviction prohibition, actual/constructive/retaliatory eviction, security deposit rules, repair-and-deduct/rent withholding. Two worked examples (Ontario, Whittier). 18-question bank.

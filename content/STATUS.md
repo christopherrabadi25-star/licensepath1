@@ -47,7 +47,7 @@ Only humans may move a unit past `self-reviewed` (CLAUDE.md §13). Every unit is
 | 14 | Property Management & Leasing Basics | draft | Full unit + 16-question bank. |
 | 15 | Building a Compliant Long-Term Business (capstone) | draft | Full unit + 16-question bank. |
 
-## Course 3 — Legal Aspects of Real Estate (15 units)
+## Course 3 — Legal Aspects of Real Estate (15 units) — **ALL 15 UNITS DRAFTED**
 
 | Unit | Title | Status | Notes |
 |---|---|---|---|
@@ -61,7 +61,11 @@ Only humans may move a unit past `self-reviewed` (CLAUDE.md §13). Every unit is
 | 08 | Landlord-Tenant Law in Depth | self-reviewed | Full unit + 18-question bank |
 | 09 | Land Use & Environmental Law | self-reviewed | Full unit + 18-question bank |
 | 10 | Fair Housing & Civil Rights Law (Federal + California) | self-reviewed | Full unit + 20-question bank |
-| 11–15 | See CLAUDE.md §7 outline | pending | |
+| 11 | Easements, Boundaries, Nuisance & Neighbor Disputes | self-reviewed | Full unit + 18-question bank |
+| 12 | Construction, Mechanics' Liens & New-Home Law | self-reviewed | Full unit + 18-question bank |
+| 13 | Common Interest Developments & HOA Law (Davis-Stirling Overview) | self-reviewed | Full unit + 18-question bank |
+| 14 | Real Estate Litigation, ADR & License Discipline | self-reviewed | Full unit + 18-question bank |
+| 15 | Regulatory Compliance Capstone | self-reviewed | Full unit + 16-question bank (capstone synthesizing Units 1–14) |
 
 ## Shared assets
 
@@ -70,7 +74,7 @@ Only humans may move a unit past `self-reviewed` (CLAUDE.md §13). Every unit is
 | glossary.json | draft | 336 terms of 500+ target; grows with each unit's key-terms box |
 | exam-sim/blueprint.json | draft | Blueprint weights per CLAUDE.md §9; reverify current DRE weightings before launch (§14) |
 | exam-sim sample set | draft | 25 original exam-style items across all 7 blueprint areas |
-| Question bank total | draft | 819 items. **Rebalancing needed before launch:** agency (8.9% vs 17% target) and valuation (5.6% vs 14%) remain under-weighted relative to the blueprint; author exam-level fill items per CLAUDE.md §9. |
+| Question bank total | draft | 907 items. All 48 curriculum units (135 hours) now have full lesson content and question banks — Course 1 Principles (18/18), Course 2 Practice (15/15), Course 3 Legal Aspects (15/15). **Rebalancing still needed before launch:** agency (8.2% vs 17% target) and valuation (5.1% vs 14%) remain under-weighted relative to the blueprint; author dedicated exam-level fill items per CLAUDE.md §9 (target 1,500+ total). |
 
 ## Cross-branch note (2026-08-09)
 

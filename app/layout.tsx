@@ -29,6 +29,15 @@ export const metadata: Metadata = {
     type: "website",
     siteName: "LicensePath Real Estate Academy",
     locale: "en_US",
+    title: "LicensePath — California real estate, reimagined.",
+    description: "Modern California real estate pre-licensing education. Course approval pending.",
+    images: [{ url: "/og.png", width: 1774, height: 887, alt: "LicensePath — California real estate, reimagined." }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "LicensePath — California real estate, reimagined.",
+    description: "Modern California real estate pre-licensing education. Course approval pending.",
+    images: ["/og.png"],
   },
   robots: { index: true, follow: true },
 };

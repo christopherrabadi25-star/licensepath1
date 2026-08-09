@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-08-09 — Course 3 Legal Aspects Units 8–10
+
+- Authored Legal Aspects Unit 8 (Landlord-Tenant Law in Depth): implied warranty of habitability, AB 1482 rent cap/just-cause framework, unlawful detainer process, self-help eviction prohibition, actual/constructive/retaliatory eviction, security deposit rules, repair-and-deduct/rent withholding. Two worked examples (Ontario, Whittier). 18-question bank.
+- Authored Legal Aspects Unit 9 (Land Use & Environmental Law): police power vs. eminent domain vs. inverse condemnation, variance vs. nonconforming use, CEQA review process, state housing-production laws (Housing Accountability Act, ADUs), environmental liability and disclosure regimes, Phase I/Phase II site assessments. Two worked examples (Claremont, Pomona). 18-question bank.
+- Authored Legal Aspects Unit 10 (Fair Housing & Civil Rights Law): federal FHA vs. California's broader FEHA/Unruh protected classes, source-of-income protection, disparate treatment vs. disparate impact, steering/redlining/blockbuking, reasonable accommodation vs. reasonable modification, enforcement bodies (HUD, CRD) and tester standing, advertising compliance. Two worked examples (Rancho Cucamonga, Ontario). 20-question bank.
+- Question bank total: 819 items, all validated (one mis-keyed answer index caught and fixed pre-commit). Blueprint coverage: ownership-land-use now exceeds its 15% target; agency and valuation remain the two areas needing a dedicated exam-level fill pass.
+
 ## 2026-08-09 — Merged Codex UI/experience work; Course 3 Legal Aspects Units 3–7
 
 - Merged `codex/server-learning-foundation` into this branch (fast-forward, no conflicts): server-side learning-record foundation (Supabase auth scaffold, `/api/learning/heartbeat`, `middleware.ts`, `supabase/migrations/202608080001_learning_records.sql`), sign-in/pricing pages, and Practice Units 10–15 + Legal Aspects Units 1–2 authored by a parallel Codex session. All 675 questions re-validated clean post-merge. Content and UI work now proceed on separate tracks against the same branch.

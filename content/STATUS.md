@@ -58,7 +58,10 @@ Only humans may move a unit past `self-reviewed` (CLAUDE.md §13). Every unit is
 | 05 | Deeds, Recording, Priorities & Title Problems | self-reviewed | Full unit + 18-question bank |
 | 06 | Escrow & Closing Law; RESPA in Depth | self-reviewed | Full unit + 16-question bank |
 | 07 | Finance Law: Security Instruments, Foreclosure Litigation & Anti-Deficiency Rules | self-reviewed | Full unit + 18-question bank |
-| 08–15 | See CLAUDE.md §7 outline | pending | |
+| 08 | Landlord-Tenant Law in Depth | self-reviewed | Full unit + 18-question bank |
+| 09 | Land Use & Environmental Law | self-reviewed | Full unit + 18-question bank |
+| 10 | Fair Housing & Civil Rights Law (Federal + California) | self-reviewed | Full unit + 20-question bank |
+| 11–15 | See CLAUDE.md §7 outline | pending | |
 
 ## Shared assets
 
@@ -67,7 +70,7 @@ Only humans may move a unit past `self-reviewed` (CLAUDE.md §13). Every unit is
 | glossary.json | draft | 336 terms of 500+ target; grows with each unit's key-terms box |
 | exam-sim/blueprint.json | draft | Blueprint weights per CLAUDE.md §9; reverify current DRE weightings before launch (§14) |
 | exam-sim sample set | draft | 25 original exam-style items across all 7 blueprint areas |
-| Question bank total | draft | 763 items. **Rebalancing needed before launch:** agency (9.6% vs 17% target) and valuation (6.0% vs 14%) remain under-weighted relative to the blueprint; author exam-level fill items per CLAUDE.md §9. |
+| Question bank total | draft | 819 items. **Rebalancing needed before launch:** agency (8.9% vs 17% target) and valuation (5.6% vs 14%) remain under-weighted relative to the blueprint; author exam-level fill items per CLAUDE.md §9. |
 
 ## Cross-branch note (2026-08-09)
 

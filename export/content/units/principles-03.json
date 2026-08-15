@@ -1,0 +1,479 @@
+{
+  "id": "principles-03",
+  "course_slug": "principles",
+  "unit_number": 3,
+  "title": "Estates & Interests in Real Property",
+  "estimated_hours": "2.5",
+  "blueprint_areas": [
+    "ownership-land-use",
+    "transfer"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Define** \"estate\" and **distinguish** freehold estates from less-than-freehold (leasehold) estates.\n2. **Describe** fee simple absolute and explain why it is the largest estate in land.\n3. **Distinguish** the defeasible fees and identify the future interest each one leaves behind.\n4. **Explain** how a life estate works, including *pur autre vie* measurement, the duty to avoid waste, and what a life tenant may and may not convey.\n5. **Differentiate** a remainder from a reversion and identify who holds each.\n6. **Classify** the four leasehold estates by how they begin and how they end.\n7. **Calculate** basic lease and possession figures, including prorated rent and escalations.\n\n---\n\n## 1. What an \"Estate\" Actually Means\n\nIn everyday speech, \"estate\" means a big house or what someone leaves behind when they die. In real property law it means something narrower and more useful: **an estate is the degree, quantity, nature, and extent of a person's interest in land**. Two questions define every estate:\n\n1. **How long does it last?** Forever, for a lifetime, or for a term?\n2. **Does it include possession?** Now, later, or never?\n\nAnswer those and you have classified the interest. California law sorts estates into two great families:\n\n- **Freehold estates** — ownership interests of indefinite duration. Fee simple and life estates live here.\n- **Less-than-freehold estates** (leasehold estates, or *chattel real*) — possessory interests for a determinable period. Every lease you ever write lives here.\n\nThe vocabulary matters because the distinction drives everything downstream. A freehold owner holds *title*; a leaseholder holds *possession*. A freehold estate is real property; a leasehold is technically personal property (chattel real) even though it concerns land — a wrinkle the exam enjoys.\n\nInterests can also be **possessory** (you have the right to occupy now) or **non-possessory** (you hold an interest but someone else occupies). Easements, liens, and future interests are non-possessory. A landlord who has leased a Pomona storefront for ten years still owns the fee — but the *tenant* holds possession.\n\n## 2. Fee Simple Absolute — the Complete Package\n\n**Fee simple absolute** is the greatest estate the law recognizes. It is:\n\n- **Perpetual** — of indefinite duration, with no built-in ending;\n- **Inheritable** — it passes to heirs or by will;\n- **Freely transferable** — the owner may sell, gift, lease, mortgage, or subdivide it;\n- **Subject only to** government powers (police power, eminent domain, taxation, escheat) and private restrictions the owner or a predecessor agreed to, like CC&Rs and easements.\n\nWhen a California deed conveys property to someone without qualifying language, the law presumes the grantor intended to transfer the largest estate they owned — normally fee simple absolute. A grantor who wants to convey something smaller must say so clearly.\n\nYou will sometimes see \"fee,\" \"fee simple,\" and \"fee simple absolute\" used interchangeably. On the exam, if a question describes ownership with no conditions and no stated end, fee simple absolute is the answer.\n\n### The four government limits worth memorizing\n\nEven the \"absolute\" estate bows to four sovereign powers, which students remember as **PETE**:\n\n- **P**olice power — regulation for public health, safety, and welfare (zoning, building codes). No compensation owed.\n- **E**minent domain — taking for public use *with* just compensation.\n- **T**axation — property taxes, and the tax lien that secures them.\n- **E**scheat — property reverting to the state when an owner dies with no will and no heirs.\n\n## 3. Defeasible Fees — Ownership With Strings\n\nA **defeasible fee** is a fee estate that can be lost if a stated condition occurs or a stated use stops. It is still a fee — potentially perpetual, inheritable, transferable — but it carries a trigger. Two flavors matter:\n\n**Fee simple determinable.** The estate ends *automatically* when the stated condition fails. The tip-off is durational language: \"so long as,\" \"while,\" \"during,\" \"until.\" A parcel deeded to a school district \"so long as the land is used for a public school\" is a fee simple determinable. If the district closes the school, the estate ends by its own terms and the grantor (or the grantor's successors) gets it back. The future interest the grantor keeps is called a **possibility of reverter**.\n\n**Fee simple subject to a condition subsequent.** The estate does *not* end automatically; the grantor must act to reclaim it. The tip-off is conditional language: \"provided that,\" \"on condition that,\" \"but if.\" Here the grantor's future interest is a **right of re-entry** (also called a power of termination), and the grantor must exercise it — typically by legal action — before title returns.\n\nThe practical difference is timing and effort: determinable ends itself; condition subsequent requires someone to enforce it. Both create clouds on title that a preliminary report will reveal, and both are increasingly disfavored — modern statutes and marketable-title rules limit how long such interests can linger. <!-- VERIFY: current California limitation periods for reverters and rights of re-entry -->\n\n**Practice note:** if a listing's preliminary report shows a reverter or right of re-entry from a 1920s deed, you do not analyze it — you send the buyer to a real estate attorney and let the title company decide what it will insure.\n\n## 4. Life Estates\n\nA **life estate** is a freehold estate measured by someone's lifetime. Grant \"to Elena for life\" and Elena is the **life tenant**: she may possess, use, rent out, and collect income from the property for as long as she lives. When she dies, her interest ends — it does not pass to her heirs.\n\n**Pur autre vie** (\"for another's life\") measures the estate by the life of someone *other* than the holder: \"to Elena for the life of her mother.\" If Elena dies first, her interest continues until her mother dies, and during that gap it *does* pass to Elena's heirs. This is the exception students miss.\n\n### What the life tenant may and may not do\n\nA life tenant may sell, lease, or mortgage — but **only what they own**. Elena can convey a life estate to a buyer, and that buyer's interest still ends when Elena (or the measuring life) dies. No one can convey more than they hold.\n\nA life tenant also owes a duty not to commit **waste** — permanent injury to the property that harms the future interest holder. Failing to maintain the roof, letting taxes go delinquent, or demolishing a structure is waste. Ordinary use and reasonable wear are not. The life tenant is generally responsible for property taxes, insurance, ordinary repairs, and interest on any existing debt.\n\n### Where the property goes next\n\nWhen a life estate ends, someone takes possession. Who depends on how the grant was written:\n\n- **Remainder.** If the grantor named a *third party* to take when the life estate ends, that party holds a **remainder** and is the **remainderman**. \"To Elena for life, then to Marcus.\" Marcus holds a vested remainder — a present, non-possessory interest he can sell or leave to his heirs today, even though possession comes later.\n- **Reversion.** If the grantor named *no one*, the property returns to the **grantor** (or the grantor's heirs). The grantor holds a **reversion**.\n\nThe distinction is one line of vocabulary with a real consequence: a remainder goes to a third party; a reversion goes back to the grantor. If the exam gives you a life estate and asks what the grantor kept, and no third party was named, the answer is reversion.\n\n### Why life estates show up in your business\n\nLife estates appear constantly in family transfers, especially in multigenerational SoCal households. A parent deeds the Alhambra house to the children but reserves a life estate, keeping the right to live there until death while ensuring the home passes outside probate. It is an estate-planning tool with real tax and Medi-Cal consequences — which means your job is to recognize it on the vesting line of a preliminary report, explain what it *is*, and route the client to an attorney and CPA before anyone signs. Never advise on which vesting to choose; that is legal advice.\n\n## 5. Leasehold Estates — Possession Without Title\n\nA leasehold gives the tenant the right to *possess* while the landlord keeps the fee. The landlord's remaining interest during the lease is a **leased fee**; the tenant's is the **leasehold**. Four types, distinguished by how they begin and how they end:\n\n**1. Estate for years.** A lease with a **definite beginning and ending date** — \"June 1, 2026 through May 31, 2029.\" The name misleads: it can be for any fixed period, including six months or one week. Its defining feature is that it **terminates automatically on the end date with no notice required from either party**. Most commercial leases are estates for years. Death of either party does not end it; it binds heirs.\n\n**2. Periodic tenancy (estate from period to period).** A lease that **renews automatically** for successive periods until someone gives notice — the classic month-to-month. There is no predetermined end date. It ends only by proper notice, and California sets notice requirements by statute, generally keyed to how long the tenant has resided in the unit (with 30 and 60 day figures common). <!-- VERIFY: current residential notice periods and rent-cap/just-cause interactions -->\n\n**3. Estate at will.** Possession with the landlord's permission, no fixed term, no regular rent period, terminable by either party. Pure common-law estates at will are rare in California because statute requires notice to end them, which pushes most such arrangements toward periodic tenancies.\n\n**4. Estate at sufferance.** The weakest interest in property law. A tenant who **entered lawfully** but stayed after the right to possession ended — a holdover. The tenant is not a trespasser (entry was lawful) but has no estate the landlord must honor. The landlord's remedy is the **unlawful detainer** action, never self-help: changing locks, removing doors, or shutting off utilities to force a tenant out is illegal in California and exposes the landlord to damages.\n\nA memory hook: **years = fixed and self-ending; periodic = rolls until notice; at will = permission, no term; at sufferance = lawful entry, unlawful stay.**\n\n## 6. Worked Examples\n\n### Example 1 — Reading a life estate on a preliminary report (Alhambra)\n\nYou list a home in Alhambra. The preliminary report vests title: \"Rosa M., a life estate; remainder to David M. and Ana M., as tenants in common.\" Rosa, age 79, wants to sell and move to Arizona.\n\n**Analysis.** Rosa alone cannot convey fee simple — she owns only a life estate, and any buyer taking from her would lose the property when she dies. To deliver marketable fee simple title, **Rosa and both remaindermen must all sign the deed**, combining the life estate and the remainder into a full fee. Your practical job: identify this before you take the listing, confirm all three will cooperate, and get them to their own attorney regarding how sale proceeds get divided between the life tenant and remaindermen — an allocation question with tax consequences you must not opine on.\n\n### Example 2 — Determinable fee triggered (Ontario)\n\nIn 1961 a family deeded five acres in Ontario to a nonprofit \"so long as the premises are used as a community youth center.\" The nonprofit ran the center for decades, then closed it in 2024 and began leasing the building to a logistics company.\n\n**Analysis.** The durational phrase \"so long as\" created a **fee simple determinable**, leaving the grantor's family a **possibility of reverter**. When the youth-center use stopped, the estate ended by its own terms, and title arguably reverted automatically to the grantors' successors. Arguably is the operative word: decades of statutory change, marketable-title limits, and potential abandonment defenses all bear on whether the reverter is still enforceable. <!-- VERIFY: current statutory treatment --> No title company will insure this without a quiet title action or a recorded release. The transaction stalls until lawyers resolve it.\n\n### Example 3 — Estate for years, no notice needed (Ontario industrial lease)\n\nA logistics tenant signs a five-year industrial lease in Ontario, running March 1, 2026 through February 28, 2031, at $18,400/month with 3% annual increases each March 1. The tenant asks in year four whether it must give notice to avoid auto-renewal.\n\n**Analysis.** This is an **estate for years**: it ends automatically on February 28, 2031, with no notice required, unless the lease contains a holdover or renewal clause (read it — many do). If the tenant simply stays past February 28 without a new agreement, it becomes a **tenant at sufferance**, and most commercial leases impose punitive holdover rent, often 150–200% of the last rate.\n\n**Escalation math — what is the year-four rent?**\n1. Year 1 (Mar 2026): $18,400.00\n2. Year 2: $18,400 × 1.03 = **$18,952.00**\n3. Year 3: $18,952 × 1.03 = **$19,520.56**\n4. Year 4: $19,520.56 × 1.03 = **$20,106.18/month**\n\nNote that compounding matters: four flat 3% increases on the *original* rent would give $20,608 over the term versus $20,106.18 in year four — the exam will offer both the simple-interest and compound answers, and only one is right.\n\n### Example 4 — Prorating a partial first month (Rancho Cucamonga)\n\nA residential tenant takes possession of a Rancho Cucamonga rental on **March 18** at $2,700/month, with all subsequent rent due on the 1st. How much does the tenant owe at move-in for the balance of March?\n\n**Walkthrough (using a 30-day month, the common lease convention):**\n1. Daily rent: $2,700 ÷ 30 = **$90.00/day**\n2. Days occupied in March, counting the day of possession through month end: March 18–31 = **14 days** (note: with a 30-day convention many leases treat the month as ending on the 30th — read the lease, because 13 vs. 14 days is a real dollar difference)\n3. Prorated rent: $90.00 × 14 = **$1,260.00**\n\nThe tenant pays $1,260 at move-in for March, then the full $2,700 on April 1. Exam questions on prorations always turn on two things: the daily rate and *who owns/occupies the day in question*. Get those right and the arithmetic is trivial.\n\n## 7. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Estate** | The degree, quantity, nature, and extent of a person's interest in land. |\n| **Freehold estate** | An ownership estate of indefinite duration — fee estates and life estates. |\n| **Less-than-freehold (leasehold) estate** | A possessory estate for a determinable period; technically personal property (chattel real). |\n| **Fee simple absolute** | The largest estate: perpetual, inheritable, freely transferable, limited only by government powers and private restrictions. |\n| **Fee simple defeasible** | A fee estate that can be lost if a stated condition occurs or a stated use ends. |\n| **Fee simple determinable** | A defeasible fee that ends automatically on the stated event; signaled by \"so long as,\" \"while,\" \"until.\" |\n| **Possibility of reverter** | The future interest a grantor retains after conveying a fee simple determinable. |\n| **Fee simple subject to condition subsequent** | A defeasible fee the grantor may reclaim by acting; signaled by \"provided that,\" \"on condition that,\" \"but if.\" |\n| **Right of re-entry (power of termination)** | The grantor's future interest after a fee simple subject to a condition subsequent; must be exercised to take effect. |\n| **Life estate** | A freehold estate measured by a lifetime; ends at death and does not pass to the life tenant's heirs. |\n| **Life tenant** | The holder of a life estate, entitled to possess and use the property while owing a duty not to commit waste. |\n| **Pur autre vie** | A life estate measured by the life of someone other than the holder; it may pass to the holder's heirs until the measuring life ends. |\n| **Waste** | Permanent injury to property by a life tenant or tenant that harms the future interest holder. |\n| **Remainder / remainderman** | The future interest given to a third party who takes possession when a life estate ends / the person holding it. |\n| **Reversion** | The future interest returning to the grantor (or the grantor's heirs) when a lesser estate ends. |\n| **Leased fee** | The landlord's remaining interest in property that is subject to a lease. |\n| **Estate for years** | A leasehold with definite start and end dates that terminates automatically without notice. |\n| **Periodic tenancy** | A leasehold renewing automatically period to period until proper notice is given. |\n| **Estate at will** | Possession by permission with no fixed term, terminable by either party (with statutory notice in California). |\n| **Estate at sufferance** | The interest of a holdover tenant who entered lawfully but remains after the right to possession ended. |\n| **PETE** | The four government limits on ownership: Police power, Eminent domain, Taxation, Escheat. |\n| **Escheat** | Reversion of property to the state when an owner dies with no will and no heirs. |\n\n## 8. Exam Tips\n\n- **Match the future interest to the language.** \"So long as / until / while\" → determinable → possibility of reverter. \"Provided that / but if / on condition that\" → condition subsequent → right of re-entry. Questions are usually decided by these exact phrases.\n- **Remainder vs. reversion is a who question, not a what question.** Third party named → remainder. No one named → back to grantor → reversion.\n- **The estate for years trap:** \"for years\" does not mean years, and it needs **no notice** to terminate. Any lease with a fixed end date is an estate for years, even a two-week vacation rental.\n- **Nobody conveys more than they own.** A life tenant selling \"the property\" sells only the life estate. Expect at least one question built on this.\n- **At sufferance vs. trespasser:** the distinction is *how they got in*. Lawful entry then overstay = sufferance. Never lawful = trespass. The remedy for a holdover is unlawful detainer, never self-help lockouts.\n- **Compound vs. simple escalations.** When a lease raises rent by a percentage \"each year,\" apply it to the prior year's rent, not the original. The simple-interest figure will always be sitting there as a distractor.\n\n## 9. Unit Quiz\n\nThe 18-question quiz for this unit lives in `/content/question-bank/principles/unit-03.json` with full per-option rationales.",
+  "word_count": 3059,
+  "questions": [
+    {
+      "id": "PRIN-03-001",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 3,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 1,
+      "stem": "Which of the following is a freehold estate?",
+      "options": [
+        "An estate for years",
+        "A periodic tenancy",
+        "A life estate",
+        "An estate at sufferance"
+      ],
+      "answer": 2,
+      "rationales": [
+        "An estate for years is a leasehold — a less-than-freehold estate.",
+        "A periodic tenancy is a leasehold that renews period to period.",
+        "Correct. Freehold estates are ownership interests of indefinite duration: fee estates and life estates.",
+        "An estate at sufferance is the weakest leasehold interest, not a freehold."
+      ],
+      "terms": [
+        "freehold estate",
+        "life estate"
+      ]
+    },
+    {
+      "id": "PRIN-03-002",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 3,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 1,
+      "stem": "A deed conveying property with no qualifying or limiting language is presumed to transfer:",
+      "options": [
+        "A life estate",
+        "Fee simple absolute",
+        "A fee simple determinable",
+        "A leasehold"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A life estate must be expressly created; it is never presumed.",
+        "Correct. California presumes a grantor conveys the largest estate owned — normally fee simple absolute — unless the deed says otherwise.",
+        "A defeasible fee requires express conditional or durational language.",
+        "A deed conveys title, not mere possession; leaseholds arise from leases."
+      ],
+      "terms": [
+        "fee simple absolute"
+      ]
+    },
+    {
+      "id": "PRIN-03-003",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 3,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A grantor deeds land 'to the City, so long as the parcel is used as a public park.' The grantor has created a fee simple determinable and retained a:",
+      "options": [
+        "Right of re-entry",
+        "Possibility of reverter",
+        "Remainder",
+        "Leased fee"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A right of re-entry follows a fee simple subject to a condition subsequent, signaled by 'provided that' or 'but if.'",
+        "Correct. Durational language ('so long as') creates a determinable fee that ends automatically, leaving the grantor a possibility of reverter.",
+        "A remainder is held by a third party, not the grantor.",
+        "A leased fee is a landlord's interest in leased property — no lease exists here."
+      ],
+      "terms": [
+        "fee simple determinable",
+        "possibility of reverter"
+      ]
+    },
+    {
+      "id": "PRIN-03-004",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 3,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A deed reads 'to Whittier College, provided that the property is used for classroom instruction; if not, the grantor may re-enter and terminate.' This estate is a:",
+      "options": [
+        "Fee simple determinable",
+        "Fee simple subject to a condition subsequent",
+        "Life estate pur autre vie",
+        "Fee simple absolute"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A determinable fee uses durational words and ends automatically; this deed requires the grantor to act.",
+        "Correct. 'Provided that' plus an express re-entry power creates a fee simple subject to a condition subsequent, which the grantor must enforce to reclaim title.",
+        "No measuring life is involved.",
+        "The conditional language defeats absolute ownership."
+      ],
+      "terms": [
+        "fee simple subject to condition subsequent",
+        "right of re-entry (power of termination)"
+      ]
+    },
+    {
+      "id": "PRIN-03-005",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 3,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A deed grants property 'to Rosa for life, then to David.' David's interest is called a:",
+      "options": [
+        "Reversion",
+        "Remainder",
+        "Possibility of reverter",
+        "Right of re-entry"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A reversion returns to the grantor; David is a third party.",
+        "Correct. A future interest given to a third party to take possession when a life estate ends is a remainder, and David is the remainderman.",
+        "A possibility of reverter follows a determinable fee, not a life estate.",
+        "A right of re-entry follows a condition subsequent."
+      ],
+      "terms": [
+        "remainder / remainderman"
+      ]
+    },
+    {
+      "id": "PRIN-03-006",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 3,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A deed grants property 'to Rosa for life.' Nothing more is said. When Rosa dies, the property goes to:",
+      "options": [
+        "Rosa's heirs",
+        "The grantor or the grantor's successors, by reversion",
+        "The state, by escheat",
+        "Whoever is in possession at Rosa's death"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A life estate ends at death; it does not pass to the life tenant's heirs.",
+        "Correct. With no third party named, the grantor retained a reversion and the property returns to the grantor or the grantor's successors.",
+        "Escheat applies only when an owner dies intestate with no heirs — not here.",
+        "Possession does not determine title."
+      ],
+      "terms": [
+        "reversion",
+        "life estate"
+      ]
+    },
+    {
+      "id": "PRIN-03-007",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 3,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "Elena holds a life estate measured by her mother's life ('to Elena for the life of her mother'). Elena dies before her mother. Elena's interest:",
+      "options": [
+        "Terminates immediately at Elena's death",
+        "Passes to Elena's heirs until her mother dies",
+        "Converts to a fee simple absolute in Elena's estate",
+        "Reverts to the grantor immediately"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Termination happens at the death of the *measuring* life, which is the mother, not Elena.",
+        "Correct. In a life estate pur autre vie, the estate lasts until the measuring life ends; if the holder dies first, the remaining interest passes to the holder's heirs.",
+        "No mechanism converts a life estate into a fee on the holder's death.",
+        "The grantor's reversion (if any) takes effect only when the measuring life ends."
+      ],
+      "terms": [
+        "pur autre vie",
+        "life estate"
+      ]
+    },
+    {
+      "id": "PRIN-03-008",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 3,
+      "blueprint_area": "transfer",
+      "difficulty": 3,
+      "stem": "A life tenant sells 'the property' to a buyer by grant deed, without the remainderman joining. The buyer receives:",
+      "options": [
+        "Fee simple absolute, because a grant deed conveys full title",
+        "An estate that ends when the measuring life ends",
+        "Nothing; the deed is void",
+        "A tenancy in common with the remainderman"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The form of deed cannot enlarge what the grantor owns.",
+        "Correct. No one conveys more than they hold: the buyer takes the life estate, which terminates when the measuring life ends, and the remainderman then takes possession.",
+        "The deed is valid — it simply conveys only the life estate.",
+        "No co-ownership arises; the interests are successive, not concurrent."
+      ],
+      "terms": [
+        "life estate",
+        "remainder / remainderman"
+      ]
+    },
+    {
+      "id": "PRIN-03-009",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 3,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A life tenant stops paying property taxes and lets the roof fail, causing structural damage. The remainderman's claim against the life tenant is for:",
+      "options": [
+        "Waste",
+        "Constructive eviction",
+        "Adverse possession",
+        "Encroachment"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. A life tenant owes a duty not to commit waste — permanent injury harming the future interest holder — and is generally responsible for taxes and ordinary repairs.",
+        "Constructive eviction is a tenant's remedy against a landlord.",
+        "Adverse possession is a way to acquire title by hostile possession, not a claim about neglect.",
+        "Encroachment is a physical intrusion across a boundary."
+      ],
+      "terms": [
+        "waste",
+        "life tenant"
+      ]
+    },
+    {
+      "id": "PRIN-03-010",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 3,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A commercial lease runs from July 1, 2026 to June 30, 2031. To end the tenancy on the final day, the landlord must:",
+      "options": [
+        "Give 30 days' written notice",
+        "Give 60 days' written notice",
+        "Do nothing; the estate for years terminates automatically",
+        "File an unlawful detainer action before expiration"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Notice requirements apply to periodic tenancies, not fixed-term leases.",
+        "60-day notice is a residential periodic-tenancy concept.",
+        "Correct. An estate for years has definite start and end dates and terminates automatically on the end date without notice from either party.",
+        "Unlawful detainer is the remedy for a tenant who refuses to leave, not a prerequisite to expiration."
+      ],
+      "terms": [
+        "estate for years"
+      ]
+    },
+    {
+      "id": "PRIN-03-011",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 3,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A tenant whose one-year lease expired refuses to move out and keeps mailing rent checks the landlord has not cashed. The tenant now holds:",
+      "options": [
+        "A periodic tenancy",
+        "An estate at sufferance",
+        "An estate at will",
+        "No interest; the tenant is a trespasser"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A periodic tenancy would require the landlord's acceptance of rent creating a new arrangement; unaccepted checks do not establish it.",
+        "Correct. A tenant who entered lawfully but remains after the right to possession ended holds an estate at sufferance — a holdover, removable by unlawful detainer.",
+        "An estate at will requires the landlord's permission, which is absent here.",
+        "The tenant is not a trespasser because the original entry was lawful."
+      ],
+      "terms": [
+        "estate at sufferance",
+        "unlawful detainer"
+      ]
+    },
+    {
+      "id": "PRIN-03-012",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 3,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 1,
+      "stem": "A landlord facing a holdover tenant in California may lawfully:",
+      "options": [
+        "Change the locks after giving 24 hours' notice",
+        "Remove the unit's front door to encourage departure",
+        "Shut off water and electricity to the unit",
+        "File an unlawful detainer action"
+      ],
+      "answer": 3,
+      "rationales": [
+        "Lockouts are prohibited self-help regardless of notice.",
+        "Removing doors is a classic illegal self-help eviction exposing the landlord to damages.",
+        "Utility shutoffs to force a tenant out are unlawful.",
+        "Correct. Unlawful detainer is California's summary court action and the only lawful route to recover possession."
+      ],
+      "terms": [
+        "unlawful detainer",
+        "estate at sufferance"
+      ]
+    },
+    {
+      "id": "PRIN-03-013",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 3,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 1,
+      "stem": "In the memory aid PETE, which government power allows the state to take title when an owner dies without a will and without heirs?",
+      "options": [
+        "Police power",
+        "Eminent domain",
+        "Taxation",
+        "Escheat"
+      ],
+      "answer": 3,
+      "rationales": [
+        "Police power regulates use for public health, safety, and welfare.",
+        "Eminent domain is a taking for public use with just compensation.",
+        "Taxation supports the property tax lien.",
+        "Correct. Escheat transfers property to the state when an owner dies intestate with no heirs."
+      ],
+      "terms": [
+        "PETE",
+        "escheat"
+      ]
+    },
+    {
+      "id": "PRIN-03-014",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 3,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A landlord's interest in property that is currently subject to a ten-year lease is called the:",
+      "options": [
+        "Leasehold",
+        "Leased fee",
+        "Remainder",
+        "Estate at will"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The leasehold is the tenant's possessory interest.",
+        "Correct. The landlord retains the leased fee — ownership burdened by the tenant's right of possession.",
+        "A remainder follows a life estate, not a lease.",
+        "An estate at will is a type of tenancy, not the landlord's ownership interest."
+      ],
+      "terms": [
+        "leased fee",
+        "less-than-freehold (leasehold) estate"
+      ]
+    },
+    {
+      "id": "PRIN-03-015",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 3,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A five-year lease starts at $20,000/month with 4% increases on each anniversary. The monthly rent during the THIRD year is:",
+      "options": [
+        "$21,600.00",
+        "$22,400.00",
+        "$21,632.00",
+        "$20,800.00"
+      ],
+      "answer": 2,
+      "rationales": [
+        "$21,600 applies two simple 4% increases to the original rent (20,000 × 1.08) rather than compounding.",
+        "$22,400 applies three increases (20,000 × 1.12) — one too many for year three.",
+        "Correct. Year 2 = 20,000 × 1.04 = 20,800; Year 3 = 20,800 × 1.04 = $21,632.00. Percentage escalations compound on the prior year's rent.",
+        "$20,800 is the year-two rent, one increase short."
+      ],
+      "terms": []
+    },
+    {
+      "id": "PRIN-03-016",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 3,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A tenant takes possession of a $3,000/month apartment on the 21st of a 30-day month, owing rent only for days occupied including the day of possession. The prorated rent due is:",
+      "options": [
+        "$900",
+        "$1,000",
+        "$1,100",
+        "$800"
+      ],
+      "answer": 1,
+      "rationales": [
+        "$900 counts nine days, excluding the day of possession the facts include.",
+        "Correct. Daily rent = $3,000 ÷ 30 = $100. Days 21 through 30 inclusive = 10 days. 10 × $100 = $1,000.",
+        "$1,100 counts eleven days, one more than the month contains from the 21st.",
+        "$800 counts only eight days."
+      ],
+      "terms": [
+        "proration"
+      ]
+    },
+    {
+      "id": "PRIN-03-017",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 3,
+      "blueprint_area": "transfer",
+      "difficulty": 3,
+      "stem": "Title to a home is vested 'Rosa, a life estate; remainder to David.' A buyer wants fee simple absolute. To deliver insurable fee title, the deed must be signed by:",
+      "options": [
+        "Rosa alone, as the party in possession",
+        "David alone, as the ultimate owner",
+        "Both Rosa and David",
+        "Rosa, with David's interest extinguished automatically at closing"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Rosa can convey only her life estate, which ends at her death.",
+        "David can convey only his remainder, which carries no present possession.",
+        "Correct. Combining the life estate and the remainder in one conveyance produces fee simple absolute, so both must sign.",
+        "Closing does not extinguish a remainder; only a conveyance or the running of the measuring life affects it."
+      ],
+      "terms": [
+        "life estate",
+        "remainder / remainderman",
+        "fee simple absolute"
+      ]
+    },
+    {
+      "id": "PRIN-03-018",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 3,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Which statement about a leasehold estate is TRUE?",
+      "options": [
+        "It is classified as real property because it concerns land",
+        "It is classified as personal property (chattel real)",
+        "It always terminates on the death of the tenant",
+        "It gives the tenant legal title to the land"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Despite concerning land, a leasehold is not classified as real property.",
+        "Correct. A less-than-freehold estate is personal property — chattel real — a favorite exam distinction.",
+        "An estate for years survives the death of either party and binds heirs.",
+        "A tenant holds possession; the landlord retains title."
+      ],
+      "terms": [
+        "less-than-freehold (leasehold) estate",
+        "chattel"
+      ]
+    }
+  ]
+}

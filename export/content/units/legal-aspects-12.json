@@ -1,0 +1,467 @@
+{
+  "id": "legal-aspects-12",
+  "course_slug": "legal-aspects",
+  "unit_number": 12,
+  "title": "Construction, Mechanics' Liens & New-Home Law",
+  "estimated_hours": 3,
+  "blueprint_areas": [
+    "ownership-land-use",
+    "contracts"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Explain** the legal theory behind a mechanics' lien and who may file one.\n2. **Apply** the preliminary notice and lien-filing timeline requirements at a conceptual level.\n3. **Distinguish** a mechanics' lien's priority rules from a typical purchase-money mortgage's priority.\n4. **Analyze** a fact pattern where an owner paid the general contractor in full but a subcontractor still files a lien.\n5. **Explain** the purpose of a release/waiver of lien and why staged releases matter.\n6. **Identify** the core statutory protections buyers of new homes receive from builders.\n7. **Advise** (within license scope) on why unpermitted work is a distinct risk from a mechanics' lien risk.\n\n---\n\n## 1. The Legal Theory Behind a Mechanics' Lien\n\nA **mechanics' lien** is a statutory lien available to contractors, subcontractors, laborers, and material suppliers who improve real property and are not paid for that work. The theory is straightforward: someone who added value to a specific property through labor or materials has a claim against *that property itself*, not just against whoever hired them personally — because the property's value increased due to their work, and it is that increased value the lien reaches.\n\n**Who may file:** general contractors, subcontractors at multiple tiers, laborers, and material/equipment suppliers who furnished labor or materials for a work of improvement, provided they follow the required statutory steps.\n\n## 2. Preliminary Notice: The Step Most Owners Never See Coming\n\nBefore most lien claimants (other than a general contractor who has a direct contract with the owner, in many cases) can enforce a lien, they must generally serve a **preliminary 20-day notice** on the property owner — a notice given near the start of their work, informing the owner that the claimant is providing labor or materials to the project and preserving the claimant's right to later file a lien if unpaid. <!-- VERIFY: current preliminary notice statutory deadline and any recent legislative changes to timing -->\n\n**This is the step that surprises owners:** an owner can pay their general contractor in full and still see a lien filed by a subcontractor or supplier the owner never directly hired and may not even have known was on the job — because the sub was working for the general contractor, not the owner, but the sub's lien right attaches to the property regardless of who the owner already paid.\n\n## 3. The Owner's Vulnerability: Paid the GC, Liened by the Sub\n\n### Worked Example 1 — The double-payment trap (Rialto)\n\nA homeowner hires a general contractor for a $90,000 kitchen and addition remodel, pays the full contract price in installments as work progresses, and the project completes. Two months later, a drywall subcontractor who was never paid by the general contractor (who has since become unreachable) records a mechanics' lien against the home for $14,000.\n\n**Analysis.** Despite having paid the general contractor in full, the homeowner can be exposed to the subcontractor's lien — the general contractor's failure to pay a sub does not automatically protect the owner, because the sub's lien right runs against the property. This is exactly why **conditional and unconditional lien releases tied to each payment**, and **verifying subcontractors and suppliers are being paid** (sometimes through joint checks or a title company/escrow-style disbursement process on larger jobs), are standard risk-management practices for any significant construction project — practices a homeowner unfamiliar with construction law would never think to insist on without being told. An agent working with a client planning major renovations, or buying a property with recent unpermitted or under-documented construction work, should flag this risk explicitly.\n\n## 4. Lien Releases and Waivers\n\nA **release (or waiver) of lien** is a document in which a contractor, subcontractor, or supplier gives up lien rights, typically in exchange for payment. California statute provides specific, sometimes mandatory forms distinguishing:\n\n- **Conditional vs. unconditional** — a conditional release is effective only once payment actually clears; an unconditional release is effective immediately upon signing, regardless of whether payment later fails (a real risk if a check bounces).\n- **Progress payment vs. final payment** — releases tied to interim progress payments versus the final payment closing out the job.\n\n**The practical lesson for anyone managing a renovation:** obtain conditional releases at each payment stage (protecting against a bounced check) and require lien releases from subcontractors and suppliers, not just the general contractor, before making the final payment.\n\n## 5. Mechanics' Lien Priority\n\nMechanics' lien priority follows unusual and California-specific rules: a mechanics' lien can, under specified circumstances, **relate back to the date work on the project actually commenced** — which can mean a mechanics' lien recorded *after* a construction loan's deed of trust was recorded can still gain priority *ahead of* that loan if the underlying work began before the loan was recorded. <!-- VERIFY: current statutory commencement-of-work priority rules, which are a genuinely complex and frequently litigated area of California lien law --> This is precisely why construction lenders require careful timing coordination (recording their deed of trust before any visible work commences) and title company oversight on construction loans — the ordinary \"first recorded, first in priority\" intuition does not reliably apply here.\n\n## 6. Filing Deadlines and Enforcement\n\nA mechanics' lien claimant must generally record the lien within a specific statutory period after completion of the work of improvement (or, for a subcontractor, potentially tied to when a notice of completion or cessation is recorded) — and must then file a lawsuit to **foreclose the lien** within a further statutory period after recording, or the lien expires and becomes unenforceable. <!-- VERIFY: current recording deadline and foreclosure-filing deadline periods, both of which are strict statutory limits --> These deadlines are strictly enforced; missing them can extinguish an otherwise valid claim, which is one reason construction disputes generate so much time-sensitive legal activity.\n\n## 7. New-Home Buyer Protections\n\nBuyers of newly constructed homes from a builder receive statutory protections distinct from resale transactions:\n\n- **Statutory functionality/construction standards** — California's Right to Repair Act (and related statutes) establishes specific standards new residential construction must meet and creates a structured pre-litigation process requiring the builder be given notice and an opportunity to inspect and repair claimed defects before the homeowner can sue. <!-- VERIFY: current Right to Repair Act scope, standards list, and pre-litigation notice/repair procedure requirements -->\n- **Builder warranties** — many builders provide structured warranty coverage (often with different terms for different systems — e.g., shorter coverage for fixtures and appliances, longer coverage for structural elements) as a matter of standard practice or contract, separate from the statutory functionality standards.\n- **Disclosure obligations** parallel to resale disclosure in some respects, though the specific forms and timing differ for new construction sold directly by a builder. <!-- VERIFY: current new-construction-specific disclosure requirements, which differ from the resale TDS/NHD framework -->\n\n### Worked Example 2 — The new-construction defect claim (Fontana)\n\nA buyer purchases a newly built home; eighteen months later, cracks appear in the drywall consistent with a foundation issue.\n\n**Analysis.** Before any lawsuit, the buyer's likely first step under the Right to Repair framework is a **formal notice to the builder**, giving the builder the statutory opportunity to inspect and attempt repair. This pre-litigation process is mandatory in many cases, not optional — a buyer (or their attorney) who sues first without following the required notice procedure can face real procedural obstacles. An agent who sold the home, or who represents the buyer in an unrelated later transaction, is not the one to advise on this process, but recognizing that new-construction defect claims follow a different legal path than a resale disclosure dispute is valuable working knowledge.\n\n## 8. Unpermitted Work: A Related but Distinct Risk\n\nUnpermitted work — construction completed without required building permits and final inspection sign-off — is a **separate risk category** from mechanics' liens, though the two often appear together in older, non-professionally-managed renovation projects. Unpermitted work can affect insurability, financeability, resale disclosure obligations, and in some cases can require an owner to obtain retroactive permits (sometimes involving costly demolition/exposure of the work for inspection) before a sale can close cleanly. Principles Unit 9's material fact disclosure duty covers known unpermitted work directly — sellers and their agents cannot simply stay silent because \"it passed informally\" or \"the neighbor's contractor did it years ago.\"\n\n## 9. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Mechanics' lien** | A statutory lien available to unpaid contractors, subcontractors, laborers, and suppliers against the improved property. |\n| **Preliminary 20-day notice** | Early notice most lien claimants must serve to preserve future lien rights. |\n| **Conditional release** | A lien release effective only once payment actually clears. |\n| **Unconditional release** | A lien release effective immediately upon signing, regardless of later payment failure. |\n| **Right to Repair Act** | California's statutory construction-standards and pre-litigation notice framework for new-home defect claims. |\n| **Unpermitted work** | Construction completed without required permits and inspection sign-off, a distinct risk from a mechanics' lien. |\n\n## 10. Exam and Practice Tips\n\n- Paying the general contractor in full does not automatically protect an owner from a subcontractor's mechanics' lien — this is one of the most frequently tested and misunderstood points in this area.\n- Use conditional releases tied to each payment stage to guard against a bounced check.\n- Mechanics' lien priority can relate back to the commencement of work — sometimes beating a later-recorded but earlier-work-preceding construction loan.\n- Recording and foreclosure-filing deadlines for mechanics' liens are strict; missing them extinguishes the claim.\n- New-home defect claims generally require a pre-litigation notice-and-repair process under the Right to Repair Act before a lawsuit.\n- Unpermitted work is a distinct risk from mechanics' liens, affecting insurability, financing, and resale disclosure obligations.\n\n## 11. Unit Assessment\n\nThe 18-question assessment lives in `/content/question-bank/legal-aspects/unit-12.json` with full per-option rationales.",
+  "word_count": 1651,
+  "questions": [
+    {
+      "id": "LEGAL-12-001",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 12,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A mechanics' lien is best described as:",
+      "options": [
+        "A lien against the contractor's personal assets only",
+        "A statutory lien against the improved property for unpaid labor or materials",
+        "A type of title insurance policy",
+        "A form of easement"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It attaches to the property, not just the contractor's personal assets.",
+        "Correct. It is a statutory lien against the improved property.",
+        "It is unrelated to title insurance.",
+        "It is not an easement."
+      ],
+      "terms": [
+        "mechanics' lien"
+      ]
+    },
+    {
+      "id": "LEGAL-12-002",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 12,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Parties who may file a mechanics' lien generally include:",
+      "options": [
+        "Only the general contractor",
+        "General contractors, subcontractors, laborers, and material suppliers",
+        "Only licensed architects",
+        "Only the property's title company"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Lien rights extend beyond only the general contractor.",
+        "Correct. Multiple tiers of contractors, laborers, and suppliers may qualify.",
+        "Architects are not the only eligible category.",
+        "Title companies do not file mechanics' liens."
+      ],
+      "terms": [
+        "mechanics' lien"
+      ]
+    },
+    {
+      "id": "LEGAL-12-003",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 12,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A preliminary 20-day notice is significant because it:",
+      "options": [
+        "Is optional and rarely used",
+        "Is generally required to preserve most claimants' future lien rights",
+        "Immediately creates a recorded lien",
+        "Only applies to general contractors with a direct owner contract"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It is a required step for most claimants, not merely optional.",
+        "Correct. Serving this early notice generally preserves the right to later file a lien.",
+        "It preserves lien rights; it is not itself a recorded lien.",
+        "It is required especially for those without a direct owner contract, such as subcontractors and suppliers."
+      ],
+      "terms": [
+        "preliminary 20-day notice"
+      ]
+    },
+    {
+      "id": "LEGAL-12-004",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 12,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A homeowner pays the general contractor in full for a remodel. A subcontractor who was never paid by the general contractor then records a mechanics' lien. This is possible because:",
+      "options": [
+        "The subcontractor's lien right runs against the property regardless of the owner's payment to the GC",
+        "Subcontractors can never file liens",
+        "The homeowner's payment automatically protects against all liens",
+        "Liens can only be filed by architects"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Payment to the GC does not automatically protect the owner from a subcontractor's lien right.",
+        "Subcontractors are a recognized category of lien claimant.",
+        "Full payment to the GC does not automatically eliminate sub lien exposure.",
+        "Architects are not the only party who can file liens."
+      ],
+      "terms": [
+        "mechanics' lien"
+      ]
+    },
+    {
+      "id": "LEGAL-12-005",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 12,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A practical risk-management step for homeowners undertaking significant construction is:",
+      "options": [
+        "Avoiding any written contract with the contractor",
+        "Obtaining conditional lien releases tied to each payment stage",
+        "Paying the full contract amount upfront before any work begins",
+        "Ignoring subcontractor payment status entirely"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A written contract is important, not something to avoid.",
+        "Correct. Conditional releases tied to payment stages help manage lien exposure.",
+        "Paying in full upfront increases risk rather than reducing it.",
+        "Ignoring subcontractor payment status increases lien exposure."
+      ],
+      "terms": [
+        "conditional release"
+      ]
+    },
+    {
+      "id": "LEGAL-12-006",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 12,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A conditional lien release differs from an unconditional release because a conditional release:",
+      "options": [
+        "Is effective immediately upon signing regardless of payment",
+        "Is effective only once payment actually clears",
+        "Can never be used in California",
+        "Applies only to general contractors"
+      ],
+      "answer": 1,
+      "rationales": [
+        "That describes an unconditional release.",
+        "Correct. A conditional release protects against a payment that later fails to clear.",
+        "Conditional releases are a recognized, commonly used tool in California.",
+        "It can apply to subcontractors and suppliers as well as general contractors."
+      ],
+      "terms": [
+        "conditional release"
+      ]
+    },
+    {
+      "id": "LEGAL-12-007",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 12,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "An unconditional lien release carries risk because:",
+      "options": [
+        "It cannot be signed before payment",
+        "It is effective immediately upon signing, even if a payment check later bounces",
+        "It automatically voids the underlying contract",
+        "It is illegal in California"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It can be signed before or after payment in various circumstances, which is part of the risk.",
+        "Correct. Signing it immediately releases lien rights regardless of whether payment later fails.",
+        "It does not void the underlying contract.",
+        "It is a legally recognized release type, not illegal."
+      ],
+      "terms": [
+        "unconditional release"
+      ]
+    },
+    {
+      "id": "LEGAL-12-008",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 12,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "Mechanics' lien priority is unusual because a lien can:",
+      "options": [
+        "Never gain priority over a construction loan",
+        "Relate back to the commencement of work, potentially outranking a later-recorded but earlier-work-preceding construction loan",
+        "Only apply to commercial property",
+        "Automatically be junior to all recorded interests"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Liens can, in specified circumstances, outrank certain later-recorded interests.",
+        "Correct. Relation-back to commencement of work is a distinctive and complex priority feature.",
+        "It applies to residential as well as commercial improvements.",
+        "Priority is not automatically junior; relation-back can change the analysis."
+      ],
+      "terms": [
+        "mechanics' lien"
+      ]
+    },
+    {
+      "id": "LEGAL-12-009",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 12,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Construction lenders coordinate deed of trust recording timing carefully because:",
+      "options": [
+        "Mechanics' lien relation-back rules can otherwise outrank the loan's priority",
+        "Recording timing has no effect on priority",
+        "Mechanics' liens are always junior to construction loans regardless of timing",
+        "Only owners need to worry about lien priority"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Careful timing helps protect the lender's priority against relation-back mechanics' lien risk.",
+        "Recording timing has real priority consequences here.",
+        "Liens are not automatically junior; relation-back can change outcomes.",
+        "Lenders have a direct financial stake in this risk as well."
+      ],
+      "terms": [
+        "mechanics' lien"
+      ]
+    },
+    {
+      "id": "LEGAL-12-010",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 12,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Mechanics' lien recording and foreclosure-filing deadlines are:",
+      "options": [
+        "Flexible and rarely enforced",
+        "Strictly enforced statutory limits that can extinguish an otherwise valid claim if missed",
+        "Irrelevant to lien enforceability",
+        "Only applicable to commercial construction"
+      ],
+      "answer": 1,
+      "rationales": [
+        "They are strictly enforced, not flexible.",
+        "Correct. Missing these deadlines can extinguish an otherwise valid lien claim.",
+        "They are directly relevant to whether a lien can be enforced.",
+        "They apply broadly, not only to commercial construction."
+      ],
+      "terms": [
+        "mechanics' lien"
+      ]
+    },
+    {
+      "id": "LEGAL-12-011",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 12,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "California's Right to Repair Act primarily addresses:",
+      "options": [
+        "Mechanics' lien filing deadlines",
+        "Statutory construction standards and a pre-litigation notice/repair process for new-home defect claims",
+        "Fair housing advertising rules",
+        "Escrow licensing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "This is a separate topic from lien deadlines.",
+        "Correct. It establishes construction standards and a required notice/repair process before litigation.",
+        "It is unrelated to fair housing advertising.",
+        "It is unrelated to escrow licensing."
+      ],
+      "terms": [
+        "Right to Repair Act"
+      ]
+    },
+    {
+      "id": "LEGAL-12-012",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 12,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A buyer of a new home discovers a suspected foundation-related defect and wants to sue the builder. Under the Right to Repair framework, the buyer generally must first:",
+      "options": [
+        "File suit immediately with no prior notice",
+        "Give the builder formal notice and an opportunity to inspect and attempt repair",
+        "Contact the original real estate agent to resolve it",
+        "Wait five years regardless of the defect's severity"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Immediate suit without required notice can create procedural obstacles.",
+        "Correct. The pre-litigation notice-and-repair process is generally required before suing.",
+        "The selling agent is not the party positioned to resolve a construction defect claim.",
+        "There is no fixed universal five-year waiting rule described here."
+      ],
+      "terms": [
+        "Right to Repair Act"
+      ]
+    },
+    {
+      "id": "LEGAL-12-013",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 12,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "Builder warranties on new construction typically:",
+      "options": [
+        "Are identical for every system with no variation",
+        "Often have different coverage terms for different systems, such as shorter coverage for fixtures and longer for structural elements",
+        "Never exist in California",
+        "Replace the need for any statutory construction standards"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Coverage often varies by system rather than being uniform.",
+        "Correct. Different systems commonly carry different warranty durations.",
+        "Builder warranties are a common feature of new-home sales.",
+        "Warranties are separate from, not a replacement for, statutory standards."
+      ],
+      "terms": [
+        "Right to Repair Act"
+      ]
+    },
+    {
+      "id": "LEGAL-12-014",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 12,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Unpermitted work is best understood as:",
+      "options": [
+        "The same legal issue as a mechanics' lien",
+        "A separate risk affecting insurability, financing, and disclosure obligations",
+        "Always legal if the work looks professionally done",
+        "Irrelevant to a home sale"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It is a related but legally distinct risk from mechanics' liens.",
+        "Correct. Unpermitted work carries its own insurability, financing, and disclosure consequences.",
+        "Appearance does not establish legality; permits and inspection sign-off are what matter.",
+        "It is highly relevant and must be considered in a sale."
+      ],
+      "terms": [
+        "unpermitted work"
+      ]
+    },
+    {
+      "id": "LEGAL-12-015",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 12,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A seller aware of unpermitted work completed years ago by a prior owner should:",
+      "options": [
+        "Stay silent since it was not their own work",
+        "Disclose it as a known material fact",
+        "Only disclose if directly asked by the buyer",
+        "Assume it is irrelevant since time has passed"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Knowledge, not who performed the work, triggers the disclosure duty.",
+        "Correct. Known unpermitted work is a material fact requiring disclosure.",
+        "The duty to disclose known material facts is affirmative, not conditioned on being asked.",
+        "Time passing does not eliminate the disclosure duty for known facts."
+      ],
+      "terms": [
+        "unpermitted work"
+      ]
+    },
+    {
+      "id": "LEGAL-12-016",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 12,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Retroactive permitting of previously unpermitted work can require:",
+      "options": [
+        "No inspection at all",
+        "Exposure of the work for inspection, sometimes involving costly demolition",
+        "Immediate approval with no review",
+        "Only a verbal confirmation from the original contractor"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Inspection is typically required, not waived.",
+        "Correct. Retroactive permitting can require exposing the work, which can be costly.",
+        "Review and inspection are typically required, not automatic approval.",
+        "A verbal confirmation alone is not a sufficient permitting process."
+      ],
+      "terms": [
+        "unpermitted work"
+      ]
+    },
+    {
+      "id": "LEGAL-12-017",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 12,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Joint checks or an escrow-style disbursement process on a large renovation project are used primarily to:",
+      "options": [
+        "Speed up the contractor's personal profit",
+        "Help verify subcontractors and suppliers are actually being paid",
+        "Avoid the need for any lien releases",
+        "Eliminate the need for a written contract"
+      ],
+      "answer": 1,
+      "rationales": [
+        "This is not the primary purpose.",
+        "Correct. These mechanisms help ensure payment actually reaches subs and suppliers, reducing lien risk.",
+        "Lien releases remain important even with these mechanisms.",
+        "A written contract remains essential regardless of payment method."
+      ],
+      "terms": [
+        "mechanics' lien"
+      ]
+    },
+    {
+      "id": "LEGAL-12-018",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 12,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "An agent working with a client planning major renovations should flag mechanics' lien risk because:",
+      "options": [
+        "It only matters to contractors, not clients",
+        "Owners can face lien exposure even after paying the general contractor in full",
+        "Liens cannot occur on residential property",
+        "It is entirely the escrow company's responsibility to explain"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It directly matters to the owner's financial exposure.",
+        "Correct. Full payment to the GC does not eliminate sub/supplier lien risk.",
+        "Liens can and do occur on residential property.",
+        "Escrow is not typically involved in ongoing renovation payment structuring outside of a purchase transaction."
+      ],
+      "terms": [
+        "mechanics' lien"
+      ]
+    }
+  ]
+}

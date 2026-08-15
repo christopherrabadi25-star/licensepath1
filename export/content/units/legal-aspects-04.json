@@ -1,0 +1,469 @@
+{
+  "id": "legal-aspects-04",
+  "course_slug": "legal-aspects",
+  "unit_number": 4,
+  "title": "Real Property Interests & Conveyancing",
+  "estimated_hours": 3,
+  "blueprint_areas": [
+    "ownership-land-use",
+    "transfer"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Distinguish** the legal requirements for a valid deed from the practical/customary elements agents expect to see.\n2. **Compare** grant, quitclaim, warranty, and trust deeds and identify what each does and does not warrant.\n3. **Apply** the requirements for valid execution and delivery of a deed.\n4. **Explain** why recording is not what transfers title, and what recording actually accomplishes.\n5. **Analyze** legal descriptions and identify red flags in ambiguous or inconsistent descriptions.\n6. **Evaluate** methods of involuntary transfer and their effect on title.\n7. **Advise** (within license scope) on why vesting choice has legal consequences beyond the sale itself.\n\n---\n\n## 1. Conveyancing Is a Legal Act, Not a Formality\n\nA **conveyance** is the transfer of an interest in real property from one party to another. Agents handle conveyancing documents constantly, which can create a false sense that it is purely administrative. It is not — a deed is a legal instrument, and small defects in it can cloud title for years.\n\n## 2. What Makes a Deed Legally Valid\n\nCalifornia law requires specific elements for a deed to be valid:\n\n1. **In writing** — real property conveyances must satisfy the Statute of Frauds.\n2. **A competent grantor** — of legal age and sound mind.\n3. **An identifiable grantee** — named with reasonable certainty.\n4. **A granting/operative clause** — words evidencing present intent to convey (not a future promise to convey).\n5. **An adequate legal description** of the property.\n6. **Signed by the grantor** (not required to be signed by the grantee).\n7. **Delivery and acceptance** — the deed must be delivered by the grantor with present intent to pass title, and accepted by the grantee.\n\nNotice what is *not* required: **consideration is not required** for a deed to be valid (a gift deed is valid), and **recording is not required** for a deed to be valid between the parties.\n\n## 3. Delivery: The Element Agents Most Often Misunderstand\n\n**Delivery** requires the grantor's *present intent* to immediately transfer an interest — physical handover of the paper is evidence of delivery, but is neither necessary nor sufficient by itself. A grantor can retain physical possession of a signed deed and still have legally delivered it if the facts show present intent to convey; conversely, a grantor can hand over a signed deed and there may be no valid delivery if the grantor's intent was that title pass only in the future or upon a condition.\n\n**A deed signed but held in the grantor's own desk drawer with an intent that it take effect only upon the grantor's death is not a valid present conveyance** — that is an attempted testamentary transfer, which must instead follow the requirements for a will. This is a recurring source of family disputes: a parent signs a deed \"to be given to my daughter when I die\" and keeps it in a drawer. Because there was no present intent to convey and no delivery during the grantor's lifetime, the deed is very likely invalid, and the property passes instead through the parent's estate — often not to the intended daughter alone.\n\n**Escrow delivery** is the common commercial pattern: a grantor delivers a signed deed to a neutral third party (escrow) with instructions to deliver it to the grantee upon satisfaction of specified conditions. This is valid delivery once the conditions are met, and title relates back to the date of the escrow delivery in some circumstances — a doctrine called the **relation-back doctrine**, often relevant when a grantor dies or becomes incompetent between escrow deposit and closing.\n\n### Worked Example 1 — The deed in the drawer (Pomona)\n\nA widowed grandfather signs a grant deed conveying his Pomona duplex \"to my grandson,\" tells no one, and keeps the signed deed in a locked box. He dies two years later; his will leaves his estate equally to his three children. The grandson finds the deed and claims the duplex.\n\n**Analysis.** Without evidence of present intent to convey during the grandfather's lifetime and without delivery, this deed almost certainly failed as a conveyance. The duplex passes through the estate under the will, not to the grandson under the deed. This is exactly the fact pattern licensees should recognize and refer to an attorney and estate counsel — not attempt to resolve informally within the family.\n\n## 4. Types of Deeds and What They Warrant\n\n| Deed type | What it conveys/warrants |\n|---|---|\n| **Grant deed** | The most common California residential deed. Carries two implied warranties: the grantor has not already conveyed the property to someone else, and the property is free of undisclosed encumbrances made by the grantor — but does **not** warrant against defects arising before the grantor's ownership. |\n| **Quitclaim deed** | Conveys whatever interest the grantor has, if any — with **no warranties at all**. Commonly used to clear a cloud on title (e.g., removing an ex-spouse's potential interest) rather than to sell property outright. |\n| **Warranty deed** | Rare in California residential practice (more common in other states); the grantor warrants clear title against all claims, including those predating the grantor's ownership. |\n| **Trust deed (deed of trust)** | Not a conveyance of ownership — it is a **security instrument** (Principles Unit 11) conveying bare legal title to a trustee as security for a debt, to be reconveyed upon payoff. |\n| **Trustee's deed** | Conveys property sold at a non-judicial foreclosure trustee's sale. |\n| **Reconveyance deed** | Releases the trust deed's lien once the underlying debt is paid — conveyed by the trustee back toward the trustor. |\n\n### Worked Example 2 — Quitclaim to clear title (San Bernardino)\n\nA couple divorces; the family home was held as community property. As part of the settlement, the ex-wife receives the home. To remove any cloud created by the ex-husband's prior community-property interest, the ex-husband signs a **quitclaim deed** conveying whatever interest he has to the ex-wife.\n\n**Analysis.** A quitclaim is the right tool here — it is not a sale, there is no warranty needed or expected, and the goal is simply to extinguish a specific person's potential claim on title. Using a grant deed instead would not be wrong, but a quitclaim is the customary and simplest instrument for this purpose because it makes no affirmative warranty the grantor cannot back up.\n\n## 5. Recording: What It Does (and Does Not) Do\n\n**Recording does not transfer title.** Title transfers upon valid execution and delivery. Recording accomplishes something different and equally important: it gives **constructive notice** to the world of the interest recorded, and it establishes **priority** among competing claims under California's recording statutes.\n\n**Priority generally follows a \"first in time, first in right\" principle**, modified by the recording acts: a subsequent purchaser or lienholder who records first, without actual or constructive notice of a prior unrecorded interest, and who pays valuable consideration, can gain priority over an earlier interest that was never recorded. This is why title companies exist and why a buyer's lender insists on a recorded first-priority deed of trust — an unrecorded interest is invisible to later buyers and lenders acting in good faith.\n\n**Constructive notice** means the law treats a recorded document as if everyone knew about it, whether or not they actually looked. **Actual notice** means someone genuinely knew, regardless of recording. Either type of notice can defeat a later claim of \"I didn't know.\"\n\n### Worked Example 3 — The race to record (Fontana)\n\nA financially distressed homeowner sells the same property to two different buyers within the same week, in an attempted fraud. Buyer A's grant deed is delivered first but not recorded for two weeks. Buyer B, with no knowledge of Buyer A's purchase, closes days later and records immediately.\n\n**Analysis.** Under California's recording framework, Buyer B — who paid value and recorded first without notice of Buyer A's unrecorded interest — is likely to prevail in a priority dispute over Buyer A, despite Buyer A's earlier delivery date. Buyer A's remedy is against the fraudulent seller, not necessarily the property itself. This example is exactly why title companies run a full title search and issue title insurance, and why \"record it right away\" is not bureaucratic caution — it is the mechanism that protects the buyer's priority.\n\n## 6. Legal Descriptions\n\nA valid deed needs a legal description sufficient to identify the property with reasonable certainty — a street address alone is generally not treated as a sufficient legal description for a deed. Common methods:\n\n- **Metes and bounds** — a description by directions, distances, and monuments starting and ending at a fixed point of beginning; common for irregular parcels.\n- **Government (rectangular) survey system** — describes land by township, range, and section relative to base lines and meridians; more common in areas surveyed under the federal system.\n- **Lot, block, and tract (recorded map/plat)** — references a recorded subdivision map; the most common method for residential lots in developed California subdivisions.\n\n**Ambiguous or inconsistent legal descriptions are a title problem, not a paperwork nuisance.** A description that closes on itself incorrectly, references a superseded map, or conflicts with the assessor's parcel number can create a title exception that must be resolved (often by a licensed surveyor or a quiet title action) before a sale can close cleanly.\n\n## 7. Involuntary Transfer\n\nNot all transfers are voluntary conveyances by deed. Property can transfer by:\n\n- **Intestate succession** — when a person dies without a valid will, state law dictates distribution.\n- **Devise** — transfer of real property under a valid will.\n- **Adverse possession** — acquiring title through open, notorious, hostile, continuous possession under claim of right for the statutory period, combined with payment of property taxes for that period (Principles Unit 5).\n- **Eminent domain** — government taking for public use with just compensation (Principles Unit 14).\n- **Execution sale** — court-ordered sale to satisfy a judgment lien.\n- **Foreclosure sale** — transfer resulting from default on a secured debt (Principles Unit 11).\n\nEach of these produces a conveyance without the grantor's voluntary participation in a traditional sale, and each has its own procedural requirements that must be satisfied for the resulting title to be valid.\n\n## 8. Vesting Has Legal Consequences Beyond the Sale\n\nPrinciples Unit 4 covered how title can be held. This unit's point is narrower: **the vesting choice made at closing has consequences the buyer often does not think about until much later** — how the property passes on death, how it can be encumbered or sold by one owner without the other's consent, how creditors of one owner can reach it, and how it is taxed. Licensees cannot give legal or tax advice on which vesting to choose, but a competent agent flags that the choice matters and refers the client to an attorney or CPA before closing — not after, when the vesting is far harder to unwind.\n\n## 9. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Conveyance** | The transfer of an interest in real property. |\n| **Grant deed** | The standard California deed carrying two implied warranties, but not a full warranty against defects predating the grantor. |\n| **Quitclaim deed** | Conveys whatever interest the grantor has, with no warranties; commonly used to clear title. |\n| **Delivery** | The grantor's present intent to immediately convey, required (with acceptance) for a valid deed. |\n| **Relation-back doctrine** | Treats delivery through escrow as effective as of the date of deposit under certain conditions. |\n| **Constructive notice** | Legal notice imputed by a recorded document, regardless of actual knowledge. |\n| **Actual notice** | Genuine, real knowledge of a fact or interest. |\n| **Recording** | Public filing that establishes priority and constructive notice; does not itself transfer title. |\n| **Metes and bounds** | Legal description by directions, distances, and monuments from a point of beginning. |\n| **Intestate succession** | Distribution of a decedent's property under state law when there is no valid will. |\n\n## 10. Exam and Practice Tips\n\n- Deeds do not require consideration or recording to be valid between the parties — they require writing, a competent grantor, an identifiable grantee, a granting clause, a legal description, the grantor's signature, and delivery/acceptance.\n- Recording establishes priority and constructive notice; it does not transfer title.\n- A grant deed's implied warranties do not cover defects that predate the grantor's ownership.\n- A quitclaim deed makes no warranties at all — know when it is the right tool (clearing title) versus the wrong one (an arm's-length sale).\n- \"Delivery\" is about intent, not physical handover — the deed-in-the-drawer trap is a recurring exam concept.\n- A street address alone is not a sufficient legal description for a deed.\n\n## 11. Unit Assessment\n\nThe 18-question assessment lives in `/content/question-bank/legal-aspects/unit-04.json` with full per-option rationales.",
+  "word_count": 2156,
+  "questions": [
+    {
+      "id": "LEGAL-04-001",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 4,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "Which is NOT required for a deed to be valid between the original parties?",
+      "options": [
+        "Writing",
+        "A competent grantor",
+        "Recording",
+        "Delivery and acceptance"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Writing is required under the Statute of Frauds.",
+        "A competent grantor is required.",
+        "Correct. Recording is not required for validity between the parties; it affects priority and notice.",
+        "Delivery and acceptance are required."
+      ],
+      "terms": [
+        "deed"
+      ]
+    },
+    {
+      "id": "LEGAL-04-002",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 4,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "Consideration is:",
+      "options": [
+        "Required for a valid deed",
+        "Not required for a valid deed; a gift deed can be valid",
+        "Required only for quitclaim deeds",
+        "Required only for trust deeds"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Consideration is not a deed-validity requirement.",
+        "Correct. A deed can be valid without consideration, as in a gift deed.",
+        "This is not specific to quitclaims.",
+        "This is not specific to trust deeds."
+      ],
+      "terms": [
+        "deed"
+      ]
+    },
+    {
+      "id": "LEGAL-04-003",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 4,
+      "blueprint_area": "transfer",
+      "difficulty": 3,
+      "stem": "Delivery of a deed requires:",
+      "options": [
+        "Physical handover of the paper only",
+        "The grantor's present intent to immediately convey, plus acceptance",
+        "Recording within 30 days",
+        "The grantee's signature"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Physical handover alone is neither necessary nor sufficient.",
+        "Correct. Present intent to convey immediately, plus acceptance, is the legal test.",
+        "Recording is unrelated to delivery.",
+        "Grantees are not required to sign deeds."
+      ],
+      "terms": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "LEGAL-04-004",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 4,
+      "blueprint_area": "transfer",
+      "difficulty": 3,
+      "stem": "A grantor signs a deed 'to my daughter' and keeps it in a locked box with intent that it take effect only at death. This deed is most likely:",
+      "options": [
+        "A valid present conveyance",
+        "Invalid for lack of present intent to convey and delivery during life",
+        "Valid once recorded posthumously",
+        "Valid because it is in writing and signed"
+      ],
+      "answer": 1,
+      "rationales": [
+        "There was no present intent to convey during the grantor's lifetime.",
+        "Correct. Without present intent and delivery during life, this functions as an invalid attempted testamentary transfer.",
+        "Recording after death does not cure the defect.",
+        "Writing and signature alone are not sufficient without delivery and present intent."
+      ],
+      "terms": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "LEGAL-04-005",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 4,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "A grant deed's implied warranties generally do NOT cover:",
+      "options": [
+        "Encumbrances made by the grantor",
+        "Prior conveyance by the grantor to someone else",
+        "Defects arising before the grantor's ownership",
+        "Undisclosed liens created by the grantor"
+      ],
+      "answer": 2,
+      "rationales": [
+        "This is covered by implied warranty.",
+        "This is covered by implied warranty.",
+        "Correct. Grant deed warranties do not reach back before the grantor's own ownership.",
+        "This is covered by implied warranty."
+      ],
+      "terms": [
+        "grant deed"
+      ]
+    },
+    {
+      "id": "LEGAL-04-006",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 4,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "A quitclaim deed:",
+      "options": [
+        "Warrants clear title against all claims",
+        "Conveys whatever interest the grantor has, with no warranties",
+        "Cannot be used between family members",
+        "Automatically transfers ownership even if the grantor has no interest"
+      ],
+      "answer": 1,
+      "rationales": [
+        "That describes a warranty deed, not a quitclaim.",
+        "Correct. A quitclaim conveys only whatever interest exists, with no warranties at all.",
+        "Quitclaims are commonly used between family members and ex-spouses.",
+        "A quitclaim cannot convey an interest the grantor does not have."
+      ],
+      "terms": [
+        "quitclaim deed"
+      ]
+    },
+    {
+      "id": "LEGAL-04-007",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 4,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "An ex-spouse signs a document conveying whatever community-property interest he may have in the family home to his former wife as part of a divorce settlement. The appropriate instrument is most likely a:",
+      "options": [
+        "Warranty deed",
+        "Trust deed",
+        "Quitclaim deed",
+        "Reconveyance deed"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Warranty deeds are rare in California and unnecessary here.",
+        "A trust deed is a security instrument, not applicable here.",
+        "Correct. A quitclaim is the customary tool for clearing a specific person's potential claim on title.",
+        "A reconveyance deed releases a trust deed lien, which is not the situation here."
+      ],
+      "terms": [
+        "quitclaim deed"
+      ]
+    },
+    {
+      "id": "LEGAL-04-008",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 4,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "A trust deed (deed of trust) functions primarily as:",
+      "options": [
+        "A conveyance of full ownership",
+        "A security instrument conveying bare legal title to a trustee",
+        "A quitclaim between spouses",
+        "A government taking instrument"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It is not a conveyance of full beneficial ownership.",
+        "Correct. It secures a debt by conveying bare legal title to a trustee, reconveyed upon payoff.",
+        "It is unrelated to interspousal quitclaims.",
+        "It is unrelated to eminent domain."
+      ],
+      "terms": [
+        "trust deed"
+      ]
+    },
+    {
+      "id": "LEGAL-04-009",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 4,
+      "blueprint_area": "transfer",
+      "difficulty": 3,
+      "stem": "Recording a deed primarily:",
+      "options": [
+        "Transfers title",
+        "Establishes constructive notice and priority",
+        "Is required for the deed to be valid between the parties",
+        "Eliminates the need for title insurance"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Title transfers upon valid execution and delivery, not recording.",
+        "Correct. Recording gives constructive notice and helps establish priority among competing claims.",
+        "Recording is not required for validity between the original parties.",
+        "Recording does not eliminate the value of title insurance."
+      ],
+      "terms": [
+        "recording",
+        "constructive notice"
+      ]
+    },
+    {
+      "id": "LEGAL-04-010",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 4,
+      "blueprint_area": "transfer",
+      "difficulty": 3,
+      "stem": "A distressed seller sells the same property to Buyer A and Buyer B. Buyer A's deed is delivered first but not recorded for two weeks. Buyer B, unaware of Buyer A's purchase, pays value and records immediately. Under California recording principles, priority most likely favors:",
+      "options": [
+        "Buyer A, because delivery occurred first",
+        "Buyer B, because Buyer B paid value and recorded first without notice",
+        "Whichever buyer has physical possession",
+        "The seller, who may resell to a third buyer"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Earlier delivery alone does not guarantee priority against a later good-faith recorder.",
+        "Correct. A subsequent purchaser for value who records first without notice of the prior unrecorded interest can gain priority.",
+        "Possession is not the controlling factor in this scenario.",
+        "The seller has no continuing right to resell after conveying to Buyer A."
+      ],
+      "terms": [
+        "recording",
+        "priority"
+      ]
+    },
+    {
+      "id": "LEGAL-04-011",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 4,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "Constructive notice means:",
+      "options": [
+        "Someone actually knew a fact",
+        "The law treats a recorded document as known regardless of actual knowledge",
+        "A verbal warning was given",
+        "A notice was posted on the property only"
+      ],
+      "answer": 1,
+      "rationales": [
+        "That describes actual notice.",
+        "Correct. Constructive notice is imputed by recording, whether or not someone actually looked.",
+        "Verbal warnings are not constructive notice.",
+        "Physical posting alone is not the legal mechanism described."
+      ],
+      "terms": [
+        "constructive notice"
+      ]
+    },
+    {
+      "id": "LEGAL-04-012",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 4,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A legal description referencing directions, distances, and monuments from a fixed point of beginning is called:",
+      "options": [
+        "Government survey",
+        "Metes and bounds",
+        "Lot, block, and tract",
+        "Assessor's parcel number"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Government survey uses township, range, and section.",
+        "Correct. Metes and bounds describes property by directions, distances, and monuments.",
+        "Lot, block, and tract references a recorded subdivision map.",
+        "An APN is an assessment identifier, not a full legal description."
+      ],
+      "terms": [
+        "metes and bounds"
+      ]
+    },
+    {
+      "id": "LEGAL-04-013",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 4,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A street address alone is generally:",
+      "options": [
+        "A sufficient legal description for a deed",
+        "Not treated as a sufficient legal description for a deed",
+        "Required in addition to metes and bounds",
+        "Only used for commercial property"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A street address alone is not treated as sufficient.",
+        "Correct. Deeds require a legal description sufficient to identify the property with reasonable certainty.",
+        "It is not a formal requirement alongside metes and bounds.",
+        "This is not limited to commercial property."
+      ],
+      "terms": [
+        "legal description"
+      ]
+    },
+    {
+      "id": "LEGAL-04-014",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 4,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "An ambiguous legal description that conflicts with the assessor's parcel number is best understood as:",
+      "options": [
+        "An irrelevant clerical detail",
+        "A title problem that may require a surveyor or quiet title action to resolve",
+        "Automatically cured by escrow",
+        "Something only the buyer's lender needs to worry about"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It is not irrelevant; it can cloud title.",
+        "Correct. Ambiguous descriptions are title problems requiring resolution before a clean closing.",
+        "Escrow does not automatically cure description defects.",
+        "It affects buyer, seller, and lender alike."
+      ],
+      "terms": [
+        "legal description"
+      ]
+    },
+    {
+      "id": "LEGAL-04-015",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 4,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "Acquiring title through open, notorious, hostile, and continuous possession under claim of right, combined with tax payment for the statutory period, describes:",
+      "options": [
+        "Eminent domain",
+        "Adverse possession",
+        "Devise",
+        "Intestate succession"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Eminent domain is a government taking with compensation.",
+        "Correct. This describes adverse possession.",
+        "Devise is transfer under a valid will.",
+        "Intestate succession applies when there is no valid will."
+      ],
+      "terms": [
+        "adverse possession"
+      ]
+    },
+    {
+      "id": "LEGAL-04-016",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 4,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "When a person dies without a valid will, real property passes by:",
+      "options": [
+        "Devise",
+        "Intestate succession",
+        "Adverse possession",
+        "Eminent domain"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Devise requires a valid will.",
+        "Correct. Intestate succession governs distribution when there is no valid will.",
+        "Adverse possession requires possession over time, unrelated to death.",
+        "Eminent domain is a government taking."
+      ],
+      "terms": [
+        "intestate succession"
+      ]
+    },
+    {
+      "id": "LEGAL-04-017",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 4,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Escrow delivery of a deed, where a grantor deposits a signed deed with instructions to deliver upon satisfying conditions, is generally treated as:",
+      "options": [
+        "Invalid until the grantor personally hands over the deed",
+        "Valid delivery once conditions are met, sometimes relating back to the deposit date",
+        "Only valid for commercial transactions",
+        "The same as a testamentary transfer"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Escrow delivery is a recognized valid delivery method.",
+        "Correct. This is valid delivery once conditions are satisfied, and can relate back under the relation-back doctrine.",
+        "It is common in both residential and commercial transactions.",
+        "It is distinct from a testamentary transfer, which requires will formalities."
+      ],
+      "terms": [
+        "relation-back doctrine"
+      ]
+    },
+    {
+      "id": "LEGAL-04-018",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 4,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A licensee cannot advise a client on which vesting to choose because:",
+      "options": [
+        "Vesting never matters to the client",
+        "That is a legal/tax determination outside license scope",
+        "Only lenders may choose vesting",
+        "Vesting is fixed by the assessor"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Vesting has real legal and financial consequences for the client.",
+        "Correct. Vesting choice implicates legal and tax consequences beyond license scope; refer to an attorney or CPA.",
+        "Lenders do not choose vesting for the buyer.",
+        "The assessor does not determine vesting."
+      ],
+      "terms": [
+        "vesting"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,529 @@
+{
+  "id": "principles-16",
+  "course_slug": "principles",
+  "unit_number": 16,
+  "title": "Real Estate Taxation",
+  "estimated_hours": "2.5",
+  "blueprint_areas": [
+    "practice-disclosures",
+    "valuation"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Explain** ad valorem property taxation and **calculate** annual property taxes under Proposition 13.\n2. **Describe** the property tax calendar, delinquency dates, and the memory aids for each.\n3. **Explain** reassessment on change of ownership, supplemental assessments, and the major exclusions.\n4. **Identify** the homeowners' and veterans' exemptions and Mello-Roos special assessments.\n5. **Calculate** documentary transfer tax, including the assumed-loan adjustment.\n6. **Explain** the principal residence capital gain exclusion and how gain is computed.\n7. **Describe** 1031 exchanges, boot, and the identification and closing deadlines.\n8. **Explain** depreciation on investment property and the withholding rules under FIRPTA and California law.\n\n---\n\n## 1. Property Taxes and Proposition 13\n\nCalifornia property taxes are **ad valorem** — \"according to value.\" They are a **specific, involuntary lien** attaching to the property, and as you learned in Unit 5, they hold **first priority over all other liens** regardless of recording date.\n\n**Proposition 13**, adopted in 1978, restructured California property taxation and still governs it. Its core rules:\n\n- The **basic tax rate is capped at 1%** of assessed value.\n- The **assessed value at acquisition** is the purchase price (the \"base year value\").\n- Assessed value may increase by **no more than 2% per year** thereafter, regardless of how fast market value rises.\n- The property is **reassessed to current market value on a change of ownership** or on new construction.\n\nThe practical consequence dominates California real estate: two identical houses side by side in Arcadia can carry wildly different tax bills. The neighbor who bought in 1994 may pay a third of what your buyer will pay, because your buyer's base year value resets at today's price. **Always run the buyer's taxes off the purchase price, never off the seller's current bill.** Agents who quote the seller's tax figure create a nasty surprise at the first tax bill and a legitimate complaint.\n\n**Total tax rate** exceeds 1%. On top of the base rate, the bill includes **voter-approved bonded indebtedness** (school and infrastructure bonds) and **direct assessments** (lighting, sewer, vector control, Mello-Roos). A realistic effective rate in much of Southern California runs roughly **1.1% to 1.3%**, and materially higher in Mello-Roos districts. <!-- VERIFY: current typical rate ranges by county -->\n\n## 2. The Property Tax Calendar\n\nThe fiscal year runs **July 1 through June 30**. Taxes are billed in two installments, and the dates are pure memorization:\n\n| Event | Date |\n|---|---|\n| Fiscal year begins | July 1 |\n| **Lien date** (taxes attach) | **January 1** (preceding the fiscal year) |\n| First installment due | November 1 |\n| **First installment delinquent** | **December 10** |\n| Second installment due | February 1 |\n| **Second installment delinquent** | **April 10** |\n| Fiscal year ends | June 30 |\n\nTwo memory aids that have carried generations of students:\n\n- **\"No Darn Fooling Around\"** — **N**ovember 1, **D**ecember 10, **F**ebruary 1, **A**pril 10.\n- The delinquency dates are the **10th of the month after a holiday month** — December 10 (after Thanksgiving), April 10 (after taxes/spring).\n\nA **10% penalty** applies to a late installment, with additional costs after the second delinquency. Property remaining delinquent becomes **tax-defaulted**, and after a statutory redemption period — generally **five years** for residential property — the county may sell it at a **tax sale**. <!-- VERIFY: current redemption period and tax sale procedure -->\n\n**Supplemental assessments.** When a property changes ownership or new construction is completed, the assessor issues a **supplemental tax bill** for the difference between the old and new assessed values, prorated for the remainder of the fiscal year. This is the bill your buyers forget about — it arrives months after closing, is **not** covered by their impound account, and is frequently the first angry call a new agent receives. Warn buyers at contract, not at closing.\n\n## 3. Exclusions from Reassessment\n\nBecause reassessment is so consequential, the exclusions matter enormously to clients.\n\n**Transfers that do NOT trigger reassessment** generally include:\n\n- **Interspousal transfers** — between spouses, including on divorce or death.\n- **Parent–child and grandparent–grandchild transfers**, now sharply narrowed. Proposition 19 (effective 2021) limits this to a **principal residence that the transferee also uses as a principal residence**, with a value cap, and eliminated the former broad exclusion for other property. <!-- VERIFY: current Prop 19 value cap and filing deadlines -->\n- **Transfers into a revocable trust** where the trustor remains the beneficial owner.\n- **Refinancing** — no change of ownership occurs.\n- Adding or removing a co-owner where beneficial ownership is unchanged (proportional interest transfers).\n\n**Base year value transfers.** Proposition 19 also **expanded** portability: homeowners who are **55 or older**, severely disabled, or victims of a wildfire or natural disaster may transfer their base year value to a replacement principal residence **anywhere in California**, with adjustments if the replacement costs more. <!-- VERIFY: current transfer limits and number of permitted transfers -->\n\nThis is genuinely valuable to clients and a real source of business: a 68-year-old seller in Arcadia who has been afraid to downsize because of taxes may be able to carry her low assessed value to a new home. **Explain that the benefit exists and refer her to a CPA or the county assessor** — do not calculate it for her.\n\n## 4. Exemptions and Special Assessments\n\n**Homeowners' exemption** — a modest reduction in assessed value for an owner-occupied residence, historically **$7,000** of assessed value (worth roughly $70/year at the 1% rate). It requires a filing with the assessor. <!-- VERIFY: current exemption amount -->\n\n**Veterans' and disabled veterans' exemptions** — larger reductions for qualifying veterans, with the disabled veterans' exemption substantially more valuable. <!-- VERIFY: current amounts and eligibility -->\n\n**Special assessments** fund local improvements benefiting the property (Unit 5):\n\n- **Mello-Roos (Community Facilities District)** — funds infrastructure in newer developments. Common across the Inland Empire and newer Santa Clarita and Riverside County tracts. Can add **$100–$400+ per month**, must be disclosed (Unit 9), and typically has a fixed term of years.\n- **1915 Act improvement bonds** — assessments for streets, sewers, and similar improvements.\n\n**Teach buyers to evaluate the total monthly obligation**, not the sale price. A $650,000 home with $340/month of Mello-Roos carries a higher effective payment than a $690,000 home without it — a comparison most buyers never make on their own.\n\n## 5. Documentary Transfer Tax\n\nA tax on transferring real property, imposed at the county level and, in some cities, additionally at the city level.\n\n- The common **county rate is $0.55 per $500** of consideration (equivalently $1.10 per $1,000).\n- The tax is computed on consideration **net of any existing loan the buyer assumes** or takes subject to.\n- Many cities impose their own transfer tax on top, and some are substantial — several California cities have adopted high-value transfer taxes on expensive properties. <!-- VERIFY: current city transfer tax rates, which change by ballot measure -->\n- **Who pays is negotiable** and set by contract and local custom.\n\nCertain transfers are exempt, including gifts, transfers between spouses, and transfers where no consideration passes.\n\n## 6. Income Taxation for Homeowners\n\n**Basis** is your investment in the property for tax purposes:\n\n> **Adjusted basis = purchase price + capital improvements − depreciation taken**\n\n**Capital improvements** add to basis (a new roof, an addition, a remodel). **Repairs** do not (fixing a leak, repainting). The distinction rewards owners who keep records — teach your clients to keep receipts from day one.\n\n**Gain on sale:**\n\n> **Gain = amount realized (sale price − selling costs) − adjusted basis**\n\n**The principal residence exclusion (IRC §121)** is the single most valuable tax provision most of your clients will ever use:\n\n- Exclude up to **$250,000** of gain if single, **$500,000** if married filing jointly.\n- Must have **owned and used** the home as a principal residence for at least **2 of the last 5 years**.\n- Generally usable **once every two years**.\n- Partial exclusions may apply for qualifying circumstances such as a job relocation, health, or unforeseen events. <!-- VERIFY: current partial exclusion rules -->\n\n**Mortgage interest and property tax deductions** exist for itemizing homeowners, subject to federal caps on both mortgage principal and state-and-local tax deductions that have changed and may change again. <!-- VERIFY: current deduction limits before stating figures to students -->\n\n**Your line here is bright:** you explain that these provisions *exist* and that clients should discuss them with a CPA. You never calculate a client's tax liability or advise on a tax strategy. That is not caution for its own sake — it is the difference between a helpful agent and an unlicensed tax practitioner (Unit 1).\n\n## 7. Investment Property: Depreciation, Exchanges, and Withholding\n\n**Depreciation (cost recovery)** lets an investor deduct the cost of *improvements* over a set recovery period. **Land is never depreciated.** Residential rental property and commercial property use different recovery periods under federal law. <!-- VERIFY: current recovery periods --> Depreciation reduces basis, which increases gain on sale — and that recaptured depreciation is taxed, often at a different rate.\n\n**1031 exchanges (like-kind exchanges).** An investor may defer gain by exchanging investment or business real property for other like-kind real property. Since 2018 §1031 applies to **real property only** — personal property exchanges were eliminated.\n\nThe mechanics you must recognize:\n\n- **45 days** from closing the relinquished property to **identify** replacement property in writing.\n- **180 days** from that closing to **complete** the acquisition (or the tax return due date, if earlier).\n- A **qualified intermediary** must hold the proceeds. **If the seller touches the money, the exchange fails.**\n- **Boot** is non-like-kind value received — cash, debt relief, or personal property — and is **taxable to the extent of gain**.\n- To fully defer, the replacement generally must be of **equal or greater value** with **equal or greater debt**, and all proceeds reinvested.\n- Both properties must be held for **investment or business use** — a personal residence does not qualify.\n\nThe two deadlines run **concurrently**, not sequentially, and they are **not extendable** for ordinary hardship. Miss day 45 and the exchange is dead.\n\n**Withholding on sale:**\n\n- **FIRPTA** (federal) requires withholding on sales by foreign persons, at a percentage of the amount realized, with exemptions for certain lower-priced residences the buyer will occupy. <!-- VERIFY: current FIRPTA rates and thresholds -->\n- **California withholding** requires escrow to withhold a percentage of the sale price on certain transactions, including sales by out-of-state sellers, with exemptions including a principal residence and sales below a dollar threshold. <!-- VERIFY: current California withholding rate and exemption threshold -->\n\nEscrow handles the mechanics, but **you** need to spot the issue early — an out-of-state or foreign seller who learns about withholding three days before closing is an unhappy seller, and the exemption certifications take time.\n\n## 8. Worked Examples\n\n### Example 1 — The tax bill surprise (Arcadia)\n\nYour buyer purchases an Arcadia home for **$1,180,000**. The sellers bought in 1996 and their current annual tax bill is **$4,900**. The buyer asks what taxes will be.\n\n**Walkthrough.**\n1. The sellers' bill reflects a 1996 base year value grown at 2%/year — **irrelevant to your buyer.**\n2. The buyer's base year value resets to the purchase price: **$1,180,000**\n3. Base 1% tax: $1,180,000 × 0.01 = **$11,800**\n4. Add bonds and direct assessments; at a realistic **1.18%** effective rate: $1,180,000 × 0.0118 = **$13,924**\n5. Monthly: $13,924 ÷ 12 = **$1,160/month**\n\nThe buyer's taxes are roughly **$9,000/year higher** than the sellers'. Quoting $4,900 would have understated the monthly payment by about $750 — enough to break the buyer's qualification.\n\n**Also warn about the supplemental bill.** The county will reassess after closing and send a supplemental bill covering the difference for the remainder of the fiscal year. It arrives separately, often months later, and is not in the impound account.\n\n### Example 2 — Property tax proration (Ontario)\n\nClosing is **October 16**, the buyer owns the day of closing, and the seller has prepaid the full fiscal year of **$8,760**. (This mirrors Unit 10; taxes are the most commonly prorated item.)\n\n**Walkthrough.**\n1. Fiscal year began **July 1**.\n2. Daily rate (360-day year): $8,760 ÷ 360 = **$24.33**\n3. Seller's ownership: July 1 – October 15 = 3 months + 15 days = **105 days**\n4. Seller's share: 105 × $24.33 = **$2,554.65**\n5. Prepaid balance benefiting the buyer: $8,760 − $2,554.65 = **$6,205.35**\n6. **Credit seller / debit buyer $6,205.35**\n\n### Example 3 — Documentary transfer tax with an assumption (Claremont)\n\nA home sells for **$918,000**; the buyer **assumes** an existing **$300,000** loan. County rate: **$0.55 per $500**.\n\n**Walkthrough.**\n1. Taxable consideration: $918,000 − $300,000 = **$618,000**\n2. Increments: $618,000 ÷ 500 = **1,236**\n3. Tax: 1,236 × $0.55 = **$679.80**\n\nHad the buyer obtained **new** financing, the full $918,000 would be taxed: $918,000 ÷ 500 = 1,836 × $0.55 = **$1,009.80**. And if the city imposed its own tax, add it separately.\n\n### Example 4 — Principal residence gain exclusion (Whittier)\n\nA married couple bought a Whittier home in 2009 for **$385,000**. They added a **$62,000** addition and a **$28,000** kitchen remodel. They sell for **$1,090,000** with **6.5%** in selling costs. They have lived there continuously.\n\n**Walkthrough.**\n1. Adjusted basis: $385,000 + $62,000 + $28,000 = **$475,000**\n2. Selling costs: $1,090,000 × 0.065 = **$70,850**\n3. Amount realized: $1,090,000 − $70,850 = **$1,019,150**\n4. Gain: $1,019,150 − $475,000 = **$544,150**\n5. §121 exclusion (married filing jointly): **$500,000**\n6. **Taxable gain: $544,150 − $500,000 = $44,150**\n\nTwo teaching points. First, **the improvements saved them real money** — without the $90,000 in capital improvements, taxable gain would have been $134,150 instead of $44,150. That is the argument for keeping receipts. Second, notice how ordinary this is: a couple who bought a modest house 17 years ago now has gain exceeding the exclusion. This is common in California, and it is exactly the moment to say: **\"You should talk to your CPA before you list.\"**\n\n### Example 5 — 1031 exchange with boot (Inland Empire investor)\n\nAn investor sells a Fontana rental for **$920,000** with a **$310,000** loan payoff and **$58,000** in costs, then buys a Riverside replacement for **$840,000** with a **$260,000** new loan. Her adjusted basis in the relinquished property was **$430,000**.\n\n**Walkthrough.**\n1. Net proceeds to the qualified intermediary: $920,000 − $310,000 − $58,000 = **$552,000**\n2. Cash needed for the replacement: $840,000 − $260,000 = **$580,000** — she reinvests all $552,000 and adds $28,000 of her own. **No cash boot.**\n3. **But check the debt.** Old debt $310,000, new debt $260,000 → **debt relief of $50,000 = mortgage boot.**\n4. Realized gain: ($920,000 − $58,000) − $430,000 = **$432,000**\n5. **Recognized (taxable) gain = lesser of boot or realized gain = $50,000.** The remaining $382,000 is deferred.\n\n**How she could have deferred it all:** buy a replacement of **equal or greater value with equal or greater debt** — trading down in either price or debt creates boot.\n\n**Deadlines:** 45 days to identify in writing, 180 days to close, both from the relinquished closing, running concurrently, and the **qualified intermediary must hold every dollar.** If she had taken the $552,000 into her own account for even a day, the entire exchange would collapse and all $432,000 would be taxable.\n\n## 9. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Ad valorem** | \"According to value\" — the basis of property taxation. |\n| **Proposition 13** | The 1978 measure capping the basic rate at 1%, limiting annual assessment increases to 2%, and triggering reassessment on change of ownership. |\n| **Base year value** | The assessed value established at acquisition, growing no more than 2% annually until a change of ownership. |\n| **Lien date** | January 1, when property taxes attach as a lien for the following fiscal year. |\n| **No Darn Fooling Around** | Memory aid for the tax calendar: November 1, December 10, February 1, April 10. |\n| **Supplemental assessment** | A separate tax bill for the difference between old and new assessed values after a change of ownership or new construction. |\n| **Tax-defaulted property** | Property remaining delinquent, subject to a redemption period before a county tax sale. |\n| **Proposition 19** | The measure narrowing the parent–child reassessment exclusion and expanding base year value portability for those 55+, severely disabled, or disaster victims. |\n| **Homeowners' exemption** | A modest assessed value reduction for an owner-occupied residence, requiring a filing with the assessor. |\n| **Mello-Roos (CFD)** | A special assessment funding infrastructure in newer developments; must be disclosed and can add hundreds monthly. |\n| **Documentary transfer tax** | A tax on transfers, commonly $0.55 per $500 at the county level, computed net of an assumed loan, with possible city taxes added. |\n| **Basis / adjusted basis** | Investment in property for tax purposes: purchase price plus capital improvements minus depreciation taken. |\n| **Capital improvement vs. repair** | An improvement adds to basis; a repair does not. |\n| **Amount realized** | Sale price less selling costs. |\n| **Principal residence exclusion (§121)** | Exclusion of up to $250,000 of gain (single) or $500,000 (married filing jointly), requiring ownership and use for 2 of the last 5 years. |\n| **Depreciation (cost recovery)** | Deduction of improvement cost over a recovery period; land is never depreciated, and depreciation reduces basis. |\n| **1031 exchange** | A deferral of gain by exchanging like-kind investment or business real property; real property only since 2018. |\n| **Qualified intermediary** | The party who must hold exchange proceeds; the exchange fails if the taxpayer receives the funds. |\n| **45-day / 180-day rules** | Deadlines to identify replacement property in writing and to complete acquisition, running concurrently from the relinquished closing. |\n| **Boot** | Non-like-kind value received in an exchange — cash or debt relief — taxable to the extent of gain. |\n| **FIRPTA** | Federal withholding on sales by foreign persons. |\n| **California withholding** | State withholding on certain sales, including by out-of-state sellers, with principal residence and threshold exemptions. |\n\n## 10. Exam Tips\n\n- **Prop 13: 1% base rate, 2% annual cap, reassessment on change of ownership.** All three, every time.\n- **Never quote the seller's tax bill to a buyer.** Compute from the purchase price, and warn about the supplemental bill.\n- **\"No Darn Fooling Around\"** — November 1, December 10, February 1, April 10. Lien date is **January 1** and the fiscal year is **July 1 – June 30**.\n- **Transfer tax is computed net of an assumed loan**, at $0.55 per $500 at the county level, with city taxes possibly added.\n- **§121: $250,000 single / $500,000 married, 2 of the last 5 years.** Both numbers and the time test get tested.\n- **Land is never depreciated** — true in both appraisal (Unit 13) and taxation.\n- **1031: 45 days to identify, 180 days to close, concurrent, qualified intermediary mandatory.** Touching the money kills the exchange.\n- **Boot = cash or debt relief**, taxable to the extent of gain. Trading down in price *or* debt creates boot.\n- **Property tax liens are first in priority** regardless of recording date.\n- **You explain that tax provisions exist; a CPA applies them.** On any exam question asking what the agent should advise, the answer involves referral.\n\n## 11. Unit Quiz\n\nThe 20-question quiz for this unit lives in `/content/question-bank/principles/unit-16.json` with full per-option rationales.",
+  "word_count": 3254,
+  "questions": [
+    {
+      "id": "PRIN-16-001",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 16,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 1,
+      "stem": "Under Proposition 13, the basic property tax rate is limited to:",
+      "options": [
+        "1% of assessed value",
+        "2% of assessed value",
+        "1% of market value each year",
+        "2% of the purchase price"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Proposition 13 caps the basic rate at 1% of assessed value; bonded indebtedness and direct assessments are added on top.",
+        "2% is the annual cap on assessment increases, not the tax rate.",
+        "Assessed value, not current market value, is the tax base — that is the entire point of Prop 13.",
+        "The purchase price sets the base year value; it is not itself the rate."
+      ],
+      "terms": [
+        "Proposition 13",
+        "ad valorem"
+      ]
+    },
+    {
+      "id": "PRIN-16-002",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 16,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Under Proposition 13, a property's assessed value is generally reset to current market value upon:",
+      "options": [
+        "Refinancing the existing loan",
+        "A change of ownership or completion of new construction",
+        "Every fifth anniversary of purchase",
+        "Any increase in neighborhood values"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Refinancing involves no change of ownership and does not trigger reassessment.",
+        "Correct. Reassessment to market value occurs on a change of ownership or new construction; otherwise increases are capped at 2% per year.",
+        "There is no periodic reassessment cycle under Prop 13.",
+        "Rising neighborhood values do not reassess a property absent a triggering event."
+      ],
+      "terms": [
+        "Proposition 13",
+        "base year value"
+      ]
+    },
+    {
+      "id": "PRIN-16-003",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 16,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A buyer purchases for $1,180,000. The sellers, who bought in 1996, currently pay $4,900 annually. The buyer's first full-year tax bill will be approximately:",
+      "options": [
+        "$4,900, because the assessment carries over",
+        "$13,900 at a typical effective rate near 1.18%",
+        "$2,360, at 0.2% of the price",
+        "$23,600, at 2% of the price"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The sellers' assessment does not carry over; the base year value resets to the purchase price on change of ownership.",
+        "Correct. The base year value resets to $1,180,000; at roughly 1.18% including bonds and direct assessments, the bill is about $13,900 — nearly $9,000 more than the sellers paid.",
+        "0.2% is far below even the base 1% rate.",
+        "2% is the annual assessment increase cap, not the tax rate."
+      ],
+      "terms": [
+        "Proposition 13",
+        "base year value"
+      ]
+    },
+    {
+      "id": "PRIN-16-004",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 16,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "The California property tax lien date is:",
+      "options": [
+        "July 1",
+        "January 1",
+        "November 1",
+        "December 10"
+      ],
+      "answer": 1,
+      "rationales": [
+        "July 1 begins the fiscal year, but the lien attaches earlier.",
+        "Correct. Taxes attach as a lien on January 1 preceding the fiscal year that begins July 1.",
+        "November 1 is when the first installment is due.",
+        "December 10 is the first installment delinquency date."
+      ],
+      "terms": [
+        "lien date"
+      ]
+    },
+    {
+      "id": "PRIN-16-005",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 16,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "The second installment of California property taxes becomes delinquent on:",
+      "options": [
+        "February 1",
+        "April 10",
+        "December 10",
+        "June 30"
+      ],
+      "answer": 1,
+      "rationales": [
+        "February 1 is the due date for the second installment, not the delinquency date.",
+        "Correct. 'No Darn Fooling Around': November 1 due, December 10 delinquent, February 1 due, April 10 delinquent.",
+        "December 10 is the first installment's delinquency date.",
+        "June 30 ends the fiscal year."
+      ],
+      "terms": [
+        "No Darn Fooling Around"
+      ]
+    },
+    {
+      "id": "PRIN-16-006",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 16,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "After closing, a buyer receives an unexpected separate tax bill covering the difference between the old and new assessed values. This is a:",
+      "options": [
+        "Supplemental assessment",
+        "Special assessment",
+        "Documentary transfer tax",
+        "Escape assessment penalty"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. A supplemental assessment bills the difference between old and new assessed values prorated for the remainder of the fiscal year — it arrives separately, often months later, and is not covered by the impound account.",
+        "A special assessment funds local improvements such as Mello-Roos districts.",
+        "The documentary transfer tax is a one-time charge at closing on the transfer itself.",
+        "This is not a penalty; it is the ordinary consequence of reassessment."
+      ],
+      "terms": [
+        "supplemental assessment"
+      ]
+    },
+    {
+      "id": "PRIN-16-007",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 16,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which transfer does NOT trigger reassessment for property tax purposes?",
+      "options": [
+        "A sale to an unrelated buyer",
+        "A transfer between spouses",
+        "A sale of a rental property to an investor",
+        "A sale of a second home to an adult child who will rent it out"
+      ],
+      "answer": 1,
+      "rationales": [
+        "An arm's-length sale is the classic change of ownership triggering reassessment.",
+        "Correct. Interspousal transfers, including on divorce or death, are excluded from reassessment.",
+        "A sale to an investor is a change of ownership.",
+        "Proposition 19 narrowed the parent–child exclusion to a principal residence the transferee also occupies as a principal residence, subject to a value cap — a rental would not qualify."
+      ],
+      "terms": [
+        "Proposition 19",
+        "base year value"
+      ]
+    },
+    {
+      "id": "PRIN-16-008",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 16,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A 68-year-old homeowner wants to sell and buy a smaller home elsewhere in California without losing her low assessed value. Under Proposition 19 she may:",
+      "options": [
+        "Transfer her base year value to a replacement principal residence, subject to limits",
+        "Keep her old assessment permanently on any new property",
+        "Do nothing; base year values are never transferable",
+        "Transfer her assessment only within the same county"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Proposition 19 permits homeowners 55 or older, severely disabled persons, and disaster victims to transfer a base year value to a replacement principal residence anywhere in California, with adjustments if the replacement costs more.",
+        "The benefit applies to a replacement principal residence with limits, not to any property permanently.",
+        "Base year value portability exists and was expanded by Proposition 19.",
+        "Proposition 19 expanded portability statewide, removing the former county restrictions."
+      ],
+      "terms": [
+        "Proposition 19",
+        "base year value"
+      ]
+    },
+    {
+      "id": "PRIN-16-009",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 16,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A recurring assessment funding infrastructure in a newer Inland Empire subdivision, which must be disclosed to buyers, is a:",
+      "options": [
+        "Homeowners' exemption",
+        "Mello-Roos community facilities district assessment",
+        "Supplemental assessment",
+        "Documentary transfer tax"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The homeowners' exemption reduces assessed value rather than adding a charge.",
+        "Correct. Mello-Roos CFD assessments fund infrastructure in newer developments, can add hundreds of dollars monthly, and carry a specific disclosure requirement.",
+        "A supplemental assessment is a one-time reassessment bill, not a recurring district charge.",
+        "The transfer tax applies once at transfer."
+      ],
+      "terms": [
+        "Mello-Roos (CFD)",
+        "special assessment"
+      ]
+    },
+    {
+      "id": "PRIN-16-010",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 16,
+      "blueprint_area": "transfer",
+      "difficulty": 3,
+      "stem": "A property sells for $918,000 and the buyer assumes an existing $300,000 loan. At $0.55 per $500, the county documentary transfer tax is:",
+      "options": [
+        "$1,009.80",
+        "$679.80",
+        "$330.00",
+        "$505.00"
+      ],
+      "answer": 1,
+      "rationales": [
+        "$1,009.80 taxes the full price, correct only if the buyer obtained new financing instead of assuming the loan.",
+        "Correct. Tax applies to consideration net of the assumed loan: (918,000 − 300,000) ÷ 500 = 1,236 × $0.55 = $679.80.",
+        "$330.00 taxes only the assumed loan amount.",
+        "$505.00 corresponds to no step in the calculation."
+      ],
+      "terms": [
+        "documentary transfer tax"
+      ]
+    },
+    {
+      "id": "PRIN-16-011",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 16,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which expenditure ADDS to a homeowner's adjusted basis?",
+      "options": [
+        "Repainting the interior",
+        "Repairing a leaking faucet",
+        "Adding a bedroom",
+        "Annual pest control service"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Repainting is a repair that maintains rather than improves the property.",
+        "Fixing a leak is a repair, not a capital improvement.",
+        "Correct. A capital improvement such as an addition increases adjusted basis, which reduces taxable gain on sale — the reason to keep receipts from day one.",
+        "Routine service is a maintenance expense."
+      ],
+      "terms": [
+        "basis / adjusted basis",
+        "capital improvement vs. repair"
+      ]
+    },
+    {
+      "id": "PRIN-16-012",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 16,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "To claim the principal residence gain exclusion, a taxpayer must generally have owned and used the home as a principal residence for at least:",
+      "options": [
+        "1 of the last 3 years",
+        "2 of the last 5 years",
+        "3 of the last 7 years",
+        "5 of the last 10 years"
+      ],
+      "answer": 1,
+      "rationales": [
+        "This is not the statutory test.",
+        "Correct. The exclusion requires ownership and use as a principal residence for at least 2 of the 5 years preceding the sale, and is generally available once every two years.",
+        "This is not the statutory test.",
+        "This is not the statutory test."
+      ],
+      "terms": [
+        "principal residence exclusion (§121)"
+      ]
+    },
+    {
+      "id": "PRIN-16-013",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 16,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A married couple bought for $385,000, added $90,000 in capital improvements, and sold for $1,090,000 with $70,850 in selling costs. Their taxable gain after the §121 exclusion is:",
+      "options": [
+        "$0",
+        "$44,150",
+        "$544,150",
+        "$134,150"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The gain exceeds the $500,000 exclusion, so some remains taxable.",
+        "Correct. Adjusted basis = 475,000; amount realized = 1,090,000 − 70,850 = 1,019,150; gain = 544,150; less the $500,000 married exclusion = $44,150 taxable.",
+        "$544,150 is the gain before applying the exclusion.",
+        "$134,150 would be the taxable gain if the $90,000 of improvements had not been added to basis — illustrating why records matter."
+      ],
+      "terms": [
+        "principal residence exclusion (§121)",
+        "amount realized"
+      ]
+    },
+    {
+      "id": "PRIN-16-014",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 16,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "In a 1031 exchange, the taxpayer must identify replacement property in writing within ______ and complete the acquisition within ______ of the relinquished property's closing.",
+      "options": [
+        "30 days; 90 days",
+        "45 days; 180 days",
+        "60 days; 180 days",
+        "45 days; 365 days"
+      ],
+      "answer": 1,
+      "rationales": [
+        "These are not the statutory periods.",
+        "Correct. 45 days to identify in writing and 180 days to close, both running concurrently from the relinquished closing and generally not extendable.",
+        "The identification period is 45 days, not 60.",
+        "The exchange period is 180 days, not a full year."
+      ],
+      "terms": [
+        "1031 exchange",
+        "45-day / 180-day rules"
+      ]
+    },
+    {
+      "id": "PRIN-16-015",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 16,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An investor closes her relinquished property and has the $552,000 in net proceeds wired to her personal account for two days before buying the replacement. The exchange:",
+      "options": [
+        "Remains valid because she reinvested the full amount",
+        "Fails, because a qualified intermediary must hold the proceeds",
+        "Remains valid if she documents the transfer",
+        "Remains valid because the 45-day rule was met"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Reinvesting the money does not cure constructive receipt of the proceeds.",
+        "Correct. A qualified intermediary must hold the funds; if the taxpayer receives the proceeds, the exchange fails entirely and the full realized gain becomes taxable.",
+        "Documentation cannot undo actual receipt of the funds.",
+        "Meeting the deadlines is necessary but not sufficient — the intermediary requirement is independent."
+      ],
+      "terms": [
+        "qualified intermediary",
+        "1031 exchange"
+      ]
+    },
+    {
+      "id": "PRIN-16-016",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 16,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "In an exchange, the relinquished property carried $310,000 of debt and the replacement carries $260,000. Realized gain is $432,000 and no cash was received. The recognized taxable gain is:",
+      "options": [
+        "$0",
+        "$50,000",
+        "$432,000",
+        "$382,000"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Debt relief creates boot even when no cash changes hands.",
+        "Correct. Debt relief of $50,000 is mortgage boot, and recognized gain equals the lesser of boot or realized gain — so $50,000 is taxable and $382,000 is deferred.",
+        "$432,000 would be recognized only if the exchange failed entirely.",
+        "$382,000 is the deferred portion, not the taxable portion."
+      ],
+      "terms": [
+        "boot",
+        "1031 exchange"
+      ]
+    },
+    {
+      "id": "PRIN-16-017",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 16,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which property qualifies for a 1031 exchange?",
+      "options": [
+        "The taxpayer's principal residence",
+        "A rental fourplex held for investment",
+        "A vacation home used exclusively for personal enjoyment",
+        "Shares of a real estate investment trust"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A personal residence does not qualify; the §121 exclusion addresses it instead.",
+        "Correct. Section 1031 applies to real property held for investment or productive use in a trade or business.",
+        "Purely personal-use property does not qualify.",
+        "Securities are excluded, and since 2018 §1031 applies to real property only."
+      ],
+      "terms": [
+        "1031 exchange"
+      ]
+    },
+    {
+      "id": "PRIN-16-018",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 16,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "For depreciation purposes on an investment property, the investor may depreciate:",
+      "options": [
+        "The land only",
+        "The improvements only",
+        "Both land and improvements",
+        "Neither, until the property is sold"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Land is never depreciated, in taxation or appraisal.",
+        "Correct. Only improvements are depreciated over the applicable recovery period; depreciation reduces basis and therefore increases gain on sale.",
+        "Including land would overstate the deduction; land is excluded.",
+        "Depreciation is taken annually during ownership, not deferred to sale."
+      ],
+      "terms": [
+        "depreciation (cost recovery)"
+      ]
+    },
+    {
+      "id": "PRIN-16-019",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 16,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "FIRPTA requires withholding at closing when the seller is:",
+      "options": [
+        "A first-time seller",
+        "A foreign person",
+        "Any seller with a capital gain",
+        "An out-of-state California resident"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Selling for the first time has no withholding consequence.",
+        "Correct. FIRPTA is the federal withholding regime applying to dispositions by foreign persons, with exemptions for certain lower-priced residences the buyer will occupy.",
+        "Realizing a gain does not by itself trigger federal withholding.",
+        "Out-of-state sellers may trigger California withholding, which is a separate state requirement."
+      ],
+      "terms": [
+        "FIRPTA",
+        "California withholding"
+      ]
+    },
+    {
+      "id": "PRIN-16-020",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 16,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A client asks the agent to calculate her capital gains tax liability on a pending sale. The agent should:",
+      "options": [
+        "Perform the calculation using the §121 rules",
+        "Explain that the exclusion exists and refer her to a CPA",
+        "Refuse to discuss taxes in any form",
+        "Provide the calculation with a written disclaimer"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Computing a client's tax liability exceeds a licensee's authority and risks unlicensed practice.",
+        "Correct. A licensee may explain that provisions such as the §121 exclusion exist and should be discussed with a CPA, but must not calculate liability or advise on tax strategy.",
+        "Refusing to mention the subject is unhelpful; flagging the issue and referring is the professional standard.",
+        "A disclaimer does not convert prohibited tax advice into permitted activity."
+      ],
+      "terms": [
+        "principal residence exclusion (§121)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,577 @@
+{
+  "id": "principles-13",
+  "course_slug": "principles",
+  "unit_number": 13,
+  "title": "Appraisal & Valuation",
+  "estimated_hours": "2.5",
+  "blueprint_areas": [
+    "valuation"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Define** market value and **distinguish** it from price, cost, and assessed value.\n2. **List** the four elements of value (DUST) and explain why all four must be present.\n3. **Apply** the major principles of value, including substitution, highest and best use, conformity, and contribution.\n4. **Perform** a sales comparison analysis, adjusting comparables in the correct direction.\n5. **Calculate** value using the cost approach, including all three forms of depreciation and the age-life method.\n6. **Calculate** value using the income approach, including net operating income, capitalization rate, and gross rent multiplier.\n7. **Explain** reconciliation and why appraisers weight approaches differently by property type.\n8. **Distinguish** a licensee's CMA from a licensed appraiser's appraisal and identify the line you must not cross.\n\n---\n\n## 1. Value, Price, and Cost\n\nThese three words get used interchangeably in conversation and mean very different things in appraisal.\n\n**Market value** is the most probable price a property should bring in a competitive and open market under conditions requisite to a fair sale, where buyer and seller are each acting prudently and knowledgeably, and the price is not affected by undue stimulus. Unpack that definition, because every clause is doing work:\n\n- **Most probable price** — not the highest possible, not the average.\n- **Open and competitive market** — the property was properly exposed.\n- **Prudent and knowledgeable parties** — neither is ignorant or desperate.\n- **No undue stimulus** — no duress, no unusual financing concessions distorting the number.\n\n**Price** is what a property actually sold for. A price becomes evidence of value only when the sale met those conditions. A distress sale between relatives at half market is a real price and terrible evidence of value.\n\n**Cost** is what it took to create the improvements. Cost does not equal value, and the gap between them is where owners get their feelings hurt. A homeowner who spends $180,000 on a pool, a home theater, and elaborate landscaping in a neighborhood of $700,000 homes has not created $180,000 of value. This is the **principle of contribution**: a component is worth what it *adds to the value of the whole*, not what it cost.\n\n**Assessed value** is the county's figure for property tax purposes, governed by Proposition 13 (Unit 16). Because of Prop 13's limits, assessed value can be wildly below market value for a long-held property, and it is not evidence of market value.\n\n## 2. The Four Elements of Value — DUST\n\nFor a thing to have value in the economic sense, four elements must be present simultaneously:\n\n- **D — Demand.** Someone must want it, backed by purchasing power. Desire without money is not demand.\n- **U — Utility.** It must satisfy a need or use. Land that cannot be built on, accessed, or used has impaired utility.\n- **S — Scarcity.** Supply must be limited relative to demand. Air is useful and in demand but not scarce.\n- **T — Transferability.** Title must be capable of being transferred. A parcel with a clouded title or an unresolved lis pendens has impaired transferability, which is why the encumbrances in Unit 5 affect value directly.\n\nRemove any one and value collapses. This is a favorite exam question because students memorize the acronym without grasping that **all four are required together**.\n\n## 3. Principles of Value\n\n**Substitution.** A buyer will pay no more for a property than the cost of acquiring an equally desirable substitute. This is the single most important principle in appraisal — it underlies all three approaches, and the sales comparison approach is essentially substitution expressed as arithmetic.\n\n**Highest and best use.** The reasonably probable use that is **legally permissible, physically possible, financially feasible, and maximally productive**. All four tests, in that order. A corner lot in Alhambra zoned residential might be more profitable as a retail pad, but if rezoning is not reasonably probable, retail is not the highest and best use — it fails the legal test. Land is always valued at its highest and best use, which is why an aging bungalow on a commercially zoned lot may sell for land value with the house treated as having no contributory value.\n\n**Conformity.** Value is maximized when a property reasonably conforms to those around it. This produces two companion principles:\n\n- **Progression** — a modest home gains value from surrounding higher-value homes.\n- **Regression** — an over-improved home loses value from surrounding lower-value homes.\n\nTogether these explain why \"the worst house on the best street\" is sound advice and why the biggest house in a modest tract is a difficult resale.\n\n**Contribution.** As above: a feature is worth what it adds to the whole. Kitchens and bathrooms typically contribute well; swimming pools in most Inland Empire tracts contribute far less than they cost.\n\n**Anticipation.** Value reflects expected *future* benefits. This is the foundation of the income approach — an investor buys a stream of future income, not bricks.\n\n**Change.** Nothing is static. Neighborhoods move through growth, stability, decline, and revitalization, and an appraisal is always as of a specific **effective date**.\n\n**Supply and demand.** Prices rise when demand exceeds supply. In coastal California, structurally constrained supply is the dominant long-run price driver.\n\n**Competition.** Excess profit invites competition, which erodes the profit — visible whenever a hot rental submarket draws a wave of new construction.\n\n**Balance.** Value is maximized when land, labor, capital, and coordination are in proper proportion. Too much building on too little land produces an over-improvement.\n\n**Plottage / assemblage.** **Assemblage** is combining adjacent parcels under one owner; **plottage** is the increment of value that combination creates. Two adjoining $500,000 lots that are worth $1.3 million together as a development site show $300,000 of plottage value.\n\n## 4. The Sales Comparison Approach\n\nThe primary approach for single-family homes. You find recent sales of comparable properties and adjust them to the subject.\n\n**The one rule that decides most exam questions: you adjust the COMPARABLE, never the subject.**\n\n- If the **comparable is superior** in some respect, **subtract** from the comparable.\n- If the **comparable is inferior**, **add** to the comparable.\n\nThe mnemonic that has saved generations of test takers: **CBS — Comparable Better, Subtract; CIA — Comparable Inferior, Add.**\n\n**Elements of comparison,** in the order appraisers apply them: property rights conveyed, financing terms, conditions of sale (was it arm's length?), expenditures made immediately after purchase, market conditions (time — this is where you adjust for a rising or falling market), then location, and finally physical characteristics.\n\n**Selecting comparables:** recent sales, similar size and features, same neighborhood or a genuinely comparable one, arm's-length transactions. The fewer and smaller the adjustments, the more reliable the comparable — an appraiser weights a comp requiring $8,000 of adjustments far above one requiring $95,000.\n\n## 5. The Cost Approach\n\n**Value = land value + replacement cost of improvements − accrued depreciation.**\n\nNote that **land is valued separately** (by sales comparison) and is **never depreciated**.\n\n**Reproduction cost** is the cost to build an exact replica, including outdated features. **Replacement cost** is the cost to build a structure of equal utility using current materials and methods. Replacement cost is used far more often — nobody wants an exact replica of 1962 wiring.\n\nThe cost approach is most reliable for **new construction** and **special-purpose properties** (churches, schools, fire stations) where comparable sales barely exist and there is no income stream to capitalize. It is least reliable for older homes, where estimating accrued depreciation becomes guesswork.\n\n### The three forms of depreciation\n\n**Physical deterioration** — wear and tear. Worn carpet, a failing roof, deferred maintenance. Usually **curable** if the cost to fix is less than the value added.\n\n**Functional obsolescence** — defects in the design or utility of the structure *itself*. A five-bedroom house with one bathroom, a bedroom you can only reach through another bedroom, a 1970s floor plan chopped into small rooms. Can be curable or incurable.\n\n**External (economic) obsolescence** — loss in value caused by factors **outside the property lines**: a new freeway ramp, a shuttered anchor employer, an airport flight path. External obsolescence is **always incurable**, because the owner cannot fix what is off the property.\n\nThat \"always incurable\" fact is heavily tested, and the logic is worth stating for students: you can replace a roof and you can remodel a bad floor plan, but you cannot move the freeway.\n\n### Age-life (straight-line) depreciation\n\nThe simplest method: divide **effective age** by **total economic life** to get the depreciation percentage.\n\n**Effective age** is the apparent age based on condition and updating — which can be much less than actual age. A meticulously maintained and updated 1955 house may have an effective age of 20 years. **Economic life** is the period over which improvements contribute to value.\n\n## 6. The Income Approach\n\nUsed for income-producing property. It rests on **anticipation**: value is the present worth of future benefits.\n\n**Building net operating income (NOI):**\n\n1. **Potential gross income (PGI)** — all rent if fully occupied, plus other income.\n2. Less **vacancy and collection loss** = **Effective gross income (EGI)**.\n3. Less **operating expenses** = **Net operating income (NOI)**.\n\n**Critical:** operating expenses **exclude** debt service (mortgage payments), depreciation, and income taxes. NOI measures what the *property* produces, independent of how any particular owner financed it. Students include the mortgage payment constantly, and it is always wrong.\n\n**The IRV formula:**\n\n> **I = R × V**  ·  **R = I ÷ V**  ·  **V = I ÷ R**\n>\n> (Income = Rate × Value)\n\nValue = NOI ÷ capitalization rate. Memorize it as a triangle with I on top, R and V below.\n\n**The inverse relationship matters:** for the same income, a **higher cap rate produces a lower value**. Higher cap rates signal higher perceived risk or weaker growth expectations. When an investor says \"cap rates expanded,\" values fell.\n\n**Gross rent multiplier (GRM)** is a shortcut, not a substitute for the income approach:\n\n> **GRM = Sale price ÷ Gross rent**, then **Value = Gross rent × GRM**\n\nGRM uses **gross** rent and ignores expenses entirely, which is why it is a screening tool. By convention GRM often uses monthly rent for residential and the **gross income multiplier (GIM)** uses annual income for commercial — read the question carefully to see which the numbers imply.\n\n## 7. Reconciliation, and the CMA Line\n\n**Reconciliation** is the appraiser's weighing of the value indications from the three approaches into a single final opinion. It is **judgment, not arithmetic** — appraisers do not average the three numbers. Averaging is a wrong answer on the exam.\n\nWeighting by property type:\n\n| Property type | Primary approach |\n|---|---|\n| Single-family residence | Sales comparison |\n| New construction, special-purpose | Cost |\n| Apartments, commercial, investment | Income |\n| Vacant land | Sales comparison |\n\n**The appraisal process** in order: define the problem → determine scope of work → collect and analyze data → estimate land value → apply the three approaches → reconcile → report the opinion, as of a stated **effective date**.\n\n### CMA vs. appraisal — know where the line is\n\nA **competitive (or comparative) market analysis** is a licensee's pricing analysis using comparable sales. It is a normal and expected part of your job — you prepare CMAs for listing presentations and for buyers deciding what to offer.\n\nAn **appraisal** is an opinion of value prepared by a **licensed or certified appraiser** under USPAP (Uniform Standards of Professional Appraisal Practice), and in California appraisers are regulated by the Bureau of Real Estate Appraisers. <!-- VERIFY: current agency name and licensing tiers -->\n\nThe rules for you:\n\n- You **may** prepare a CMA and give a pricing opinion for listing or purchase purposes.\n- You **may not** call it an appraisal, present it as one, or perform an appraisal for a lender in a federally related transaction without an appraiser license.\n- You **may not** be paid a fee contingent on reaching a particular value — that is true for appraisers and it is the right instinct for you as well.\n- Never pressure an appraiser toward a number. Providing factual data and relevant comps is legitimate; asking for a value is not, and after 2008 the rules around appraiser independence are enforced seriously. <!-- VERIFY: current appraiser independence requirements -->\n\n## 8. Worked Examples\n\n### Example 1 — Sales comparison adjustments (Glendora)\n\nYour subject is a 3-bedroom, 2-bath Glendora home with a 2-car garage and no pool. A comparable sold for **$812,000** and has:\n\n| Feature | Comparable vs. subject | Adjustment value |\n|---|---|---|\n| 4th bedroom (comp has it) | Comp superior | $25,000 |\n| Pool (comp has it) | Comp superior | $18,000 |\n| 1-car garage (comp) | Comp inferior | $12,000 |\n| Sold 8 months ago, market up 3% | Comp inferior (time) | $24,000 |\n\n**Walkthrough — adjust the comparable toward the subject.**\n1. Start: **$812,000**\n2. Comp has an extra bedroom → **subtract** $25,000 → $787,000\n3. Comp has a pool → **subtract** $18,000 → $769,000\n4. Comp has a smaller garage → **add** $12,000 → $781,000\n5. Comp sold before the market rose → **add** $24,000 → **$805,000**\n\n**Indicated value of the subject: $805,000.**\n\nRun the CBS/CIA check on every line. The most common error is adjusting in the direction that feels intuitive (\"the subject doesn't have a pool, so subtract from the subject\") — but you never touch the subject. Only the comparable moves.\n\n### Example 2 — Cost approach with age-life depreciation (Ontario)\n\nAn Ontario home has a **replacement cost** of **$465,000**. It is **18 years old** with an estimated **total economic life of 60 years**, and no functional or external obsolescence. The **land** is worth **$290,000**.\n\n**Walkthrough.**\n1. Depreciation rate: 18 ÷ 60 = 0.30 = **30%**\n2. Accrued depreciation: $465,000 × 0.30 = **$139,500**\n3. Depreciated improvement value: $465,000 − $139,500 = **$325,500**\n4. Add land (never depreciated): $325,500 + $290,000 = **$615,500**\n\n**Indicated value: $615,500.**\n\nNow a variation: if the home has been fully renovated and its **effective age is 10 years** rather than 18:\n- Depreciation: 10 ÷ 60 = 16.67%; $465,000 × 0.1667 = $77,500\n- Value: ($465,000 − $77,500) + $290,000 = **$677,500**\n\nThe $62,000 difference is why effective age, not actual age, drives the calculation.\n\n### Example 3 — Income approach and cap rate (Covina fourplex)\n\nA Covina fourplex rents for **$2,450 per unit per month**. Vacancy and collection loss runs **5%**, and annual operating expenses are **$38,600**. Comparable sales indicate a **6.25% cap rate**.\n\n**Walkthrough.**\n1. Potential gross income: $2,450 × 4 units × 12 months = **$117,600**\n2. Vacancy and collection loss: $117,600 × 0.05 = $5,880\n3. Effective gross income: $117,600 − $5,880 = **$111,720**\n4. Less operating expenses: $111,720 − $38,600 = **NOI $73,120**\n5. Value: $73,120 ÷ 0.0625 = **$1,169,920**\n\n**Now the reverse question**, which the exam loves. If that property is listed at **$1,295,000**, what cap rate does the buyer get?\n- R = I ÷ V = $73,120 ÷ $1,295,000 = 0.05646 = **5.65%**\n\nLower cap rate at a higher price — the inverse relationship in action. And note what never entered any step: **the mortgage payment.** NOI is calculated before debt service.\n\n### Example 4 — Gross rent multiplier (Fontana)\n\nThree recent Fontana duplex sales:\n\n| Sale | Price | Monthly gross rent | GRM |\n|---|---|---|---|\n| A | $702,000 | $3,900 | 180.0 |\n| B | $745,000 | $4,100 | 181.7 |\n| C | $688,000 | $3,800 | 181.1 |\n\n**Walkthrough.**\n1. GRM for each: price ÷ monthly gross rent (A: 702,000 ÷ 3,900 = 180.0, and so on)\n2. The three cluster tightly around **181**.\n3. Your subject duplex rents for **$4,000/month**. Indicated value: $4,000 × 181 = **$724,000**\n\nNote the limitation and teach it to clients: GRM uses **gross** rent and ignores expenses. If your subject carries a much higher tax bill or an HOA the comps lack, the GRM will overstate its value. GRM screens; the income approach decides.\n\n### Example 5 — The over-improvement conversation (San Gabriel Valley)\n\nA seller has spent **$210,000** over four years: a $95,000 kitchen, a $60,000 pool, $30,000 in landscaping, and a $25,000 home theater. Comparable sales in the tract top out around **$840,000**. Unimproved, her home would sell around **$760,000**.\n\n**Analysis.** Run **contribution**, not cost. The kitchen likely contributes meaningfully — kitchens usually do. The pool contributes far less than the $60,000 spent in most inland tracts. The theater is highly specific to her taste and may contribute close to nothing. **Regression** compounds the problem: surrounding lower-value homes drag on her value regardless of what she spent.\n\nA realistic indicated value might land near the **$840,000** ceiling — roughly **$80,000 more** than unimproved, against **$210,000 spent**. That is a $130,000 gap, and she deserves to hear it before she lists, not after 45 days on market.\n\nHow you deliver it matters: \"Here are the comparable sales, here's what the market has paid for similar features, and here's the range they support.\" You are presenting market evidence, not judging her choices — she enjoyed that kitchen for four years, and that has real value that simply doesn't appear on a settlement statement.\n\n## 9. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Market value** | The most probable price in an open, competitive market with prudent, knowledgeable parties and no undue stimulus. |\n| **Price / cost / value** | What a property sold for / what it took to create the improvements / the worth in exchange — three distinct concepts. |\n| **DUST** | The four elements of value: Demand, Utility, Scarcity, Transferability — all four required. |\n| **Principle of substitution** | A buyer will pay no more than the cost of an equally desirable substitute; underlies all three approaches. |\n| **Highest and best use** | The use that is legally permissible, physically possible, financially feasible, and maximally productive. |\n| **Conformity** | Value is maximized when a property reasonably conforms to surrounding properties. |\n| **Progression / regression** | A lower-value property gains from higher-value neighbors / a higher-value property loses from lower-value neighbors. |\n| **Contribution** | A component is worth what it adds to the value of the whole, not what it cost. |\n| **Anticipation** | Value reflects expected future benefits; the foundation of the income approach. |\n| **Assemblage / plottage** | Combining adjacent parcels under one ownership / the increment of value that combination creates. |\n| **Sales comparison approach** | Valuation by adjusting recent comparable sales to the subject; primary for single-family homes. |\n| **CBS / CIA** | Comparable Better, Subtract; Comparable Inferior, Add — adjust the comparable, never the subject. |\n| **Cost approach** | Land value plus replacement cost of improvements minus accrued depreciation; best for new and special-purpose property. |\n| **Reproduction vs. replacement cost** | Cost to build an exact replica / cost to build equivalent utility with current materials and methods. |\n| **Physical deterioration** | Loss in value from wear, tear, and deferred maintenance; usually curable. |\n| **Functional obsolescence** | Loss in value from defects in the structure's own design or utility; may be curable or incurable. |\n| **External (economic) obsolescence** | Loss in value from factors outside the property lines; always incurable. |\n| **Effective age** | Apparent age based on condition and updating, which may differ substantially from actual age. |\n| **Economic life** | The period over which improvements contribute to value. |\n| **Potential / effective gross income** | All income at full occupancy / income after vacancy and collection loss. |\n| **Net operating income (NOI)** | Effective gross income less operating expenses; excludes debt service, depreciation, and income taxes. |\n| **Capitalization rate** | The rate converting income to value; V = I ÷ R, with higher cap rates producing lower values. |\n| **Gross rent multiplier (GRM)** | Price divided by gross rent; a screening shortcut that ignores operating expenses. |\n| **Reconciliation** | The appraiser's weighing of the three approaches into a final opinion of value; never a simple average. |\n| **Effective date** | The specific date as of which an opinion of value applies. |\n| **CMA** | A licensee's comparative market analysis for pricing purposes; not an appraisal and never to be called one. |\n| **USPAP** | The Uniform Standards of Professional Appraisal Practice governing licensed appraisers. |\n\n## 10. Exam Tips\n\n- **Adjust the COMPARABLE, never the subject.** CBS/CIA. If you remember one thing from this unit, remember this — it decides more valuation questions than any other rule.\n- **NOI excludes debt service.** Any income-approach problem that tempts you to subtract the mortgage payment is testing exactly this.\n- **V = I ÷ R.** Practice all three arrangements, because the exam asks for value, for rate, and for income.\n- **Higher cap rate = lower value** for the same income. Expect a conceptual question on the inverse relationship.\n- **Land is never depreciated**, and it is valued separately by sales comparison.\n- **External obsolescence is always incurable.** Physical is usually curable; functional may go either way.\n- **Effective age, not actual age**, drives age-life depreciation. Watch for a renovated older home.\n- **Reconciliation is judgment, not averaging.** \"Average the three approaches\" is always wrong.\n- **Match approach to property type:** homes → sales comparison; new/special-purpose → cost; income property → income.\n- **GRM uses gross rent and ignores expenses** — that limitation is itself a test item.\n- **Cost ≠ value.** Over-improvement questions are testing the principle of contribution plus regression.\n\n## 11. Unit Quiz\n\nThe 22-question quiz for this unit lives in `/content/question-bank/principles/unit-13.json` with full per-option rationales. This bank is enlarged because Property Valuation & Financial Analysis is ~14% of the state exam and is the most math-intensive area.",
+  "word_count": 3648,
+  "questions": [
+    {
+      "id": "PRIN-13-001",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 1,
+      "stem": "The four elements that must all be present for a property to have value are:",
+      "options": [
+        "Demand, utility, scarcity, and transferability",
+        "Location, condition, size, and age",
+        "Cost, price, value, and assessment",
+        "Land, labor, capital, and coordination"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. DUST — demand, utility, scarcity, and transferability — must be present simultaneously; remove any one and value collapses.",
+        "These are physical characteristics affecting value, not the elements that create it.",
+        "These are different measures of worth, not the elements of value.",
+        "These are the agents of production relevant to the principle of balance."
+      ],
+      "terms": [
+        "DUST"
+      ]
+    },
+    {
+      "id": "PRIN-13-002",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "An owner spent $60,000 installing a pool that increases the home's value by $18,000. This gap illustrates the principle of:",
+      "options": [
+        "Anticipation",
+        "Contribution",
+        "Conformity",
+        "Competition"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Anticipation concerns value derived from expected future benefits.",
+        "Correct. Contribution holds that a component is worth what it adds to the value of the whole, not what it cost — the reason cost never equals value.",
+        "Conformity concerns how a property relates to surrounding properties.",
+        "Competition describes how excess profit attracts competitors."
+      ],
+      "terms": [
+        "contribution",
+        "price / cost / value"
+      ]
+    },
+    {
+      "id": "PRIN-13-003",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "A modest home located among substantially more expensive homes benefits from the principle of:",
+      "options": [
+        "Regression",
+        "Progression",
+        "Substitution",
+        "Balance"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Regression is the reverse — a higher-value property dragged down by lower-value neighbors.",
+        "Correct. Progression means a lower-value property gains value from surrounding higher-value properties — the basis of 'worst house on the best street.'",
+        "Substitution caps value at the cost of an equally desirable alternative.",
+        "Balance concerns the proper proportion of the agents of production."
+      ],
+      "terms": [
+        "progression / regression",
+        "conformity"
+      ]
+    },
+    {
+      "id": "PRIN-13-004",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "Highest and best use requires that the use be legally permissible, physically possible, financially feasible, and:",
+      "options": [
+        "Maximally productive",
+        "Currently existing",
+        "Approved by the assessor",
+        "Consistent with the owner's intent"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. The four tests are legally permissible, physically possible, financially feasible, and maximally productive — applied in that order.",
+        "Highest and best use may differ from the current use; an old house on a commercial lot is the classic case.",
+        "The assessor determines assessed value for taxation, not highest and best use.",
+        "The owner's intent does not control an objective valuation analysis."
+      ],
+      "terms": [
+        "highest and best use"
+      ]
+    },
+    {
+      "id": "PRIN-13-005",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "In the sales comparison approach, when the comparable property is SUPERIOR to the subject, the appraiser:",
+      "options": [
+        "Adds value to the subject",
+        "Subtracts value from the comparable",
+        "Adds value to the comparable",
+        "Subtracts value from the subject"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The subject is never adjusted; only comparables move.",
+        "Correct. CBS — Comparable Better, Subtract. Adjustments are always applied to the comparable to make it resemble the subject.",
+        "Adding to a superior comparable would move it further from the subject.",
+        "Adjusting the subject is the single most common error in this approach."
+      ],
+      "terms": [
+        "CBS / CIA",
+        "sales comparison approach"
+      ]
+    },
+    {
+      "id": "PRIN-13-006",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 3,
+      "stem": "A comparable sold for $812,000. It has an extra bedroom worth $25,000 and a pool worth $18,000 that the subject lacks, but only a 1-car garage where the subject has a 2-car garage (a $12,000 difference). Ignoring time, the indicated value of the subject is:",
+      "options": [
+        "$781,000",
+        "$867,000",
+        "$757,000",
+        "$805,000"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. 812,000 − 25,000 (comp's extra bedroom) − 18,000 (comp's pool) + 12,000 (comp's inferior garage) = $781,000.",
+        "$867,000 adds all three adjustments, reversing the direction on the superior features.",
+        "$757,000 subtracts the garage adjustment instead of adding it.",
+        "$805,000 would result only if a time adjustment were also applied, which this question excludes."
+      ],
+      "terms": [
+        "CBS / CIA",
+        "sales comparison approach"
+      ]
+    },
+    {
+      "id": "PRIN-13-007",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "The cost approach formula is:",
+      "options": [
+        "Replacement cost plus depreciation plus land value",
+        "Land value plus replacement cost of improvements minus accrued depreciation",
+        "Net operating income divided by the capitalization rate",
+        "Gross rent multiplied by the gross rent multiplier"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Depreciation is subtracted, not added.",
+        "Correct. Land is valued separately by sales comparison and is never depreciated; depreciated improvement value is added to it.",
+        "That is the income approach formula.",
+        "That is the gross rent multiplier method."
+      ],
+      "terms": [
+        "cost approach"
+      ]
+    },
+    {
+      "id": "PRIN-13-008",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 3,
+      "stem": "A home has a replacement cost of $465,000, an effective age of 18 years, and a total economic life of 60 years. The land is worth $290,000. Using age-life depreciation, the indicated value is:",
+      "options": [
+        "$615,500",
+        "$325,500",
+        "$755,000",
+        "$465,000"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Depreciation = 18 ÷ 60 = 30%; 465,000 × 0.30 = 139,500; 465,000 − 139,500 = 325,500 improvements; + 290,000 land = $615,500.",
+        "$325,500 is the depreciated improvement value before adding land.",
+        "$755,000 adds land to the undepreciated replacement cost.",
+        "$465,000 is the replacement cost alone."
+      ],
+      "terms": [
+        "cost approach",
+        "effective age",
+        "economic life"
+      ]
+    },
+    {
+      "id": "PRIN-13-009",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "A well-maintained home loses value because a large employer closed nearby. This loss is:",
+      "options": [
+        "Physical deterioration, and curable",
+        "Functional obsolescence, and curable",
+        "External obsolescence, and incurable",
+        "Deferred maintenance, and curable"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Nothing about the structure has worn out.",
+        "The design and utility of the home are unaffected; the cause is off the property.",
+        "Correct. Loss caused by factors outside the property lines is external (economic) obsolescence, and it is always incurable because the owner cannot fix what is off the property.",
+        "Deferred maintenance is postponed repair work, a form of physical deterioration."
+      ],
+      "terms": [
+        "external (economic) obsolescence"
+      ]
+    },
+    {
+      "id": "PRIN-13-010",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "A five-bedroom house with only one bathroom suffers from:",
+      "options": [
+        "Physical deterioration",
+        "Functional obsolescence",
+        "External obsolescence",
+        "Economic life expiration"
+      ],
+      "answer": 1,
+      "rationales": [
+        "No wear or deterioration is described.",
+        "Correct. A defect in the structure's own design or utility — here an inadequate bathroom count for the bedroom count — is functional obsolescence.",
+        "External obsolescence arises from causes outside the property lines.",
+        "Economic life is the period improvements contribute to value, not a form of obsolescence."
+      ],
+      "terms": [
+        "functional obsolescence"
+      ]
+    },
+    {
+      "id": "PRIN-13-011",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "In calculating net operating income, which item is NOT deducted?",
+      "options": [
+        "Property taxes",
+        "Property management fees",
+        "Mortgage principal and interest payments",
+        "Insurance premiums"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Property taxes are an operating expense.",
+        "Management fees are an operating expense.",
+        "Correct. Debt service is excluded from NOI, along with depreciation and income taxes, because NOI measures what the property produces independent of how any owner financed it.",
+        "Insurance is an operating expense."
+      ],
+      "terms": [
+        "net operating income (NOI)"
+      ]
+    },
+    {
+      "id": "PRIN-13-012",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 3,
+      "stem": "A fourplex rents for $2,450 per unit monthly with 5% vacancy and $38,600 in annual operating expenses. At a 6.25% cap rate, the indicated value is approximately:",
+      "options": [
+        "$1,881,600",
+        "$1,169,920",
+        "$1,787,520",
+        "$617,600"
+      ],
+      "answer": 1,
+      "rationales": [
+        "$1,881,600 capitalizes potential gross income without deducting vacancy or expenses.",
+        "Correct. PGI = 2,450 × 4 × 12 = 117,600; less 5% vacancy = 111,720 EGI; less 38,600 expenses = 73,120 NOI; ÷ 0.0625 = $1,169,920.",
+        "$1,787,520 capitalizes effective gross income without deducting operating expenses.",
+        "$617,600 corresponds to no step in the calculation."
+      ],
+      "terms": [
+        "net operating income (NOI)",
+        "capitalization rate"
+      ]
+    },
+    {
+      "id": "PRIN-13-013",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 3,
+      "stem": "A property with $73,120 in net operating income is listed at $1,295,000. The capitalization rate the buyer would receive is approximately:",
+      "options": [
+        "6.25%",
+        "5.65%",
+        "17.7%",
+        "4.20%"
+      ],
+      "answer": 1,
+      "rationales": [
+        "6.25% would correspond to a price near $1,169,900, not $1,295,000.",
+        "Correct. R = I ÷ V = 73,120 ÷ 1,295,000 = 0.0565, or about 5.65% — a higher price yields a lower cap rate.",
+        "17.7% inverts the calculation, dividing value by income.",
+        "4.20% corresponds to no relationship between these figures."
+      ],
+      "terms": [
+        "capitalization rate"
+      ]
+    },
+    {
+      "id": "PRIN-13-014",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "For a given net operating income, an increase in the capitalization rate will:",
+      "options": [
+        "Increase the value",
+        "Decrease the value",
+        "Leave value unchanged",
+        "Increase value only if rents rise"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Value and cap rate move inversely, not together.",
+        "Correct. Since V = I ÷ R, a larger denominator produces a smaller value — which is why investors say values fall when 'cap rates expand.'",
+        "The relationship is mathematically direct and inverse; value must change.",
+        "The inverse relationship holds regardless of rent changes."
+      ],
+      "terms": [
+        "capitalization rate"
+      ]
+    },
+    {
+      "id": "PRIN-13-015",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 3,
+      "stem": "A duplex sold for $702,000 with monthly gross rent of $3,900. Its gross rent multiplier is:",
+      "options": [
+        "15.0",
+        "180.0",
+        "0.0056",
+        "18.0"
+      ],
+      "answer": 1,
+      "rationales": [
+        "15.0 would result from using annual rent rather than monthly.",
+        "Correct. GRM = price ÷ gross rent = 702,000 ÷ 3,900 = 180.0 using monthly rent, the residential convention.",
+        "This inverts the calculation.",
+        "18.0 misplaces a decimal."
+      ],
+      "terms": [
+        "gross rent multiplier (GRM)"
+      ]
+    },
+    {
+      "id": "PRIN-13-016",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "The principal limitation of the gross rent multiplier is that it:",
+      "options": [
+        "Requires at least ten comparable sales",
+        "Ignores operating expenses",
+        "Cannot be used on residential property",
+        "Requires an appraiser's license to calculate"
+      ],
+      "answer": 1,
+      "rationales": [
+        "No minimum number of comparables is inherent to the method.",
+        "Correct. GRM uses gross rent and ignores expenses entirely, so two properties with identical rents but very different tax or HOA burdens produce the same GRM value — which is why it screens rather than decides.",
+        "GRM is most commonly applied to residential rental property.",
+        "Licensees routinely calculate GRM; it is not a licensed appraisal activity."
+      ],
+      "terms": [
+        "gross rent multiplier (GRM)"
+      ]
+    },
+    {
+      "id": "PRIN-13-017",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "Which approach would an appraiser weight most heavily when valuing a newly constructed church?",
+      "options": [
+        "Sales comparison approach",
+        "Income approach",
+        "Cost approach",
+        "Gross rent multiplier"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Comparable sales of churches are scarce, making this approach unreliable here.",
+        "A church generates no income stream to capitalize.",
+        "Correct. The cost approach is most reliable for new construction and special-purpose properties where comparables are scarce and there is no income to capitalize.",
+        "GRM requires rental income, which the property does not produce."
+      ],
+      "terms": [
+        "cost approach",
+        "reconciliation"
+      ]
+    },
+    {
+      "id": "PRIN-13-018",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "In reconciliation, the appraiser arrives at a final opinion of value by:",
+      "options": [
+        "Averaging the three approaches",
+        "Always selecting the highest indication",
+        "Weighing the approaches by reliability for the property type and assignment",
+        "Selecting the value closest to the contract price"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Averaging is expressly not how reconciliation works and is a classic wrong answer.",
+        "Selecting the highest figure would abandon professional judgment.",
+        "Correct. Reconciliation is judgment: the appraiser weights each approach by its reliability for this property type and the quality of its data.",
+        "Anchoring to the contract price would compromise appraiser independence."
+      ],
+      "terms": [
+        "reconciliation"
+      ]
+    },
+    {
+      "id": "PRIN-13-019",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "A meticulously maintained and fully updated 1955 home would be described by an appraiser as having a low:",
+      "options": [
+        "Actual age",
+        "Effective age",
+        "Economic life",
+        "Physical life"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Actual age is fixed by the year built and cannot be low for a 1955 home.",
+        "Correct. Effective age reflects apparent age based on condition and updating, and it — not actual age — drives age-life depreciation.",
+        "A low economic life would mean the improvements contribute value for a shorter period, the opposite of what updating achieves.",
+        "Physical life describes how long the structure will stand, not its apparent condition."
+      ],
+      "terms": [
+        "effective age",
+        "economic life"
+      ]
+    },
+    {
+      "id": "PRIN-13-020",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "Combining two adjoining parcels under one ownership so the whole is worth more than the sum of the parts creates value known as:",
+      "options": [
+        "Plottage",
+        "Accretion",
+        "Progression",
+        "Contribution"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Assemblage is the act of combining adjacent parcels; plottage is the increment of value that combination produces.",
+        "Accretion is the gradual addition of land by waterborne soil deposits.",
+        "Progression concerns value gained from higher-value neighboring properties.",
+        "Contribution measures what a component adds to the whole."
+      ],
+      "terms": [
+        "assemblage / plottage"
+      ]
+    },
+    {
+      "id": "PRIN-13-021",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "A licensee prepares a pricing analysis using comparable sales for a listing presentation. This document is properly called:",
+      "options": [
+        "An appraisal",
+        "A comparative market analysis",
+        "A broker's opinion of USPAP value",
+        "A certified valuation"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Only a licensed or certified appraiser may perform and label an appraisal.",
+        "Correct. A CMA is a licensee's pricing analysis for listing or offer purposes; calling it an appraisal would misrepresent the licensee's authority.",
+        "USPAP governs licensed appraisers, and this title misappropriates it.",
+        "There is no such licensee product as a 'certified valuation.'"
+      ],
+      "terms": [
+        "CMA",
+        "USPAP"
+      ]
+    },
+    {
+      "id": "PRIN-13-022",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 13,
+      "blueprint_area": "valuation",
+      "difficulty": 3,
+      "stem": "A listing agent emails the appraiser: 'We need at least $850,000 for this deal to close — please let me know if you can get there.' This communication is:",
+      "options": [
+        "Acceptable, because agents may provide comparable data",
+        "Improper, because it pressures the appraiser toward a predetermined value",
+        "Acceptable if the seller authorized it in writing",
+        "Improper only if the appraiser agrees to the number"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Providing factual data and relevant comparables is legitimate; requesting a specific value is not.",
+        "Correct. Appraiser independence rules prohibit pressuring an appraiser toward a target value; the agent may supply factual information but never request a number.",
+        "The seller cannot authorize conduct that violates appraiser independence requirements.",
+        "The impropriety lies in making the request, regardless of how the appraiser responds."
+      ],
+      "terms": [
+        "USPAP",
+        "CMA"
+      ]
+    }
+  ]
+}

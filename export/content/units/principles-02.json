@@ -1,0 +1,426 @@
+{
+  "id": "principles-02",
+  "course_slug": "principles",
+  "unit_number": 2,
+  "title": "Property: Real vs. Personal, Fixtures & Appurtenances",
+  "estimated_hours": "2.5",
+  "blueprint_areas": [
+    "ownership-land-use",
+    "transfer"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Define** real property and personal property and explain how each transfers.\n2. **Describe** the physical components of land: surface, subsurface, airspace, and what is affixed or appurtenant.\n3. **Apply** the MARIA fixture tests to decide whether an item is real or personal property.\n4. **Distinguish** ordinary fixtures from trade fixtures and explain a tenant's removal rights.\n5. **Explain** appurtenances, including easements, stock in a mutual water company, and mineral rights.\n6. **Differentiate** riparian and littoral water rights and California's doctrine of reasonable use.\n7. **Classify** crops as natural growth (fructus naturales) or emblements (fructus industriales) and state who owns them.\n\n---\n\n## 1. Two Kinds of Property — and Why the Line Matters\n\nCalifornia law divides everything ownable into two categories. **Real property** is land, that which is affixed to land, that which is appurtenant (attached by right) to land, and that which is immovable by law. **Personal property** — also called *chattel* — is everything else: movable things, from patio furniture to a car to money.\n\nWhy does the line matter to you, the agent? Because the two kinds of property transfer differently, are financed differently, and are fought over constantly:\n\n- Real property transfers by **deed**; personal property transfers by **bill of sale**.\n- When escrow closes on a Whittier house, everything that is real property goes to the buyer automatically — even if the contract never mentions it. Everything that is personal property stays with the seller unless the contract says otherwise.\n- Half the \"the sellers took the...\" disputes you will ever mediate — chandeliers, mounted TVs, garage shelving, the koi in the pond — are really classification questions.\n\nProperty can also change categories. Lumber at a Fontana supply yard is personal property; nailed into a deck, it becomes real property (**annexation**). Tear the deck out and haul it away, and it is personal property again (**severance**). A growing orange tree is real property; picked oranges are personal property.\n\n## 2. What \"Land\" Includes\n\nLand is more than the dirt you stand on. Ownership of a parcel is often pictured as an inverted pyramid running from the center of the earth, through the surface boundaries, and into the sky:\n\n- **Surface rights** — the ground itself and the right to use it.\n- **Subsurface (mineral) rights** — oil, gas, coal, and minerals beneath. These can be sold separately: an owner in Signal Hill can deed away mineral rights while keeping the surface. Once severed, minerals are a separate real property interest, and the mineral owner has an implied right of reasonable surface entry to extract them (often negotiated away).\n- **Airspace rights** — the reasonable use of air above the parcel. You cannot exclude jets at 35,000 feet, but a neighbor's crane swinging over your lot invades your airspace. Airspace itself can be real property — a condominium is, at its core, ownership of a box of airspace plus a shared interest in common areas.\n- **Water rights and support rights** — covered below.\n\nAlso part of real property: **improvements** (structures, fences, pipelines — things affixed by people) and **appurtenances** (rights that go with the land).\n\n## 3. Fixtures and the MARIA Tests\n\nA **fixture** is an item that started life as personal property and became real property by attachment to land or a building. The bolted-in wall oven in a San Marino kitchen was personal property in the showroom; installed, it is a fixture and passes with the house.\n\nWhen classification is disputed, California courts weigh the factors agents memorize as **MARIA**:\n\n- **M — Method of attachment.** Is it nailed, bolted, plumbed, wired, cemented? Items attached so removal damages the property lean real. Items resting by their own weight lean personal (with exceptions — a house resting on its own weight is still real property).\n- **A — Adaptability.** Was the item custom-fitted to the property? Wall-to-wall carpet cut to the rooms, a built-in speaker system, custom window shutters — adapted items lean real even if easily removable.\n- **R — Relationship of the parties.** Close calls tilt toward buyer over seller, tenant over landlord, and lender over borrower.\n- **I — Intention.** The most important test: did the person attaching the item intend it to remain? Intention is judged objectively from conduct and circumstances, not secret thoughts.\n- **A — Agreement.** The parties' written agreement controls. A purchase contract can make the \"excluded\" chandelier personal property or the \"included\" washer part of the deal. This test beats the others — which is why your job is to *write it down*.\n\n**Practice rule:** never let clients rely on MARIA when a sentence in the contract removes all doubt. List inclusions and exclusions expressly.\n\n## 4. Trade Fixtures and Emblements — the Two Great Exceptions\n\n### Trade fixtures\n\nA **trade fixture** is an item a *business tenant* attaches to leased premises for use in its trade: the espresso machine plumbed into a Claremont café, a dry cleaner's conveyor, a nail salon's stations. Although attached, trade fixtures remain the **tenant's personal property**, and the tenant may remove them before the lease ends, repairing damage caused by removal. Trade fixtures left behind after the tenancy ends generally become the landlord's property by **accession**.\n\n### Emblements\n\nCrops divide the same way. **Fructus naturales** — naturally occurring growth like native trees and pasture grass — are real property. **Fructus industriales**, or **emblements** — annual crops produced by labor, like strawberries in Oxnard or row vegetables in Chino — are treated as the cultivator's **personal property**. A tenant farmer whose lease ends before harvest may re-enter to harvest the crop their labor produced.\n\n## 5. Appurtenances: Rights That Run With the Land\n\nAn **appurtenance** is a right or thing that belongs to and passes with the land — \"appurtenant\" literally means \"belonging to.\" When the land is conveyed, appurtenances transfer automatically, even if the deed never mentions them. Classic examples:\n\n- **Easements appurtenant** benefiting the parcel (the driveway easement over the neighbor's strip — Unit 5 covers easements in depth).\n- **Stock in a mutual water company.** In many older SoCal communities, water is delivered by a mutual water company and the shares are appurtenant to the land: they transfer with the parcel and cannot be sold separately.\n- **Mineral rights** not previously severed.\n- **Covenants that run with the land** benefiting the parcel.\n\n## 6. Water Rights and Support\n\nCalifornia water law blends two doctrines, both limited by the state's **reasonable and beneficial use** requirement — no owner has an unlimited right to water:\n\n- **Riparian rights** attach to land bordering a *flowing* watercourse (river, stream). The riparian owner may make reasonable use of the water on the riparian land, sharing correlatively with other riparians. Riparian rights are appurtenant — they cannot be sold apart from the land.\n- **Littoral rights** attach to land bordering a *non-flowing* body — a lake or the ocean.\n- **Appropriative rights** (a permit-based system administered by the state) let non-riparian users divert water for beneficial use — the backbone of California agriculture. <!-- VERIFY: keep description general; permitting details change -->\n- **Percolating groundwater** is subject to the overlying owner's correlative rights and, increasingly, to groundwater sustainability regulation. <!-- VERIFY: SGMA specifics before deepening this section -->\n\nBoundary changes by water have exam-favorite names: **accretion** is the gradual buildup of soil (**alluvium** is the deposited soil itself), which the owner gains; **erosion** is gradual loss; **avulsion** is the sudden tearing away of land (a flood rerouting a channel), which does *not* immediately change boundaries; **reliction** is land exposed by receding water.\n\nEvery parcel is also entitled to **lateral support** (from adjoining land) and **subjacent support** (from beneath, when the subsurface is owned by another). An Inland Empire developer who excavates at the lot line and slumps the neighbor's slope has violated the duty of lateral support.\n\n## 7. Manufactured and Mobile Homes: Property That Can Change Categories\n\nNowhere is the real/personal distinction more practical in California than with manufactured housing, and the exam knows it.\n\nA manufactured home sitting in a Hemet mobile home park on rented space is **personal property**. It is registered with the Department of Housing and Community Development (HCD), transfers much like a vehicle, and is financed with chattel loans at higher rates and shorter terms than mortgages.\n\nThe same home becomes **real property** when it is placed on a permanent foundation on land the owner owns and the foundation system is recorded as required. Once converted, it is deeded, taxed by the county assessor like a house, insurable with standard title and homeowner policies, and financeable with conventional mortgage money — often a meaningful improvement in the owner's cost of capital. <!-- VERIFY: current HCD conversion procedure and recording requirements -->\n\nWhy this matters to you: the classification determines which license you need to sell it, which documents transfer it, how the buyer can finance it, and how it is taxed. Selling a manufactured home *as personal property* is subject to its own set of rules, and a real estate licensee's authority to sell manufactured homes has statutory conditions. <!-- VERIFY: current licensee authority and limits for manufactured-home sales --> When in doubt, confirm the home's status on the title record before you write the listing, not after you have a buyer.\n\n## 8. Why Classification Drives Money\n\nStudents sometimes treat \"real vs. personal\" as trivia. It is not — it moves dollars in four directions at once.\n\n**Financing.** Lenders secure real property with a deed of trust recorded against the land. Personal property is secured differently (a security agreement, and for fixtures a *fixture filing* under the Uniform Commercial Code). A solar system leased and secured by a UCC filing against the property is a classic closing snag: the buyer's lender may demand the lien be removed or subordinated before funding. Read the preliminary report for UCC fixture filings the way you read for trust deeds.\n\n**Appraisal.** An appraiser values the *real property*. Refrigerators, washers, dryers, and above-ground spas typically contribute no appraised value even when the contract includes them. This is why experienced agents write \"no value assigned\" next to included personal property — it keeps the loan amount tied to real property and avoids an appraisal or underwriting objection.\n\n**Taxation.** Real property is assessed and taxed ad valorem by the county, with Proposition 13's assessment limits attached to the real property (Unit 16). Business personal property is assessed separately and on a different schedule. Converting personal property to real property — building the deck, foundationing the manufactured home — can change the tax picture, and the reverse is true when fixtures are removed.\n\n**Transfer and title insurance.** Title insurance insures title to *real property*. If a dispute later erupts over who owns the built-in wine refrigerator, the title policy is not the answer; the purchase contract is.\n\n**Your practical takeaway:** the single highest-value habit in this entire unit is writing inclusions and exclusions into the contract with specificity. \"Refrigerator (LG, kitchen) included; two garage freezers excluded; dining chandelier excluded, seller to replace with builder-grade fixture before close\" resolves in one sentence what MARIA would resolve in six weeks of argument. Vague language — \"appliances included\" — is how disputes start, because the seller and buyer are each counting a different set of appliances.\n\n## 9. Worked Examples\n\n### Example 1 — The mounted TV and the mounting bracket (Azusa)\n\nSellers in Azusa list their home. The living room features a 75-inch TV on an articulating wall mount bolted into studs, wires routed inside the wall. The contract is silent. At the walk-through, the TV and mount are gone; drywall holes remain.\n\n**Analysis.** Run MARIA. The *TV* clips onto the mount and lifts off — method favors personal property, and custom adaptation is minimal: most agents and courts treat the TV as personal. The *mount*, bolted through drywall into framing with in-wall wiring, is attached and adapted — a fixture that should have stayed, and the sellers owe for the damage. The real lesson is the **A** that wins: an agreement. One contract line — \"wall mounts remain; TVs excluded\" — would have prevented the dispute.\n\n### Example 2 — Trade fixtures at lease end (Rancho Cucamonga bakery)\n\nA bakery tenant's five-year lease in a Rancho Cucamonga center expires June 30. The tenant installed ovens (bolted, vented through the roof), a walk-in refrigerator, and display cases. On June 28 the tenant removes all three, patches the roof penetration, and repairs bolt holes. The landlord demands the equipment back as \"fixtures.\"\n\n**Analysis.** These are trade fixtures — attached by a business tenant for its trade — so they remained the tenant's personal property. Removal *before the lease ended* with repair of removal damage was exactly what the law allows. Had the tenant vacated and returned in August to collect the ovens, the landlord would win: trade fixtures left after the tenancy generally pass to the landlord.\n\n### Example 3 — Classification math at closing (Chino Hills)\n\nA Chino Hills purchase closes at $850,000. The contract includes the washer, dryer, and refrigerator (\"no value assigned\") and excludes the dining-room chandelier. For the buyer's loan, the lender requires that personal property carry no financed value.\n\n**Walkthrough.**\n1. The house, built-ins, and the *replacement* chandelier the seller installs are real property — conveyed by the grant deed, no listing needed.\n2. Washer, dryer, refrigerator are personal property — they pass by the contract's inclusion (functionally a bill of sale) at $0 assigned value, keeping the $850,000 price fully attributable to real property for the lender.\n3. The original chandelier, though a fixture by MARIA, is excluded by agreement — the seller must remove it and repair any damage, ideally replacing it before the appraisal so the appraiser never photographs a missing fixture.\n\n### Example 4 — Severed mineral rights (Signal Hill)\n\nAn investor buys a Signal Hill lot. The preliminary report shows a 1940s deed reserving all oil and mineral rights to a prior owner, with surface-entry rights waived above 500 feet. The investor owns the surface and airspace; the mineral estate below is someone else's real property. Because surface entry was waived, extraction could occur only by slant drilling from other land. Your job as the agent: make sure the buyer reads the preliminary report and understands what was *not* purchased.\n\n## 10. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Real property** | Land, things affixed to it, things appurtenant to it, and things immovable by law; transferred by deed. |\n| **Personal property (chattel)** | Movable property — everything that is not real property; transferred by bill of sale. |\n| **Improvement** | Anything affixed to land by human effort: buildings, fences, pipelines. |\n| **Fixture** | Personal property converted to real property by attachment, judged by the MARIA tests. |\n| **MARIA** | Method of attachment, Adaptability, Relationship of the parties, Intention, Agreement — the fixture tests; agreement controls. |\n| **Trade fixture** | An item attached by a business tenant for its trade; remains the tenant's personal property, removable before the lease ends. |\n| **Appurtenance** | A right that belongs to and passes automatically with the land, such as an easement or mutual water company stock. |\n| **Annexation** | Attaching personal property to land so it becomes real property. |\n| **Severance** | Detaching real property (crops, fixtures, minerals) so it becomes personal property. |\n| **Accession** | Acquiring property by its addition to yours — e.g., improvements or abandoned trade fixtures left on the premises. |\n| **Emblements (fructus industriales)** | Annual crops produced by labor; the cultivator's personal property, harvestable even after a tenancy ends. |\n| **Fructus naturales** | Naturally occurring growth (native trees, grasses); part of the real property. |\n| **Riparian rights** | Water rights of land bordering a flowing watercourse. |\n| **Littoral rights** | Water rights of land bordering a lake or the ocean. |\n| **Appropriative rights** | Permit-based rights to divert water for beneficial use on non-riparian land. |\n| **Accretion / alluvium** | Gradual gain of land by waterborne soil deposits / the soil deposited. |\n| **Avulsion** | Sudden removal or shift of land by water; boundaries do not immediately change. |\n| **Reliction** | Land exposed by gradually receding water. |\n| **Lateral / subjacent support** | The right to have land supported by adjoining land / by the earth beneath it. |\n| **Manufactured (mobile) home** | Factory-built housing that is personal property when registered with HCD on rented space, and becomes real property when placed on a permanent foundation on owned land per statute. |\n| **Fixture filing** | A UCC financing statement recorded against real property to perfect a security interest in goods that have become fixtures (solar systems are a common example). |\n| **Chattel** | Another name for personal property; chattel loans finance personal property at different rates and terms than mortgages. |\n\n## 11. Exam Tips\n\n- **\"Which is real property?\"** questions turn on attachment and appurtenance. Growing native trees: real. Harvested crops: personal. Annual crops under cultivation: personal (emblements) — the exam's favorite curveball.\n- **MARIA's hierarchy:** intention is the most important court test, but *agreement between the parties* controls over everything. If the fact pattern mentions a contract term, that term is the answer.\n- **Trade fixtures flip the default.** Attached by a business tenant = personal property, removable *before* lease end. Left behind = landlord's by accession.\n- **Deed vs. bill of sale** is a two-second giveaway: real property → deed; personal property → bill of sale.\n- **Water vocabulary is pure memorization:** flowing = riparian; lake/ocean = littoral; gradual gain = accretion; sudden = avulsion (no boundary change); soil itself = alluvium.\n\n## 12. Unit Quiz\n\nThe 16-question quiz for this unit lives in `/content/question-bank/principles/unit-02.json` with full per-option rationales.",
+  "word_count": 2984,
+  "questions": [
+    {
+      "id": "PRIN-02-001",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 1,
+      "stem": "Which of the following is classified as REAL property?",
+      "options": [
+        "A harvested avocado crop stored in the barn",
+        "A mobile home resting on rented land, registered with HCD",
+        "An orange tree growing in the backyard",
+        "Patio furniture arranged around a built-in fire pit"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Once severed (harvested), crops are personal property.",
+        "A mobile home not permanently affixed on a foundation remains personal property.",
+        "Correct. Growing trees attached by roots are part of the land — real property until severed.",
+        "Furniture rests by its own weight and is movable — personal property (the built-in fire pit, by contrast, is real)."
+      ],
+      "terms": [
+        "real property",
+        "severance"
+      ]
+    },
+    {
+      "id": "PRIN-02-002",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 1,
+      "stem": "Real property is transferred by deed. Personal property is transferred by:",
+      "options": [
+        "Assignment",
+        "Bill of sale",
+        "Novation",
+        "Quitclaim"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Assignment transfers contract rights, not title to chattels generally.",
+        "Correct. A bill of sale is the instrument that conveys personal property.",
+        "Novation substitutes a new contract or party; it conveys nothing.",
+        "A quitclaim is a deed — it transfers interests in real property."
+      ],
+      "terms": [
+        "personal property"
+      ]
+    },
+    {
+      "id": "PRIN-02-003",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "In the MARIA fixture analysis, which factor, when present, overrides all the others?",
+      "options": [
+        "The method of attachment",
+        "The intention of the person attaching the item",
+        "A written agreement between the parties",
+        "The item's adaptation to the property"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Attachment is evidence, but it yields to the parties' contract.",
+        "Intention is the most important test courts apply in the absence of an agreement — but an agreement still controls.",
+        "Correct. The parties may agree to treat an item as real or personal, and that agreement governs between them regardless of the other tests.",
+        "Adaptation is persuasive evidence only."
+      ],
+      "terms": [
+        "MARIA",
+        "fixture"
+      ]
+    },
+    {
+      "id": "PRIN-02-004",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A dry-cleaning tenant bolted pressing machines to the floor of a leased Duarte storefront. Two weeks before the lease expires, the tenant unbolts and removes them, patching the bolt holes. The machines are:",
+      "options": [
+        "Fixtures that unlawfully damaged the landlord's real property",
+        "Trade fixtures the tenant properly removed",
+        "The landlord's property by accession",
+        "Emblements"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Attachment alone does not make a business tenant's equipment part of the realty.",
+        "Correct. Equipment installed by a business tenant for its trade remains the tenant's personal property and may be removed before the lease ends, repairing removal damage.",
+        "Accession would apply only if the tenant abandoned the machines after the tenancy ended.",
+        "Emblements are cultivated annual crops, not equipment."
+      ],
+      "terms": [
+        "trade fixture",
+        "accession"
+      ]
+    },
+    {
+      "id": "PRIN-02-005",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A tenant farmer's lease on Chino farmland ends October 1, but his strawberry crop — planted and tended by him — ripens in November. The crop belongs to:",
+      "options": [
+        "The landlord, because the lease ended before harvest",
+        "The tenant, because emblements are the cultivator's personal property",
+        "The landlord and tenant equally",
+        "Whoever records a claim first"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The end of the tenancy does not forfeit crops the tenant's labor produced.",
+        "Correct. Annual cultivated crops (fructus industriales) are emblements — the tenant's personal property, with a right to re-enter and harvest.",
+        "No equal-split doctrine applies to emblements.",
+        "Crop ownership does not depend on recording."
+      ],
+      "terms": [
+        "emblements"
+      ]
+    },
+    {
+      "id": "PRIN-02-006",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 1,
+      "stem": "An owner whose land borders the San Gabriel River holds what type of water rights?",
+      "options": [
+        "Littoral",
+        "Appropriative",
+        "Riparian",
+        "Prescriptive"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Littoral rights attach to land on a lake or the ocean — non-flowing water.",
+        "Appropriative rights are permit-based diversions for non-riparian land.",
+        "Correct. Land bordering a flowing watercourse carries riparian rights, subject to reasonable and beneficial use.",
+        "Prescription is a way to acquire an easement, not a water-rights class."
+      ],
+      "terms": [
+        "riparian rights",
+        "littoral rights"
+      ]
+    },
+    {
+      "id": "PRIN-02-007",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A winter storm suddenly shifts a creek channel, tearing away a strip of a Glendora parcel. This event is called ______, and the boundary ______.",
+      "options": [
+        "Accretion; moves with the new channel",
+        "Avulsion; does not immediately change",
+        "Reliction; moves to the old high-water mark",
+        "Erosion; is fixed by the county surveyor"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Accretion is gradual gain of soil, not sudden loss, and this event was sudden.",
+        "Correct. A sudden tearing away of land by water is avulsion, and unlike gradual processes it does not immediately shift the legal boundary.",
+        "Reliction is land exposed by receding water.",
+        "Erosion is gradual; surveyors document boundaries but a sudden shift is avulsion."
+      ],
+      "terms": [
+        "avulsion",
+        "accretion"
+      ]
+    },
+    {
+      "id": "PRIN-02-008",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 1,
+      "stem": "Soil gradually deposited on a riverside parcel by the current is called:",
+      "options": [
+        "Alluvium",
+        "Avulsion",
+        "Reliction",
+        "Dedication"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Alluvium is the soil deposited through accretion; the owner gains it.",
+        "Avulsion is a sudden change, not gradual deposit.",
+        "Reliction is land uncovered by receding water.",
+        "Dedication is a gift of private land for public use."
+      ],
+      "terms": [
+        "accretion / alluvium"
+      ]
+    },
+    {
+      "id": "PRIN-02-009",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Which of the following is an appurtenance that passes automatically with the land even if the deed does not mention it?",
+      "options": [
+        "The seller's stock in a mutual water company serving the parcel",
+        "The seller's shares in a publicly traded water utility",
+        "The seller's tractor stored on the parcel",
+        "A month-to-month rental agreement for the seller's other property"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Mutual water company stock is appurtenant to the land it serves and transfers with it, inseparable from the parcel.",
+        "Ordinary corporate shares are personal property with no tie to the parcel.",
+        "Equipment is personal property; it passes only by agreement.",
+        "A contract about different land is not appurtenant to this parcel."
+      ],
+      "terms": [
+        "appurtenance"
+      ]
+    },
+    {
+      "id": "PRIN-02-010",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A developer excavating at the lot line causes the neighbor's soil to slump into the pit. The developer has violated the neighbor's right of:",
+      "options": [
+        "Subjacent support",
+        "Lateral support",
+        "Riparian use",
+        "Quiet enjoyment"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Subjacent support concerns support from beneath, as when mineral rights are severed.",
+        "Correct. Adjoining owners owe each other lateral support; excavation that collapses neighboring land breaches that duty.",
+        "No watercourse is involved.",
+        "Quiet enjoyment is a tenant's right against the landlord, not a boundary-support doctrine."
+      ],
+      "terms": [
+        "lateral / subjacent support"
+      ]
+    },
+    {
+      "id": "PRIN-02-011",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A Pasadena seller's contract is silent about the antique dining-room chandelier, which is hard-wired and mounted to a ceiling medallion installed for it. Before closing, the seller replaces it with a basic light and takes the antique. The BEST analysis is:",
+      "options": [
+        "Proper, because chandeliers are always personal property",
+        "Proper, because the seller replaced it with a working fixture",
+        "Improper, because the chandelier was a fixture and the contract did not exclude it",
+        "Improper, because used fixtures may never be replaced before closing"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Hard-wired, adapted light fixtures are classic fixtures, not automatically personal.",
+        "Substituting different property does not cure removing a fixture the buyer contracted to receive.",
+        "Correct. By method of attachment and adaptation the chandelier was real property; silent contract means it passes with the house, and removal breaches the agreement.",
+        "Sellers may replace items when the contract excludes them — the flaw here is the missing exclusion, not replacement itself."
+      ],
+      "terms": [
+        "fixture",
+        "MARIA"
+      ]
+    },
+    {
+      "id": "PRIN-02-012",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "After a 1950s deed severed and reserved the mineral estate under an Upland parcel, the mineral rights are:",
+      "options": [
+        "Personal property of the prior owner",
+        "A separate real property interest owned apart from the surface",
+        "Extinguished if unused for five years",
+        "Automatically reunited with the surface upon resale"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Minerals in place are real property; they become personal only when extracted.",
+        "Correct. A severed mineral estate is its own real property interest, which can be owned, sold, and inherited separately from the surface.",
+        "Mere non-use does not extinguish a mineral estate (statutory dormant-mineral procedures require formal action).",
+        "Resale of the surface conveys only what the seller owns — not the previously reserved minerals."
+      ],
+      "terms": [
+        "severance",
+        "real property"
+      ]
+    },
+    {
+      "id": "PRIN-02-013",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "In a close dispute over whether an installed item passes with the property, courts tend to favor:",
+      "options": [
+        "Seller over buyer, and landlord over tenant",
+        "Buyer over seller, and tenant over landlord",
+        "Whichever party installed the item",
+        "Neither party; the item is sold at auction"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The presumptions run the other way.",
+        "Correct. Under the relationship-of-the-parties factor, close calls favor buyer over seller and tenant over landlord.",
+        "Installation matters to intention but does not create an automatic preference.",
+        "There is no auction rule for fixture disputes."
+      ],
+      "terms": [
+        "MARIA"
+      ]
+    },
+    {
+      "id": "PRIN-02-014",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A condominium owner's interest is best described as:",
+      "options": [
+        "A leasehold in airspace plus a license to use common areas",
+        "Personal property, because the unit cannot be moved",
+        "Fee ownership of a unit of airspace plus an undivided interest in common areas",
+        "A share of stock entitling the holder to occupy a unit"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Condominium ownership is a freehold, not a leasehold or license.",
+        "Immovability is a hallmark of real, not personal, property.",
+        "Correct. A condo is real property: fee title to defined airspace (the unit) together with an undivided interest in the common areas.",
+        "Stock plus occupancy right describes a cooperative, not a condominium."
+      ],
+      "terms": [
+        "real property"
+      ]
+    },
+    {
+      "id": "PRIN-02-015",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A café tenant vacates a Montclair storefront when its lease expires, leaving its plumbed-in espresso machine behind. Six weeks later it returns to collect the machine. Who owns it?",
+      "options": [
+        "The tenant, because trade fixtures are always personal property",
+        "The landlord, because trade fixtures left after the tenancy generally pass to the landlord",
+        "The tenant, if it pays reasonable storage fees",
+        "The city, as abandoned property"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Trade fixtures are the tenant's personal property only while the removal right lasts — through the end of the tenancy.",
+        "Correct. Trade fixtures not removed by the end of the tenancy are treated as abandoned to the landlord by accession.",
+        "Paying storage does not revive an expired removal right.",
+        "Municipal abandoned-property rules do not apply to fixtures left on private leased premises."
+      ],
+      "terms": [
+        "trade fixture",
+        "accession"
+      ]
+    },
+    {
+      "id": "PRIN-02-016",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 2,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A buyer's contract for a Whittier home includes 'all attached floor coverings and window treatments.' At walk-through, custom-cut wall-to-wall carpet remains but the seller took the custom plantation shutters, leaving mounting frames. Which item was the seller entitled to take?",
+      "options": [
+        "The shutters, because they detach from their frames",
+        "The carpet, because it can be rolled up",
+        "Neither — both were fixtures and both were included by the agreement",
+        "Both, because custom items reflect the seller's personal taste"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Detachability does not defeat classification: shutters custom-fitted and mounted to the windows are adapted fixtures — and 'window treatments' were expressly included.",
+        "Custom-cut installed carpet is adapted to the property and was expressly included as an attached floor covering.",
+        "Correct. Under MARIA both items lean real (adaptation, attachment), and the agreement — which controls — included both. The seller breached by removing the shutters.",
+        "Personal taste is not a MARIA factor; intention is judged objectively."
+      ],
+      "terms": [
+        "MARIA",
+        "fixture"
+      ]
+    }
+  ]
+}

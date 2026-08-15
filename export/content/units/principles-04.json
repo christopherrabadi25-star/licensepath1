@@ -1,0 +1,479 @@
+{
+  "id": "principles-04",
+  "course_slug": "principles",
+  "unit_number": 4,
+  "title": "Ownership & How Title Is Held",
+  "estimated_hours": "2.5",
+  "blueprint_areas": [
+    "ownership-land-use",
+    "transfer"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Distinguish** ownership in severalty from concurrent (co-)ownership.\n2. **List** the four unities required for joint tenancy and **explain** how each can be broken.\n3. **Compare** joint tenancy and tenancy in common on survivorship, shares, inheritance, and probate.\n4. **Explain** California community property, including community property with right of survivorship and separate property.\n5. **Calculate** ownership shares and sale proceeds for co-owners holding unequal interests.\n6. **Describe** how title is held by trusts, partnerships, LLCs, and corporations.\n7. **Recognize** when a vesting question requires referral to an attorney or CPA rather than agent advice.\n\n---\n\n## 1. Severalty and Concurrent Ownership\n\nStart with the simplest case. **Ownership in severalty** means one person or one entity owns the entire estate alone. The word trips students up because \"several\" sounds like \"many\" — it is the opposite. The term comes from the owner's interest being *severed* from everyone else's. A single woman who buys a Covina condo by herself, or a corporation that owns a warehouse, holds title in severalty.\n\nEverything else is **concurrent ownership** (co-ownership): two or more people holding title at the same time. California recognizes several forms, and the differences are not academic — they determine what happens when a co-owner dies, whether probate is required, what each owner may sell without permission, and how the property is taxed. This is why the vesting line on a deed is one of the highest-consequence sentences in a transaction, and why you must never choose it for your client.\n\nEvery form of concurrent ownership shares one feature: **unity of possession**. Each co-owner has the right to possess and use the *whole* property, not a physically divided piece. Two people owning a Duarte duplex 50/50 do not each own one unit; they each own an **undivided** one-half interest in all of it. If they want to own separate units, they must legally divide the property — a condominium conversion or subdivision, not a handshake.\n\n## 2. Joint Tenancy and the Four Unities\n\n**Joint tenancy** is co-ownership with the **right of survivorship**: when one joint tenant dies, that interest passes automatically to the surviving joint tenant(s), outside of probate and regardless of what the decedent's will says. That last point surprises people constantly — a will cannot defeat survivorship, because the interest simply evaporates at death and the survivors' shares expand to fill it.\n\nCreating a joint tenancy requires the **four unities**, remembered as **T-TIP**:\n\n- **T — Time.** All joint tenants must acquire their interests at the same moment.\n- **T — Title.** All must take title through the same document (one deed).\n- **I — Interest.** All must hold equal shares. Three joint tenants each own one-third; you cannot have a 50/30/20 joint tenancy.\n- **P — Possession.** All have an equal, undivided right to possess the whole.\n\nCalifornia also requires the intent to create a joint tenancy to be **expressly stated in the deed** — typically \"as joint tenants\" or \"as joint tenants with right of survivorship.\" Silence produces a tenancy in common, not a joint tenancy. <!-- VERIFY: exact statutory language requirements -->\n\n### Severance: how a joint tenancy breaks\n\nBreak any unity and the joint tenancy is **severed** as to that interest. The most common severance is a **conveyance**: a joint tenant may sell or gift their interest without the others' consent, and the buyer takes as a **tenant in common** — because the buyer acquired at a different time, through a different deed, breaking unities of time and title.\n\nWork through the arithmetic, because this is a guaranteed exam question. Three siblings own a Riverside parcel as joint tenants, each with one-third. One sells her interest to an outside buyer:\n\n- The buyer holds **one-third as a tenant in common**.\n- The two remaining siblings still hold **two-thirds as joint tenants between themselves**, with survivorship still running as to that two-thirds.\n- If one of those two siblings then dies, the survivor takes the full two-thirds, and the outside buyer still holds one-third as a tenant in common.\n\nOther severance events include a joint tenant conveying to a trust, certain judgment executions and foreclosure sales, and — in California — a recorded unilateral severance, which the law regulates to prevent secret severances timed around a death. <!-- VERIFY: current recording requirements for unilateral severance -->\n\n**A key non-event:** merely recording a deed of trust (taking out a loan) generally does *not* sever a California joint tenancy, because California follows the lien theory — the lender takes a lien, not title. Students trained on other states' materials get this wrong.\n\n## 3. Tenancy in Common\n\n**Tenancy in common (TIC)** is California's default co-ownership form. When two or more people take title without specifying otherwise, they are tenants in common. Its features:\n\n- **No right of survivorship.** A deceased co-tenant's share passes to their heirs or by will, through probate.\n- **Unequal shares allowed.** One owner may hold 60%, another 25%, another 15%. Only unity of possession is required.\n- **Freely transferable.** Each co-tenant may sell, gift, mortgage, or devise their share without the others' consent.\n- **Shared expenses and income** generally follow ownership percentages, absent agreement.\n\nWhen co-owners cannot agree — one wants to sell, another refuses — the remedy is a **partition action**: a lawsuit asking the court to divide the property physically (partition in kind) or, far more commonly with a single house, order it sold and divide the proceeds (partition by sale). Partition is expensive, slow, and relationship-destroying, which is why written co-ownership agreements matter.\n\n## 4. Community Property and Marital Vesting\n\nCalifornia is a **community property** state, and this shapes an enormous share of your transactions.\n\n**Community property** is property acquired by either spouse during marriage through the labor or earnings of either. Each spouse owns an equal, undivided one-half interest. The presumption is strong: property acquired during marriage is presumed community unless proven otherwise.\n\n**Separate property** is property (a) owned before marriage, (b) acquired during marriage by gift or inheritance, or (c) acquired with the proceeds or rents of separate property. A house a spouse inherited from a parent during the marriage is separate property — until it gets commingled, refinanced, or improved with community funds, at which point tracing becomes an attorney's problem, not yours.\n\nThree practical rules to internalize:\n\n1. **Both spouses must join in a conveyance or encumbrance of community real property.** One spouse cannot sell or mortgage the community home alone. When you take a listing, confirm marital status and how title is vested — a missing spousal signature will stop a closing cold.\n2. **Community property may be devised by will as to the decedent's half only.** Without survivorship vesting, that half goes through probate.\n3. **Community property with right of survivorship** combines the tax advantages of community property with automatic survivorship — the surviving spouse takes the whole without probate. Many California couples now vest this way. Its potential income-tax advantage on the \"step-up in basis\" at death is real and significant, but it is a **CPA and attorney question**, and you must present it as such rather than advising. <!-- VERIFY: current basis treatment before any consumer-facing description -->\n\nCalifornia also recognizes registered domestic partners with community property rights, and specialized vestings exist for particular circumstances. When a client asks \"how should we hold title?\", your correct and complete answer is: *\"Here are the options and what each generally means; the right choice depends on your estate plan and taxes, so let's get your attorney or CPA to confirm before escrow prepares the deed.\"* Choosing for them is practicing law.\n\n## 5. Entity Ownership: Trusts, Partnerships, LLCs, Corporations\n\nTitle is often held by an entity rather than an individual, and each form changes who signs and what documentation escrow demands.\n\n**Living (revocable) trusts** are ubiquitous in California. Title vests in the trustee: \"Maria Chen, Trustee of the Chen Family Trust dated March 3, 2015.\" The trustee signs, and escrow will require evidence of the trustee's authority — commonly a certification of trust rather than the entire trust document, which keeps the beneficiaries' private terms private. Property held in trust avoids probate, which is the main reason clients use them.\n\n**General partnerships** hold title in the partnership name; partners generally have authority to bind the partnership, and each general partner carries unlimited personal liability. **Limited partnerships** add limited partners who are passive investors with liability capped at their investment — a common structure for syndicated apartment deals in the Inland Empire.\n\n**Limited liability companies (LLCs)** combine liability protection with pass-through taxation and have become the default vehicle for small investment property. Title vests in the LLC; the operating agreement determines who may sign, and escrow will ask for it or for a resolution.\n\n**Corporations** hold title in the corporate name, with authority flowing from board resolutions. A corporation owns in **severalty** — it is one legal person, no matter how many shareholders it has. That is a favorite exam point.\n\nTwo related structures round out the picture. **Condominiums** give each owner fee title to a unit of airspace plus an undivided interest in common areas (Unit 2). **Stock cooperatives** are different: the corporation owns the building, and each resident owns *shares* plus a proprietary lease — personal property, not real property, which is why co-op financing works differently. **Community apartment projects** and **planned developments (PUDs)** are further variations, all governed as common interest developments under the Davis-Stirling Act (covered in depth in Legal Aspects Unit 13).\n\n## 6. Worked Examples\n\n### Example 1 — Survivorship defeats the will (San Gabriel)\n\nTwo brothers own a San Gabriel rental \"as joint tenants.\" The older brother's will leaves \"all my real property to my daughter.\" He dies. The daughter demands her father's half.\n\n**Analysis.** She gets nothing from this property. In joint tenancy, the decedent's interest passes automatically to the surviving joint tenant at the moment of death — there is nothing left in the estate for the will to distribute. The surviving brother now owns 100% in severalty, and clears title by recording an affidavit of death of joint tenant with a certified death certificate. If the father wanted his daughter to inherit, the vesting had to change during his lifetime (by severing to a tenancy in common), not the will.\n\n### Example 2 — Unequal TIC shares and a sale (Fontana)\n\nThree investors buy a Fontana rental as tenants in common: Ana 50%, Ben 30%, Carla 20%. They later sell for **$690,000** with **7%** total closing costs and commissions, and pay off a **$310,000** loan they took together.\n\n**Walkthrough.**\n1. Gross sale price: **$690,000**\n2. Closing costs and commissions: $690,000 × 0.07 = **$48,300**\n3. Loan payoff: **$310,000**\n4. Net proceeds: $690,000 − $48,300 − $310,000 = **$331,700**\n5. Distribution by ownership share:\n   - Ana: $331,700 × 0.50 = **$165,850**\n   - Ben: $331,700 × 0.30 = **$99,510**\n   - Carla: $331,700 × 0.20 = **$66,340**\n   - Check: 165,850 + 99,510 + 66,340 = $331,700 ✓\n\nNote the order of operations the exam tests: costs and the loan come out *before* splitting, not after. Splitting the gross price and then subtracting each owner's \"share\" of costs happens to produce the same result here, but only because the split percentages are applied uniformly — change any assumption (say, one owner contributed the down payment) and the co-ownership agreement, not the deed, controls. Which is exactly why investors need one.\n\n### Example 3 — The missing spouse (West Covina)\n\nYou take a listing from a seller who tells you he is \"separated but not divorced\" and that the West Covina house is \"his.\" Title shows \"Luis R., a married man, as his sole and separate property,\" with a quitclaim deed from his wife recorded in 2019.\n\n**Analysis.** The 2019 quitclaim is evidence that the wife transmuted her community interest to Luis's separate property — but \"evidence\" is not the same as \"settled.\" Transmutations must meet statutory requirements, pending dissolution proceedings can restrict transfers, and a title company may require the spouse's signature or a court order anyway. Your job is not to resolve this. It is to (1) spot it before you market the property, (2) get the title company's requirements in writing early, and (3) tell the seller to consult his family law attorney. A listing that cannot close is worse than no listing.\n\n### Example 4 — Severance arithmetic (Riverside)\n\nFour cousins own Riverside land as joint tenants, each one-quarter. Cousin A deeds her interest to a friend. Cousin B then dies, leaving a will giving everything to his son.\n\n**Walkthrough.**\n1. A's conveyance severs her quarter: the **friend holds 1/4 as a tenant in common**.\n2. Cousins B, C, and D still hold **3/4 as joint tenants** among themselves.\n3. B dies. Survivorship operates *within* that joint tenancy: B's interest passes to **C and D**, not to B's son. The will cannot reach it.\n4. Final ownership: **C = 3/8, D = 3/8** (splitting the 3/4 between them), **friend = 1/4** as a tenant in common.\n5. Check: 3/8 + 3/8 + 2/8 = 8/8 ✓\n\n## 7. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Severalty** | Ownership by one person or entity alone; the interest is severed from all others. |\n| **Concurrent ownership** | Co-ownership by two or more persons at the same time. |\n| **Undivided interest** | A fractional interest in the whole property carrying the right to possess all of it, not a physically divided portion. |\n| **Joint tenancy** | Co-ownership with right of survivorship, requiring the four unities and an express statement in the deed. |\n| **T-TIP (four unities)** | Time, Title, Interest, Possession — all four required to create and maintain a joint tenancy. |\n| **Right of survivorship** | The automatic passing of a deceased co-owner's interest to the surviving co-owner(s), outside probate and unaffected by a will. |\n| **Severance** | Breaking a unity so a joint tenancy interest converts to a tenancy in common. |\n| **Tenancy in common** | California's default co-ownership: no survivorship, shares may be unequal, each share freely transferable and inheritable. |\n| **Partition action** | A lawsuit to divide co-owned property in kind or order it sold and divide proceeds. |\n| **Community property** | Property acquired by either spouse during marriage through labor or earnings; each spouse owns an equal one-half interest. |\n| **Separate property** | Property owned before marriage or acquired during marriage by gift, inheritance, or with separate-property funds. |\n| **Community property with right of survivorship** | A California vesting combining community property treatment with automatic survivorship, avoiding probate on the first death. |\n| **Transmutation** | A change in the character of marital property (community to separate or vice versa), subject to statutory requirements. |\n| **Affidavit of death of joint tenant** | The recorded document, with a certified death certificate, that clears a deceased joint tenant from title. |\n| **Certification of trust** | An abbreviated document evidencing a trustee's authority without disclosing the trust's full private terms. |\n| **Limited partnership** | A partnership with general partners who manage and bear unlimited liability, and limited partners who are passive with capped liability. |\n| **Limited liability company (LLC)** | An entity combining liability protection with pass-through taxation; authority to sign flows from the operating agreement. |\n| **Stock cooperative** | A structure where a corporation owns the building and residents own shares plus a proprietary lease — personal property, not real property. |\n| **Common interest development (CID)** | Condominiums, PUDs, co-ops, and community apartment projects, governed in California by the Davis-Stirling Act. |\n\n## 8. Exam Tips\n\n- **Severalty means ONE owner.** Every exam includes at least one question betting you will read \"several\" as \"multiple.\" A corporation owns in severalty no matter how many shareholders it has.\n- **T-TIP creates joint tenancy; breaking any unity severs it.** The buyer of a joint tenant's interest always becomes a *tenant in common*, while the remaining joint tenants stay joint tenants with each other. Practice the fraction arithmetic until it is automatic.\n- **Survivorship beats a will, every time.** If a question puts a will against joint tenancy vesting, the will loses.\n- **Silence defaults to tenancy in common.** Joint tenancy and community property with right of survivorship must be expressly stated.\n- **Both spouses sign.** Any question where one spouse alone conveys or encumbers community real property is testing the requirement that both join.\n- **In California, a loan does not sever a joint tenancy** — lien theory, not title theory. Watch for out-of-state logic in the distractors.\n- **\"Which vesting should I choose?\" is not your question to answer.** The professionally correct response — explain generally, refer to attorney/CPA — is often itself the right exam answer.\n\n## 9. Unit Quiz\n\nThe 18-question quiz for this unit lives in `/content/question-bank/principles/unit-04.json` with full per-option rationales.",
+  "word_count": 2827,
+  "questions": [
+    {
+      "id": "PRIN-04-001",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 4,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 1,
+      "stem": "Ownership in severalty means the property is owned by:",
+      "options": [
+        "Several persons in equal shares",
+        "One person or entity alone",
+        "Two or more persons with right of survivorship",
+        "A married couple as community property"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The word suggests multiple owners, which is precisely the trap; severalty is sole ownership.",
+        "Correct. Severalty is ownership by one person or one entity, with the interest severed from all others.",
+        "That describes joint tenancy.",
+        "Community property is a form of concurrent ownership between spouses."
+      ],
+      "terms": [
+        "severalty"
+      ]
+    },
+    {
+      "id": "PRIN-04-002",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 4,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 1,
+      "stem": "The four unities required for a valid joint tenancy are:",
+      "options": [
+        "Time, title, interest, and possession",
+        "Time, transfer, intent, and payment",
+        "Title, taxes, interest, and possession",
+        "Time, title, inheritance, and partition"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. T-TIP: all joint tenants take at the same time, by the same title, in equal interests, with equal right of possession.",
+        "Transfer, intent, and payment are not unities.",
+        "Taxes is not a unity.",
+        "Inheritance and partition are consequences of ownership form, not unities."
+      ],
+      "terms": [
+        "T-TIP (four unities)",
+        "joint tenancy"
+      ]
+    },
+    {
+      "id": "PRIN-04-003",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 4,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Two sisters own a home as joint tenants. One dies leaving a will devising 'all my real property' to her son. The son receives:",
+      "options": [
+        "A one-half interest as a tenant in common",
+        "A one-half interest as a joint tenant",
+        "Nothing from this property",
+        "The entire property, subject to the sister's life estate"
+      ],
+      "answer": 2,
+      "rationales": [
+        "The decedent's interest never entered her estate, so nothing passed to be held in common.",
+        "Survivorship does not admit new joint tenants by will.",
+        "Correct. In joint tenancy the interest passes automatically to the surviving joint tenant at death; a will cannot defeat the right of survivorship.",
+        "No life estate exists; the surviving sister owns the whole in severalty."
+      ],
+      "terms": [
+        "right of survivorship",
+        "joint tenancy"
+      ]
+    },
+    {
+      "id": "PRIN-04-004",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 4,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Three friends hold title as joint tenants, each owning one-third. One sells her interest to an outsider. Immediately after the sale:",
+      "options": [
+        "All three owners are tenants in common",
+        "The outsider is a joint tenant with the other two",
+        "The two remaining friends are joint tenants as to two-thirds; the outsider holds one-third as a tenant in common",
+        "The sale is void without the other joint tenants' consent"
+      ],
+      "answer": 2,
+      "rationales": [
+        "The severance affects only the transferred interest; the remaining joint tenancy survives.",
+        "The outsider took at a different time by a different deed, breaking unities of time and title.",
+        "Correct. Severance converts only the conveyed share to a tenancy in common, while the untouched interests remain in joint tenancy with survivorship.",
+        "A joint tenant may convey her interest without the others' consent."
+      ],
+      "terms": [
+        "severance",
+        "tenancy in common"
+      ]
+    },
+    {
+      "id": "PRIN-04-005",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 4,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 1,
+      "stem": "When two unmarried people take title and the deed does not specify how, California presumes they hold as:",
+      "options": [
+        "Joint tenants",
+        "Tenants in common",
+        "Partners",
+        "Owners in severalty"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Joint tenancy must be expressly stated in the deed; it is never presumed.",
+        "Correct. Tenancy in common is California's default form of concurrent ownership when the deed is silent.",
+        "A partnership requires a partnership relationship, not merely co-ownership.",
+        "Severalty is sole ownership, impossible with two grantees."
+      ],
+      "terms": [
+        "tenancy in common"
+      ]
+    },
+    {
+      "id": "PRIN-04-006",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 4,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Which characteristic belongs to tenancy in common but NOT to joint tenancy?",
+      "options": [
+        "Unity of possession",
+        "The right to sell one's interest without the others' consent",
+        "Ownership shares that may be unequal",
+        "The right to seek partition"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Both forms require unity of possession.",
+        "Both joint tenants and tenants in common may convey their interests without consent.",
+        "Correct. Joint tenancy requires equal interests (unity of interest); tenancy in common permits unequal shares such as 60/25/15.",
+        "Co-owners under either form may bring a partition action."
+      ],
+      "terms": [
+        "tenancy in common",
+        "joint tenancy"
+      ]
+    },
+    {
+      "id": "PRIN-04-007",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 4,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Property acquired by one spouse during marriage by inheritance from a parent is presumed to be:",
+      "options": [
+        "Community property",
+        "Separate property",
+        "Community property with right of survivorship",
+        "Joint tenancy property"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The community presumption covers property acquired through the labor or earnings of either spouse, not gifts and inheritances.",
+        "Correct. Property acquired during marriage by gift or inheritance is separate property, as is property owned before marriage or bought with separate funds.",
+        "That is a vesting choice, not a presumption arising from inheritance.",
+        "Joint tenancy requires an express deed statement."
+      ],
+      "terms": [
+        "separate property",
+        "community property"
+      ]
+    },
+    {
+      "id": "PRIN-04-008",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 4,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "A married couple holds their residence as community property. The husband alone signs a deed selling the home. The conveyance is:",
+      "options": [
+        "Valid, because each spouse owns an undivided one-half",
+        "Defective, because both spouses must join in a conveyance of community real property",
+        "Valid if the wife is notified within 30 days",
+        "Valid as to the husband's half only, creating a tenancy in common with the buyer"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The undivided one-half interest does not authorize a unilateral sale of the whole.",
+        "Correct. Both spouses must join in a conveyance or encumbrance of community real property; a missing spousal signature will stop the closing.",
+        "No notice provision cures the missing signature.",
+        "California law does not treat the attempted conveyance as an effective half-transfer creating co-ownership with a stranger."
+      ],
+      "terms": [
+        "community property"
+      ]
+    },
+    {
+      "id": "PRIN-04-009",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 4,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "Four cousins own land as joint tenants, each one-quarter. Cousin A deeds her interest to a friend. Cousin B then dies with a will leaving everything to his son. Ownership is now:",
+      "options": [
+        "Friend 1/4; C 3/8; D 3/8",
+        "Friend 1/4; son 1/4; C 1/4; D 1/4",
+        "Friend 1/4; son 1/4; C 3/8; D 1/8",
+        "C 1/2; D 1/2"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. A's conveyance severs 1/4 to the friend as a tenant in common; B, C, and D hold 3/4 in joint tenancy, so B's death passes his share to C and D, giving each 3/8.",
+        "The son takes nothing — survivorship within the surviving joint tenancy defeats the will.",
+        "The son has no interest, and C and D share B's interest equally.",
+        "The friend's severed one-quarter interest remains intact."
+      ],
+      "terms": [
+        "severance",
+        "right of survivorship"
+      ]
+    },
+    {
+      "id": "PRIN-04-010",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 4,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "Three tenants in common — 50%, 30%, and 20% — sell for $690,000 with 7% total costs and a $310,000 loan payoff. The 30% owner nets:",
+      "options": [
+        "$207,000",
+        "$114,210",
+        "$99,510",
+        "$165,850"
+      ],
+      "answer": 2,
+      "rationales": [
+        "$207,000 is 30% of the gross price, ignoring costs and the loan payoff.",
+        "$114,210 applies the 30% share after costs but before the loan payoff.",
+        "Correct. Net = 690,000 − 48,300 (7%) − 310,000 = 331,700; 331,700 × 0.30 = $99,510.",
+        "$165,850 is the 50% owner's share."
+      ],
+      "terms": [
+        "tenancy in common",
+        "undivided interest"
+      ]
+    },
+    {
+      "id": "PRIN-04-011",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 4,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Co-owners deadlock: two want to sell, one refuses. The legal remedy available to any co-owner is:",
+      "options": [
+        "A quiet title action",
+        "A partition action",
+        "An unlawful detainer action",
+        "A reformation action"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Quiet title resolves competing claims to title, which are not disputed here.",
+        "Correct. A partition action asks the court to divide the property in kind or, more commonly for a single home, order it sold and divide the proceeds.",
+        "Unlawful detainer recovers possession from a tenant.",
+        "Reformation corrects a document that misstates the parties' agreement."
+      ],
+      "terms": [
+        "partition action"
+      ]
+    },
+    {
+      "id": "PRIN-04-012",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 4,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "Title is vested in 'Maria Chen, Trustee of the Chen Family Trust dated March 3, 2015.' To sell, escrow will typically require:",
+      "options": [
+        "The complete trust instrument recorded in the county",
+        "A certification of trust evidencing the trustee's authority",
+        "Signatures from all trust beneficiaries",
+        "A court order approving the sale"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Recording the entire trust would expose private terms unnecessarily and is not the standard practice.",
+        "Correct. A certification of trust establishes the trustee's authority to act while keeping the trust's private provisions confidential.",
+        "Beneficiaries do not sign; the trustee holds title and conveys.",
+        "Court approval is required for some probate and conservatorship sales, not routine living-trust sales."
+      ],
+      "terms": [
+        "certification of trust"
+      ]
+    },
+    {
+      "id": "PRIN-04-013",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 4,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A corporation with 500 shareholders owns an office building. The corporation holds title:",
+      "options": [
+        "In severalty",
+        "As a tenant in common with its shareholders",
+        "In joint tenancy with its officers",
+        "As community property"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. A corporation is a single legal person, so it owns in severalty no matter how many shareholders it has.",
+        "Shareholders own stock, not an interest in the corporation's real property.",
+        "Officers hold no title by virtue of office.",
+        "Community property applies to spouses, not corporations."
+      ],
+      "terms": [
+        "severalty"
+      ]
+    },
+    {
+      "id": "PRIN-04-014",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 4,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "In California, a joint tenant obtains a loan secured by a deed of trust against the property. This act, by itself:",
+      "options": [
+        "Severs the joint tenancy immediately",
+        "Does not sever the joint tenancy, because California follows lien theory",
+        "Converts all owners to tenants in common",
+        "Requires all joint tenants to sign or the loan is void"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Severance requires breaking a unity; a lien does not transfer title.",
+        "Correct. In a lien-theory state like California the lender takes a lien rather than title, so recording a deed of trust does not by itself sever a joint tenancy.",
+        "No conversion of the other owners' interests occurs.",
+        "The lender will want all owners to sign for its own protection, but the encumbrance of one joint tenant's interest is not void without them."
+      ],
+      "terms": [
+        "joint tenancy",
+        "severance"
+      ]
+    },
+    {
+      "id": "PRIN-04-015",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 4,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "To clear a deceased joint tenant from title, the surviving joint tenant typically records:",
+      "options": [
+        "A quitclaim deed from the decedent's heirs",
+        "An affidavit of death of joint tenant with a certified death certificate",
+        "A grant deed from the executor",
+        "A notice of default"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Heirs have no interest to quitclaim, since survivorship already operated.",
+        "Correct. The affidavit of death of joint tenant, recorded with a certified death certificate, evidences that title vested in the survivor by operation of law.",
+        "No executor's deed is needed because the interest never entered probate.",
+        "A notice of default begins foreclosure and is unrelated."
+      ],
+      "terms": [
+        "affidavit of death of joint tenant",
+        "right of survivorship"
+      ]
+    },
+    {
+      "id": "PRIN-04-016",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 4,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A resident of a stock cooperative owns:",
+      "options": [
+        "Fee title to a unit of airspace plus an undivided interest in common areas",
+        "Shares in the corporation plus a proprietary lease",
+        "A life estate in the unit",
+        "An undivided interest in the entire building as a tenant in common"
+      ],
+      "answer": 1,
+      "rationales": [
+        "That describes a condominium, which is real property.",
+        "Correct. In a stock cooperative the corporation owns the building and residents own shares plus a proprietary lease — personal property, which is why co-op financing differs.",
+        "No measuring life is involved.",
+        "Co-op residents do not hold title as tenants in common."
+      ],
+      "terms": [
+        "stock cooperative",
+        "common interest development (CID)"
+      ]
+    },
+    {
+      "id": "PRIN-04-017",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 4,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Two co-owners of a Duarte duplex hold undivided one-half interests as tenants in common. This means each owner:",
+      "options": [
+        "Owns one specific unit outright",
+        "Has the right to possess the entire property",
+        "May exclude the other from half the building",
+        "Must obtain the other's consent to sell his interest"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Co-ownership of an undivided interest does not assign specific physical portions.",
+        "Correct. Unity of possession gives every co-owner the right to possess and use the whole property, not a divided piece.",
+        "Neither co-owner may exclude the other from any part of the property.",
+        "A tenant in common may convey his interest freely without consent."
+      ],
+      "terms": [
+        "undivided interest",
+        "concurrent ownership"
+      ]
+    },
+    {
+      "id": "PRIN-04-018",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 4,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Buyers ask their agent, 'Should we take title as joint tenants or as community property with right of survivorship?' The agent's BEST response is to:",
+      "options": [
+        "Recommend community property with right of survivorship for its tax advantages",
+        "Recommend joint tenancy because it avoids probate",
+        "Explain the general characteristics of each and refer them to their attorney or CPA",
+        "Instruct escrow to select the vesting that is most common locally"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Recommending a vesting for tax reasons is giving legal and tax advice beyond a licensee's authority.",
+        "Both vestings can avoid probate; recommending one is still advising on a legal question.",
+        "Correct. A licensee may describe the options generally but must refer the choice to an attorney or CPA, because vesting carries legal, estate, and tax consequences.",
+        "Delegating a client's legal decision to escrow based on local habit serves no one and does not cure the advice problem."
+      ],
+      "terms": [
+        "community property with right of survivorship",
+        "joint tenancy"
+      ]
+    }
+  ]
+}

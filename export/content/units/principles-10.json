@@ -1,0 +1,528 @@
+{
+  "id": "principles-10",
+  "course_slug": "principles",
+  "unit_number": 10,
+  "title": "Escrow & Title Insurance",
+  "estimated_hours": "2.5",
+  "blueprint_areas": [
+    "transfer",
+    "practice-disclosures"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Define** escrow and **list** the requirements for a valid escrow.\n2. **Describe** the escrow holder's role as a neutral depository and dual agent of both parties.\n3. **Outline** the escrow lifecycle from opening to closing and recording.\n4. **Explain** valid delivery of a deed and when title actually passes.\n5. **Distinguish** the chain of title, abstract, preliminary report, and title policy.\n6. **Compare** CLTA standard and ALTA extended coverage, and identify what each excludes.\n7. **Explain** constructive vs. actual notice and how recording establishes priority.\n8. **Calculate** closing prorations, transfer taxes, and buyer/seller debit and credit entries.\n\n---\n\n## 1. What Escrow Is\n\n**Escrow** is a neutral third-party arrangement in which a disinterested party holds funds and documents and delivers them only when all conditions of the parties' mutual instructions are met. It exists because buyers and sellers do not trust each other enough to hand over money and a deed simultaneously across a kitchen table — and they shouldn't have to.\n\nCalifornia requires two elements for a valid escrow:\n\n1. **A binding contract** between the parties — the purchase agreement, exchange agreement, or loan agreement.\n2. **Conditional delivery of transfer instruments and funds** to a neutral third party.\n\nMiss either and there is no escrow. A seller who hands a deed directly to a buyer with \"hold this until you pay me\" has created a mess, not an escrow.\n\n### The escrow holder's peculiar role\n\nThe escrow holder is a **neutral depository** and — this is the tested part — a **dual agent of both parties** for the limited purpose of carrying out the escrow instructions. Once the transaction closes, the escrow holder becomes the separate agent of each party for delivering what each is entitled to receive.\n\nWhat follows from neutrality:\n\n- The escrow holder **may not give advice** to either party or advocate for either side.\n- The escrow holder **may not disclose** one party's confidential information to the other without authorization.\n- The escrow holder acts **only on written mutual instructions**. Verbal changes are not instructions, and one party alone cannot amend escrow.\n- If the parties deadlock, the escrow holder may file an **interpleader** action, depositing the disputed funds with a court and letting the parties fight it out.\n\nThat last point matters practically: when a deal falls apart and both sides claim the deposit, escrow does not decide who is right. It holds the money until both sides sign mutual cancellation instructions or a court orders release. Agents who promise clients \"escrow will just return your deposit\" set up an unpleasant conversation.\n\n### Who may act as escrow holder\n\nIndependent escrow companies are licensed and regulated by the **Department of Financial Protection and Innovation**. Certain others may perform escrow without that license when acting in the course of their own business — including attorneys for their clients, banks and title insurers, and **real estate brokers** in transactions in which the broker is performing licensed acts. <!-- VERIFY: current broker escrow exemption conditions and advertising restrictions -->\n\nA broker acting as escrow holder faces strict limits: the exemption is transaction-specific, the broker may not advertise general escrow services, and the funds are trust funds subject to full trust-fund accounting (Unit 18). In Northern California, escrow is commonly handled by title companies; in Southern California, independent escrow companies are more common. Neither pattern is legally required.\n\n## 2. The Escrow Lifecycle\n\n**Opening.** An agent delivers the fully executed purchase agreement and the buyer's deposit to the escrow holder, who assigns an escrow number and prepares **escrow instructions** reflecting the contract terms. Both parties sign the instructions. Where instructions and the purchase agreement conflict, the parties should resolve the conflict expressly rather than leaving two inconsistent documents.\n\n**Processing.** Escrow orders the preliminary report, requests demands (payoff statements) from existing lienholders, obtains beneficiary statements where a loan will be assumed, collects the parties' documents, coordinates with the new lender, and clears title requirements — releases, statements of information, trust certifications.\n\n**Prorations and settlement statements.** Escrow prepares the accounting: prorating taxes, interest, rents, and HOA dues; computing transfer taxes; allocating fees per the contract.\n\n**Closing.** When all conditions are satisfied and funds are in, escrow **records** the deed and any new security instruments with the county recorder, then disburses funds.\n\n**Close of escrow is recording.** Title passes on recording, and this is why the sequence matters at year-end and month-end deadlines.\n\n### Termination\n\nEscrow terminates by **full performance** (closing), by **mutual written cancellation instructions**, or by court order. Note the middle one: cancellation requires **both** parties' written agreement. A buyer who walks away cannot unilaterally instruct escrow to return the deposit, and a seller cannot unilaterally instruct escrow to release it to him.\n\n## 3. Deeds and Valid Delivery\n\nEscrow's core function is the conditional delivery of a **deed**, so you need the deed rules.\n\n**Requirements for a valid deed:**\n\n- **In writing**, with a competent grantor;\n- an identifiable, **living grantee** (a deed to a dead person or a nonexistent entity is void);\n- an adequate **property description**;\n- **granting clause** words of conveyance;\n- **signature of the grantor** (the grantee does not sign);\n- **delivery and acceptance** during the grantor's lifetime.\n\nNotice what is **not** required for validity between the parties: **recording**, **acknowledgment** (notarization), **consideration recited**, or the grantee's signature. Recording and acknowledgment matter for a different purpose — protection against third parties — which we cover in Section 5.\n\n**Types of deeds:**\n\n- **Grant deed** — California's standard, carrying two implied warranties: the grantor has not already conveyed the property to another, and the grantor has disclosed known encumbrances placed by the grantor. It also conveys after-acquired title.\n- **Quitclaim deed** — conveys whatever interest the grantor has, if any, with **no warranties**. Used to clear clouds, release easements, and transfer between spouses.\n- **Warranty deed** — broad express warranties; common in other states, rare in California because title insurance does the work.\n- **Trustee's deed** — delivered to the purchaser at a foreclosure trustee's sale.\n- **Sheriff's deed**, **tax deed**, **gift deed** — situational instruments.\n\n**Delivery is about intent, not handing over paper.** A deed is delivered when the grantor **intends to pass title presently and irrevocably**. Two classic exam scenarios follow: a deed signed and locked in the grantor's safe deposit box with instructions to deliver it at death is **not** validly delivered (no present intent to pass title) and is void as a conveyance; a deed placed into escrow with irrevocable instructions **is** conditionally delivered, and on closing, delivery relates back to the date it was deposited.\n\n## 4. Title Search, Abstract, and the Preliminary Report\n\nBefore insuring anything, the title company examines the public record.\n\n**Chain of title** is the recorded history of successive owners of a parcel, traced through the grantor-grantee indexes. Breaks in the chain — a missing conveyance, a forged deed, an unprobated estate — create **clouds on title**.\n\nAn **abstract of title** is a summarized written history of everything recorded affecting the property. **Marketable title** means title reasonably free from doubt and defects such that a prudent buyer would accept it — not perfect title, which barely exists.\n\nA **preliminary report** (\"prelim\") is the title company's report of the current condition of title: how title is vested, and the liens, easements, restrictions, and other exceptions the company would list if it issued a policy. Two things students must understand:\n\n1. The prelim is **an offer to issue a policy on stated terms**, not a representation about the condition of title and not a warranty. Its legal significance is narrower than agents assume.\n2. It is nonetheless **the single most useful document you will read** in any transaction. Every encumbrance from Unit 5 shows up here.\n\nBuyers should review the prelim *and the underlying documents* — the CC&Rs, the easement grants, the reciprocal parking agreement — during the title contingency, not skim the summary.\n\nA **statement of information** is a confidential form the parties complete listing names, aliases, marriages, and residence history. Its purpose is to let the title company distinguish your seller from the fourteen other people in the county with the same name who have judgments and tax liens recorded against them. Buyers sometimes resist it as intrusive; the honest explanation — \"this is how we keep someone else's judgment off your title\" — usually resolves that.\n\n## 5. Recording, Notice, and Priority\n\n**Recording** places a document in the county's public records. Recording is not required to make a deed valid between grantor and grantee, but it is essential to protect against third parties.\n\nTo be recorded, a document generally must be **acknowledged** — signed before a notary, who verifies identity and voluntariness.\n\nRecording provides **constructive notice**: the law charges everyone with knowledge of what is properly recorded, whether or not they actually looked. **Actual notice** is knowledge a person really has. And **possession itself gives constructive notice** — someone living in the property puts the world on inquiry notice of their claim, which is why a careful buyer asks who is occupying the property and on what terms.\n\nCalifornia's recording statute protects a **subsequent bona fide purchaser (BFP)** — one who pays value, takes **without notice** of the prior interest, and **records first**. Combine those requirements and you get the rule the exam tests: between an earlier buyer who failed to record and a later good-faith buyer who recorded, **the later buyer wins**.\n\nNote the notice element carefully. A second buyer who *knew* about the first sale is not a bona fide purchaser and cannot win by racing to the recorder. And if the first buyer is living in the house, the second buyer has inquiry notice from the possession and cannot claim ignorance.\n\n## 6. Title Insurance\n\nTitle insurance protects against **defects existing at the time the policy is issued** — it looks backward, unlike other insurance that covers future events. It is paid by a **single premium at closing** and lasts as long as the insured holds an interest.\n\n**CLTA standard coverage** typically insures against matters of public record and certain off-record risks such as forgery, incompetence of a grantor, and improperly delivered deeds. What it typically **excludes**: matters a **survey** would reveal (encroachments, boundary disputes), rights of parties in possession, unrecorded easements and liens, mining claims, water rights, and zoning and other government regulation.\n\n**ALTA extended coverage** adds protection for many of those off-record risks — survey matters, parties in possession, unrecorded easements — and typically requires a **survey or inspection**. Lenders generally require an ALTA lender's policy, since the lender never visits the property.\n\nTwo important structural points:\n\n1. A **lender's policy insures the lender only**, up to the loan amount, and decreases as the loan is paid. It does nothing for the buyer's equity. A buyer who takes only the lender's policy is uninsured.\n2. An **owner's policy** insures the owner for the purchase price. **Who pays for which policy is negotiable and varies by county custom** in California; the contract controls.\n\nNeither policy covers **government regulation** (zoning, building codes), **eminent domain**, defects the insured **created or knew about** and did not disclose, or, generally, **environmental conditions**.\n\n## 7. Worked Examples\n\n### Example 1 — Prorating property taxes at closing (Upland)\n\nAn Upland sale closes **October 16**, with the **buyer owning the day of closing**. Annual property taxes are **$8,760**, and the seller has paid the full fiscal year in advance. California's property tax fiscal year runs **July 1 through June 30**. Use a 360-day year, 30-day months.\n\n**Walkthrough.**\n1. Daily tax: $8,760 ÷ 360 = **$24.33/day**\n2. Seller's period of ownership this fiscal year: July 1 through October 15 = 3 full months (July, August, September) + 15 days = **105 days**\n3. Seller's share: 105 × $24.33 = **$2,554.65**\n4. Total prepaid by seller: **$8,760**\n5. **Credit to seller / debit to buyer** for the unused portion: $8,760 − $2,554.65 = **$6,205.35**\n\nThe seller prepaid taxes covering a period the buyer will own, so the buyer reimburses the seller. Get the direction right: a prepaid expense produces a **seller credit**; an unpaid accrued expense produces a **seller debit and buyer credit**.\n\n### Example 2 — Documentary transfer tax (Claremont)\n\nA Claremont home sells for **$918,000**. The county documentary transfer tax rate is **$0.55 per $500** of consideration. There is an existing **$300,000 loan the buyer is assuming**.\n\n**Walkthrough.**\n1. Transfer tax applies to consideration **net of any assumed loan** that remains on the property: $918,000 − $300,000 = **$618,000**\n2. Increments of $500: $618,000 ÷ 500 = **1,236**\n3. Tax: 1,236 × $0.55 = **$679.80**\n\nTwo traps in one problem. First, if the buyer had obtained *new* financing rather than assuming the existing loan, the tax would be computed on the full $918,000 ($1,009.80). Second, some cities impose their own transfer tax on top of the county's, which can multiply the figure substantially — always check the city.\n\n### Example 3 — The unrecorded deed loses (Rialto)\n\nA buyer closes on a Rialto home and, distracted by a move, never records her grant deed and never takes occupancy. Three months later the seller fraudulently deeds the same property to a second buyer, who pays full value, knows nothing of the first sale, and records immediately.\n\n**Analysis.** The second buyer is a **bona fide purchaser**: paid value, no notice, recorded first. Under California's recording statute, the second buyer takes title, and the first buyer is left with a fraud claim against a seller who is probably judgment-proof.\n\n**Change one fact and the outcome flips.** Had the first buyer been *living in the house*, her possession would give the second buyer **constructive (inquiry) notice**, destroying his bona fide purchaser status. This is why title companies and careful buyers always ask who is in possession.\n\n### Example 4 — CLTA vs. ALTA in practice (Chino Hills)\n\nA buyer purchases a Chino Hills home with a standard CLTA owner's policy. After closing, a survey for a planned pool reveals the neighbor's block wall sits **four feet inside** the buyer's lot, and that a portion of the buyer's driveway crosses an **unrecorded** easement area.\n\n**Analysis.** Standard CLTA coverage typically **excludes** matters a survey would disclose and unrecorded interests — so the encroaching wall and the unrecorded easement likely fall outside the policy. **ALTA extended coverage**, with its survey requirement, would generally address exactly these risks.\n\nThe practical counseling point for buyers, especially on larger lots, rural parcels, or properties where fences look \"off\": the extended policy costs more and is often worth it. Your role is to raise the question during the title contingency and refer the buyer to the title company for coverage options — not to opine on what a policy covers.\n\n### Example 5 — Delivery by safe deposit box (Monrovia)\n\nAn elderly Monrovia owner signs a grant deed to her nephew, notarizes it, and locks it in her safe deposit box with a note: \"Give this to David when I die.\" She dies two years later; the nephew finds the deed and records it.\n\n**Analysis.** There was **no valid delivery**. Delivery requires the grantor's intent to pass title **presently and irrevocably** during her lifetime; retaining the deed with instructions to deliver at death shows the opposite intent. The deed is ineffective as a conveyance, and recording it after her death does not cure the defect — recording never validates an invalid deed. The property passes through her estate under her will or by intestate succession.\n\nThe lesson for your clients: this well-meaning arrangement fails constantly. Estate planning belongs with an attorney, whether through a trust, a properly delivered deed, or a revocable transfer on death deed if appropriate. <!-- VERIFY: current status and requirements of the California revocable transfer on death deed -->\n\n## 8. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Escrow** | A neutral third-party arrangement holding funds and documents for conditional delivery under the parties' mutual instructions. |\n| **Requirements for valid escrow** | A binding contract between the parties plus conditional delivery of instruments and funds to a neutral third party. |\n| **Neutral depository** | The escrow holder's role: a dual agent of both parties for carrying out instructions, favoring neither and advising neither. |\n| **Escrow instructions** | The written directions signed by both parties telling escrow what conditions must be met before closing. |\n| **Interpleader** | A court action by which an escrow holder deposits disputed funds with the court and lets the parties litigate entitlement. |\n| **Close of escrow** | Completion of the transaction; title passes on recording. |\n| **Grant deed** | California's standard deed, implying that the grantor has not previously conveyed the property and has disclosed encumbrances the grantor placed on it. |\n| **Quitclaim deed** | A deed conveying whatever interest the grantor holds, with no warranties. |\n| **Trustee's deed** | The deed delivered to the purchaser at a foreclosure trustee's sale. |\n| **Valid delivery** | The grantor's intent to pass title presently and irrevocably; required for a deed to convey, and not satisfied by holding a deed for delivery at death. |\n| **Acknowledgment** | A grantor's declaration before a notary that the signature is genuine and voluntary; required for recording, not for validity. |\n| **Chain of title** | The recorded history of successive ownership of a parcel. |\n| **Cloud on title** | A defect or unresolved claim casting doubt on title, such as a break in the chain or an unreleased lien. |\n| **Abstract of title** | A written summary of everything recorded affecting the property. |\n| **Marketable title** | Title reasonably free from doubt and defects that a prudent buyer would accept. |\n| **Preliminary report** | The title company's report of the current condition of title and the exceptions it would take; an offer to issue a policy, not a warranty. |\n| **Statement of information** | A confidential form identifying the parties so the title company can distinguish them from similarly named judgment debtors. |\n| **Recording** | Filing a document in county public records, giving constructive notice and establishing priority. |\n| **Constructive notice** | Notice imputed by law from recorded documents or from possession of the property. |\n| **Actual notice** | Knowledge a person genuinely has, however acquired. |\n| **Bona fide purchaser (BFP)** | One who pays value, takes without notice of a prior interest, and records first; protected by the recording statute. |\n| **CLTA standard policy** | Title insurance covering matters of record and certain off-record risks, typically excluding survey matters, parties in possession, and unrecorded interests. |\n| **ALTA extended policy** | Extended title coverage adding protection for survey matters, parties in possession, and unrecorded easements; typically required by lenders. |\n| **Lender's policy** | Title insurance protecting the lender only, up to the loan balance, decreasing as the loan is repaid. |\n\n## 9. Exam Tips\n\n- **Two requirements for valid escrow:** a binding contract plus conditional delivery to a neutral third party. Both, every time.\n- **Escrow is a dual agent before closing** and a separate agent of each party after. It never advises, never advocates, and acts only on **mutual written** instructions.\n- **Cancellation requires both parties' written agreement.** No unilateral deposit release.\n- **Recording is NOT required for a valid deed** — delivery and acceptance are. Recording protects against third parties.\n- **Delivery = present intent to pass title.** The safe-deposit-box deed fails. Recording never cures an invalid deed.\n- **BFP = pays value + no notice + records first.** Possession defeats the \"no notice\" element, so a fact pattern mentioning someone living in the property is telling you the later buyer loses.\n- **CLTA excludes what a survey would show; ALTA includes it.** Encroachment and boundary questions point to ALTA.\n- **A lender's policy protects only the lender.** Any answer implying it protects the buyer's equity is wrong.\n- **Proration direction:** prepaid by seller → credit seller, debit buyer. Accrued and unpaid → debit seller, credit buyer.\n- **Transfer tax is computed net of an assumed loan**, and cities may add their own tax on top of the county rate.\n\n## 10. Unit Quiz\n\nThe 20-question quiz for this unit lives in `/content/question-bank/principles/unit-10.json` with full per-option rationales.",
+  "word_count": 3391,
+  "questions": [
+    {
+      "id": "PRIN-10-001",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 10,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "The two requirements for a valid escrow are:",
+      "options": [
+        "A licensed escrow officer and a recorded deed",
+        "A binding contract between the parties and conditional delivery of instruments and funds to a neutral third party",
+        "Mutual instructions and a title insurance policy",
+        "An earnest money deposit and a preliminary report"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Neither a particular license nor recording is an element of a valid escrow.",
+        "Correct. California requires a binding contract plus conditional delivery of transfer instruments and funds to a disinterested third party.",
+        "Title insurance is customary but not an element of escrow validity.",
+        "A deposit and prelim are typical features, not the legal requirements."
+      ],
+      "terms": [
+        "escrow",
+        "requirements for valid escrow"
+      ]
+    },
+    {
+      "id": "PRIN-10-002",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 10,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "Before closing, the escrow holder acts as:",
+      "options": [
+        "The agent of the seller only",
+        "The agent of the buyer only",
+        "A dual agent of both parties for carrying out the escrow instructions",
+        "An independent contractor owing no duties to either party"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Escrow favors neither party.",
+        "Escrow is not the buyer's advocate.",
+        "Correct. The escrow holder is a neutral depository and a dual agent of both parties for the limited purpose of carrying out the instructions; after closing it becomes each party's separate agent for delivery.",
+        "Escrow owes real duties, including strict adherence to the mutual instructions."
+      ],
+      "terms": [
+        "neutral depository",
+        "escrow"
+      ]
+    },
+    {
+      "id": "PRIN-10-003",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 10,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "A buyer cancels and demands the deposit; the seller demands it as well. The escrow holder should:",
+      "options": [
+        "Release the funds to whichever party has the stronger claim",
+        "Hold the funds pending mutual written cancellation instructions or a court order",
+        "Split the deposit equally",
+        "Return the funds to the buyer, since deposits are always refundable"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Escrow does not adjudicate the parties' rights.",
+        "Correct. Escrow acts only on mutual written instructions; absent agreement it holds the funds and may file an interpleader action to let a court decide.",
+        "Escrow has no authority to compromise the parties' claims.",
+        "Deposits are not automatically refundable, and escrow cannot unilaterally release them."
+      ],
+      "terms": [
+        "interpleader",
+        "escrow instructions"
+      ]
+    },
+    {
+      "id": "PRIN-10-004",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 10,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "Which is NOT required for a deed to be valid between grantor and grantee?",
+      "options": [
+        "A competent grantor",
+        "Delivery and acceptance",
+        "Recording",
+        "An adequate property description"
+      ],
+      "answer": 2,
+      "rationales": [
+        "A grantor lacking capacity cannot convey.",
+        "Delivery with intent to pass title, and acceptance, are essential.",
+        "Correct. Recording is not required for validity between the parties; it protects the grantee against subsequent bona fide purchasers.",
+        "The property must be identifiable from the description."
+      ],
+      "terms": [
+        "valid delivery",
+        "recording"
+      ]
+    },
+    {
+      "id": "PRIN-10-005",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 10,
+      "blueprint_area": "transfer",
+      "difficulty": 3,
+      "stem": "An owner signs and notarizes a grant deed to her nephew, then locks it in her safe deposit box with a note to give it to him when she dies. After her death the nephew records it. The deed is:",
+      "options": [
+        "Valid, because it was signed, notarized, and recorded",
+        "Invalid as a conveyance, because there was no delivery with present intent to pass title",
+        "Valid, because recording completed the transfer",
+        "Valid as a will substitute"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Signing, notarizing, and recording cannot supply the missing element of delivery.",
+        "Correct. Delivery requires intent to pass title presently and irrevocably during the grantor's lifetime; retaining the deed for delivery at death defeats that intent.",
+        "Recording never validates an otherwise invalid deed.",
+        "A deed is not a substitute for a will; the property passes through her estate."
+      ],
+      "terms": [
+        "valid delivery",
+        "grant deed"
+      ]
+    },
+    {
+      "id": "PRIN-10-006",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 10,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "A California grant deed implies which warranty?",
+      "options": [
+        "That the grantor will defend title against all claims forever",
+        "That the grantor has not previously conveyed the property to another",
+        "That the property is free of all encumbrances of any kind",
+        "That the property is fit for the buyer's intended use"
+      ],
+      "answer": 1,
+      "rationales": [
+        "That broad defense obligation belongs to a general warranty deed, rare in California.",
+        "Correct. A grant deed implies that the grantor has not already conveyed the property and has disclosed encumbrances the grantor placed on it; it also conveys after-acquired title.",
+        "The implied warranty covers encumbrances placed by the grantor, not all encumbrances.",
+        "Deeds carry no fitness-for-use warranty."
+      ],
+      "terms": [
+        "grant deed"
+      ]
+    },
+    {
+      "id": "PRIN-10-007",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 10,
+      "blueprint_area": "transfer",
+      "difficulty": 1,
+      "stem": "A deed that conveys whatever interest the grantor may have, with no warranties whatsoever, is a:",
+      "options": [
+        "Grant deed",
+        "Warranty deed",
+        "Quitclaim deed",
+        "Trustee's deed"
+      ],
+      "answer": 2,
+      "rationales": [
+        "A grant deed carries two implied warranties.",
+        "A warranty deed carries express warranties, the broadest protection.",
+        "Correct. A quitclaim conveys only whatever interest the grantor holds, if any, and is commonly used to clear clouds or release interests.",
+        "A trustee's deed is delivered to the purchaser at a foreclosure sale."
+      ],
+      "terms": [
+        "quitclaim deed"
+      ]
+    },
+    {
+      "id": "PRIN-10-008",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 10,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "The preliminary report issued by a title company is best described as:",
+      "options": [
+        "A warranty that title is marketable",
+        "An offer to issue a policy of title insurance on stated terms",
+        "A guarantee of the property's boundaries",
+        "A substitute for an owner's title policy"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The prelim makes no warranty about the condition of title.",
+        "Correct. The preliminary report is an offer to issue a policy subject to the stated exceptions — narrower legally than agents often assume, but the most useful document in the file.",
+        "Boundaries are a survey matter, not covered by the prelim.",
+        "It is not insurance; the policy issued at closing provides the coverage."
+      ],
+      "terms": [
+        "preliminary report"
+      ]
+    },
+    {
+      "id": "PRIN-10-009",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 10,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "A statement of information is used primarily to:",
+      "options": [
+        "Verify the buyer's income for the lender",
+        "Distinguish the parties from similarly named persons with recorded liens or judgments",
+        "Disclose the property's physical condition",
+        "Establish the property's legal description"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Income verification is the lender's underwriting function.",
+        "Correct. The confidential statement of information lets the title company separate your parties from others with the same or similar names who have judgments or tax liens of record.",
+        "Physical condition is addressed by the TDS and inspections.",
+        "The legal description comes from the recorded documents and maps."
+      ],
+      "terms": [
+        "statement of information"
+      ]
+    },
+    {
+      "id": "PRIN-10-010",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 10,
+      "blueprint_area": "transfer",
+      "difficulty": 3,
+      "stem": "A buyer closes but never records her deed and never occupies. The seller then deeds the property to a second buyer, who pays value, has no knowledge of the first sale, and records at once. Title belongs to:",
+      "options": [
+        "The first buyer, because her deed was delivered first",
+        "The second buyer, as a bona fide purchaser who recorded first",
+        "Neither; the property escheats",
+        "Both, as tenants in common"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Delivery controls between the immediate parties, but an unrecorded deed loses to a subsequent bona fide purchaser.",
+        "Correct. A purchaser who pays value, takes without notice, and records first prevails under the recording statute — leaving the first buyer with a fraud claim against the seller.",
+        "Escheat applies only when an owner dies without a will or heirs.",
+        "The recording contest has one winner, not shared ownership."
+      ],
+      "terms": [
+        "bona fide purchaser (BFP)",
+        "recording"
+      ]
+    },
+    {
+      "id": "PRIN-10-011",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 10,
+      "blueprint_area": "transfer",
+      "difficulty": 3,
+      "stem": "Same facts as the prior question, except the FIRST buyer has been living in the home since closing. Now the second buyer:",
+      "options": [
+        "Still prevails, because recording always controls",
+        "Loses, because the first buyer's possession gives constructive notice defeating bona fide purchaser status",
+        "Prevails only if he paid above market value",
+        "Shares title with the first buyer"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Recording first is not enough; the purchaser must also take without notice.",
+        "Correct. Possession of the property gives constructive (inquiry) notice of the occupant's claim, so the second buyer cannot qualify as a bona fide purchaser.",
+        "The price paid does not cure notice.",
+        "No co-ownership results from a failed bona fide purchaser claim."
+      ],
+      "terms": [
+        "constructive notice",
+        "bona fide purchaser (BFP)"
+      ]
+    },
+    {
+      "id": "PRIN-10-012",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 10,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "Which risk is typically EXCLUDED from a standard CLTA policy but covered by an ALTA extended policy?",
+      "options": [
+        "A forged deed in the chain of title",
+        "An improperly delivered deed of record",
+        "An encroachment that a survey would reveal",
+        "A recorded judgment lien against the seller"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Forgery is among the off-record risks standard coverage typically addresses.",
+        "Improper delivery of a recorded deed is generally within standard coverage.",
+        "Correct. Survey matters such as encroachments and boundary discrepancies are typically excluded from CLTA standard coverage and addressed by ALTA extended coverage, which requires a survey or inspection.",
+        "Recorded liens are matters of public record covered by standard coverage."
+      ],
+      "terms": [
+        "CLTA standard policy",
+        "ALTA extended policy"
+      ]
+    },
+    {
+      "id": "PRIN-10-013",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 10,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "A lender's title insurance policy:",
+      "options": [
+        "Protects the buyer's equity in the property",
+        "Protects the lender only, up to the loan balance, decreasing as the loan is repaid",
+        "Protects both lender and buyer equally",
+        "Covers zoning violations affecting the property"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The buyer's equity is protected only by an owner's policy.",
+        "Correct. A lender's policy insures the lender's security interest up to the loan amount and declines as the principal is paid; a buyer relying on it alone is uninsured.",
+        "It does not protect the buyer at all.",
+        "Government regulation, including zoning, is excluded from title insurance generally."
+      ],
+      "terms": [
+        "lender's policy"
+      ]
+    },
+    {
+      "id": "PRIN-10-014",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 10,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "Title insurance differs from most other insurance because it:",
+      "options": [
+        "Is paid in monthly premiums",
+        "Insures against defects that already exist when the policy is issued",
+        "Covers future losses from natural disasters",
+        "Must be renewed annually"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Title insurance is paid by a single premium at closing.",
+        "Correct. Title insurance looks backward, covering defects existing at the time of issuance, unlike policies insuring against future events.",
+        "Natural disaster losses are covered by hazard insurance.",
+        "Coverage continues as long as the insured holds an interest, without annual renewal."
+      ],
+      "terms": [
+        "CLTA standard policy"
+      ]
+    },
+    {
+      "id": "PRIN-10-015",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A sale closes October 16 with the buyer owning the day of closing. Annual taxes of $8,760 were prepaid by the seller for the fiscal year beginning July 1. Using a 360-day year and 30-day months, the proration is:",
+      "options": [
+        "$2,554.65 credit to the buyer",
+        "$6,205.35 credit to the seller",
+        "$6,205.35 credit to the buyer",
+        "$8,760 credit to the seller"
+      ],
+      "answer": 1,
+      "rationales": [
+        "$2,554.65 is the seller's own share of taxes for the period he owned, not a buyer credit.",
+        "Correct. Daily tax = 8,760 ÷ 360 = $24.33. Seller owned July 1–Oct 15 = 105 days = $2,554.65. The prepaid balance of $6,205.35 covers the buyer's period, so it is credited to the seller and debited to the buyer.",
+        "The direction is reversed — a prepaid expense produces a seller credit, not a buyer credit.",
+        "The seller is not reimbursed the full year; he consumed 105 days of it."
+      ],
+      "terms": [
+        "proration"
+      ]
+    },
+    {
+      "id": "PRIN-10-016",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 10,
+      "blueprint_area": "transfer",
+      "difficulty": 3,
+      "stem": "A home sells for $918,000, and the buyer assumes an existing $300,000 loan. At $0.55 per $500 of consideration, the county documentary transfer tax is:",
+      "options": [
+        "$1,009.80",
+        "$679.80",
+        "$330.00",
+        "$504.90"
+      ],
+      "answer": 1,
+      "rationales": [
+        "$1,009.80 taxes the full price, which would be correct only if the buyer obtained new financing rather than assuming the existing loan.",
+        "Correct. Tax applies to consideration net of the assumed loan: (918,000 − 300,000) ÷ 500 = 1,236 increments × $0.55 = $679.80.",
+        "$330.00 corresponds to taxing only the assumed loan amount.",
+        "$504.90 corresponds to no standard calculation on these facts."
+      ],
+      "terms": [
+        "documentary transfer tax"
+      ]
+    },
+    {
+      "id": "PRIN-10-017",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 10,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "In a California transaction, title passes to the buyer when:",
+      "options": [
+        "The purchase agreement is signed",
+        "The buyer's funds arrive in escrow",
+        "The deed is recorded",
+        "The buyer takes possession"
+      ],
+      "answer": 2,
+      "rationales": [
+        "The purchase agreement creates contractual rights, not title.",
+        "Funding is a condition of closing, not the transfer of title.",
+        "Correct. Close of escrow occurs on recording, which is when title passes.",
+        "Possession may occur before or after closing and does not determine title."
+      ],
+      "terms": [
+        "close of escrow",
+        "recording"
+      ]
+    },
+    {
+      "id": "PRIN-10-018",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 10,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "Before a deed may be recorded, it generally must be:",
+      "options": [
+        "Signed by the grantee",
+        "Acknowledged before a notary",
+        "Approved by the county assessor",
+        "Accompanied by a title policy"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The grantee does not sign the deed.",
+        "Correct. Acknowledgment — the grantor's declaration before a notary that the signature is genuine and voluntary — is generally required for recording, though not for validity between the parties.",
+        "The assessor does not approve deeds for recording.",
+        "A title policy is not a prerequisite to recording."
+      ],
+      "terms": [
+        "acknowledgment",
+        "recording"
+      ]
+    },
+    {
+      "id": "PRIN-10-019",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 10,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "A buyer's agent asks the escrow officer whether the terms are 'a good deal' for her client. The escrow officer should:",
+      "options": [
+        "Give a candid opinion, since escrow sees many transactions",
+        "Decline, because escrow is neutral and may not advise either party",
+        "Advise only the party who selected the escrow company",
+        "Refer the question to the seller's agent"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Offering an opinion on the merits would breach escrow's neutrality.",
+        "Correct. As a neutral depository serving both parties, the escrow holder may not advise or advocate for either side.",
+        "Who opened escrow does not create a right to advice.",
+        "Redirecting the question to the opposing agent does not address the neutrality obligation."
+      ],
+      "terms": [
+        "neutral depository"
+      ]
+    },
+    {
+      "id": "PRIN-10-020",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 10,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "Which is generally EXCLUDED from coverage under both CLTA and ALTA title policies?",
+      "options": [
+        "A forged deed in the chain of title",
+        "A recorded easement not shown in the report",
+        "Zoning and other government regulation",
+        "An error in the public records index"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Forgery is a classic covered off-record risk.",
+        "A missed recorded easement is the sort of record defect title insurance addresses.",
+        "Correct. Government regulation — zoning, building codes, and land use restrictions — is excluded from title insurance generally, as are eminent domain and defects the insured created or knew of and did not disclose.",
+        "Indexing errors in the public records are the kind of risk title insurance exists to cover."
+      ],
+      "terms": [
+        "CLTA standard policy",
+        "ALTA extended policy"
+      ]
+    }
+  ]
+}

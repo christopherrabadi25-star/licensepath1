@@ -1,0 +1,472 @@
+{
+  "id": "practice-02",
+  "course_slug": "practice",
+  "unit_number": 2,
+  "title": "Prospecting & Lead Generation",
+  "estimated_hours": 3,
+  "blueprint_areas": [
+    "practice-disclosures"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Build** and segment a sphere of influence database and explain why it outperforms cold sources.\n2. **Design** a geographic farm using absorption rate and turnover data.\n3. **Apply** the legal rules governing telephone, text, and email solicitation.\n4. **Distinguish** lawful FSBO and expired-listing outreach from prohibited practices.\n5. **Explain** referral fee rules and who may lawfully be paid one.\n6. **Calculate** cost per lead, conversion rates, and return on marketing spend.\n7. **Identify** fair housing risks embedded in targeting and audience selection.\n\n---\n\n## 1. Where Business Actually Comes From\n\nNew agents overwhelmingly want a lead source they can buy. Experienced agents will tell you the same thing every time: the highest-converting business comes from people who already know you.\n\nThe rough hierarchy, by conversion rate rather than volume:\n\n1. **Repeat clients and direct referrals** — highest conversion, lowest cost, longest lag.\n2. **Sphere of influence** — everyone you know. High conversion, requires consistency.\n3. **Geographic farm** — a defined neighborhood you own the mindshare of. Slow to build, durable once built.\n4. **Past-client database** — reactivation over years, not months.\n5. **Open houses and community presence** — moderate conversion, immediate.\n6. **Online portal leads and paid ads** — high volume, low conversion, immediate cost.\n7. **Cold outreach: FSBOs, expireds, circle prospecting** — low conversion, high rejection, heavily regulated.\n\nNew agents typically start at the bottom of that list because it feels less personally exposing than calling people they know. It is also where the worst economics are. The uncomfortable truth is that telling forty people you know that you got licensed will outperform a month of portal leads.\n\n## 2. Sphere of Influence\n\nYour **sphere of influence (SOI)** is everyone you have a relationship with: family, friends, former colleagues, classmates, neighbors, the parents at your kid's school, your barber, your church or mosque or temple community, your old restaurant coworkers. For most new agents this is 150 to 400 people, and it is worth more than any lead source you can buy.\n\n**Build it properly:**\n\n1. **Export everything** — phone contacts, email contacts, social connections. Do not curate yet.\n2. **Put it in a CRM**, not a spreadsheet you will abandon.\n3. **Segment it**: A (would refer you without being asked), B (knows you, would respond), C (weak connection).\n4. **Announce once, clearly.** Tell people you are licensed, what you do, and how to refer you. Then stop announcing and start being useful.\n5. **Touch consistently.** A quarterly rhythm of genuinely useful contact — market updates specific to their neighborhood, a note when a comparable sells near them — beats monthly generic newsletters that get deleted.\n\nThe discipline that matters is **consistency, not cleverness**. An agent who contacts 200 people four times a year, every year, will out-earn one who runs brilliant campaigns for three months and stops.\n\n## 3. Geographic Farming\n\nA **farm** is a defined geographic area you commit to owning. Farming is a multi-year investment: expect 6 to 18 months before meaningful return.\n\n**Choosing a farm — the numbers:**\n\n- **Turnover rate** = homes sold in the last 12 months ÷ total homes in the area. Below roughly 4–5% is slow going.\n- **Absorption rate** = how quickly current inventory would sell at the current pace. It tells you whether the market favors sellers or buyers.\n- **Competition** — if one agent already holds 40% of the listings, pick a different farm or accept a long fight.\n- **Size** — pick something you can genuinely touch consistently. 300 to 500 homes is a common starting range; 2,000 homes you contact once is worthless.\n\n**Farm math:** if a 400-home farm turns over at 5%, that is **20 sales per year**. Capturing 15% of them is **3 transactions** — meaningful, and realistic only after sustained presence.\n\n**What actually works in a farm:** consistent mail with genuinely useful data (not just \"just sold\" cards), neighborhood-specific market reports, presence at community events, and being the person whose name residents recognize when they finally decide to sell.\n\n## 4. The Legal Rules of Outreach\n\nThis is where new agents create real liability, and the rules are not optional.\n\n### Telephone and text\n\nFederal telemarketing law and the **National Do Not Call Registry** govern calls to consumers. Core points for your practice:\n\n- You must **scrub numbers against the DNC registry** before cold calling, and maintain your own internal do-not-call list.\n- An **established business relationship** and **inquiry/permission** create limited exceptions with time limits. <!-- VERIFY: current EBR and inquiry exception durations -->\n- **Calling hours** are restricted (commonly 8 a.m. to 9 p.m. in the called party's time zone). <!-- VERIFY: current permitted hours -->\n- **Autodialers and prerecorded messages** to cell phones require prior express consent, and this is the area generating the largest damages awards. Do not use them without counsel.\n- **Text messages** are treated as calls for these purposes. A text blast to purchased numbers is not a marketing tactic; it is a lawsuit.\n\nPenalties are **per call or text**, which is how a \"small\" campaign becomes a catastrophic claim.\n\n### Email\n\nThe federal **CAN-SPAM** rules require commercial email to include a valid physical postal address, honest subject lines and headers, identification as an advertisement where applicable, and a **working opt-out** honored promptly. <!-- VERIFY: current opt-out honoring deadline -->\n\n### FSBOs and expired listings\n\nBoth are **lawful to contact** — subject to the DNC rules above. Neither is a loophole.\n\nThe professional approach to a **FSBO** is not to argue that they cannot sell it themselves. It is to offer something useful (a comparable sales analysis, a disclosure checklist, an offer to bring a buyer) and to be the first call when they decide to list. Many FSBOs do eventually list.\n\nFor **expired listings**, the seller has just had a disappointing experience and will be contacted by many agents at once. Differentiate by diagnosing honestly — usually price, condition, or exposure — rather than criticizing the prior agent, which reads as unprofessional and violates the ethical duty to avoid disparaging other licensees.\n\n### Referral fees — who may be paid\n\nThis is a licensing rule that new agents break casually.\n\n- A broker may pay a **referral fee to another licensed broker**, including out-of-state brokers.\n- A salesperson may be paid **only by their employing broker** (Principles Unit 1).\n- **Paying an unlicensed person** for referring real estate business is generally prohibited, and it is a violation by the payer. A gift card to a friend who sent you a client is exactly the transaction the rule targets. <!-- VERIFY: current rules and any limited exceptions for nominal gifts to past clients -->\n- **RESPA** separately prohibits paying for referrals of settlement services — lenders, title, escrow, home warranty (Principles Unit 12). Calling it a marketing fee changes nothing.\n\nWhen in doubt: route it through your broker and ask before you pay anyone anything.\n\n## 5. Fair Housing in Targeting\n\nProspecting is where fair housing violations hide, because targeting tools make discrimination easy to do accidentally.\n\n- **Ad audience selection** based on protected characteristics — or proxies for them — is unlawful. Digital advertising platforms have implemented restrictions on housing ads specifically because of enforcement actions over discriminatory targeting. <!-- VERIFY: current platform housing-ad restrictions -->\n- **Geographic targeting that excludes** particular neighborhoods can produce a discriminatory pattern even without discriminatory intent.\n- **Ad copy** follows the Principles Unit 15 rule exactly: describe the property, never the people.\n- **Farm selection itself** deserves a moment of honesty — choosing farms in a way that systematically avoids certain communities is a pattern worth examining in your own practice.\n\nThe protective habit from Principles Unit 15 applies here too: **standardize and audit.** Same response time, same follow-up sequence, same materials for everyone, and look at your own data periodically.\n\n## 6. Measuring What You Spend\n\nMarketing without measurement is how new agents lose money slowly.\n\n**Cost per lead (CPL)** = total spend ÷ leads generated.\n**Cost per closing** = total spend ÷ closings from that source.\n**Return on investment** = (commission earned − cost) ÷ cost.\n\nTrack *by source*. Most agents discover that one or two sources produce nearly all their closings while spend is spread evenly across five.\n\nAlso track the **lag**. Portal leads may close in 30 days; farm mail may take 14 months. A source is not failing merely because it has not produced yet — but you need to know which clock you are on.\n\n## 7. Worked Examples\n\n### Example 1 — Farm selection math (Covina vs. Claremont)\n\nTwo candidate farms:\n\n| | Farm A (Covina) | Farm B (Claremont) |\n|---|---|---|\n| Homes | 420 | 380 |\n| Sales last 12 months | 27 | 12 |\n| Dominant agent's share | 12% | 38% |\n\n**Walkthrough.**\n1. Turnover A: 27 ÷ 420 = **6.4%**\n2. Turnover B: 12 ÷ 380 = **3.2%**\n3. Farm A has more than double the turnover *and* a fragmented competitive field.\n4. Realistic capture in A at 15% after two years: 27 × 0.15 = **4 transactions/year**\n5. Same capture in B: 12 × 0.15 = **1.8 transactions/year**, against an entrenched competitor holding 38%.\n\n**Farm A.** The lesson is that farm selection is arithmetic before it is preference — many agents farm where they live rather than where the numbers work.\n\n### Example 2 — Return on marketing spend (Inland Empire)\n\nTwo sources over 12 months:\n\n**Portal leads:** $9,600 spent, 240 leads, 3 closings. Average commission to you: $8,900.\n**Farm mail:** $4,200 spent (400 homes × 6 mailings × ~$1.75), 18 direct inquiries, 2 closings.\n\n**Walkthrough.**\n1. Portal CPL: $9,600 ÷ 240 = **$40/lead**; cost per closing: $9,600 ÷ 3 = **$3,200**\n2. Portal ROI: (3 × $8,900 − $9,600) ÷ $9,600 = ($26,700 − $9,600) ÷ $9,600 = **178%**\n3. Farm CPL: $4,200 ÷ 18 = **$233/lead**; cost per closing: $4,200 ÷ 2 = **$2,100**\n4. Farm ROI: (2 × $8,900 − $4,200) ÷ $4,200 = ($17,800 − $4,200) ÷ $4,200 = **324%**\n\nThe farm produced fewer leads at a much higher cost per lead — and a **substantially better return**, because farm leads convert far better than portal leads. Judging sources on cost per lead alone would have led you to exactly the wrong conclusion.\n\n### Example 3 — The referral fee you cannot pay (San Gabriel Valley)\n\nYour unlicensed cousin sends you a buyer who closes at $720,000, earning you $9,000. He asks for \"a few hundred for the referral.\"\n\n**Analysis.** You cannot pay him. Compensating an **unlicensed person** for referring real estate business is prohibited, and the violation belongs to **you** as the payer. It does not matter that the amount is small, that he is family, or that you call it a gift for a referral.\n\nWhat you *can* do: thank him sincerely, take him to dinner as a family member rather than as compensation for business, and be scrupulous about the distinction. If he wants to earn referral income, he needs a license.\n\nRelated trap: a **lender** offering you $500 per closed referral is a RESPA violation (Principles Unit 12), regardless of what it is labeled.\n\n### Example 4 — The text campaign that becomes a lawsuit\n\nAn agent buys a list of 5,000 phone numbers for homeowners in three ZIP codes and sends a mass text: \"Thinking of selling? I have buyers in your neighborhood.\"\n\n**Analysis.** Multiple exposures at once. The numbers were not scrubbed against the DNC registry, there is no established business relationship or prior express consent, and mass texting to cell numbers implicates the autodialer rules that carry **per-message** statutory damages. At 5,000 messages, even a modest per-message figure produces a catastrophic number.\n\nThere is no version of this campaign that is worth running. Build the sphere instead.\n\n## 8. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Sphere of influence (SOI)** | Everyone the agent already has a relationship with; the highest-converting source of business. |\n| **Geographic farm** | A defined neighborhood an agent commits to for consistent, long-term marketing presence. |\n| **Turnover rate** | Homes sold in twelve months divided by total homes; the primary test of a farm's viability. |\n| **Absorption rate** | The pace at which current inventory would sell at the current rate of sales. |\n| **Do Not Call Registry** | The federal registry that must be scrubbed before cold calling consumers, with limited exceptions. |\n| **Established business relationship (EBR)** | A limited, time-bound exception permitting calls to prior clients and inquirers. |\n| **CAN-SPAM** | Federal rules for commercial email: valid postal address, honest headers, working opt-out. |\n| **FSBO** | For sale by owner — lawful to contact subject to DNC rules. |\n| **Expired listing** | A listing that ended without a sale; lawful to contact, subject to the same rules. |\n| **Referral fee** | Compensation for referring business; payable broker-to-broker, never to unlicensed persons. |\n| **Cost per lead (CPL)** | Marketing spend divided by leads generated from that source. |\n| **Cost per closing** | Marketing spend divided by closings attributable to that source — the more meaningful measure. |\n\n## 9. Practice Tips\n\n- **Build the CRM in week one** and put every contact in it before you need them.\n- **Scrub before you call.** DNC compliance is not optional, and penalties are per call.\n- **Never mass text purchased numbers.** This is the single fastest way to create a serious claim.\n- **Judge sources by cost per closing and ROI**, not cost per lead.\n- **Choose farms by turnover and competition**, not by where you happen to live.\n- **Route every referral payment question through your broker** before money moves.\n- **Audit your own targeting** for patterns you did not intend.\n\n## 10. Unit Assessment\n\nThe 18-question assessment for this unit lives in `/content/question-bank/practice/unit-02.json` with full per-option rationales.",
+  "word_count": 2327,
+  "questions": [
+    {
+      "id": "PRAC-02-001",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 2,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Ranked by conversion rate rather than volume, the highest-performing source of business for most agents is:",
+      "options": [
+        "Purchased online portal leads",
+        "Repeat clients and direct referrals",
+        "Cold calling expired listings",
+        "Paid social media advertising"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Portal leads deliver volume at low conversion and immediate cost.",
+        "Correct. Repeat clients and referrals convert at the highest rate and cost the least, though they lag — which is why new agents must build the sphere early.",
+        "Cold outreach has the lowest conversion and highest rejection of the common sources.",
+        "Paid social generates volume but converts well below relationship-based sources."
+      ],
+      "terms": [
+        "sphere of influence (SOI)"
+      ]
+    },
+    {
+      "id": "PRAC-02-002",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 2,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A farm area contains 420 homes with 27 sales in the past twelve months. Its turnover rate is approximately:",
+      "options": [
+        "3.2%",
+        "6.4%",
+        "15.6%",
+        "0.64%"
+      ],
+      "answer": 1,
+      "rationales": [
+        "3.2% would correspond to about 13 sales in this area.",
+        "Correct. Turnover = 27 ÷ 420 = 0.064, or about 6.4% — comfortably above the roughly 4–5% threshold below which farming becomes slow going.",
+        "15.6% inverts the calculation.",
+        "0.64% misplaces a decimal."
+      ],
+      "terms": [
+        "turnover rate",
+        "geographic farm"
+      ]
+    },
+    {
+      "id": "PRAC-02-003",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 2,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "Two farms are under consideration. Farm A: 6.4% turnover, dominant agent holds 12%. Farm B: 3.2% turnover, dominant agent holds 38%. The better choice is:",
+      "options": [
+        "Farm B, because less turnover means less competition",
+        "Farm A, because it has higher turnover and a fragmented competitive field",
+        "Farm B, because an established agent proves the area is valuable",
+        "Either; farm selection is a matter of personal preference"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Low turnover means fewer transactions available, not less competition.",
+        "Correct. Farm A offers double the sales opportunity against a fragmented field, while Farm B pairs half the opportunity with an entrenched 38% competitor.",
+        "A dominant competitor makes market entry harder, not more attractive.",
+        "Farm selection is arithmetic before it is preference — many agents farm where they live rather than where the numbers work."
+      ],
+      "terms": [
+        "turnover rate",
+        "geographic farm"
+      ]
+    },
+    {
+      "id": "PRAC-02-004",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 2,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Before cold calling homeowners, a licensee must:",
+      "options": [
+        "Obtain written consent from each household",
+        "Scrub the numbers against the National Do Not Call Registry and maintain an internal do-not-call list",
+        "Notify the DRE of the campaign",
+        "Register the campaign with the local association"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Written consent is not required for all calls, but DNC compliance is.",
+        "Correct. Numbers must be scrubbed against the DNC registry and the caller must maintain an internal do-not-call list, with limited exceptions for established business relationships and inquiries.",
+        "The DRE does not register telemarketing campaigns.",
+        "Association registration is not a legal requirement for calling."
+      ],
+      "terms": [
+        "Do Not Call Registry"
+      ]
+    },
+    {
+      "id": "PRAC-02-005",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 2,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An agent purchases 5,000 phone numbers and sends a mass marketing text to all of them. The principal legal exposure is:",
+      "options": [
+        "A DRE advertising violation only",
+        "Statutory damages assessed per message under the rules governing autodialed texts to cell phones",
+        "A RESPA violation",
+        "No exposure, since texts are not calls"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Advertising rules are implicated, but the ruinous exposure is elsewhere.",
+        "Correct. Texts are treated as calls, mass messaging to cell numbers without prior express consent implicates the autodialer rules, and damages are assessed per message — which is how a 5,000-message campaign becomes a catastrophic claim.",
+        "RESPA governs settlement service referrals, not text marketing.",
+        "Text messages are treated as calls for these purposes."
+      ],
+      "terms": [
+        "Do Not Call Registry"
+      ]
+    },
+    {
+      "id": "PRAC-02-006",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 2,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Under CAN-SPAM, a commercial marketing email must include:",
+      "options": [
+        "The recipient's prior written consent",
+        "A valid physical postal address and a working opt-out mechanism",
+        "The broker's license number in the subject line",
+        "A read receipt request"
+      ],
+      "answer": 1,
+      "rationales": [
+        "CAN-SPAM operates on an opt-out rather than opt-in model.",
+        "Correct. Commercial email requires honest headers and subject lines, a valid physical postal address, and a functioning opt-out that is honored promptly.",
+        "License numbers belong in advertising per DRE rules but are not a CAN-SPAM subject-line requirement.",
+        "Read receipts have no bearing on compliance."
+      ],
+      "terms": [
+        "CAN-SPAM"
+      ]
+    },
+    {
+      "id": "PRAC-02-007",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 2,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Contacting for-sale-by-owner sellers is:",
+      "options": [
+        "Prohibited, because they have not requested representation",
+        "Lawful, subject to Do Not Call and other solicitation rules",
+        "Lawful only after the property has been listed and expired",
+        "Prohibited unless the seller initiates contact"
+      ],
+      "answer": 1,
+      "rationales": [
+        "FSBOs may lawfully be contacted; no prohibition arises from their unrepresented status.",
+        "Correct. FSBO outreach is lawful but remains subject to DNC scrubbing, calling-hour restrictions, and the other solicitation rules.",
+        "No such sequencing requirement exists.",
+        "Agents may initiate contact within the applicable solicitation rules."
+      ],
+      "terms": [
+        "FSBO",
+        "Do Not Call Registry"
+      ]
+    },
+    {
+      "id": "PRAC-02-008",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 2,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An unlicensed friend refers a buyer who closes, and asks the agent for $300 as thanks. The agent may:",
+      "options": [
+        "Pay it, because the amount is nominal",
+        "Not pay it, because compensating an unlicensed person for referring real estate business is prohibited",
+        "Pay it through the brokerage to make it lawful",
+        "Pay it if the buyer consents in writing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The prohibition does not turn on the size of the payment.",
+        "Correct. Paying an unlicensed person for a real estate referral is prohibited, and the violation belongs to the payer — routing it through a broker does not cure it.",
+        "The brokerage cannot lawfully make a payment the licensee could not make.",
+        "Client consent is irrelevant to the licensing prohibition."
+      ],
+      "terms": [
+        "referral fee"
+      ]
+    },
+    {
+      "id": "PRAC-02-009",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 2,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A broker may lawfully pay a referral fee to:",
+      "options": [
+        "An unlicensed past client",
+        "Another licensed broker, including one licensed in another state",
+        "A lender who sends buyer referrals",
+        "Any person who introduces a client"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Unlicensed persons may not be compensated for real estate referrals.",
+        "Correct. Broker-to-broker referral fees are permitted, including across state lines.",
+        "Paying a lender for referrals — or accepting payment from one — implicates RESPA's prohibition on referral compensation for settlement services.",
+        "Compensation depends on licensure, not on who made the introduction."
+      ],
+      "terms": [
+        "referral fee"
+      ]
+    },
+    {
+      "id": "PRAC-02-010",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 2,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "Portal leads: $9,600 spent, 3 closings averaging $8,900 commission. Farm mail: $4,200 spent, 2 closings at the same average. Comparing return on investment:",
+      "options": [
+        "Portal leads, at about 178% versus the farm's 324%",
+        "Farm mail, at about 324% versus the portal's 178%",
+        "They are equivalent",
+        "Portal leads, because they produced more closings"
+      ],
+      "answer": 1,
+      "rationales": [
+        "This reverses which source produced the higher return.",
+        "Correct. Portal: (3 × 8,900 − 9,600) ÷ 9,600 = 178%. Farm: (2 × 8,900 − 4,200) ÷ 4,200 = 324%. The farm generated far fewer leads at a much higher cost per lead, yet returned nearly double.",
+        "The returns differ substantially.",
+        "Closing count alone does not measure return; the farm produced fewer closings at far lower cost."
+      ],
+      "terms": [
+        "cost per closing",
+        "cost per lead (CPL)"
+      ]
+    },
+    {
+      "id": "PRAC-02-011",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 2,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Judging lead sources by cost per lead alone is misleading because:",
+      "options": [
+        "Cost per lead is impossible to calculate accurately",
+        "Sources with high cost per lead often convert far better, producing a lower cost per closing",
+        "Lead volume is the only meaningful metric",
+        "Marketing spend is not deductible"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Cost per lead is straightforward to compute; the issue is what it omits.",
+        "Correct. A source can look expensive per lead and still be the best investment, because conversion determines cost per closing and return — which is why relationship-based sources outperform cheap volume.",
+        "Volume without conversion produces activity, not income.",
+        "Marketing expenses are generally deductible; that is unrelated to source evaluation."
+      ],
+      "terms": [
+        "cost per lead (CPL)",
+        "cost per closing"
+      ]
+    },
+    {
+      "id": "PRAC-02-012",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 2,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An agent configures a digital housing ad to exclude certain ZIP codes with predominantly minority populations. This is:",
+      "options": [
+        "Lawful, because geographic targeting is a business decision",
+        "Potentially unlawful discrimination, because geographic exclusion can serve as a proxy for protected characteristics",
+        "Lawful if the agent does not live in those areas",
+        "Lawful if the excluded areas are outside the agent's farm"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Geographic choices are not automatically neutral when they track protected characteristics.",
+        "Correct. Targeting or excluding audiences by proxies for protected characteristics can produce unlawful discrimination, and enforcement actions over discriminatory housing ad targeting are why platforms now restrict housing ads.",
+        "Where the agent lives has no bearing on the legality of the targeting.",
+        "Farm boundaries do not immunize exclusions that correlate with protected characteristics."
+      ],
+      "terms": [
+        "geographic farm"
+      ]
+    },
+    {
+      "id": "PRAC-02-013",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 2,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "The professionally sound approach to an expired listing is to:",
+      "options": [
+        "Explain why the previous agent was incompetent",
+        "Diagnose the likely cause — usually price, condition, or exposure — without disparaging the prior licensee",
+        "Offer to list below market to guarantee a sale",
+        "Contact the seller repeatedly until they respond"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Disparaging another licensee is unprofessional and conflicts with ethical obligations toward other agents.",
+        "Correct. Expired sellers have just had a disappointing experience and will hear from many agents at once; honest diagnosis differentiates without criticizing a colleague.",
+        "Deliberately underpricing to win a listing does not serve the client's interest.",
+        "Repeated unwanted contact raises solicitation compliance problems and damages credibility."
+      ],
+      "terms": [
+        "expired listing"
+      ]
+    },
+    {
+      "id": "PRAC-02-014",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 2,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A 400-home farm turns over at 5% annually. Capturing 15% of that market would produce approximately:",
+      "options": [
+        "20 transactions per year",
+        "3 transactions per year",
+        "6 transactions per year",
+        "60 transactions per year"
+      ],
+      "answer": 1,
+      "rationales": [
+        "20 is the total number of sales in the farm, not the agent's share.",
+        "Correct. 400 × 0.05 = 20 sales annually; 20 × 0.15 = 3 transactions — meaningful, and realistic only after sustained presence.",
+        "6 would represent a 30% capture rate.",
+        "60 exceeds the total sales occurring in the farm."
+      ],
+      "terms": [
+        "geographic farm",
+        "turnover rate"
+      ]
+    },
+    {
+      "id": "PRAC-02-015",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 2,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "The most important discipline in working a sphere of influence is:",
+      "options": [
+        "Sending highly creative campaigns",
+        "Consistent, useful contact sustained over years",
+        "Contacting everyone weekly",
+        "Limiting outreach to people likely to move soon"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Creativity without consistency produces short bursts and no compounding.",
+        "Correct. An agent who contacts 200 people four times a year, every year, will outperform one who runs brilliant campaigns for three months and stops.",
+        "Weekly contact is excessive and produces unsubscribes rather than relationships.",
+        "Predicting who will move is unreliable; broad consistent contact captures referrals as well as direct business."
+      ],
+      "terms": [
+        "sphere of influence (SOI)"
+      ]
+    },
+    {
+      "id": "PRAC-02-016",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 2,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A lender offers an agent $500 for each buyer referral that closes a loan. Accepting this would violate:",
+      "options": [
+        "Only the brokerage's internal policy",
+        "RESPA's prohibition on compensation for referrals of settlement services",
+        "The statute of frauds",
+        "Nothing, if disclosed to the buyer"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The violation is statutory, not merely a policy matter.",
+        "Correct. RESPA prohibits giving or accepting anything of value for referring settlement service business; only payment for services actually performed at fair market value is permitted, and labeling it a marketing fee changes nothing.",
+        "The statute of frauds concerns which contracts must be written.",
+        "Disclosure does not cure a prohibited referral fee."
+      ],
+      "terms": [
+        "referral fee"
+      ]
+    },
+    {
+      "id": "PRAC-02-017",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 2,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Geographic farming typically produces meaningful return after:",
+      "options": [
+        "The first mailing",
+        "Roughly 6 to 18 months of consistent presence",
+        "One week of door knocking",
+        "It never produces measurable return"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A single mailing produces recognition at best, not transactions.",
+        "Correct. Farming is a multi-year investment; expect 6 to 18 months before meaningful return, which is why abandoning a farm early wastes the entire prior spend.",
+        "Sustained presence over months is what builds the recognition that generates listings.",
+        "Farming produces durable return once established, as the ROI comparison in this unit shows."
+      ],
+      "terms": [
+        "geographic farm"
+      ]
+    },
+    {
+      "id": "PRAC-02-018",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 2,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A new licensee's most cost-effective first prospecting action is to:",
+      "options": [
+        "Purchase a portal lead package",
+        "Contact everyone already in their personal network and tell them they are licensed",
+        "Begin cold calling expired listings",
+        "Launch a paid social advertising campaign"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Purchased leads cost money during the period when cash is scarcest and convert poorly.",
+        "Correct. The sphere costs nothing, converts best, and telling forty people you know will outperform a month of purchased leads.",
+        "Cold outreach has the lowest conversion and is heavily regulated.",
+        "Paid advertising spends scarce capital on the lowest-converting channel."
+      ],
+      "terms": [
+        "sphere of influence (SOI)"
+      ]
+    }
+  ]
+}

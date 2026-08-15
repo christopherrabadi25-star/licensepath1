@@ -1,0 +1,517 @@
+{
+  "id": "legal-aspects-10",
+  "course_slug": "legal-aspects",
+  "unit_number": 10,
+  "title": "Fair Housing & Civil Rights Law (Federal + California)",
+  "estimated_hours": 3,
+  "blueprint_areas": [
+    "practice-disclosures",
+    "ownership-land-use"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Compare** the federal Fair Housing Act's protected classes with California's broader protections under the Unruh Act and FEHA.\n2. **Distinguish** disparate treatment from disparate impact discrimination theories.\n3. **Apply** the legal definitions of steering, redlining, and blockbuking to real transaction facts.\n4. **Explain** reasonable accommodation and reasonable modification obligations for disability.\n5. **Identify** the enforcement bodies and remedies available under federal and California fair housing law.\n6. **Analyze** advertising language for fair housing compliance risk.\n7. **Recognize** the limits of familiarity as a defense — \"I didn't mean it that way\" is not a legal standard.\n\n---\n\n## 1. Two Overlapping Legal Systems\n\nReal estate fair housing law in California operates on two tracks simultaneously: the **federal Fair Housing Act (FHA)**, and California's own, broader protections under the **Unruh Civil Rights Act** and the **Fair Employment and Housing Act (FEHA)**. Where the two conflict or one is broader, **the more protective standard generally controls** in California — meaning California's expanded protected class list matters even when federal law would not reach a particular fact pattern.\n\n**Federal FHA protected classes:** race, color, national origin, religion, sex (including sexual orientation and gender identity under current federal interpretation), familial status, and disability. <!-- VERIFY: confirm current federal regulatory/enforcement position on sexual orientation and gender identity coverage, an area with evolving federal guidance -->\n\n**California's protected classes are broader**, additionally covering (among others) marital status, source of income (including housing vouchers), age, ancestry, genetic information, military/veteran status, citizenship/immigration status, and primary language. <!-- VERIFY: current complete FEHA/Unruh protected class list, which has been amended multiple times -->\n\n**Source-of-income protection deserves special attention**: a landlord in California generally cannot refuse to rent to a qualified applicant *because* they intend to pay with a Section 8 voucher or other lawful income source — treating voucher income differently from a paycheck is discrimination under California law, even though it is not necessarily protected the same way federally in every jurisdiction.\n\n## 2. Disparate Treatment vs. Disparate Impact\n\n**Disparate treatment** is intentional discrimination — treating someone differently *because of* a protected characteristic. It is the more intuitive theory: refusing to show a property to a family with children, quoting a higher rent to a prospective tenant because of their national origin, or refusing to negotiate with a buyer because of religion.\n\n**Disparate impact** does not require intent. It applies when a facially neutral policy or practice — one that does not mention any protected class — has a *statistically disproportionate discriminatory effect* on a protected group, and the policy is not justified by a legitimate business necessity that cannot be achieved through a less discriminatory alternative. A blanket \"no criminal history of any kind, ever\" rental policy, for example, can raise a disparate impact concern because criminal history statistics correlate with race in ways that are well documented — even though the policy never mentions race. <!-- VERIFY: current HUD guidance on criminal history screening policies and disparate impact analysis, an actively litigated and shifting area -->\n\n**Why this distinction matters to agents:** a well-meaning, \"neutral\" screening or marketing practice can still violate fair housing law if its *effect* falls disproportionately on a protected group — good intent is a defense to disparate treatment, but it is not a defense to disparate impact.\n\n### Worked Example 1 — A neutral-sounding policy with a real effect (Rancho Cucamonga)\n\nA property manager instructs agents to only show a listing to applicants with a minimum credit score of 750 — well above what is needed to reasonably ensure the tenant can pay rent — with no consideration of alternative proof of ability to pay.\n\n**Analysis.** Even though the policy never mentions a protected class, credit-score requirements set well above genuine business necessity can produce a statistically disparate effect on protected groups, given documented disparities in credit access. This does not mean *no* credit screening is permissible — it means the screening criteria should be tied to a genuine, defensible business necessity (ability to pay rent reliably) rather than set arbitrarily high, and the agent implementing an owner's screening policy should recognize this risk rather than assume \"it's neutral, so it's fine.\"\n\n## 3. Steering, Redlining, and Blockbuking\n\n**Steering** is directing prospective buyers or renters toward or away from particular neighborhoods based on a protected characteristic — even subtly, even with good intentions (\"I think you'd be happier in this neighborhood\" said to a family of a particular ethnicity, based on assumptions about that neighborhood's demographics, is steering).\n\n**Redlining** is the historical and ongoing practice of denying or limiting financial services (loans, insurance) to residents of certain areas based on the racial or ethnic composition of those areas, rather than individual creditworthiness.\n\n**Blockbuking** is inducing panic selling by suggesting (explicitly or implicitly) that the entry of protected-class residents into a neighborhood will cause property values to decline — a historically devastating practice that fair housing law specifically targets.\n\nEach of these can occur through language that sounds like ordinary real estate talk. \"That area has really changed\" or \"you'd probably want to look somewhere with better schools\" said with an unstated assumption about who lives where is exactly the kind of coded language fair housing testing is designed to catch.\n\n## 4. Reasonable Accommodation and Reasonable Modification\n\nDisability protections include two distinct affirmative obligations that agents frequently confuse:\n\n- A **reasonable accommodation** is a change to a *rule, policy, or practice* — for example, permitting an assistance animal despite a no-pets policy, or allowing a reserved accessible parking space.\n- A **reasonable modification** is a change to the *physical structure* — for example, installing a wheelchair ramp or grab bars.\n\n**The cost allocation differs**: a landlord generally must provide a reasonable accommodation at the landlord's own expense (subject to genuine undue-burden limits), while a tenant seeking a reasonable modification to a private rental unit generally bears the cost of the modification, though the landlord must permit it if reasonable, and in some cases must restore the unit to its original condition at move-out. <!-- VERIFY: current statutory cost-allocation and restoration rules for reasonable modifications in California rental housing -->\n\n**An assistance/support animal is not a \"pet\"** for fair housing purposes and cannot be subject to pet deposits, breed restrictions, or pet rent — this remains one of the most frequently litigated and frequently mishandled fair housing issues in rental housing.\n\n### Worked Example 2 — The emotional support animal request (Ontario)\n\nA tenant with documentation from a healthcare provider requests to keep a dog as an emotional support animal in a building with a strict no-pets policy and breed restrictions that would otherwise exclude that dog's breed.\n\n**Analysis.** This is a reasonable accommodation request, not a pet request. Provided the documentation is legitimate and the animal does not pose a direct threat or fundamentally alter the nature of the housing, the landlord generally must grant the accommodation — the no-pets policy and breed restriction do not apply to a qualifying assistance animal. An agent or property manager who denies this request by applying the ordinary pet policy is very likely violating fair housing law, and this is a frequent source of real litigation and settlements.\n\n## 5. Enforcement and Remedies\n\nFair housing complaints can be pursued through multiple bodies simultaneously or in sequence:\n\n- **HUD** (federal) investigates FHA complaints and can refer cases for administrative or judicial enforcement.\n- **California's Civil Rights Department (CRD)** (formerly DFEH) investigates FEHA/Unruh complaints and can pursue administrative or civil action.\n- **Private civil lawsuits** are also available directly, without exhausting an administrative process first, under both federal and California law.\n- **Fair housing \"testers\"** — individuals who pose as prospective buyers or renters specifically to detect discriminatory treatment — have **legal standing to sue** even though they never genuinely intended to rent or buy, and their evidence is generally admissible.\n\n**Remedies can include** actual damages, statutory/civil penalties, injunctive relief (changing a policy going forward), and attorney's fees — and for real estate licensees specifically, a fair housing violation also risks license discipline independent of any civil liability.\n\n## 6. Advertising Compliance\n\nFair housing law reaches marketing and advertising directly: any published statement, limitation, or preference based on a protected class is prohibited, even if the property itself is otherwise available to everyone. This includes photography and phrasing that signal a preference (e.g., describing a property as ideal for a particular family type, or using imagery that consistently excludes certain groups across a marketing campaign) as well as explicit language.\n\n**The practical discipline:** describe the property, not the imagined resident. \"Great starter home, walkable to parks\" is safe; \"perfect for a young family\" edges toward familial-status-coded language and should be avoided even though it may feel like harmless marketing copy.\n\n## 7. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Disparate treatment** | Intentional discrimination based on a protected characteristic. |\n| **Disparate impact** | A facially neutral policy with a statistically disproportionate discriminatory effect, without a defensible business necessity. |\n| **Steering** | Directing prospects toward or away from neighborhoods based on a protected characteristic. |\n| **Redlining** | Denying or limiting financial services based on an area's racial/ethnic composition. |\n| **Blockbuking** | Inducing panic selling by suggesting protected-class residents will lower property values. |\n| **Reasonable accommodation** | A required change to a rule or policy for a person with a disability. |\n| **Reasonable modification** | A required allowance for a physical structural change for a person with a disability. |\n| **Source of income protection** | California's protection against discrimination based on lawful income source, including housing vouchers. |\n| **Civil Rights Department (CRD)** | California's state agency enforcing FEHA and Unruh Act housing protections. |\n\n## 8. Exam and Practice Tips\n\n- California's protected class list is broader than federal FHA's — source of income, marital status, and ancestry are commonly tested California-specific additions.\n- Disparate impact does not require intent — good intentions are not a defense when a neutral policy has a discriminatory statistical effect.\n- Know the three coded practices by name and definition: steering, redlining, blockbuking.\n- Reasonable accommodation = policy change (landlord's cost); reasonable modification = physical change (often tenant's cost, landlord must permit).\n- Assistance animals are never \"pets\" for fair housing purposes — no pet deposit, no breed restriction.\n- Testers have standing to sue even without genuine intent to rent or buy — this is a frequently tested exam point.\n- Advertising language describing an \"ideal\" resident type, not just the property, is a common compliance trap.\n\n## 9. Unit Assessment\n\nThe 20-question assessment lives in `/content/question-bank/legal-aspects/unit-10.json` with full per-option rationales.",
+  "word_count": 1784,
+  "questions": [
+    {
+      "id": "LEGAL-10-001",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "When federal and California fair housing protections differ, California real estate practice generally follows:",
+      "options": [
+        "Only the federal standard",
+        "The more protective standard, typically California's broader list",
+        "Whichever standard the agent prefers",
+        "Only local city ordinances"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Federal law alone would omit California-specific protections.",
+        "Correct. The more protective standard generally controls in California.",
+        "Agent preference does not determine which law applies.",
+        "Local ordinances may add further protections but do not replace this rule."
+      ],
+      "terms": [
+        "Civil Rights Department (CRD)"
+      ]
+    },
+    {
+      "id": "LEGAL-10-002",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which is a California-specific protected class not guaranteed the same way under the federal FHA?",
+      "options": [
+        "Race",
+        "Source of income",
+        "National origin",
+        "Disability"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Race is a federal protected class.",
+        "Correct. Source of income, including housing vouchers, is a notable California-specific expansion.",
+        "National origin is a federal protected class.",
+        "Disability is a federal protected class."
+      ],
+      "terms": [
+        "source of income protection"
+      ]
+    },
+    {
+      "id": "LEGAL-10-003",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Refusing to rent to a qualified applicant because they intend to pay with a housing voucher is:",
+      "options": [
+        "Permitted, since vouchers are not guaranteed income",
+        "Discrimination under California's source-of-income protection",
+        "Only a federal violation",
+        "Allowed if disclosed in advance"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Voucher-based refusal is not permitted in California.",
+        "Correct. Treating voucher income differently from other lawful income is discriminatory under California law.",
+        "This is specifically a California-law issue as much as federal.",
+        "Advance disclosure of an intent to discriminate does not make it lawful."
+      ],
+      "terms": [
+        "source of income protection"
+      ]
+    },
+    {
+      "id": "LEGAL-10-004",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "Disparate treatment requires:",
+      "options": [
+        "A neutral policy with unequal statistical effect",
+        "Intentional differential treatment because of a protected characteristic",
+        "No proof of intent whatsoever",
+        "Only a written policy"
+      ],
+      "answer": 1,
+      "rationales": [
+        "That describes disparate impact, not treatment.",
+        "Correct. Disparate treatment is intentional discrimination.",
+        "Disparate treatment requires intent, unlike disparate impact.",
+        "It can occur through unwritten conduct, not only written policy."
+      ],
+      "terms": [
+        "disparate treatment"
+      ]
+    },
+    {
+      "id": "LEGAL-10-005",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "Disparate impact liability can arise from:",
+      "options": [
+        "Only explicit statements naming a protected class",
+        "A facially neutral policy with a statistically disproportionate discriminatory effect and no defensible business necessity",
+        "Only intentional acts",
+        "Advertising alone, never screening policies"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Explicit statements are more typical of disparate treatment.",
+        "Correct. Disparate impact targets neutral policies with discriminatory effect, absent a valid business necessity.",
+        "Intent is not required for disparate impact.",
+        "Screening policies, not just advertising, can trigger disparate impact analysis."
+      ],
+      "terms": [
+        "disparate impact"
+      ]
+    },
+    {
+      "id": "LEGAL-10-006",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A property manager sets a minimum credit score requirement well above what is needed to ensure ability to pay rent, with no alternative proof-of-payment option. This practice most directly raises a concern under:",
+      "options": [
+        "Disparate treatment theory only",
+        "Disparate impact theory",
+        "The parol evidence rule",
+        "The Statute of Frauds"
+      ],
+      "answer": 1,
+      "rationales": [
+        "There is no stated intent to discriminate, so disparate treatment is not the primary theory here.",
+        "Correct. A facially neutral criterion set well above business necessity can have a disparate statistical effect.",
+        "The parol evidence rule is unrelated.",
+        "The Statute of Frauds is unrelated."
+      ],
+      "terms": [
+        "disparate impact"
+      ]
+    },
+    {
+      "id": "LEGAL-10-007",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Steering is best described as:",
+      "options": [
+        "Denying loans based on neighborhood racial composition",
+        "Directing prospects toward or away from neighborhoods based on a protected characteristic",
+        "Inducing panic selling based on demographic change",
+        "Requiring a credit check"
+      ],
+      "answer": 1,
+      "rationales": [
+        "That describes redlining.",
+        "Correct. Steering directs prospects based on a protected characteristic.",
+        "That describes blockbuking.",
+        "Credit checks alone are not steering."
+      ],
+      "terms": [
+        "steering"
+      ]
+    },
+    {
+      "id": "LEGAL-10-008",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Redlining is best described as:",
+      "options": [
+        "Directing buyers to specific listings",
+        "Denying or limiting financial services based on an area's racial or ethnic composition",
+        "A property line dispute",
+        "A type of zoning variance"
+      ],
+      "answer": 1,
+      "rationales": [
+        "That describes steering, not redlining.",
+        "Correct. Redlining denies or limits services based on area demographics rather than individual creditworthiness.",
+        "It is unrelated to boundary disputes.",
+        "It is unrelated to zoning variances."
+      ],
+      "terms": [
+        "redlining"
+      ]
+    },
+    {
+      "id": "LEGAL-10-009",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Blockbuking involves:",
+      "options": [
+        "Inducing panic selling by suggesting protected-class residents will lower property values",
+        "A method of legal description",
+        "A type of foreclosure",
+        "A form of dual agency"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Blockbuking exploits fear of demographic change to induce panic sales.",
+        "It is unrelated to legal descriptions.",
+        "It is unrelated to foreclosure.",
+        "It is unrelated to dual agency."
+      ],
+      "terms": [
+        "blockbuking"
+      ]
+    },
+    {
+      "id": "LEGAL-10-010",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An agent tells a family, based on assumptions about the neighborhood's demographics, 'I think you'd be happier somewhere else.' This is most accurately an example of:",
+      "options": [
+        "Legitimate market advice",
+        "Steering",
+        "A reasonable accommodation",
+        "Blockbuking"
+      ],
+      "answer": 1,
+      "rationales": [
+        "This is not legitimate neutral advice; it is based on protected-class assumptions.",
+        "Correct. Directing prospects based on assumed characteristics is steering, even when framed helpfully.",
+        "This is unrelated to disability accommodation.",
+        "This does not involve inducing panic selling."
+      ],
+      "terms": [
+        "steering"
+      ]
+    },
+    {
+      "id": "LEGAL-10-011",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A reasonable accommodation is:",
+      "options": [
+        "A required physical structural change",
+        "A required change to a rule, policy, or practice",
+        "Always paid for by the tenant",
+        "Optional even for legitimate disability needs"
+      ],
+      "answer": 1,
+      "rationales": [
+        "That describes a reasonable modification.",
+        "Correct. Accommodation involves policy/rule changes, generally at the landlord's expense.",
+        "Accommodations are generally provided at the landlord's expense, not the tenant's.",
+        "It is a required obligation, not optional, when legitimate and reasonable."
+      ],
+      "terms": [
+        "reasonable accommodation"
+      ]
+    },
+    {
+      "id": "LEGAL-10-012",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A reasonable modification is:",
+      "options": [
+        "A change to a rule or policy",
+        "A physical structural change, often at the tenant's expense",
+        "Never permitted in rental housing",
+        "The same thing as a reasonable accommodation"
+      ],
+      "answer": 1,
+      "rationales": [
+        "That describes a reasonable accommodation.",
+        "Correct. Modifications are physical changes, and the tenant often bears the cost though the landlord must permit it.",
+        "Landlords generally must permit reasonable modifications.",
+        "They are legally distinct concepts, though related."
+      ],
+      "terms": [
+        "reasonable modification"
+      ]
+    },
+    {
+      "id": "LEGAL-10-013",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A tenant with legitimate documentation requests an emotional support animal in a building with a strict no-pets policy and breed restrictions. The landlord should generally:",
+      "options": [
+        "Apply the no-pets policy and breed restriction as written",
+        "Treat this as a reasonable accommodation request and grant it absent a direct threat or fundamental alteration",
+        "Charge a pet deposit and pet rent",
+        "Deny it automatically since it is a dog"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The no-pets policy and breed restrictions do not apply to a qualifying assistance animal.",
+        "Correct. This is an accommodation request, generally required to be granted when legitimate.",
+        "Assistance animals cannot be charged pet deposits or pet rent.",
+        "Automatic denial based on species or breed is not the correct standard."
+      ],
+      "terms": [
+        "reasonable accommodation"
+      ]
+    },
+    {
+      "id": "LEGAL-10-014",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "An assistance/support animal for fair housing purposes is treated as:",
+      "options": [
+        "A pet subject to standard pet policies",
+        "Not a pet, and not subject to pet deposits or breed restrictions",
+        "Only allowed with special written permission from HUD",
+        "Prohibited in all rental housing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It is not treated as an ordinary pet.",
+        "Correct. Fair housing law excludes qualifying assistance animals from pet policies, deposits, and breed restrictions.",
+        "No separate HUD permission process is required for this protection to apply.",
+        "It is not prohibited; it must generally be accommodated."
+      ],
+      "terms": [
+        "reasonable accommodation"
+      ]
+    },
+    {
+      "id": "LEGAL-10-015",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Federal fair housing complaints are investigated primarily by:",
+      "options": [
+        "The IRS",
+        "HUD",
+        "The county assessor",
+        "The DRE only"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The IRS is unrelated to fair housing enforcement.",
+        "Correct. HUD investigates federal Fair Housing Act complaints.",
+        "The assessor is unrelated to fair housing enforcement.",
+        "The DRE handles licensee discipline but is not the primary federal enforcement body."
+      ],
+      "terms": [
+        "Civil Rights Department (CRD)"
+      ]
+    },
+    {
+      "id": "LEGAL-10-016",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "California's state agency enforcing FEHA and Unruh Act housing protections is:",
+      "options": [
+        "HUD",
+        "The Civil Rights Department (CRD)",
+        "DFPI",
+        "The DRE"
+      ],
+      "answer": 1,
+      "rationales": [
+        "HUD is the federal enforcement agency.",
+        "Correct. California's Civil Rights Department (formerly DFEH) enforces FEHA and Unruh Act housing protections.",
+        "DFPI regulates financial services, not fair housing enforcement.",
+        "The DRE handles real estate licensing, not the primary fair housing enforcement body."
+      ],
+      "terms": [
+        "Civil Rights Department (CRD)"
+      ]
+    },
+    {
+      "id": "LEGAL-10-017",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A fair housing tester who never genuinely intended to rent a unit but posed as a prospect to detect discrimination:",
+      "options": [
+        "Has no legal standing to sue",
+        "Has legal standing to sue, and their evidence is generally admissible",
+        "Can only report findings to the press",
+        "Must disclose their tester status before visiting a property"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Testers do have recognized legal standing.",
+        "Correct. Testers have standing to sue, and their evidence is generally admissible despite lacking genuine rental intent.",
+        "Testers can pursue formal legal remedies, not only press reporting.",
+        "Testers are not required to disclose their status in advance to be effective and have standing."
+      ],
+      "terms": [
+        "fair housing testers"
+      ]
+    },
+    {
+      "id": "LEGAL-10-018",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Marketing language describing a listing as 'perfect for a young family' raises a compliance concern because it:",
+      "options": [
+        "Is always illegal regardless of context",
+        "Edges toward familial-status-coded language that should be avoided",
+        "Is required for effective marketing",
+        "Only matters for rental listings, never sales"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Context matters, but this phrasing carries real risk and should be avoided.",
+        "Correct. It signals a preferred resident type tied to a protected characteristic.",
+        "Effective marketing can and should avoid such language.",
+        "Advertising rules apply to both sales and rental marketing."
+      ],
+      "terms": [
+        "advertising compliance"
+      ]
+    },
+    {
+      "id": "LEGAL-10-019",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Remedies for a fair housing violation can include:",
+      "options": [
+        "Only a verbal warning",
+        "Actual damages, penalties, injunctive relief, and attorney's fees, plus possible license discipline for a real estate licensee",
+        "No remedies unless HUD sues personally",
+        "Only criminal prosecution"
+      ],
+      "answer": 1,
+      "rationales": [
+        "This undersells the range of available remedies.",
+        "Correct. Multiple remedies exist, and licensees face independent license discipline risk.",
+        "Private lawsuits are also available without requiring HUD to be the plaintiff.",
+        "Criminal prosecution is not the typical primary remedy in most fair housing cases."
+      ],
+      "terms": [
+        "Civil Rights Department (CRD)"
+      ]
+    },
+    {
+      "id": "LEGAL-10-020",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Good intent is:",
+      "options": [
+        "A complete defense to both disparate treatment and disparate impact claims",
+        "A defense to disparate treatment but not to disparate impact",
+        "A defense to disparate impact but not disparate treatment",
+        "Never relevant to either theory"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Good intent does not fully defeat disparate impact claims.",
+        "Correct. Lack of intent can defeat disparate treatment but does not excuse a discriminatory statistical effect under disparate impact.",
+        "This reverses the correct relationship.",
+        "Intent is relevant, particularly to disparate treatment claims."
+      ],
+      "terms": [
+        "disparate impact"
+      ]
+    }
+  ]
+}

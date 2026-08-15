@@ -1,0 +1,472 @@
+{
+  "id": "practice-09",
+  "course_slug": "practice",
+  "unit_number": 9,
+  "title": "Contract-to-Close: Contingency Management, Timelines & Escrow Coordination",
+  "estimated_hours": 3,
+  "blueprint_areas": [
+    "contracts",
+    "transfer"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Build** a transaction timeline from the acceptance date and calendar every deadline.\n2. **Manage** contingency removal under California's active removal regime.\n3. **Apply** the notice to perform and cancellation procedures correctly.\n4. **Coordinate** escrow, lender, title, and inspection workflows.\n5. **Negotiate** repair requests without converting an as-is sale into a warranty.\n6. **Diagnose** the common causes of failed escrows and intervene early.\n7. **Calculate** deadline dates and understand what \"time is of the essence\" makes material.\n\n---\n\n## 1. Day One: Build the Timeline\n\nThe single highest-value hour in any transaction is the one immediately after acceptance, spent building the calendar.\n\n**From the acceptance date, calendar:**\n\n| Item | Typical timing |\n|---|---|\n| Deposit into escrow | Within 3 business days of acceptance |\n| Escrow opened, instructions out | Days 1–3 |\n| Seller disclosures delivered | Immediately (ideally pre-offer) |\n| Preliminary report ordered and delivered | Days 1–7 |\n| Inspections scheduled | Days 1–5 |\n| Investigation contingency | Commonly 17 days |\n| Appraisal and loan contingencies | Commonly 21 days |\n| Loan documents to escrow | Days 21–28 |\n| Final walk-through | Days before closing |\n| Signing, funding, recording | Final days |\n\nThose contingency periods are **contractual, not statutory** — read the actual contract every time. <!-- VERIFY: current standard-form default periods -->\n\n**Counting convention:** day one is generally the day *after* acceptance. Confirm against the form you are using, and when a deadline is ambiguous, resolve it in writing with the other agent rather than assuming.\n\n**Because \"time is of the essence\" applies, every one of those dates is material.** A missed date is a breach, not a delay.\n\n## 2. Contingency Removal: Active, Not Automatic\n\nCalifornia residential practice uses **active removal** (Principles Unit 8). This is the single most misunderstood mechanic in the transaction, and getting it wrong costs deals.\n\n**What it means:**\n\n- Contingencies remain in effect **until the buyer removes them in writing**.\n- A deadline passing does **not** automatically remove a contingency and does **not** automatically permit the seller to cancel.\n- When a deadline passes without removal, the seller's remedy is to deliver a **Notice to Buyer to Perform**, which starts a cure period. Only after that period runs may the seller cancel.\n\n**Notice to Perform mechanics:**\n- Must be in writing and properly delivered.\n- Gives the buyer a stated period to act — commonly two days, but read the form. <!-- VERIFY: current notice period on the standard form -->\n- May generally not be delivered earlier than a stated number of days before the underlying deadline.\n\n**The two failure modes:**\n\n1. **The seller's agent who cancels on the deadline.** No notice, no cure period, unilateral cancellation. This is a wrongful cancellation and the seller may be in breach.\n2. **The buyer's agent who assumes a passed deadline is harmless.** It is not — it hands the seller the right to start the notice clock and creates leverage the buyer did not intend to give.\n\n**Cancellation requires mutual written instructions** to release the deposit (Principles Unit 10). Escrow does not decide who is right. When both sides claim the deposit, escrow holds it until they agree or a court orders release — which is why \"you'll get your deposit back\" is a sentence you should never say casually.\n\n## 3. Inspections and Repair Requests\n\n**Schedule inspections immediately.** The investigation period is short and inspectors book out. A buyer's agent who schedules on day 12 of a 17-day period has created an avoidable crisis.\n\n**Common inspections:** general home inspection, termite/wood-destroying organism, roof, sewer lateral (increasingly essential on older properties), chimney, pool/spa, foundation or structural where indicated, and specialized environmental where the property suggests it.\n\n**The repair request conversation.** After inspections, buyers typically ask for repairs or credits. Practical guidance:\n\n- **Prioritize by materiality**, not by item count. Health and safety, structural, systems, and anything affecting insurability or financing come first. A list of 40 cosmetic items reads as unserious and hardens the seller.\n- **Credits often work better than repairs.** The seller avoids managing contractors, and the buyer controls the quality of the work. Note that lenders limit how much credit may be applied. <!-- VERIFY: current seller-credit limits by loan type -->\n- **\"As-is\" does not mean no negotiation.** It means the seller has not agreed in advance to repair. The buyer may still request, and the seller may still say no — and the buyer may still cancel within their contingency (Principles Unit 9).\n- **Do not turn the seller into a warrantor.** Careless language in a repair addendum can create ongoing obligations after closing. Keep it specific: what will be done, by whom, by when, and with what evidence of completion.\n\n**Disclosure obligation runs both ways.** If a buyer's inspection reveals a material defect and the transaction later falls through, the **seller now knows** about it and must disclose it to subsequent buyers. Sellers are frequently surprised by this. Tell them before inspections, not after.\n\n## 4. Coordinating the Parties\n\nYou are, functionally, the project manager.\n\n**Escrow** needs: the fully executed contract and all addenda, the deposit, the parties' contact and vesting information, payoff demands, and the parties' signed instructions. Escrow acts only on **mutual written instructions** and cannot advise either party (Principles Unit 10).\n\n**The lender** needs: the contract, appraisal access, and the buyer's documents — and needs them promptly. The most common cause of a delayed closing is a buyer who takes nine days to send a bank statement.\n\n**Title** needs: the preliminary report reviewed and any curative items started early. A name-variance judgment lien takes days to clear if you start on day 3 and kills the closing if you start on day 25.\n\n**Weekly communication** is the standard your clients actually judge you on. Even \"nothing changed this week, here's where we are\" prevents the anxious call.\n\n## 5. Why Escrows Fail — and Early Warning Signs\n\n| Cause | Early warning | Intervention |\n|---|---|---|\n| Loan denial | Buyer slow on documents; changed jobs; new debt | Verify underwriting status weekly; tell buyers not to open credit or change jobs |\n| Low appraisal | Aggressive price with thin comparables | Prepare the seller at the offer stage; assemble comps for the appraiser (facts only) |\n| Inspection shock | No pre-offer walkthrough; older property | Set condition expectations early; schedule inspections day one |\n| Title defect | Prelim not read; name variance; unreleased lien | Read the prelim day one; start curative work immediately |\n| Insurance unavailable | Property in a fire hazard severity zone | Have buyers quote insurance in the first days, not the last |\n| Buyer's home not selling | Contingent offer | Monitor the dependent transaction weekly |\n| Cold feet | Communication goes quiet | Call, do not text; find out what changed |\n\n**The pattern:** almost every escrow that dies gave a signal a week or more before. Agents who check in weekly catch them; agents who go quiet until the closing date do not.\n\n## 6. Worked Examples\n\n### Example 1 — Building the calendar (Rancho Cucamonga)\n\nOffer accepted **Tuesday, September 8**. Investigation 17 days, loan and appraisal 21 days, close of escrow 30 days.\n\n**Walkthrough** (day one = the day after acceptance, September 9):\n1. Deposit to escrow: within **3 business days** → by **Friday, September 11**\n2. Investigation contingency: September 9 + 16 = **Friday, September 25**\n3. Loan and appraisal: September 9 + 20 = **Tuesday, September 29**\n4. Close of escrow: September 9 + 29 = **Thursday, October 8**\n5. Final walk-through: schedule **October 5–7**\n\n**Backward-planning from those dates:**\n- Inspections must be **completed and reviewed** by ~September 22 to leave room to negotiate repairs before the 25th.\n- So inspections get scheduled **September 9–11**, not the week of the 21st.\n- The appraisal must be ordered immediately to return before the 29th.\n\nThat backward pass is the actual work. The deadline dates are arithmetic; the schedule that makes them achievable is judgment.\n\n### Example 2 — The deadline passed. Now what? (Ontario)\n\nIt is September 26. The buyer has not delivered a written investigation contingency removal. The listing agent tells the seller they can cancel and take the backup offer.\n\n**Analysis.** The listing agent is **wrong**, and acting on that advice would put the seller in breach.\n\nUnder active removal:\n1. The contingency **remains in effect** — it did not expire on its own.\n2. The seller may deliver a **Notice to Buyer to Perform**, which starts a short cure period.\n3. Only if the buyer fails to remove within that period may the seller cancel.\n4. Cancellation then requires **mutual written instructions** to release the deposit.\n\n**What the buyer's agent should do the moment the deadline passes:** contact the listing agent, explain the status, and either deliver the removal or request a written extension. Silence is what turns an administrative slip into a cancellation.\n\n### Example 3 — The repair request that hardened the seller (Covina)\n\nInspection reveals: a failing water heater (~$1,800), an active roof leak (~$4,500), a cracked heat exchanger in the furnace (safety, ~$5,200), and 31 cosmetic items including loose outlet covers and a sticking closet door. The buyer's agent submits all 34 items.\n\n**Analysis.** The three material items total **$11,500** and are genuinely negotiable — one is a safety issue and two affect systems. Burying them in 34 items invites the seller to reject the whole list as unreasonable, and that is usually what happens.\n\n**Better approach:** request the three material items — ideally as a **credit** of roughly $11,500 rather than repairs, so the buyer controls contractor quality — and explicitly waive the cosmetic list in writing. The waiver is itself a negotiating asset: it signals seriousness and makes the remaining request hard to dismiss.\n\n### Example 4 — The disclosure that follows a failed escrow (Whittier)\n\nA buyer's inspection reveals a cracked sewer lateral. The buyer cancels within their investigation contingency. The seller relists.\n\n**Analysis.** The seller now has **actual knowledge** of a material defect and **must disclose it** to every subsequent buyer (Principles Unit 9). The inspection report does not vanish with the buyer.\n\nSellers routinely believe a cancelled escrow resets everything. It does not. The professional move is to tell the seller this **before** inspections happen, so they can decide whether to repair proactively — and so they are not blindsided by a disclosure obligation they did not anticipate.\n\n## 7. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Active removal** | The regime under which contingencies remain until removed in writing; deadlines passing do not remove them automatically. |\n| **Notice to Buyer to Perform** | The written notice a seller delivers when a buyer misses a deadline, starting a cure period before cancellation is permitted. |\n| **Notice to Seller to Perform** | The buyer's corresponding notice when the seller fails to perform a contractual obligation. |\n| **Mutual cancellation instructions** | The written agreement of both parties required for escrow to release a deposit. |\n| **Time is of the essence** | The clause making each stated deadline material, so late performance is a breach. |\n| **Repair request / request for repairs** | The buyer's post-inspection request for repairs or credits; not a right to renegotiate at will. |\n| **Seller credit** | Money credited at closing in lieu of repairs; subject to lender limits. |\n| **Sewer lateral inspection** | Inspection of the line from the house to the main; increasingly essential on older California properties. |\n| **Final walk-through** | The buyer's pre-closing verification of condition and agreed repairs; not a renegotiation opportunity. |\n\n## 8. Practice Tips\n\n- **Build the calendar the day of acceptance**, then plan backward so deadlines are achievable rather than merely known.\n- **Schedule inspections in the first three days.** Inspectors book out; the period is short.\n- **A passed deadline does not cancel anything.** Deliver a Notice to Perform, run the cure period, then cancel — in that order.\n- **Never tell a client their deposit is automatically refundable.** Release requires mutual written instructions.\n- **Request the material items, waive the cosmetic ones in writing.** A focused request is a stronger request.\n- **Warn sellers before inspections** that discovered defects must be disclosed to future buyers if the escrow fails.\n- **Read the preliminary report on day one** and start curative work immediately.\n- **Communicate weekly even when nothing has changed.** Silence is how escrows die unnoticed.\n\n## 9. Unit Assessment\n\nThe 18-question assessment lives in `/content/question-bank/practice/unit-09.json` with full per-option rationales.",
+  "word_count": 2121,
+  "questions": [
+    {
+      "id": "PRAC-09-001",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 9,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "Under California's active removal regime, when a buyer's contingency deadline passes without a written removal:",
+      "options": [
+        "The contingency is automatically removed",
+        "The contingency remains in effect and the seller may deliver a Notice to Buyer to Perform",
+        "The contract is automatically cancelled",
+        "The seller may immediately keep the deposit"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Passive waiver is not the California residential default; contingencies persist until removed in writing.",
+        "Correct. The contingency survives the deadline, and the seller's remedy is a written Notice to Buyer to Perform that starts a cure period before cancellation is permitted.",
+        "No automatic cancellation occurs, and a seller who cancels on the deadline may be in breach.",
+        "Deposit release requires a valid cancellation and mutual written instructions."
+      ],
+      "terms": [
+        "active removal",
+        "Notice to Buyer to Perform"
+      ]
+    },
+    {
+      "id": "PRAC-09-002",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 9,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A listing agent advises the seller to cancel immediately when the buyer misses the investigation deadline, with no notice delivered. This advice is:",
+      "options": [
+        "Correct, since time is of the essence",
+        "Incorrect, and acting on it could place the seller in breach",
+        "Correct if a backup offer exists",
+        "Correct if the buyer was reminded verbally"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Time is of the essence makes deadlines material but does not eliminate the notice-and-cure procedure.",
+        "Correct. Under active removal the seller must deliver a Notice to Buyer to Perform and let the cure period run; unilateral cancellation on the deadline is a wrongful cancellation.",
+        "The presence of a backup offer does not change the required procedure.",
+        "A verbal reminder is not the written notice the contract requires."
+      ],
+      "terms": [
+        "Notice to Buyer to Perform",
+        "active removal"
+      ]
+    },
+    {
+      "id": "PRAC-09-003",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 9,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "Both parties claim the deposit after a failed transaction. Escrow will:",
+      "options": [
+        "Release it to the party with the stronger claim",
+        "Hold it until both parties sign mutual cancellation instructions or a court orders release",
+        "Split it evenly",
+        "Return it to the buyer automatically"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Escrow does not adjudicate the parties' rights.",
+        "Correct. Escrow acts only on mutual written instructions; absent agreement it holds the funds and may interplead them — which is why an agent should never promise a client an automatic refund.",
+        "Escrow has no authority to compromise the parties' claims.",
+        "Deposits are not automatically refundable."
+      ],
+      "terms": [
+        "mutual cancellation instructions"
+      ]
+    },
+    {
+      "id": "PRAC-09-004",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 9,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "An offer is accepted Tuesday, September 8, with a 17-day investigation contingency counted from the day after acceptance. Written removal is due no later than:",
+      "options": [
+        "September 24",
+        "September 25",
+        "September 26",
+        "September 29"
+      ],
+      "answer": 1,
+      "rationales": [
+        "September 24 counts only 16 days from September 9.",
+        "Correct. Day one is September 9; 17 days runs through September 25 (September 9 plus 16 additional days).",
+        "September 26 counts 18 days.",
+        "September 29 corresponds to a 21-day contingency such as loan or appraisal."
+      ],
+      "terms": [
+        "time is of the essence"
+      ]
+    },
+    {
+      "id": "PRAC-09-005",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Inspections should be scheduled:",
+      "options": [
+        "In the final days of the investigation period",
+        "Within the first few days after acceptance",
+        "After the appraisal is completed",
+        "Only if the buyer requests them"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Scheduling late leaves no room to review reports or negotiate repairs before the deadline.",
+        "Correct. Inspectors book out and the period is short, so scheduling in the first days leaves time to review findings and negotiate before the contingency expires.",
+        "The appraisal is a lender function on a separate track and does not gate inspections.",
+        "The agent should recommend inspections proactively rather than waiting to be asked."
+      ],
+      "terms": [
+        "repair request / request for repairs"
+      ]
+    },
+    {
+      "id": "PRAC-09-006",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A buyer's inspection reveals a cracked sewer lateral and the buyer cancels within their contingency. When the seller relists, the seller:",
+      "options": [
+        "Has no disclosure obligation because that escrow was cancelled",
+        "Must disclose the defect to subsequent buyers, because the seller now has actual knowledge",
+        "Must disclose only if the next buyer asks",
+        "May wait until an offer is accepted to disclose"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Cancellation does not erase the seller's knowledge.",
+        "Correct. The seller now has actual knowledge of a material defect and must disclose it to every subsequent buyer — which is why agents should warn sellers of this before inspections occur.",
+        "The disclosure duty is affirmative and does not depend on being asked.",
+        "Delaying disclosure until after acceptance defeats its purpose and creates a termination right."
+      ],
+      "terms": [
+        "sewer lateral inspection"
+      ]
+    },
+    {
+      "id": "PRAC-09-007",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "Inspections reveal three material items totaling about $11,500 and 31 cosmetic items. The strongest repair request strategy is to:",
+      "options": [
+        "Submit all 34 items so nothing is waived",
+        "Request the three material items, ideally as a credit, and waive the cosmetic list in writing",
+        "Request only the least expensive item to seem reasonable",
+        "Request a price reduction equal to all 34 items"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A 34-item list invites the seller to reject the whole request as unserious, which is usually what happens.",
+        "Correct. Focusing on material items — health, safety, structure, and systems — and expressly waiving the cosmetic list signals seriousness and makes the remaining request hard to dismiss. A credit also lets the buyer control contractor quality.",
+        "Understating the request forfeits value the buyer is entitled to negotiate.",
+        "Valuing cosmetic items into a price reduction produces a number the seller will not accept."
+      ],
+      "terms": [
+        "repair request / request for repairs",
+        "seller credit"
+      ]
+    },
+    {
+      "id": "PRAC-09-008",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "An 'as-is' sale means the seller:",
+      "options": [
+        "Has no obligation to disclose known defects",
+        "Has not agreed in advance to make repairs, though the buyer may still request them",
+        "May refuse to allow inspections",
+        "Is released from all liability after closing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "As-is never waives the duty to disclose known material facts.",
+        "Correct. As-is sets repair expectations; the buyer may still request repairs or credits, the seller may decline, and the buyer may still cancel within their contingency.",
+        "Buyers retain their investigation rights in an as-is sale.",
+        "Liability for concealment or misrepresentation survives closing."
+      ],
+      "terms": [
+        "repair request / request for repairs"
+      ]
+    },
+    {
+      "id": "PRAC-09-009",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 9,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "A judgment lien appearing on the preliminary report against someone with the seller's name should be addressed:",
+      "options": [
+        "In the final week before closing",
+        "On day one, because curative work takes time",
+        "Only if the buyer's lender objects",
+        "By ignoring it, since name variances are common"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Waiting until the final week converts a solvable issue into a missed closing.",
+        "Correct. Read the preliminary report immediately and start curative work — a name variance resolved by a statement of information takes days if begun early and kills the closing if begun late.",
+        "The lender will object, but the agent should not wait for that to act.",
+        "Name variances are common and routinely resolved, but only if someone begins the process."
+      ],
+      "terms": [
+        "mutual cancellation instructions"
+      ]
+    },
+    {
+      "id": "PRAC-09-010",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 9,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "The clause that makes each stated deadline material, so that late performance is a breach rather than a delay, is:",
+      "options": [
+        "The liquidated damages clause",
+        "'Time is of the essence'",
+        "The active removal provision",
+        "The arbitration clause"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Liquidated damages fix an amount payable on breach rather than making deadlines strict.",
+        "Correct. 'Time is of the essence' makes every stated date material, which is why the calendar built on the day of acceptance is the highest-value hour in the transaction.",
+        "Active removal governs how contingencies are removed, not the materiality of dates.",
+        "Arbitration governs dispute resolution."
+      ],
+      "terms": [
+        "time is of the essence"
+      ]
+    },
+    {
+      "id": "PRAC-09-011",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 9,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "Escrow may act on instructions that are:",
+      "options": [
+        "Given verbally by either party",
+        "Mutual and in writing",
+        "Given by the listing agent alone",
+        "Implied by the purchase contract"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Verbal instructions are not effective; escrow requires writing.",
+        "Correct. As a neutral depository serving both parties, escrow acts only on mutual written instructions and cannot advise or favor either side.",
+        "An agent cannot instruct escrow on behalf of both parties.",
+        "The contract informs escrow's instructions but does not replace signed mutual instructions."
+      ],
+      "terms": [
+        "mutual cancellation instructions"
+      ]
+    },
+    {
+      "id": "PRAC-09-012",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 9,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "The most common cause of a delayed closing attributable to the buyer is:",
+      "options": [
+        "Choosing the wrong escrow company",
+        "Slow delivery of documents the lender requested",
+        "Scheduling the final walk-through late",
+        "Requesting a different closing date"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Escrow selection rarely drives timing problems.",
+        "Correct. A buyer who takes days to send a bank statement or tax return is the single most common source of delay, which is why agents should monitor underwriting status weekly.",
+        "The walk-through occurs near closing and is easily scheduled.",
+        "A requested date change is a negotiated term rather than an unplanned delay."
+      ],
+      "terms": [
+        "active removal"
+      ]
+    },
+    {
+      "id": "PRAC-09-013",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A buyer purchasing a home in a very high fire hazard severity zone should obtain written insurance quotes:",
+      "options": [
+        "After the loan is approved",
+        "In the first days of the contingency period",
+        "At the final walk-through",
+        "After closing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Loan approval depends in part on insurability, so waiting inverts the sequence.",
+        "Correct. Insurance availability and cost in mapped fire zones can prevent closing entirely, so quotes belong at the start of the contingency period rather than the end.",
+        "The walk-through is days before closing — far too late to discover a coverage problem.",
+        "A buyer who cannot obtain coverage cannot close, so this must be resolved beforehand."
+      ],
+      "terms": [
+        "repair request / request for repairs"
+      ]
+    },
+    {
+      "id": "PRAC-09-014",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 9,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "The final walk-through is properly used to:",
+      "options": [
+        "Renegotiate price based on new observations",
+        "Verify the property's condition and that agreed repairs were completed",
+        "Conduct the buyer's first inspection",
+        "Perform the appraisal"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The walk-through is a verification step, not a renegotiation opportunity.",
+        "Correct. Its purpose is confirming the property is in the agreed condition and that negotiated repairs were performed.",
+        "Inspections belong in the investigation period, not days before closing.",
+        "The appraisal is a lender-ordered valuation performed by an appraiser."
+      ],
+      "terms": [
+        "final walk-through"
+      ]
+    },
+    {
+      "id": "PRAC-09-015",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A seller credit in lieu of repairs is often preferable to seller-performed repairs because:",
+      "options": [
+        "Credits are unlimited in amount",
+        "The buyer controls contractor selection and work quality, and the seller avoids managing the work",
+        "Credits do not need to be disclosed to the lender",
+        "Credits eliminate the seller's disclosure obligations"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Lenders limit how much credit may be applied, which must be checked before structuring one.",
+        "Correct. The buyer chooses the contractor and controls quality while the seller avoids coordinating repairs — usually a better outcome for both.",
+        "Credits appear on the settlement statement and are visible to the lender.",
+        "Disclosure obligations regarding known defects are unaffected by how repairs are handled."
+      ],
+      "terms": [
+        "seller credit",
+        "repair request / request for repairs"
+      ]
+    },
+    {
+      "id": "PRAC-09-016",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 9,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A buyer's agent realizing a contingency deadline has just passed should:",
+      "options": [
+        "Say nothing and hope the seller does not notice",
+        "Contact the listing agent immediately and either deliver the removal or request a written extension",
+        "Deliver a Notice to Seller to Perform",
+        "Instruct escrow to extend the date"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Silence is what converts an administrative slip into a cancellation.",
+        "Correct. Prompt communication with either a written removal or a requested extension resolves the exposure before the seller starts the notice clock.",
+        "A Notice to Seller to Perform addresses the seller's failures, not the buyer's.",
+        "Escrow cannot amend contract deadlines; only the parties can, in writing."
+      ],
+      "terms": [
+        "Notice to Buyer to Perform",
+        "active removal"
+      ]
+    },
+    {
+      "id": "PRAC-09-017",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 9,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "The most useful early warning that an escrow is failing is typically:",
+      "options": [
+        "A missed closing date",
+        "A client who stops responding to communication",
+        "The appraisal being ordered",
+        "The preliminary report arriving"
+      ],
+      "answer": 1,
+      "rationales": [
+        "By the closing date the failure has already occurred.",
+        "Correct. Almost every escrow that dies signals a week or more in advance, and communication going quiet is the most reliable early indicator — call rather than text.",
+        "Ordering the appraisal is a routine step.",
+        "The preliminary report arriving is expected and routine."
+      ],
+      "terms": [
+        "active removal"
+      ]
+    },
+    {
+      "id": "PRAC-09-018",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 9,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "Building the transaction calendar backward from contingency deadlines is valuable primarily because it:",
+      "options": [
+        "Shortens the escrow period",
+        "Reveals when inspections and orders must be initiated for the deadlines to be achievable",
+        "Eliminates the need for a Notice to Perform",
+        "Guarantees the loan will fund on time"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Backward planning does not change the contractual escrow length.",
+        "Correct. The deadline dates are arithmetic; determining that inspections must be scheduled in the first three days for a day-25 deadline to be met is the judgment that makes the timeline real.",
+        "Notices remain available regardless of planning quality.",
+        "No planning guarantees lender performance, though it surfaces problems earlier."
+      ],
+      "terms": [
+        "time is of the essence"
+      ]
+    }
+  ]
+}

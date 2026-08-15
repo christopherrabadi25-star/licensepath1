@@ -1,0 +1,532 @@
+{
+  "id": "principles-18",
+  "course_slug": "principles",
+  "unit_number": 18,
+  "title": "The Transaction Lifecycle, Trust Funds & Career Launch",
+  "estimated_hours": "2.5",
+  "blueprint_areas": [
+    "practice-disclosures",
+    "transfer",
+    "contracts"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Walk** a transaction from first contact through closing, identifying each party's role.\n2. **Define** trust funds and **apply** the three-business-day deposit rule.\n3. **Distinguish** commingling from conversion and state the consequences of each.\n4. **Describe** trust account recordkeeping: the control record, beneficiary ledgers, and monthly reconciliation.\n5. **Calculate** closing prorations and complete debit and credit entries for buyer and seller.\n6. **Explain** record retention requirements and how to prepare for a DRE audit.\n7. **Evaluate** brokerages against criteria that matter for a new licensee.\n8. **Synthesize** the course: apply concepts from all eighteen units to an integrated transaction.\n\n---\n\n## 1. The Transaction, End to End\n\nEverything in this course converges here. A residential sale moves through predictable stages, and your job is to know what happens at each and who is responsible.\n\n**Stage 1 — Pre-listing / pre-approach.** Establish agency in writing (Unit 6): agency disclosure, then listing agreement or buyer representation agreement (Unit 8). For sellers, gather disclosures early (Unit 9) and order the preliminary report so title problems surface before you have a buyer, not after (Unit 10). For buyers, get a real preapproval — not a prequalification (Unit 12).\n\n**Stage 2 — Marketing and showing.** Advertising must be compliant (Units 1 and 15) and truthful. Every showing carries the visual inspection duty (Unit 6). Every interaction is governed by fair housing (Unit 15).\n\n**Stage 3 — Offer and negotiation.** Offer, counteroffer, acceptance, and the rule that a counteroffer terminates the original offer (Unit 7). Confirm agency in writing in the contract. Deliver the deposit into escrow or the trust account within **three business days** (Section 2 below).\n\n**Stage 4 — Escrow opened.** Escrow instructions signed, preliminary report ordered, demands requested from lienholders, disclosures delivered and receipted (Unit 9), inspections scheduled.\n\n**Stage 5 — Contingency period.** Investigation, appraisal, loan, title, and HOA document review. Written contingency removals, with the seller's remedy being a notice to perform rather than automatic cancellation (Unit 8). This is the highest-liability window in the transaction: **calendar every deadline the day of acceptance.**\n\n**Stage 6 — Loan and appraisal.** Underwriting, appraisal (Unit 13), and the Closing Disclosure delivered at least three business days before consummation (Unit 12).\n\n**Stage 7 — Closing.** Final walk-through, signing, funding, **recording** — and title passes at recording, not at signing (Unit 10). Prorations settle taxes, rents, and HOA dues.\n\n**Stage 8 — Post-closing.** Deliver files, follow up on the supplemental tax bill your buyer will receive (Unit 16), retain records, and — practically — begin the relationship that produces your next three transactions.\n\n**The cast:** listing broker, buyer's broker, escrow holder (neutral, dual agent before closing), title insurer, lender, appraiser, home inspector, pest inspector, transaction coordinator, and — behind all of it — the **responsible broker** who supervises and is accountable for the licensed activity of everyone in the brokerage.\n\n## 2. Trust Funds — the Rules That End Careers\n\nMore California licenses are lost over trust fund violations than almost anything else, and the violations are usually sloppiness rather than theft.\n\n**Definition.** **Trust funds** are money or things of value received by a broker or salesperson **on behalf of another** in a transaction: earnest money deposits, rents, security deposits, and funds for future costs. They belong to someone else. They never belong to you.\n\n**The three-business-day rule.** Trust funds must be placed into **escrow**, a **trust account**, or the **hands of the principal** entitled to them, **not later than three business days** after receipt by the broker or the broker's salesperson. <!-- VERIFY: current regulation text and business-day counting -->\n\n**The uncashed-check exception.** When a buyer's offer instructs that the deposit check be held uncashed pending acceptance, the broker may hold it — but **the seller must be informed** of that instruction, and once the offer is accepted, the three-business-day clock runs from **acceptance**.\n\n**Non-trust funds.** A broker's own commission earned and payable is not a trust fund, but the moment it sits in a trust account beyond a limited period it creates a commingling problem. A broker may keep a small amount of personal funds in a trust account to cover bank service charges — historically **$200** — and that limited allowance is the only intentional mixing permitted. <!-- VERIFY: current permitted amount -->\n\n### Commingling vs. conversion\n\nThese two words appear on every California exam, and students mix them up.\n\n**Commingling** is **mixing** trust funds with the broker's own funds. Examples: depositing an earnest money check into the brokerage operating account; leaving earned commissions in the trust account beyond the permitted period; paying business expenses from the trust account.\n\n> Commingling is a violation **even if no client loses a penny** and **even if the funds are restored the same day**. The offense is the mixing itself.\n\n**Conversion** is **using** trust funds — actually spending client money on something else. Conversion is far more serious: it supports license revocation and criminal charges.\n\nEvery conversion involves commingling; not every commingling involves conversion. A broker who parks a deposit in the operating account over a weekend has commingled. A broker who uses it to make payroll has converted.\n\n### Recordkeeping\n\nA broker holding trust funds must maintain:\n\n- **A control record** (columnar record) of all trust funds received and disbursed, in chronological order.\n- **A separate record (ledger) for each beneficiary or transaction**, showing every receipt and disbursement affecting that beneficiary's balance.\n- **Monthly reconciliation** of the control record, the sum of all beneficiary ledgers, and the bank statement. All three must agree. The reconciliation must be in writing and retained.\n\nAdditional rules: the account must be designated a **trust account** in the broker's name as trustee, at a California bank, **non-interest-bearing** unless specific conditions are met and the interest passes to the beneficiary; the broker must authorize signatories in writing, and an unlicensed employee may be a signatory only if bonded; and **no trust account may ever go negative for any beneficiary** — using one client's money to cover another's shortfall is conversion.\n\n**Record retention: three years** for transaction records generally, running from closing or from the listing date if no closing occurred. <!-- VERIFY: current retention period and whether it differs by record type; CLAUDE.md §3.2 assumes at least 5 years for school records, a separate requirement -->\n\n### The DRE audit\n\nThe DRE audits brokerages, sometimes routinely and sometimes on complaint. Auditors ask for the control record, the beneficiary ledgers, monthly reconciliations, bank statements, and the transaction files. The common findings are mundane: reconciliations not performed, ledgers not maintained per beneficiary, deposits made late, personal funds left in the account, and missing signed receipts.\n\n**The practical protection is boring and effective:** deposit immediately, reconcile monthly in writing, keep a ledger per beneficiary, and never let the account balance drop below the total owed to beneficiaries.\n\n## 3. Closing Math and Settlement Statements\n\nAt closing, escrow prepares a settlement statement with **debits** (charges) and **credits** (amounts in your favor) for each party.\n\n**The logic:**\n\n- A **debit** to a party is money that party **owes or pays**.\n- A **credit** to a party is money that party **receives or has already paid**.\n- The buyer's debits include the purchase price; the buyer's credits include the deposit and loan proceeds.\n- The seller's credits include the purchase price; the seller's debits include the loan payoff, commissions, and costs.\n\n**Prorations** divide ongoing items as of closing. The convention matters — a **360-day year with 30-day months** is common unless the contract says otherwise, and **who owns the day of closing** must be stated.\n\n| Item | Situation | Result |\n|---|---|---|\n| Property taxes | Seller **prepaid** | **Credit seller / debit buyer** |\n| Property taxes | **Unpaid** and accrued | **Debit seller / credit buyer** |\n| Rents | Seller **collected** for the month | **Debit seller / credit buyer** for buyer's days |\n| Security deposits | Held by seller | **Debit seller / credit buyer** (full amount) |\n| HOA dues | Prepaid | **Credit seller / debit buyer** |\n| Interest on assumed loan | Accrued, unpaid | **Debit seller / credit buyer** |\n\nSecurity deposits transfer **in full** — they are the tenants' money and are never prorated.\n\n## 4. Choosing a Brokerage\n\nYour first brokerage decision shapes your first two years more than any other choice.\n\n**What actually matters:**\n\n**Training and mentorship.** For a new licensee this outranks commission split by a wide margin. A 60/40 split with a broker who reviews your contracts and takes your calls is worth far more than 90/10 with no one to ask. Ask specifically: who reviews my first contract? Who do I call on a Sunday when a deal is falling apart?\n\n**Supervision quality.** The responsible broker is legally accountable for your licensed activity (Unit 1). A broker who takes that seriously protects you.\n\n**Commission structure.** Understand the whole picture: split, cap, desk fees, transaction fees, technology fees, E&O insurance cost, and franchise fees. Model it honestly against your realistic first-year transaction count — not your optimistic one.\n\n**Lead generation.** Does the brokerage provide leads, or is it entirely self-generated? Neither is wrong, but know which you are signing up for.\n\n**Culture and specialization.** A brokerage strong in luxury coastal listings may not serve you well if you plan to build a first-time-buyer business in the Inland Empire.\n\n**Realistic economics for year one.** Budget for: license and application fees, association and MLS dues, E&O insurance, lockbox access, signs and marketing, transaction management software, vehicle and fuel, and — critically — **six to twelve months of living expenses.** Commissions arrive at closing, and your first closing may be three or four months out. The single most common reason new agents fail is running out of money before the pipeline matures, not lack of ability.\n\n**Build the business on systems from day one:** a CRM you actually use, a database of everyone you know, a consistent follow-up cadence, and a standardized process applied identically to every client — which is also your best defense against implicit bias (Unit 15).\n\n## 5. Capstone: An Integrated Transaction\n\nA Covina transaction, touching most of the course.\n\n**The setup.** Maria lists her late mother's home, held in a family trust with Maria as successor trustee. She has a buyer's agent friend and asks you to represent her.\n\n**Unit 4 & 10 — Vesting.** Title is vested in the trustee. Escrow will require a **certification of trust** evidencing Maria's authority. Confirm this before marketing.\n\n**Unit 9 — Disclosures.** The sale may be **exempt from the TDS** as a fiduciary transfer — but Maria lived in the house for six years and **knows the north wall leaks.** She must disclose the known material fact regardless of the form exemption.\n\n**Unit 5 & 10 — Preliminary report.** It shows a 1953 CC&R containing a racially restrictive covenant (void and unenforceable — Unit 5 and 15, with a statutory process to strike it), a utility easement in gross along the rear, and an abstract of judgment against a person with a similar name. The judgment is likely a **name variance** resolved by a statement of information — handle it in week one, not week four.\n\n**Unit 8 — Offers.** Two offers arrive. Maria counters both using a **multiple counteroffer** so she does not accidentally bind to two buyers. The accepted buyer's **$25,000 deposit** reaches your brokerage Friday at 4 p.m. with instructions to hold pending acceptance; acceptance comes Monday. **Your three-business-day clock runs from Monday**, and you inform the seller of the hold instruction.\n\n**Unit 15 — Fair housing.** Maria mentions she'd prefer \"a nice family, not investors.\" Preferring owner-occupants is lawful; preferring a \"family\" implicates familial status. You address it plainly and document that offers were presented without regard to protected characteristics.\n\n**Unit 13 — Appraisal.** The appraisal comes in **$18,000 below** contract. The buyer's appraisal contingency is live. Options: renegotiate, buyer covers the gap, split it, or cancel. You present market data; you do not contact the appraiser to request a number (Unit 13).\n\n**Unit 12 & 11 — Financing.** The buyer's conventional loan is at 88% LTV, so **PMI applies**. The existing loan on the property is a purchase-money loan being paid off at closing — no assumption, so the full price is subject to **documentary transfer tax**.\n\n**Unit 16 — Taxes.** The property reassesses to the sale price; the buyer will receive a **supplemental bill**. Because the transfer is from a trust following death and the buyer is unrelated, no reassessment exclusion applies. Maria should see a **CPA** about the estate's basis — you flag it and refer.\n\n**Unit 10 — Closing.** Sale price **$845,000**, closing **June 20**, buyer owns the day of closing. Annual taxes of **$9,180** were prepaid by the estate for the fiscal year beginning July 1.\n\n**Proration walkthrough:**\n1. Daily: $9,180 ÷ 360 = **$25.50**\n2. Seller owned July 1 – June 19 = 11 months + 19 days = 330 + 19 = **349 days**\n3. Seller's share: 349 × $25.50 = **$8,899.50**\n4. Prepaid balance benefiting the buyer: $9,180 − $8,899.50 = **$280.50**\n5. **Credit seller / debit buyer $280.50**\n\n**Transfer tax:** $845,000 ÷ 500 = 1,690 × $0.55 = **$929.50**\n\n**Commission:** at 5% total, $845,000 × 0.05 = **$42,250**, split per agreement — paid by escrow to the **brokerages**, then to the salespersons (Unit 1).\n\n**Unit 10 — Title passes on recording**, not on signing. Escrow disburses after recording confirms.\n\nThat single transaction touched fifteen of the eighteen units. That is what this course was building toward.\n\n## 6. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Trust funds** | Money or things of value received on behalf of another in a transaction — deposits, rents, security deposits. |\n| **Three-business-day rule** | Trust funds must be placed in escrow, a trust account, or the principal's hands within three business days of receipt. |\n| **Uncashed-check exception** | Permission to hold a deposit check pending acceptance when the offer so instructs and the seller is informed; the clock then runs from acceptance. |\n| **Commingling** | Mixing trust funds with the broker's own funds; a violation even without loss or with same-day restoration. |\n| **Conversion** | Actually using trust funds for another purpose; grounds for revocation and criminal charges. |\n| **Control record** | The chronological columnar record of all trust funds received and disbursed. |\n| **Beneficiary ledger** | A separate record for each beneficiary or transaction showing all receipts, disbursements, and the running balance. |\n| **Monthly reconciliation** | The written monthly agreement of the control record, the sum of beneficiary ledgers, and the bank statement. |\n| **Record retention** | The period a broker must keep transaction records — three years for brokerage transaction records. |\n| **Debit / credit** | An amount a party owes or pays / an amount a party receives or has already paid. |\n| **Proration** | Division of ongoing expenses and income between buyer and seller as of closing. |\n| **Security deposit transfer** | Tenant deposits pass to the buyer in full at closing and are never prorated. |\n| **Settlement statement** | The escrow accounting showing each party's debits and credits at closing. |\n| **Responsible broker** | The broker accountable for supervising licensed activity and for trust funds handled by anyone in the brokerage. |\n| **E&O insurance** | Errors and omissions coverage protecting licensees against claims arising from professional services. |\n\n## 7. Exam Tips\n\n- **Three business days** for trust funds into escrow, a trust account, or the principal's hands. When a check is properly held uncashed pending acceptance, the clock runs **from acceptance**.\n- **Commingling = mixing; conversion = using.** Commingling is a violation even with no loss and immediate restoration. This distinction appears on essentially every exam.\n- **The trust account may never go negative for any beneficiary.** Covering one client's shortfall with another's funds is conversion.\n- **Monthly written reconciliation of three things:** control record, sum of beneficiary ledgers, bank statement.\n- **Three-year record retention** for brokerage transaction records.\n- **Proration direction:** prepaid by seller → credit seller, debit buyer. Accrued and unpaid → debit seller, credit buyer. **Security deposits transfer in full**, never prorated.\n- **Title passes at recording**, not at signing or funding.\n- **A salesperson is paid only by their employing broker** — the rule from Unit 1 that closes the loop here.\n- **A form exemption is never a knowledge exemption.** Known material facts get disclosed regardless.\n\n## 8. Course Conclusion\n\nYou have covered California license law, property classification, estates, ownership, encumbrances, agency, contracts, disclosures, escrow and title, finance and foreclosure, appraisal, land use, fair housing, taxation, landlord-tenant law, and the transaction lifecycle.\n\nThree things worth carrying forward:\n\n**Competence is a compliance strategy.** Nearly every disciplinary case in this course traces to an agent who did not know a rule, not one who chose to break it. The material you just learned is the protection.\n\n**Disclosure is almost always the answer.** When you are unsure whether something must be disclosed, disclose it. No licensee has been disciplined for telling a buyer too much about a property's condition.\n\n**The standard is the same for everyone.** Consistency in how you treat clients is simultaneously the fair housing requirement, the defense against a bias claim, and the foundation of a referral business.\n\nNext: **Real Estate Practice**, where these principles become daily workflow, and **Legal Aspects of Real Estate**, where the law goes deeper. Then the state exam — 150 questions, 3 hours 15 minutes, 70% to pass — which the exam prep engine is built to prepare you for.\n\n## 9. Unit Quiz\n\nThe 20-question quiz for this unit lives in `/content/question-bank/principles/unit-18.json` with full per-option rationales, including integrated capstone items drawing on multiple units.",
+  "word_count": 2977,
+  "questions": [
+    {
+      "id": "PRIN-18-001",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 1,
+      "stem": "Trust funds received by a broker must be placed into escrow, a trust account, or the hands of the principal not later than:",
+      "options": [
+        "The end of the business day received",
+        "Three business days after receipt",
+        "Five business days after receipt",
+        "Ten calendar days after receipt"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Same-day deposit is best practice but is not the regulatory deadline.",
+        "Correct. The three-business-day rule governs deposits of trust funds by a broker or the broker's salesperson.",
+        "Five days exceeds the regulatory window.",
+        "Ten days exceeds the regulatory window."
+      ],
+      "terms": [
+        "trust funds",
+        "three-business-day rule"
+      ]
+    },
+    {
+      "id": "PRIN-18-002",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A buyer's $25,000 deposit reaches the brokerage Friday at 4 p.m. with written instructions to hold the check uncashed until acceptance. The seller accepts Monday. The deposit deadline runs from:",
+      "options": [
+        "Friday, when the check was received",
+        "Monday, when the offer was accepted",
+        "The date escrow opens",
+        "The date the buyer's contingencies are removed"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A properly disclosed instruction to hold the check pending acceptance postpones the obligation past receipt.",
+        "Correct. When the offer directs the check be held uncashed and the seller is informed of that instruction, the three-business-day clock runs from acceptance.",
+        "The regulatory deadline is not tied to escrow's opening.",
+        "Contingency removal occurs well after the deposit obligation attaches."
+      ],
+      "terms": [
+        "uncashed-check exception",
+        "three-business-day rule"
+      ]
+    },
+    {
+      "id": "PRIN-18-003",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A broker deposits a client's earnest money into the brokerage's general operating account over a weekend, then transfers it to the trust account Monday with no loss to anyone. The broker has committed:",
+      "options": [
+        "No violation, because the funds were restored",
+        "Commingling",
+        "Conversion",
+        "A permissible temporary transfer"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Restoration does not cure the violation; the mixing itself is the offense.",
+        "Correct. Placing trust funds in the broker's own account is commingling, disciplinable even when no client suffers a loss and the funds are promptly restored.",
+        "Conversion requires actually using the funds for another purpose, which did not occur here.",
+        "No allowance permits routing trust funds through a general business account."
+      ],
+      "terms": [
+        "commingling",
+        "conversion"
+      ]
+    },
+    {
+      "id": "PRIN-18-004",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A broker uses a client's trust funds to cover the brokerage payroll, intending to replace the money next month. This is:",
+      "options": [
+        "Commingling only",
+        "Conversion, supporting revocation and criminal charges",
+        "A permitted short-term loan",
+        "Acceptable if repaid with interest"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Commingling is mixing; here the funds were actually spent, which is the more serious offense.",
+        "Correct. Using trust funds for another purpose is conversion, grounds for license revocation and criminal prosecution.",
+        "Trust funds may never be borrowed by the broker.",
+        "Repayment with interest does not cure misappropriation."
+      ],
+      "terms": [
+        "conversion",
+        "commingling"
+      ]
+    },
+    {
+      "id": "PRIN-18-005",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A broker's monthly trust account reconciliation must show agreement among:",
+      "options": [
+        "The bank statement and the broker's tax return",
+        "The control record, the sum of all beneficiary ledgers, and the bank statement",
+        "The listing agreements and the escrow instructions",
+        "The commission ledger and the operating account"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Tax filings are unrelated to trust fund reconciliation.",
+        "Correct. All three must agree, and the reconciliation must be performed monthly in writing and retained — a leading DRE audit finding when it is missing.",
+        "Contracts are transaction records, not trust accounting records.",
+        "The operating account is separate from trust funds by definition."
+      ],
+      "terms": [
+        "monthly reconciliation",
+        "control record",
+        "beneficiary ledger"
+      ]
+    },
+    {
+      "id": "PRIN-18-006",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A trust account holds funds for eight beneficiaries. The broker disburses more than one beneficiary's balance, causing that ledger to go negative while total account funds remain positive. This is:",
+      "options": [
+        "Acceptable, because the account overall is positive",
+        "Conversion, because one beneficiary's funds were used for another",
+        "Commingling only",
+        "A bookkeeping error with no regulatory consequence"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A positive overall balance does not excuse a negative individual ledger.",
+        "Correct. Using one beneficiary's funds to cover another's disbursement is conversion; no beneficiary's balance may ever go negative.",
+        "The violation goes beyond mixing — client funds were actually applied to another's obligation.",
+        "Negative beneficiary balances are a serious violation, not a harmless error."
+      ],
+      "terms": [
+        "conversion",
+        "beneficiary ledger"
+      ]
+    },
+    {
+      "id": "PRIN-18-007",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Brokerage transaction records must generally be retained for:",
+      "options": [
+        "One year",
+        "Three years",
+        "Seven years",
+        "Indefinitely"
+      ],
+      "answer": 1,
+      "rationales": [
+        "One year is insufficient under the Real Estate Law.",
+        "Correct. Brokers must retain transaction records for three years, running from closing or from the listing date where no closing occurred.",
+        "Seven years is a common tax retention period, not the brokerage requirement.",
+        "Indefinite retention is prudent for some records but is not the regulatory standard."
+      ],
+      "terms": [
+        "record retention"
+      ]
+    },
+    {
+      "id": "PRIN-18-008",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 18,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "On a settlement statement, the purchase price appears as a:",
+      "options": [
+        "Debit to the buyer and a credit to the seller",
+        "Credit to the buyer and a debit to the seller",
+        "Debit to both parties",
+        "Credit to both parties"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. The buyer owes the price (debit) and the seller receives it (credit).",
+        "This reverses the entries.",
+        "The price cannot be an obligation of both parties.",
+        "The price cannot be a benefit to both parties."
+      ],
+      "terms": [
+        "debit / credit",
+        "settlement statement"
+      ]
+    },
+    {
+      "id": "PRIN-18-009",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 18,
+      "blueprint_area": "transfer",
+      "difficulty": 3,
+      "stem": "At closing on a rental property, tenant security deposits held by the seller are:",
+      "options": [
+        "Prorated as of the closing date",
+        "Transferred in full as a debit to the seller and credit to the buyer",
+        "Retained by the seller",
+        "Paid directly to the tenants at closing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Security deposits are never prorated; they are the tenants' money in full.",
+        "Correct. Deposits transfer in their entirety, debited to the seller and credited to the buyer, who assumes the obligation to account to the tenants.",
+        "The seller cannot keep funds belonging to tenants.",
+        "Deposits are not refunded at sale; the obligation passes to the new owner."
+      ],
+      "terms": [
+        "security deposit transfer",
+        "proration"
+      ]
+    },
+    {
+      "id": "PRIN-18-010",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 18,
+      "blueprint_area": "transfer",
+      "difficulty": 3,
+      "stem": "A sale closes June 20 with the buyer owning the day of closing. The seller prepaid $9,180 in annual taxes for the fiscal year beginning July 1. Using a 360-day year, the proration is:",
+      "options": [
+        "$280.50 credit to the seller",
+        "$8,899.50 credit to the seller",
+        "$280.50 credit to the buyer",
+        "$4,590.00 credit to the buyer"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Daily = 9,180 ÷ 360 = 25.50. Seller owned July 1 through June 19 = 349 days = $8,899.50 consumed; the prepaid remainder of $280.50 benefits the buyer and is credited to the seller.",
+        "$8,899.50 is the seller's own consumed share, not the amount reimbursed.",
+        "The direction is reversed — a prepaid expense produces a seller credit.",
+        "$4,590 is half the annual bill and corresponds to no step here."
+      ],
+      "terms": [
+        "proration",
+        "debit / credit"
+      ]
+    },
+    {
+      "id": "PRIN-18-011",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 18,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "Unpaid property taxes that accrued during the seller's ownership appear at closing as a:",
+      "options": [
+        "Credit to the seller and debit to the buyer",
+        "Debit to the seller and credit to the buyer",
+        "Debit to both parties",
+        "Item excluded from proration"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Prepaid taxes produce a seller credit; these taxes are unpaid.",
+        "Correct. An accrued but unpaid expense is charged to the seller and credited to the buyer, who will pay the bill when it comes due.",
+        "Only one party bears the accrued obligation.",
+        "Taxes are the most commonly prorated closing item."
+      ],
+      "terms": [
+        "proration",
+        "debit / credit"
+      ]
+    },
+    {
+      "id": "PRIN-18-012",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 18,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "In a California transaction, title passes to the buyer upon:",
+      "options": [
+        "Signing the purchase agreement",
+        "Signing the loan documents",
+        "Recording",
+        "Delivery of the keys"
+      ],
+      "answer": 2,
+      "rationales": [
+        "The purchase agreement creates contract rights, not title.",
+        "Loan signing is a step toward funding, not the transfer of title.",
+        "Correct. Close of escrow occurs at recording, which is when title passes and after which escrow disburses.",
+        "Possession may be delivered before or after closing and does not determine title."
+      ],
+      "terms": [
+        "debit / credit"
+      ]
+    },
+    {
+      "id": "PRIN-18-013",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A trustee of a family trust sells a home she personally occupied for six years and knows the roof leaks. The sale is TDS-exempt as a fiduciary transfer. She must:",
+      "options": [
+        "Say nothing, since the exemption applies",
+        "Disclose the known leak, because the form exemption does not excuse concealing known material facts",
+        "Disclose only if the buyer requests a TDS",
+        "Disclose only to the buyer's agent"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A form exemption is never a knowledge exemption.",
+        "Correct. A transferor with actual knowledge of a material defect must disclose it regardless of any exemption from the statutory form.",
+        "The duty is affirmative and does not depend on a buyer's request.",
+        "Disclosure must reach the buyer, not merely the buyer's agent informally."
+      ],
+      "terms": [
+        "record retention"
+      ]
+    },
+    {
+      "id": "PRIN-18-014",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 18,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A seller wants to negotiate with two buyers at once without risk of forming two binding contracts. She should use:",
+      "options": [
+        "Two ordinary counteroffers",
+        "A multiple counteroffer form requiring her final acceptance",
+        "A backup offer addendum with each",
+        "An option agreement with each"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Sending ordinary counteroffers to two buyers risks binding her twice if both accept.",
+        "Correct. A multiple counteroffer provides that no contract forms until the seller signs a final acceptance of one buyer's response, preserving her choice.",
+        "Backup offers address what happens after a primary contract fails.",
+        "Options require consideration and would bind her to sell."
+      ],
+      "terms": [
+        "settlement statement"
+      ]
+    },
+    {
+      "id": "PRIN-18-015",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A salesperson closes a transaction. Escrow should disburse the commission to:",
+      "options": [
+        "The salesperson directly",
+        "The salesperson's employing broker",
+        "The salesperson and broker in their agreed shares",
+        "Whichever party the salesperson designates"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A salesperson may not be paid directly for licensed activity by escrow.",
+        "Correct. Escrow pays the brokerages; the broker then compensates the salesperson under their written agreement — a salesperson may accept compensation only from their employing broker.",
+        "Escrow does not split commissions inside a brokerage.",
+        "The salesperson has no authority to redirect commission payments."
+      ],
+      "terms": [
+        "responsible broker"
+      ]
+    },
+    {
+      "id": "PRIN-18-016",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which is the BEST practice for a broker holding a small amount of personal funds in the trust account?",
+      "options": [
+        "Keep several months of operating capital there for convenience",
+        "Keep only a limited amount to cover bank service charges, as regulations permit",
+        "Keep earned commissions there indefinitely",
+        "Keep personal funds equal to the largest client balance"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Holding operating capital in the trust account is commingling.",
+        "Correct. Regulations permit only a limited amount of the broker's own funds to cover bank service charges; that narrow allowance is the sole intentional mixing permitted.",
+        "Leaving earned commissions in the trust account beyond a limited period is commingling.",
+        "No provision ties permitted personal funds to client balances."
+      ],
+      "terms": [
+        "commingling",
+        "trust funds"
+      ]
+    },
+    {
+      "id": "PRIN-18-017",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "During a DRE audit, the MOST common trust fund findings involve:",
+      "options": [
+        "Deliberate theft of client funds",
+        "Missing monthly reconciliations, absent per-beneficiary ledgers, and late deposits",
+        "Failure to carry E&O insurance",
+        "Improper advertising language"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Outright theft is rare compared with recordkeeping failures.",
+        "Correct. Audit findings are typically mundane: reconciliations not performed, ledgers not maintained per beneficiary, deposits made late, and personal funds left in the account.",
+        "E&O coverage is a business and brokerage matter, not a trust fund audit finding.",
+        "Advertising issues arise under separate rules, not trust fund audits."
+      ],
+      "terms": [
+        "monthly reconciliation",
+        "beneficiary ledger"
+      ]
+    },
+    {
+      "id": "PRIN-18-018",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "For a newly licensed salesperson choosing a first brokerage, the factor that generally matters MOST is:",
+      "options": [
+        "The highest available commission split",
+        "Training, mentorship, and the quality of broker supervision",
+        "The size of the national brand",
+        "The lowest desk fee"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A high split with no support is worth less than a lower split with real guidance, especially before the first closings.",
+        "Correct. For a new licensee, training and accessible supervision outweigh split, because the responsible broker's oversight both develops competence and protects against liability.",
+        "Brand recognition does not substitute for supervision and training.",
+        "Low fees do not help an agent who has no transactions and no one to consult."
+      ],
+      "terms": [
+        "responsible broker",
+        "E&O insurance"
+      ]
+    },
+    {
+      "id": "PRIN-18-019",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A capstone transaction closes at $845,000 with no assumed loan. At $0.55 per $500, the county documentary transfer tax is:",
+      "options": [
+        "$464.75",
+        "$929.50",
+        "$1,859.00",
+        "$4,225.00"
+      ],
+      "answer": 1,
+      "rationales": [
+        "$464.75 applies $0.55 per $1,000 rather than per $500.",
+        "Correct. 845,000 ÷ 500 = 1,690 increments; 1,690 × $0.55 = $929.50. With no assumed loan, the full price is taxed.",
+        "$1,859.00 doubles the correct figure, which would reflect an added city tax at the same rate.",
+        "$4,225.00 is 0.5% of the price and corresponds to no standard rate."
+      ],
+      "terms": [
+        "settlement statement"
+      ]
+    },
+    {
+      "id": "PRIN-18-020",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 18,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A seller instructs her agent to prefer 'a nice family, not investors.' The agent should understand that:",
+      "options": [
+        "Both preferences are lawful because the seller owns the property",
+        "Preferring owner-occupants over investors is lawful, but preferring a 'family' implicates familial status and cannot be honored",
+        "Both preferences are unlawful",
+        "Either preference is lawful if documented in the file"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Ownership creates no exemption from fair housing law for a protected characteristic.",
+        "Correct. Investor status is not a protected characteristic, so an owner-occupant preference is lawful; familial status is protected, so the 'family' preference must be refused.",
+        "The investor preference is lawful; only the familial status preference is not.",
+        "Documenting an unlawful instruction does not authorize following it."
+      ],
+      "terms": [
+        "responsible broker"
+      ]
+    }
+  ]
+}

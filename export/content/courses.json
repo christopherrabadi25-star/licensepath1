@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "principles",
+    "name": "Real Estate Principles",
+    "hours": 45,
+    "sort_order": 1,
+    "blurb": "The foundation: California license law, property and ownership, encumbrances, agency, contracts, disclosures, escrow and title, finance and foreclosure, appraisal, land use, fair housing, taxation, and landlord-tenant law."
+  },
+  {
+    "slug": "practice",
+    "name": "Real Estate Practice",
+    "hours": 45,
+    "sort_order": 2,
+    "blurb": "How the work is actually done: prospecting, listing presentations, pricing, advertising compliance, writing and negotiating offers, contract-to-close, trust fund handling, and the fair housing and implicit bias component California requires."
+  },
+  {
+    "slug": "legal-aspects",
+    "name": "Legal Aspects of Real Estate",
+    "hours": 45,
+    "sort_order": 3,
+    "blurb": "The elective: agency and contract law in depth, conveyancing and recording, finance and foreclosure litigation, landlord-tenant law, land use and environmental regulation, fair housing enforcement, and license discipline."
+  }
+]

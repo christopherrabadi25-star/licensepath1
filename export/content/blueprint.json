@@ -1,0 +1,44 @@
+[
+  {
+    "id": "practice-disclosures",
+    "label": "Practice of Real Estate & Disclosures (incl. trust funds, fair housing)",
+    "weight": 25,
+    "per_form": 38
+  },
+  {
+    "id": "agency",
+    "label": "Laws of Agency & Fiduciary Duties",
+    "weight": 17,
+    "per_form": 25
+  },
+  {
+    "id": "ownership-land-use",
+    "label": "Property Ownership & Land Use Controls",
+    "weight": 15,
+    "per_form": 23
+  },
+  {
+    "id": "valuation",
+    "label": "Property Valuation & Financial Analysis",
+    "weight": 14,
+    "per_form": 21
+  },
+  {
+    "id": "contracts",
+    "label": "Contracts",
+    "weight": 12,
+    "per_form": 18
+  },
+  {
+    "id": "financing",
+    "label": "Financing",
+    "weight": 9,
+    "per_form": 13
+  },
+  {
+    "id": "transfer",
+    "label": "Transfer of Property",
+    "weight": 8,
+    "per_form": 12
+  }
+]

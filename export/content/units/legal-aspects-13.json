@@ -1,0 +1,467 @@
+{
+  "id": "legal-aspects-13",
+  "course_slug": "legal-aspects",
+  "unit_number": 13,
+  "title": "Common Interest Developments & HOA Law (Davis-Stirling Overview)",
+  "estimated_hours": 3,
+  "blueprint_areas": [
+    "ownership-land-use",
+    "practice-disclosures"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Identify** the four types of common interest developments recognized under California's Davis-Stirling Act.\n2. **Explain** the governing document hierarchy and which documents control when they conflict.\n3. **Apply** the disclosure requirements specific to selling a CID unit.\n4. **Analyze** an HOA assessment and lien scenario, including the association's enforcement rights.\n5. **Distinguish** an association's rule-making authority from what CC&Rs require to change.\n6. **Explain** the board meeting, records-access, and election-transparency requirements owners rely on.\n7. **Advise** (within license scope) on why HOA financial health matters to a buyer beyond the monthly dues figure.\n\n---\n\n## 1. What Is a Common Interest Development?\n\nCalifornia's **Davis-Stirling Common Interest Development Act** governs four recognized types of common interest developments (CIDs):\n\n- **Condominiums** — separate ownership of individual airspace units combined with an undivided common interest in shared common areas.\n- **Planned developments** — separately owned lots (often single-family-style homes) combined with common areas maintained by an association, common in many newer SoCal subdivisions.\n- **Stock cooperatives** — ownership structured through shares in a corporation that owns the property, with a right to occupy a specific unit.\n- **Community apartment projects** — undivided interests in the entire property combined with the exclusive right to occupy a specific unit.\n\nNearly all newer subdivided residential development in California — condos, townhomes, and a large share of single-family planned communities — is now built as some form of CID, making Davis-Stirling one of the most practically important bodies of law for a working California agent, even though it rarely appears as its own topic in general real estate conversation.\n\n## 2. The Governing Document Hierarchy\n\nCIDs are governed by a layered set of documents, and understanding the hierarchy matters when documents appear to conflict:\n\n1. **Declaration of Covenants, Conditions & Restrictions (CC&Rs)** — the foundational recorded document establishing the CID, defining ownership interests, use restrictions, and the association's basic authority; generally the highest-authority governing document, subordinate only to statute.\n2. **Articles of Incorporation** — establish the association as a legal (usually nonprofit mutual benefit) corporation.\n3. **Bylaws** — govern the association's internal operations (board elections, meetings, officer roles).\n4. **Rules and Regulations** — operational rules adopted by the board under authority granted by the CC&Rs and bylaws (e.g., pool hours, parking rules, architectural review procedures).\n\n**A board's rules and regulations cannot conflict with the CC&Rs or bylaws** — if a board adopts a rule inconsistent with the recorded CC&Rs, the CC&Rs generally control, and owners have recognized avenues to challenge an inconsistent rule. This distinction matters practically: a rule the board adopted last month is far easier to change (and far weaker as a restriction) than a use restriction actually written into the recorded CC&Rs, which generally requires a supermajority owner vote to amend.\n\n## 3. CID-Specific Disclosure Requirements\n\nSelling a unit in a CID triggers disclosure obligations beyond the standard TDS/NHD framework (Principles Unit 9):\n\n- **Governing documents** — the seller must provide the buyer copies of the CC&Rs, bylaws, and current rules.\n- **Financial disclosures** — including the association's current operating budget, reserve study/reserve funding status, and assessment history.\n- **Pending litigation** — the association's disclosure of pending or anticipated legal claims involving the association is required, since litigation can create special assessment risk for every owner regardless of whether their specific unit is the subject of the dispute.\n- **Assessment and lien status** — whether the specific unit being sold has any unpaid assessments or an existing lien.\n\n<!-- VERIFY: current statutory disclosure package requirements and delivery timing under Davis-Stirling, which has been amended repeatedly -->\n\n### Worked Example 1 — The reserve study red flag (Chino Hills)\n\nA buyer's agent reviewing HOA disclosures for a 30-year-old condo complex finds the reserve study shows the roofing and plumbing reserve funded at only 15% of the recommended level, with no special assessment yet approved.\n\n**Analysis.** A low-funded reserve is a genuine financial red flag, not a minor technicality — it substantially increases the likelihood of a **special assessment** in the near future to cover a major repair the regular dues were never sized to fund. This directly affects the buyer's true cost of ownership beyond the advertised monthly dues, and it is exactly the kind of detail a buyer's agent should flag and explain clearly, even though the agent cannot predict whether or when a special assessment will actually be imposed.\n\n## 4. Assessments and the Association's Lien Rights\n\nRegular assessments (routine dues) and special assessments (one-time charges for specific needs, such as a major repair) are the association's primary funding mechanism. An association generally has significant statutory authority to enforce unpaid assessments:\n\n- The association can **record a lien** against the delinquent owner's unit for unpaid assessments, following specific statutory notice requirements before doing so.\n- In cases of continued nonpayment, the association can, under specified statutory conditions and procedural safeguards, ultimately pursue **foreclosure of the assessment lien** — meaning a homeowner can, in a worst-case scenario, lose their home over unpaid HOA dues, not just an unpaid mortgage. <!-- VERIFY: current statutory minimum delinquency amount/duration and required pre-lien notice/dispute resolution procedures before an association may pursue foreclosure -->\n\n**This surprises many buyers and even some agents:** the mortgage is not the only lien that can lead to foreclosure on a CID property. Because of the seriousness of this remedy, Davis-Stirling imposes procedural protections — required notices, internal dispute resolution offers, and payment plan requirements — before an association can proceed to lien enforcement or foreclosure. <!-- VERIFY: current specific procedural prerequisites -->\n\n## 5. Board Governance, Meetings, and Records Access\n\nDavis-Stirling establishes owner protections around association governance:\n\n- **Open meetings** — most board business must generally be conducted in meetings open to members, with specific exceptions for legitimate executive session topics (litigation, personnel, or specific member discipline matters).\n- **Records access** — owners generally have a statutory right to inspect specified association records, including financial records, subject to reasonable procedures.\n- **Election procedures** — board elections and certain other significant votes (such as CC&R amendments) must follow specific procedural protections, including secret ballot requirements for contested matters. <!-- VERIFY: current statutory election procedure requirements, an area with recent legislative attention -->\n\nThese protections exist because an HOA board wields real regulatory-style authority over owners' homes and finances, and Davis-Stirling's transparency requirements are the primary check on that authority short of litigation.\n\n## 6. Architectural Review and Use Restrictions\n\nCC&Rs commonly require **architectural review committee (ARC) approval** before an owner makes exterior modifications — anything from a fence to a solar panel installation to a paint color change. Notably, California law has specifically protected certain categories (such as solar energy systems and certain drought-tolerant landscaping) from being unreasonably restricted by CC&Rs, reflecting state policy priorities that override otherwise-broad association discretion in those specific areas. <!-- VERIFY: current statutory protections for solar installations, drought-tolerant landscaping, and any other legislatively protected categories, and their exact limits on association discretion -->\n\n### Worked Example 2 — The solar panel denial (Fontana)\n\nA homeowner in a planned development submits an ARC application for roof-mounted solar panels. The board denies the application, citing a CC&R provision requiring uniform roof appearance.\n\n**Analysis.** Depending on the specific facts, this denial may conflict with California's statutory protections for solar energy systems, which generally limit an association's ability to prohibit or unreasonably restrict solar installations even where CC&Rs contain aesthetic uniformity requirements — associations typically may impose only reasonable, cost-effective restrictions, not an outright ban. This is exactly the kind of dispute where an agent should recognize that \"the CC&Rs say no\" is not automatically the end of the analysis, and refer the homeowner to counsel familiar with this specific statutory protection rather than treating the board's denial as final.\n\n## 7. The Licensee's Role With CID Properties\n\nListing or representing a buyer for a CID property requires the agent to obtain and review governing documents, financial disclosures, and litigation history early — not treat the HOA package as paperwork to hand over unread at the end of the transaction. Buyers rely heavily on their agent to flag red flags (underfunded reserves, pending litigation, unusually high delinquency rates) in plain language, even though interpreting the ultimate legal or financial significance of those red flags is not the agent's job to finalize.\n\n## 8. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Davis-Stirling Common Interest Development Act** | California's statutory framework governing condominiums, planned developments, stock cooperatives, and community apartment projects. |\n| **CC&Rs** | The foundational recorded declaration establishing a CID's ownership structure, use restrictions, and association authority. |\n| **Reserve study** | An assessment of an association's long-term capital repair funding needs and current funding level. |\n| **Special assessment** | A one-time charge to owners for a specific need beyond regular dues. |\n| **Assessment lien** | A lien an association may record against a unit for unpaid assessments, potentially leading to foreclosure. |\n| **Architectural review committee (ARC)** | The association body reviewing and approving exterior modification requests. |\n\n## 9. Exam and Practice Tips\n\n- Four CID types: condominiums, planned developments, stock cooperatives, community apartment projects.\n- CC&Rs generally outrank board-adopted rules and regulations; a rule inconsistent with the CC&Rs is vulnerable to challenge.\n- An underfunded reserve study is a real financial red flag pointing toward likely future special assessments.\n- HOA assessment liens can lead to foreclosure — the mortgage is not the only lien with that consequence on a CID property.\n- Solar energy systems and certain other categories have specific statutory protection against unreasonable CC&R restriction.\n- Selling a CID unit requires governing document, financial, litigation, and lien-status disclosures beyond the standard TDS/NHD package.\n\n## 10. Unit Assessment\n\nThe 18-question assessment lives in `/content/question-bank/legal-aspects/unit-13.json` with full per-option rationales.",
+  "word_count": 1639,
+  "questions": [
+    {
+      "id": "LEGAL-13-001",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 13,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "The Davis-Stirling Act primarily governs:",
+      "options": [
+        "Commercial lease disputes",
+        "Common interest developments such as condominiums and planned developments",
+        "Mechanics' liens",
+        "Escrow licensing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It is not focused on commercial leasing.",
+        "Correct. Davis-Stirling governs CIDs including condos, planned developments, stock co-ops, and community apartment projects.",
+        "Mechanics' liens are governed by separate statutes.",
+        "Escrow licensing is regulated separately by DFPI."
+      ],
+      "terms": [
+        "Davis-Stirling Common Interest Development Act"
+      ]
+    },
+    {
+      "id": "LEGAL-13-002",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 13,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Which is NOT one of the four CID types recognized under Davis-Stirling?",
+      "options": [
+        "Condominium",
+        "Planned development",
+        "Stock cooperative",
+        "Sole proprietorship"
+      ],
+      "answer": 3,
+      "rationales": [
+        "Condominiums are a recognized CID type.",
+        "Planned developments are a recognized CID type.",
+        "Stock cooperatives are a recognized CID type.",
+        "Correct. Sole proprietorship is a business structure, not a CID type."
+      ],
+      "terms": [
+        "Davis-Stirling Common Interest Development Act"
+      ]
+    },
+    {
+      "id": "LEGAL-13-003",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 13,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "When a board-adopted rule conflicts with the recorded CC&Rs, generally:",
+      "options": [
+        "The rule automatically controls",
+        "The CC&Rs generally control, and the inconsistent rule is vulnerable to challenge",
+        "Neither document has any effect",
+        "The bylaws automatically override both"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Rules cannot override higher-authority governing documents.",
+        "Correct. CC&Rs generally outrank board-adopted rules and regulations.",
+        "Both documents have legal effect within the governance hierarchy.",
+        "Bylaws govern internal operations but do not automatically override CC&Rs in this context."
+      ],
+      "terms": [
+        "CC&Rs"
+      ]
+    },
+    {
+      "id": "LEGAL-13-004",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 13,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "CC&Rs are best described as:",
+      "options": [
+        "Internal bylaws only",
+        "The foundational recorded document establishing the CID's ownership structure and restrictions",
+        "A board meeting agenda",
+        "An unrecorded internal memo"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Bylaws are a separate governing document.",
+        "Correct. CC&Rs are the foundational recorded declaration for the CID.",
+        "A meeting agenda is unrelated.",
+        "CC&Rs are recorded, not merely internal and unrecorded."
+      ],
+      "terms": [
+        "CC&Rs"
+      ]
+    },
+    {
+      "id": "LEGAL-13-005",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 13,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Selling a CID unit generally requires disclosure of:",
+      "options": [
+        "Only the sale price history",
+        "Governing documents, financial disclosures, pending litigation, and assessment/lien status",
+        "Only the seller's personal financial information",
+        "Nothing beyond the standard resale TDS"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Price history alone is not the disclosure standard.",
+        "Correct. CID sales require this expanded disclosure package beyond standard resale disclosures.",
+        "The seller's personal, unrelated finances are not the relevant disclosure category.",
+        "CID sales require disclosures beyond the standard TDS/NHD package."
+      ],
+      "terms": [
+        "reserve study"
+      ]
+    },
+    {
+      "id": "LEGAL-13-006",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 13,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A reserve study funded at only 15% of the recommended level for major repairs is significant because it:",
+      "options": [
+        "Guarantees no future special assessment",
+        "Increases the likelihood of a future special assessment to cover major repairs",
+        "Has no effect on the buyer's cost of ownership",
+        "Only affects the seller, not future owners"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Underfunding does not guarantee anything, but it raises real risk.",
+        "Correct. Underfunded reserves substantially increase the likelihood of a future special assessment.",
+        "It directly affects the true cost of ownership.",
+        "It affects future owners, including the buyer, not just the seller."
+      ],
+      "terms": [
+        "reserve study"
+      ]
+    },
+    {
+      "id": "LEGAL-13-007",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 13,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A special assessment is:",
+      "options": [
+        "The regular monthly HOA dues",
+        "A one-time charge for a specific need beyond regular dues",
+        "A government property tax",
+        "A lien filed by a mortgage lender"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Regular dues are a separate, recurring charge.",
+        "Correct. Special assessments address specific one-time needs, such as a major repair.",
+        "It is not a government tax.",
+        "It is an association charge, not a lender's lien."
+      ],
+      "terms": [
+        "special assessment"
+      ]
+    },
+    {
+      "id": "LEGAL-13-008",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 13,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "An association's authority to enforce unpaid assessments can, under specified statutory conditions, ultimately lead to:",
+      "options": [
+        "No consequence beyond a warning letter",
+        "Recording a lien and, in continued nonpayment cases, potential foreclosure",
+        "Automatic eviction without any notice",
+        "Criminal prosecution of the owner"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Real consequences beyond a warning letter can follow.",
+        "Correct. Associations can record liens and, under procedural safeguards, pursue foreclosure for continued nonpayment.",
+        "Notice and procedural requirements apply; it is not automatic without process.",
+        "This is a civil remedy, not a criminal prosecution."
+      ],
+      "terms": [
+        "assessment lien"
+      ]
+    },
+    {
+      "id": "LEGAL-13-009",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 13,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Many buyers are surprised to learn that:",
+      "options": [
+        "Only mortgage liens can lead to foreclosure on a CID property",
+        "An HOA assessment lien can also potentially lead to foreclosure",
+        "HOAs have no lien rights at all",
+        "Assessment liens require no notice whatsoever"
+      ],
+      "answer": 1,
+      "rationales": [
+        "This understates the association's actual lien and foreclosure authority.",
+        "Correct. Unpaid HOA assessments can, under statutory conditions, lead to foreclosure separate from the mortgage.",
+        "Associations do have statutory lien rights.",
+        "Statutory notice requirements generally apply before lien enforcement or foreclosure."
+      ],
+      "terms": [
+        "assessment lien"
+      ]
+    },
+    {
+      "id": "LEGAL-13-010",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 13,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Davis-Stirling's procedural protections before an association can pursue lien enforcement include:",
+      "options": [
+        "No requirements at all",
+        "Required notices, internal dispute resolution offers, and payment plan requirements",
+        "Immediate foreclosure with no notice",
+        "Only a verbal warning from the board president"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Real procedural protections exist.",
+        "Correct. These safeguards are required given the seriousness of a potential foreclosure remedy.",
+        "Immediate foreclosure without notice is not permitted.",
+        "Formal procedures, not just a verbal warning, are required."
+      ],
+      "terms": [
+        "assessment lien"
+      ]
+    },
+    {
+      "id": "LEGAL-13-011",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 13,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Under Davis-Stirling, most board business must generally be conducted:",
+      "options": [
+        "In secret, with no member access",
+        "In open meetings, with limited exceptions for legitimate executive session topics",
+        "Only by email with no member notice",
+        "Without any records access for members"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Secrecy is not the general rule.",
+        "Correct. Open meetings are generally required, with narrow executive session exceptions.",
+        "Email-only, unnoticed decisions are not the standard.",
+        "Members generally have statutory records access rights."
+      ],
+      "terms": [
+        "open meetings"
+      ]
+    },
+    {
+      "id": "LEGAL-13-012",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 13,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Owners generally have a statutory right to:",
+      "options": [
+        "Rewrite the CC&Rs unilaterally",
+        "Inspect specified association records, subject to reasonable procedures",
+        "Ignore all board decisions",
+        "Prevent any board meetings from occurring"
+      ],
+      "answer": 1,
+      "rationales": [
+        "CC&R amendments typically require a supermajority owner vote, not unilateral action.",
+        "Correct. Owners generally have a statutory records access right.",
+        "Owners are still bound by valid board decisions and governing documents.",
+        "Owners cannot simply prevent legitimate board meetings."
+      ],
+      "terms": [
+        "open meetings"
+      ]
+    },
+    {
+      "id": "LEGAL-13-013",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 13,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Contested board elections and certain significant votes, such as CC&R amendments, generally require:",
+      "options": [
+        "No formal procedure at all",
+        "Specific procedural protections, including secret ballot requirements for contested matters",
+        "Only a show of hands at an informal gathering",
+        "Approval solely by the board president"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Formal procedures are required for these significant votes.",
+        "Correct. Statutory election procedures, including secret ballot protections, apply.",
+        "Informal shows of hands do not satisfy statutory election requirements for contested matters.",
+        "A single officer cannot unilaterally decide these votes."
+      ],
+      "terms": [
+        "open meetings"
+      ]
+    },
+    {
+      "id": "LEGAL-13-014",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 13,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "An architectural review committee (ARC) is responsible for:",
+      "options": [
+        "Setting the association's annual budget",
+        "Reviewing and approving exterior modification requests",
+        "Filing mechanics' liens",
+        "Conducting fair housing testing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Budget-setting is a separate board/management function.",
+        "Correct. The ARC reviews requests for exterior modifications under CC&R authority.",
+        "Mechanics' liens are unrelated to ARC functions.",
+        "Fair housing testing is unrelated to ARC functions."
+      ],
+      "terms": [
+        "architectural review committee (ARC)"
+      ]
+    },
+    {
+      "id": "LEGAL-13-015",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 13,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A homeowner's ARC application for roof-mounted solar panels is denied based on a CC&R uniform-appearance requirement. This denial:",
+      "options": [
+        "Is automatically valid and final under all circumstances",
+        "May conflict with California's specific statutory protections limiting unreasonable restrictions on solar installations",
+        "Cannot be challenged under any circumstances",
+        "Is irrelevant because solar panels are never regulated by HOAs"
+      ],
+      "answer": 1,
+      "rationales": [
+        "CC&R authority is not automatically unlimited here; statutory protections can apply.",
+        "Correct. California law limits an association's ability to unreasonably restrict solar installations despite aesthetic CC&R provisions.",
+        "The homeowner may have recognized avenues to challenge this denial.",
+        "HOAs can regulate reasonable, cost-effective aspects, but cannot impose an outright unreasonable ban given statutory protections."
+      ],
+      "terms": [
+        "architectural review committee (ARC)"
+      ]
+    },
+    {
+      "id": "LEGAL-13-016",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 13,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "California law has specifically protected certain categories from unreasonable CC&R restriction, including:",
+      "options": [
+        "Only interior paint color",
+        "Solar energy systems and certain drought-tolerant landscaping",
+        "Only pet ownership",
+        "Only parking assignments"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Interior paint color is not the specifically protected category referenced here.",
+        "Correct. Solar systems and drought-tolerant landscaping have specific statutory protection in California.",
+        "Pet ownership is not the category referenced here.",
+        "Parking assignments are not the category referenced here."
+      ],
+      "terms": [
+        "architectural review committee (ARC)"
+      ]
+    },
+    {
+      "id": "LEGAL-13-017",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 13,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "An agent representing a buyer of a CID unit should:",
+      "options": [
+        "Hand over the HOA package unread at the end of the transaction",
+        "Obtain and review governing documents, financials, and litigation history early, flagging red flags in plain language",
+        "Assume the HOA package is unimportant boilerplate",
+        "Avoid discussing reserve funding since it is not the agent's expertise"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Reviewing documents only at the end limits the buyer's ability to act on concerns.",
+        "Correct. Early review and plain-language flagging of red flags serves the buyer's interests.",
+        "The HOA package can contain financially significant information, not mere boilerplate.",
+        "Flagging a red flag like reserve underfunding, without giving final legal/financial opinions, is within the agent's role."
+      ],
+      "terms": [
+        "reserve study"
+      ]
+    },
+    {
+      "id": "LEGAL-13-018",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 13,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Pending litigation involving an HOA is disclosed to buyers because:",
+      "options": [
+        "It never affects individual owners",
+        "It can create special assessment risk for every owner, regardless of whether their unit is the subject of the dispute",
+        "It is only relevant to the board members",
+        "It automatically voids the sale"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It can have real financial consequences for individual owners.",
+        "Correct. Litigation costs can lead to special assessments affecting the whole membership.",
+        "It is relevant to all owners, not just board members.",
+        "Pending litigation does not automatically void a sale; it is a disclosure matter."
+      ],
+      "terms": [
+        "reserve study"
+      ]
+    }
+  ]
+}

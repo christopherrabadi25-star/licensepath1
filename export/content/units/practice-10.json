@@ -1,0 +1,473 @@
+{
+  "id": "practice-10",
+  "course_slug": "practice",
+  "unit_number": 10,
+  "title": "Financing the Buyer: From Conversation to Clear to Close",
+  "estimated_hours": 3,
+  "blueprint_areas": [
+    "financing",
+    "practice-disclosures",
+    "contracts"
+  ],
+  "status": "draft",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Distinguish** prequalification, preapproval, underwriting approval, and a clear to close.\n2. **Explain** the buyer's loan timeline without acting as a lender, attorney, or tax adviser.\n3. **Calculate** basic loan-to-value, down payment, and seller-credit amounts.\n4. **Recognize** financing red flags early enough to protect the buyer and transaction.\n5. **Coordinate** productively with a lender while preserving the buyer's privacy and choice.\n6. **Describe** the purpose of the Loan Estimate and Closing Disclosure.\n7. **Apply** fair-lending and advertising boundaries to financing conversations.\n\n---\n\n## 1. Your Role Is Essential — and Limited\n\nFinancing is the source of more transaction anxiety than almost any other subject. A buyer will often ask you, “Can I afford this?” “Is this a good rate?” or “Will this lender get me approved?” Those are understandable questions. They are not permission to become the loan officer.\n\nYour job is to make the financing process visible, help the buyer ask better questions, spot transaction risks, and keep the contract calendar aligned with the loan timeline. The lender's job is to take an application, analyze credit and income, recommend loan products, make required disclosures, and determine approval. The appraiser's job is to develop an independent opinion of value. The underwriter's job is to evaluate the file against the lender's and investor's requirements. The buyer's job is to provide accurate documents, avoid financial changes, and decide whether loan terms are acceptable.\n\nThe boundary is practical, not ceremonial. A real estate agent who says “you are definitely approved” can create a devastating reliance problem. A buyer can be well qualified in principle and still lose approval because income cannot be documented, the appraisal is low, a condo project does not meet lender requirements, insurance is unavailable, or the buyer opens a new credit account before closing.\n\nUse careful language:\n\n- “Your lender is the person who can confirm this.”\n- “Here are the questions I would ask before we write the offer.”\n- “This condition affects the loan timeline; let’s get the lender's written status.”\n- “I can help you compare the transaction terms, but I cannot tell you which loan is best for you.”\n\nThat language is not evasive. It protects the buyer from false certainty and protects you from practicing outside your competence.\n\n## 2. Four Milestones That Buyers Commonly Confuse\n\n### Prequalification\n\nA prequalification is an early estimate based on information the buyer provides. It may involve a conversation about income, debts, assets, and credit, but the depth of verification varies widely. It can be useful for setting expectations. It is not a promise that the buyer can close.\n\n### Preapproval\n\nA preapproval generally means the lender has reviewed more information, often including a credit report and documents supporting income and assets. But the label is not standardized across every lender. One lender's “preapproval” can be another lender's preliminary screen. Ask what was actually verified, what conditions remain, how long the approval is valid, and whether the loan amount depends on a particular property type or down payment.\n\n### Underwriting approval\n\nAfter contract acceptance, the loan file moves through more complete underwriting. The lender evaluates the borrower and the property. Conditions can include updated bank statements, explanations of deposits, appraisal review, insurance, title items, or documentation of employment. A buyer can hear “approved with conditions” and feel finished; the transaction is not finished until those conditions are satisfied.\n\n### Clear to close\n\n“Clear to close” means the lender has completed its required conditions and is prepared for closing, subject to final process steps. It is materially stronger than a preapproval. Do not replace the lender's confirmation with an agent's impression. Request status through the buyer and lender in a way that respects authorizations and privacy.\n\n## 3. The Loan Timeline Inside the Transaction Timeline\n\nFinancing begins before the offer and continues until funding. A disciplined buyer's agent maps the two timelines together.\n\n| Transaction point | Financing work | Agent's coordination role |\n|---|---|---|\n| Before touring seriously | Buyer consults lender, reviews funds, understands payment range | Ask what has been verified; help buyer define an offer range |\n| Before writing | Lender reviews target price, property type, down payment, credit, and closing-cost assumptions | Confirm lender can contact listing side if buyer authorizes it |\n| Acceptance | Formal application and documentation collection begin or deepen | Calendar loan and appraisal milestones immediately |\n| First week | Appraisal ordered; lender requests documents and disclosures are delivered | Make access easy; remind buyer that delays have consequences |\n| Underwriting | Conditions, appraisal, title, insurance, and final income/asset review | Track status, not private details; escalate timeline risk early |\n| Pre-closing | Closing Disclosure, final cash-to-close, signing instructions | Have buyer confirm funds and timing directly with lender/escrow |\n| Funding and recording | Lender wires funds; escrow records | Never give wire instructions by unverified email or text |\n\nThe key distinction is between *asking for status* and *asking for sensitive documents*. You may need to know whether an appraisal was ordered or whether underwriting has a material timing condition. You do not need a buyer's tax return, account number, or credit score. If a lender shares personal information without a buyer's authorization, stop the conversation and ask the buyer to communicate directly or provide written permission.\n\n## 4. The Numbers You Must Understand\n\nYou do not need to price a loan. You do need to understand a few basic calculations so you can recognize whether the buyer's cash assumptions and offer terms fit together.\n\n### Down payment\n\n**Down payment = purchase price − loan amount.**\n\nIf a buyer offers $800,000 and borrows $640,000, the down payment is $160,000. That is 20% of the price. But the buyer also needs closing costs, prepaid items, reserves if required, and possibly an appraisal-gap amount. Never describe the down payment as the buyer's total cash requirement.\n\n### Loan-to-value ratio (LTV)\n\n**LTV = loan amount ÷ value (or purchase price, depending on program and appraisal).**\n\nFor the $640,000 loan on an $800,000 purchase, LTV is 80%. If the appraisal is $760,000, a lender may calculate against the lower value. The same $640,000 loan becomes approximately 84.2% LTV ($640,000 ÷ $760,000). That can change mortgage-insurance requirements, loan eligibility, or the amount of cash the buyer must bring.\n\n### Seller credit\n\n**Seller credit = negotiated dollar amount, subject to the contract and loan-program limits.**\n\nA seller credit can help with allowable closing costs, prepaids, or rate-related costs depending on the loan. It is not free money and it does not necessarily reduce the down payment. The lender must confirm what is permitted. When writing an offer, make the requested credit explicit and ensure the buyer understands that unused credit may not become cash back at closing.\n\n### Payment is more than principal and interest\n\nBuyers often fixate on the advertised principal-and-interest payment. Their actual housing payment may include principal, interest, property taxes, homeowners insurance, mortgage insurance, homeowners-association dues, and sometimes special assessments. The familiar shorthand **PITI**—principal, interest, taxes, and insurance—is helpful, but not exhaustive.\n\nAn agent should not use a payment calculator as an approval determination. Use it to frame questions: “Does this estimate include HOA dues?” “Has the insurance quote reflected the property's fire-zone exposure?” “Did the lender model the requested seller credit?”\n\n## 5. Appraisal Is a Financing Event, Not a Negotiation Tool\n\nThe appraisal affects the lender's collateral analysis. It is not a second listing presentation and it is not an opportunity to pressure the appraiser. Provide factual, relevant information if the lender or appraiser requests it: the executed contract, factual comparable-sale data, a list of documented improvements, and access information. Do not advocate through unsupported conclusions or conceal negative data.\n\nWhen the appraisal is lower than the contract price, the buyer and seller have choices shaped by the contract and loan program. The buyer might increase cash, renegotiate price, alter financing, challenge an appraisal through the lender's process, or cancel if the applicable contingency remains. The seller might reduce price, seek another buyer, or hold firm. Your job is to explain the transaction paths, check the actual contingency language, and keep the parties from treating an appraisal gap as a moral failure by either side.\n\n### Worked Example 1 — The gap is not the buyer's only cash problem\n\nJasmine contracts at $900,000 with an 80% loan based on the appraised value. She planned a 20% down payment ($180,000) and estimated $18,000 in closing costs. The appraisal comes in at $875,000.\n\nThe lender's 80% maximum loan is now $700,000 (80% × $875,000), not $720,000. If Jasmine still pays $900,000, she needs $200,000 for the price difference after the loan, plus estimated costs: roughly $218,000 total before any reserves. The appraisal gap created a **$20,000 additional cash requirement**, not merely a theoretical valuation issue.\n\nThe right response is not “just bring the difference.” Ask the lender whether the loan structure remains available, confirm the buyer's verified funds, and discuss the contractual options with the buyer and broker.\n\n## 6. Disclosures and Consumer Protection\n\nTwo federal forms are especially important in a typical covered consumer mortgage transaction:\n\n- The **Loan Estimate** is designed to help a borrower understand estimated terms and costs after application. \n- The **Closing Disclosure** is designed to show the final terms and costs before consummation, subject to applicable timing rules. <!-- VERIFY: current timing requirements and exceptions before DRE submission -->\n\nYou should encourage buyers to read these forms and ask their lender about changes. Do not tell a buyer that a cost increase is “normal” without understanding it. A change may be legitimate; the lender is the right source for the explanation.\n\nConsumer-protection laws also prohibit discriminatory credit practices. A real estate agent should never direct a buyer to or away from financing based on race, national origin, religion, sex, disability, familial status, source of income, or another protected characteristic. “That lender is better for people like you” is both vague and dangerous. Use neutral, consistent referral criteria such as product availability, language access requested by the buyer, service area, responsiveness, and the lender's ability to work with the buyer's chosen property type.\n\nAvoid referral arrangements that compromise the buyer's choice or violate applicable law. A preferred-lender list is not a mandate. The buyer chooses the lender.\n\n## 7. Financing Red Flags You Should Catch Early\n\n| Red flag | Why it matters | Professional response |\n|---|---|---|\n| Buyer calls a conversation a “full approval” | Documents or credit may not have been reviewed | Ask what was verified and what conditions remain |\n| Buyer changes jobs or compensation structure | Income eligibility can change | Tell buyer to speak with lender before making changes |\n| New car, furniture financing, or credit inquiry | Debt ratio and credit can change | Explain the timing risk; have buyer call lender first |\n| Large undocumented bank deposit | Underwriting may require source documentation | Ask buyer to respond promptly to lender, not to hide anything |\n| Fire-zone or unusual property | Insurance or eligibility can affect closing | Obtain insurance quotes early; consult lender on property eligibility |\n| HOA, condominium, or mixed-use property | Project review may be required | Confirm lender experience with the property type before offer |\n| Buyer is slow with documents | Underwriting cannot finish | Set a same-day document-response expectation |\n| Wire instruction change by email | High wire-fraud risk | Confirm through a known phone number, never email alone |\n\nDo not interrogate the buyer about protected or private information. Focus on timing and process: “Has your lender asked for anything you have not yet delivered?” “Would you like me to coordinate a deadline update with the other side?”\n\n## 8. Lender Communication That Helps Rather Than Harms\n\nAt offer stage, a strong lender letter can help a listing agent understand the buyer's position. But a letter should be accurate. It should not imply verification that has not occurred or expose private data unnecessarily.\n\nAfter acceptance, establish one communication rhythm. With the buyer's permission, ask the lender for milestone status: application received, appraisal ordered, appraisal received, underwriting submitted, conditions outstanding, clear to close, and loan documents scheduled. Do not ask the lender to disclose the buyer's detailed income, credit score, medical information, or account balances.\n\nWhen a lender misses a milestone, do not announce certainty to the seller. Say what you know: “The lender has indicated underwriting needs an additional document and expects an update tomorrow. We will update you by 3 p.m.” Then follow through. Accurate, timely communication is more credible than optimistic promises.\n\n### Worked Example 2 — A “preapproval” that was only a starting point\n\nMateo offers on a $650,000 condominium with a letter stating he is preapproved. After acceptance, the lender learns his income includes recently started self-employment and that the condominium project needs additional review. The agent tells the seller, “No issue—he's preapproved.”\n\nThat statement is a mistake. The correct statement is that the lender is reviewing income and the project, and the buyer should provide requested documentation immediately. The buyer's agent should evaluate the loan-contingency timeline, ask whether the buyer has another financing path, and communicate factual status without declaring an outcome. Preapproval reduced uncertainty; it did not eliminate it.\n\n### Worked Example 3 — Seller credit and offer strength\n\nTwo offers arrive at $750,000. Offer A requests $15,000 in seller credit. Offer B requests no credit. If both buyers finance at similar terms and close on the same date, Offer B may produce a higher seller net by approximately $15,000 before other differences. But the listing agent should still compare deposits, contingencies, appraisal risk, buyer funds, repair expectations, and timing. “Same price” rarely means “same offer.”\n\nYour buyer needs this explained before writing. A credit can make their cash-to-close workable, but it can also make their offer less competitive. That is a business tradeoff for the buyer to decide with complete information.\n\n## 9. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Prequalification** | An early financing estimate based on information supplied by a prospective borrower; not a commitment to lend. |\n| **Preapproval** | A lender's preliminary approval based on a defined level of review; remaining conditions and verification matter. |\n| **Underwriting** | The lender's evaluation of borrower, property, and loan documentation against lending requirements. |\n| **Clear to close** | The lender's confirmation that required conditions are satisfied and closing may proceed, subject to final process steps. |\n| **Loan-to-value ratio (LTV)** | Loan amount divided by the relevant property value; commonly used in underwriting. |\n| **Seller credit** | A negotiated seller contribution to allowable buyer closing costs or other permitted items, subject to lender/program limits. |\n| **Loan Estimate** | A standardized estimate of loan terms and costs for covered consumer mortgages. |\n| **Closing Disclosure** | A standardized disclosure of final loan terms and costs for covered consumer mortgages. |\n| **Appraisal gap** | The difference between contract price and appraised value when the appraisal is lower. |\n| **PITI** | Principal, interest, taxes, and insurance; a common payment shorthand that may not include all housing costs. |\n\n## 10. Exam and Practice Tips\n\n- A prequalification, preapproval, underwriting approval, and clear to close are **not interchangeable**.\n- Calculate LTV using the loan amount divided by the relevant value. When appraisal is lower, the lender may use the lower value.\n- A seller credit is subject to loan-program rules and does not automatically become cash back to the buyer.\n- Never promise that a borrower is approved or that a loan will fund.\n- Treat appraisal, insurance, HOA/project review, and buyer-document delays as early transaction risks.\n- Confirm wire instructions through a known, independently verified phone number.\n- Your job is coordination and explanation, not loan origination or financial advice.\n\n## 11. Unit Assessment\n\nThe 18-question assessment lives in `/content/question-bank/practice/unit-10.json` with full per-option rationales.",
+  "word_count": 2672,
+  "questions": [
+    {
+      "id": "PRAC-10-001",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 10,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "Which milestone most strongly indicates that lender conditions have been completed and the loan is ready for closing steps?",
+      "options": [
+        "Prequalification",
+        "Preapproval",
+        "Clear to close",
+        "A buyer's verbal statement"
+      ],
+      "answer": 2,
+      "rationales": [
+        "A prequalification is an early estimate and is not a completed loan review.",
+        "A preapproval can still contain borrower and property conditions.",
+        "Correct. A clear to close follows satisfaction of required underwriting conditions, although final process steps still remain.",
+        "A buyer cannot independently determine that a lender has cleared a file."
+      ],
+      "terms": [
+        "clear to close",
+        "preapproval"
+      ]
+    },
+    {
+      "id": "PRAC-10-002",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 10,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "A $640,000 loan on an $800,000 purchase price has an LTV of:",
+      "options": [
+        "20%",
+        "64%",
+        "80%",
+        "125%"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Twenty percent is the down-payment percentage in this example, not the LTV.",
+        "Dividing 640,000 by one million would produce 64%, but one million is not the value here.",
+        "Correct. $640,000 ÷ $800,000 = 0.80, or 80%.",
+        "An LTV above 100% would mean the loan exceeds the stated value."
+      ],
+      "terms": [
+        "loan-to-value ratio (LTV)"
+      ]
+    },
+    {
+      "id": "PRAC-10-003",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A buyer asks the agent whether a particular rate is the best loan for them. The agent should first:",
+      "options": [
+        "Promise the rate is excellent because the lender is preferred",
+        "Explain that the lender should compare terms and costs with the buyer",
+        "Tell the buyer to waive the loan contingency",
+        "Choose the loan product based on the listing agent's preference"
+      ],
+      "answer": 1,
+      "rationales": [
+        "An agent should not make an unsupported loan recommendation or guarantee.",
+        "Correct. The agent may help the buyer frame questions, but the lender must explain product terms and the buyer makes the financing decision.",
+        "A contingency decision should follow informed analysis, not replace it.",
+        "The listing side does not choose the buyer's financing."
+      ],
+      "terms": [
+        "Loan Estimate",
+        "preapproval"
+      ]
+    },
+    {
+      "id": "PRAC-10-004",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 10,
+      "blueprint_area": "financing",
+      "difficulty": 3,
+      "stem": "A home is under contract for $900,000. The appraisal is $875,000 and the lender will lend 80% of appraised value. What is the maximum stated loan amount?",
+      "options": [
+        "$700,000",
+        "$720,000",
+        "$875,000",
+        "$900,000"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. 80% × $875,000 equals $700,000.",
+        "$720,000 is 80% of the contract price, not the lower appraised value.",
+        "The appraisal is not itself the loan amount.",
+        "The contract price is not the lender's 80% maximum in this fact pattern."
+      ],
+      "terms": [
+        "appraisal gap",
+        "loan-to-value ratio (LTV)"
+      ]
+    },
+    {
+      "id": "PRAC-10-005",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which buyer action should prompt an immediate conversation with the lender before closing?",
+      "options": [
+        "Opening a new auto loan",
+        "Reviewing the preliminary report",
+        "Scheduling a final walk-through",
+        "Asking escrow for signing times"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. New debt can affect credit and debt-to-income underwriting; the lender should assess it before the buyer acts.",
+        "Reviewing title is important but does not itself change borrower qualification.",
+        "A final walk-through is a normal transaction activity.",
+        "Signing logistics do not normally affect loan qualification."
+      ],
+      "terms": [
+        "underwriting"
+      ]
+    },
+    {
+      "id": "PRAC-10-006",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A lender tells an agent that underwriting needs another document. The most appropriate update to the listing side is:",
+      "options": [
+        "The buyer will certainly close on time",
+        "The lender needs an additional document and an updated status will follow by a stated time",
+        "The buyer's income and account balances in detail",
+        "Nothing; status updates are never appropriate"
+      ],
+      "answer": 1,
+      "rationales": [
+        "No one should promise an outcome before the lender confirms it.",
+        "Correct. This is factual, protects private information, and gives the other side a reliable next update.",
+        "Detailed financial information is private and unnecessary for transaction coordination.",
+        "Appropriate milestone communication can prevent avoidable escalation."
+      ],
+      "terms": [
+        "underwriting"
+      ]
+    },
+    {
+      "id": "PRAC-10-007",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 10,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "A seller credit is best described as:",
+      "options": [
+        "Cash the buyer may always receive after closing",
+        "A contribution that can apply only as permitted by the contract and loan program",
+        "A replacement for buyer qualification",
+        "A guarantee that an appraisal will meet contract price"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Unused credit does not automatically become cash to the buyer.",
+        "Correct. Allowable use and limits depend on the contract and loan program, which the lender confirms.",
+        "A credit does not replace income, assets, credit, or underwriting.",
+        "An appraisal is independent of a seller-credit request."
+      ],
+      "terms": [
+        "seller credit"
+      ]
+    },
+    {
+      "id": "PRAC-10-008",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 10,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "Which form is intended to help a borrower understand estimated loan terms and costs after application in a covered consumer mortgage transaction?",
+      "options": [
+        "Transfer Disclosure Statement",
+        "Loan Estimate",
+        "Preliminary report",
+        "Grant deed"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A TDS concerns property condition disclosures, not loan terms.",
+        "Correct. The Loan Estimate summarizes estimated loan terms and costs.",
+        "A preliminary report identifies title matters rather than lender pricing.",
+        "A grant deed transfers a real-property interest."
+      ],
+      "terms": [
+        "Loan Estimate"
+      ]
+    },
+    {
+      "id": "PRAC-10-009",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A buyer is purchasing a condominium. Which financing issue should the agent raise early with the lender?",
+      "options": [
+        "Whether project review or property eligibility requirements apply",
+        "Whether the buyer should ignore HOA documents",
+        "Whether the appraiser can be pressured to support value",
+        "Whether title is unnecessary because the buyer has a loan"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Condominium projects can involve lender review and should be discussed before a deadline creates pressure.",
+        "HOA documents can be material to both buyer due diligence and lender review.",
+        "Appraiser independence is important; pressure is improper.",
+        "Title review remains important in financed transactions."
+      ],
+      "terms": [
+        "underwriting"
+      ]
+    },
+    {
+      "id": "PRAC-10-010",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An email says escrow's wiring instructions have changed and asks the buyer to send funds immediately. The safest response is to:",
+      "options": [
+        "Use the new instructions because the email looks professional",
+        "Reply to the email asking for confirmation",
+        "Verify instructions through a known independently confirmed escrow phone number",
+        "Send half the funds first"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Email appearance is not reliable protection against wire fraud.",
+        "Replying can still communicate with a compromised account.",
+        "Correct. Independently verifying through a known phone number is the appropriate fraud-control step.",
+        "Sending a partial wire still risks loss and does not verify instructions."
+      ],
+      "terms": [
+        "wire fraud"
+      ]
+    },
+    {
+      "id": "PRAC-10-011",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 10,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "A buyer plans to borrow $500,000 on a $625,000 purchase. Before closing costs, the planned down payment is:",
+      "options": [
+        "$100,000",
+        "$125,000",
+        "$500,000",
+        "$625,000"
+      ],
+      "answer": 1,
+      "rationales": [
+        "$100,000 would leave a $525,000 loan.",
+        "Correct. $625,000 − $500,000 = $125,000.",
+        "$500,000 is the planned loan amount.",
+        "$625,000 is the full purchase price."
+      ],
+      "terms": [
+        "down payment"
+      ]
+    },
+    {
+      "id": "PRAC-10-012",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 10,
+      "blueprint_area": "financing",
+      "difficulty": 3,
+      "stem": "Which statement about a preapproval is most accurate?",
+      "options": [
+        "It always means all borrower and property conditions have been satisfied",
+        "It has the identical scope at every lender",
+        "It can reduce uncertainty but should be read for remaining conditions and verification",
+        "It permits the agent to guarantee closing"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Property, income, asset, appraisal, and other conditions may remain.",
+        "Lenders do not necessarily use the label for the same review depth.",
+        "Correct. Ask what was verified, what remains, and whether property type or timing conditions apply.",
+        "Only the lender can determine loan approval; an agent cannot guarantee closing."
+      ],
+      "terms": [
+        "preapproval",
+        "underwriting"
+      ]
+    },
+    {
+      "id": "PRAC-10-013",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "Which referral practice is most consistent with fair and consumer-focused financing service?",
+      "options": [
+        "Directing buyers to a lender based on a protected characteristic",
+        "Giving every buyer the same neutral referral criteria and preserving lender choice",
+        "Requiring use of the brokerage's preferred lender",
+        "Withholding lender options until after offer acceptance"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Protected characteristics are not a lawful basis for financing referrals.",
+        "Correct. Neutral criteria, consistent service, and buyer choice reduce discrimination and conflict risk.",
+        "A preferred lender list is not a mandate.",
+        "Buyers benefit from understanding financing options before they write an offer."
+      ],
+      "terms": [
+        "fair lending"
+      ]
+    },
+    {
+      "id": "PRAC-10-014",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 10,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "Which item is not necessarily included in a simple PITI estimate?",
+      "options": [
+        "Principal",
+        "Interest",
+        "Homeowners-association dues",
+        "Property taxes"
+      ],
+      "answer": 2,
+      "rationales": [
+        "The P in PITI includes principal.",
+        "The I in PITI includes interest.",
+        "Correct. HOA dues may be a real housing cost, but they are not one of the four PITI components.",
+        "The T in PITI includes property taxes."
+      ],
+      "terms": [
+        "PITI"
+      ]
+    },
+    {
+      "id": "PRAC-10-015",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 10,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A low appraisal occurs while the buyer's appraisal contingency remains in effect. Which is the best agent action?",
+      "options": [
+        "Tell the buyer the seller must reduce price",
+        "Review the contract, confirm lender options, and explain the buyer's available transaction paths",
+        "Assure the seller that the appraisal can be changed by request",
+        "Ignore the appraisal until closing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The seller's response depends on negotiation and contract terms; it is not automatic.",
+        "Correct. Contract language, lender options, buyer funds, and timing determine the practical paths.",
+        "An appraisal reconsideration has a lender process and is not guaranteed.",
+        "Ignoring the issue can cause a preventable closing failure."
+      ],
+      "terms": [
+        "appraisal gap",
+        "contingency"
+      ]
+    },
+    {
+      "id": "PRAC-10-016",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 10,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Why should insurance be investigated early for a property in a higher-risk fire area?",
+      "options": [
+        "Insurance is unrelated to financing",
+        "Availability and cost can affect closing and buyer qualification",
+        "The seller's agent can bind the buyer's policy",
+        "It removes the need for a home inspection"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Lenders commonly require acceptable insurance as a closing condition.",
+        "Correct. Insurance availability, terms, and cost can affect whether and how the buyer closes.",
+        "An agent generally cannot bind an insurance policy for a buyer.",
+        "Insurance and inspections serve different purposes."
+      ],
+      "terms": [
+        "underwriting"
+      ]
+    },
+    {
+      "id": "PRAC-10-017",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 10,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "The Closing Disclosure is designed primarily to show:",
+      "options": [
+        "The seller's marketing plan",
+        "Final loan terms and costs",
+        "The property's legal description only",
+        "The buyer's inspection findings"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Marketing is unrelated to mortgage disclosures.",
+        "Correct. The Closing Disclosure presents final loan terms and costs for covered transactions.",
+        "A legal description may appear in other transaction documents but is not the form's primary purpose.",
+        "Inspection findings are not the purpose of a Closing Disclosure."
+      ],
+      "terms": [
+        "Closing Disclosure"
+      ]
+    },
+    {
+      "id": "PRAC-10-018",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 10,
+      "blueprint_area": "financing",
+      "difficulty": 3,
+      "stem": "A buyer makes a large cash deposit shortly before underwriting. The agent should advise the buyer to:",
+      "options": [
+        "Hide the deposit by moving it again",
+        "Promptly ask the lender what source documentation is needed",
+        "Cancel the transaction immediately",
+        "Tell the seller all details of the deposit"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Moving or hiding funds can worsen underwriting and fraud concerns.",
+        "Correct. The lender can explain documentation requirements; prompt, accurate response protects the timeline.",
+        "The issue may be resolvable with documentation and does not automatically require cancellation.",
+        "The buyer's financial detail is private and generally unnecessary for the seller."
+      ],
+      "terms": [
+        "underwriting"
+      ]
+    }
+  ]
+}

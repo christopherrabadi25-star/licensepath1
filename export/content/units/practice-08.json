@@ -1,0 +1,520 @@
+{
+  "id": "practice-08",
+  "course_slug": "practice",
+  "unit_number": 8,
+  "title": "Writing & Negotiating Offers; Multiple-Offer Strategy",
+  "estimated_hours": 3,
+  "blueprint_areas": [
+    "contracts",
+    "practice-disclosures"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Complete** a residential purchase agreement accurately, identifying the terms that most affect outcome.\n2. **Advise** on offer strategy beyond price — terms, timing, and contingency structure.\n3. **Explain** the real cost of waiving each contingency.\n4. **Present** offers to a seller in a way that supports a sound decision.\n5. **Handle** multiple-offer situations without creating a binding conflict or a fair housing problem.\n6. **Apply** the rules governing counteroffers, backup offers, and revocation.\n7. **Calculate** deposit amounts, credits, and net comparisons between competing offers.\n\n---\n\n## 1. What Actually Makes an Offer Strong\n\nNew agents believe price wins. Price matters most, but a seller comparing two offers is really comparing **certainty of closing** at a given number.\n\n**The levers, roughly in order of weight:**\n\n1. **Price** — but net price, not gross (Section 6).\n2. **Financing type and strength** — cash, then conventional with large down payment, then FHA/VA, roughly. What actually matters is the underwriting risk each carries.\n3. **Deposit size** — a larger deposit signals commitment and increases the seller's remedy on default.\n4. **Contingency structure** — shorter periods and fewer contingencies reduce the seller's risk.\n5. **Close date and possession flexibility** — a seller who needs 45 days and a rent-back cares enormously.\n6. **Cleanliness of the offer** — complete, correctly written, all disclosures acknowledged, preapproval attached. Sloppy offers signal a sloppy escrow.\n\n**Where new agents lose deals they should win:** submitting an incomplete offer with a generic prequalification letter and no cover explanation. The listing agent is presenting to a seller who will ask \"will this close?\" Make that answer easy.\n\n## 2. Completing the Purchase Agreement\n\nThe architecture is in Principles Unit 8. In practice, the terms that most often go wrong:\n\n**Buyer names.** Exactly as they will take title. \"And/or assignee\" has real consequences and some sellers refuse it.\n\n**Deposit.** State the amount and when it is delivered. Remember the deposit is a **trust fund** — into escrow, a trust account, or the principal's hands within **three business days**, with the clock running from acceptance when the offer directs the check be held uncashed pending acceptance (Principles Unit 18).\n\n**Financing terms.** Loan type, amount, and whether the offer is contingent on it. If the buyer is putting 20% down, say so — it is a selling point.\n\n**Contingency periods.** Investigation, appraisal, loan, title, HOA documents. **Calendar every one the day of acceptance.**\n\n**Inclusions and exclusions.** Settle fixtures in writing (Principles Unit 2).\n\n**Closing and possession.** These are separate. If the seller needs a rent-back, address it now rather than three days before closing.\n\n**Liquidated damages and arbitration.** Both require **separate signatures or initials** to be effective (Principles Unit 8). Explain what each means before the buyer initials — arbitration in particular waives a jury trial, and buyers should know that.\n\n**Time is of the essence.** Every deadline is material once this clause applies.\n\n## 3. Contingencies: What Waiving Actually Costs\n\nIn competitive markets buyers waive contingencies. Your job is to make sure they understand what they are giving up, in writing.\n\n**Investigation contingency** — the broadest protection. Waiving it means accepting the property's condition sight-unseen in terms of recourse. A buyer who later finds a $40,000 sewer problem has no contractual exit. **Alternative:** a shortened period, or inspecting *before* offering.\n\n**Appraisal contingency** — protects against paying above appraised value. Waiving means the buyer covers any gap in cash. **Quantify it:** \"If it appraises $30,000 low, you need $30,000 more cash at closing. Do you have it?\" Many buyers say yes without doing the arithmetic.\n\n**Loan contingency** — the most dangerous to waive. If financing fails after removal, the buyer is in default and the seller may pursue liquidated damages up to 3% of the price on owner-occupied 1–4 units (Principles Unit 7). On an $800,000 home that is **$24,000**.\n\n**A rule worth stating plainly to buyers:** never remove the loan contingency because the lender says things \"look good.\" Remove it when underwriting has approved the file in writing.\n\n**Sale-of-buyer's-property contingency** — sellers resist these. Options include a shorter period, a kick-out clause, or bridge financing.\n\n**Document the advice.** When a buyer waives against your recommendation, email them the same day confirming what you advised and that they elected otherwise. That email is your file.\n\n## 4. Presenting Offers\n\n**Present every offer.** You may not screen offers by any protected characteristic (Unit 3), and you generally must present all offers received unless the seller has instructed otherwise in writing and lawfully.\n\n**Present them usefully.** A seller staring at four offers needs a comparison, not a stack of PDFs. Build a **net comparison** (Section 6) showing each offer's net proceeds, contingency exposure, financing strength, and timeline.\n\n**Do not editorialize about the buyers.** Terms, financing, and timeline — never characteristics, and never anything that could function as a proxy for them. \"The Nguyens seem like a lovely family\" is a fair housing problem, not a compliment.\n\n**Buyer love letters** deserve their own warning. Letters describing a buyer's family, religion, or background create real fair housing exposure for the seller and the agents, because they inject protected characteristics into the decision. Some brokerages prohibit them outright. The defensible practice is to decline to transmit them and tell the buyer why. <!-- VERIFY: current California law and brokerage-policy landscape on buyer letters -->\n\n## 5. Multiple Offers\n\n**The mechanical risk:** binding to two buyers at once. Use a **multiple counteroffer** form that expressly provides no contract forms until the seller signs a final acceptance of one buyer's response (Principles Unit 8). Using ordinary counteroffers with several buyers is how an agent creates two contracts on one house.\n\n**The seller's options** with multiple offers:\n- Accept the best one outright.\n- Counter one.\n- Counter several via multiple counteroffer.\n- Ask all parties for highest and best.\n- Accept one and take a **backup offer** in first position.\n\n**\"Highest and best\"** is common but not free — some strong buyers walk rather than bid against themselves. Advise the seller on that trade-off.\n\n**Escalation clauses** (automatically increasing the offer above competing bids up to a cap) are used in some markets and disfavored in others; they reveal the buyer's ceiling and can create disputes about proof of the competing offer. Check your brokerage's position before writing one.\n\n**What you must not do:**\n- Disclose the terms of one buyer's offer to another without the seller's authorization.\n- Misrepresent that competing offers exist when they do not — that is fraud, and it is a common informal practice that agents rationalize.\n- Screen or rank offers by protected characteristics.\n\n## 6. Worked Examples\n\n### Example 1 — Net comparison of competing offers (Covina)\n\nA seller receives three offers on a home listed at $845,000. Total commission 5%; other closing costs $9,800.\n\n| | Offer A | Offer B | Offer C |\n|---|---|---|---|\n| Price | $862,000 | $850,000 | $845,000 |\n| Financing | FHA, 3.5% down | Conventional, 25% down | Cash |\n| Seller credit requested | $12,000 | $0 | $0 |\n| Contingencies | All, 17/21 days | Investigation only, 10 days | None |\n| Close | 45 days | 30 days | 14 days |\n\n**Net walkthrough.**\n\n*Offer A:* $862,000 − $43,100 (5%) − $9,800 − $12,000 credit = **$797,100**\n*Offer B:* $850,000 − $42,500 − $9,800 = **$797,700**\n*Offer C:* $845,000 − $42,250 − $9,800 = **$792,950**\n\n**The headline price ranks A > B > C. The net ranks B > A > C**, and B leads by only $600 over A while carrying dramatically less risk: one contingency instead of four, ten days instead of twenty-one, and 25% down instead of 3.5%.\n\nOffer C nets $4,750 less than B — but closes in 14 days with no contingencies and no financing risk at all. Whether that certainty is worth $4,750 is **the seller's decision**, and your job is to present the comparison clearly, not to make it for them.\n\nThe lesson: **the highest offer was not the best offer**, and a seller handed three PDFs would probably have taken A.\n\n### Example 2 — The appraisal gap, quantified (Arcadia)\n\nYour buyer wants to offer $1,240,000 on a home listed at $1,175,000 and asks whether to waive the appraisal contingency.\n\n**The conversation to have.**\n1. Recent comparables support roughly $1,180,000–$1,205,000.\n2. If it appraises at $1,190,000, the gap is $1,240,000 − $1,190,000 = **$50,000**.\n3. The lender lends on the **lesser of price or appraised value**. At 80% of $1,190,000, the loan is $952,000 — meaning the buyer needs $1,240,000 − $952,000 = **$288,000 in cash**, versus the $248,000 they planned on 20% of the purchase price.\n4. **Question:** \"Do you have an additional $40,000 available beyond your down payment, and are you willing to spend it on this house?\"\n\nIf the answer is yes, waiving is a legitimate strategic choice. If it is \"probably,\" the answer is no — and a partial waiver (covering a gap up to a stated cap) is often the better structure.\n\n### Example 3 — The multiple counteroffer that bound twice (Ontario)\n\nA seller receives two offers and the agent sends each buyer a standard counteroffer at $872,000. Both buyers sign and return within hours.\n\n**Analysis.** The seller may now be bound to **two contracts on one property** — a genuine crisis with no clean resolution. One buyer will likely sue for specific performance (available in real estate because land is unique — Principles Unit 7), and the agent's errors and omissions carrier is about to be involved.\n\n**The prevention** was a single form: a **multiple counteroffer** providing that no contract forms until the seller signs a final acceptance of one buyer's response. This is exactly why that form exists, and using ordinary counteroffers with multiple buyers is a known, avoidable error.\n\n### Example 4 — The love letter (Pasadena)\n\nYour buyers write a heartfelt letter describing their young family, their church community, and their hope to raise their children in the home. They include a photo. They ask you to submit it with the offer.\n\n**Analysis.** The letter discloses **familial status, religion, and — via the photo — race or national origin**. If the seller chooses this buyer, or rejects another, the letter is evidence that protected characteristics entered the decision. That exposes the seller, both brokerages, and you.\n\n**What to do:** explain kindly and specifically. \"I can't submit this, and I want to tell you why rather than just refusing. It describes your family and your faith, and fair housing law keeps those out of the seller's decision entirely. If it went in and another buyer later claimed they were rejected for who they are, that letter becomes the evidence. What we *can* do is strengthen the offer where it actually counts — deposit, timeline, and contingency structure.\"\n\nThen do that. Buyers who wanted to write a letter usually want to win, and there are lawful ways to help them.\n\n## 7. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Net comparison** | A side-by-side analysis of competing offers by net proceeds, contingency exposure, financing strength, and timeline. |\n| **Multiple counteroffer** | A counteroffer to several buyers structured so no contract forms until the seller signs a final acceptance of one response. |\n| **Backup offer** | An offer that automatically takes effect if the primary contract falls through; states its numbered position. |\n| **Highest and best** | A request that all offerors submit their strongest terms by a deadline. |\n| **Escalation clause** | A provision automatically raising an offer above competing bids up to a stated cap; reveals the buyer's ceiling. |\n| **Kick-out clause** | A provision allowing a seller with a contingent contract to continue marketing and require the buyer to perform or release. |\n| **Appraisal gap** | The difference between contract price and appraised value, which the buyer must cover in cash. |\n| **Buyer letter** | A personal letter from buyer to seller; creates fair housing exposure by injecting protected characteristics into the decision. |\n| **Proof of funds** | Documentation that a buyer holds the cash required for the down payment and closing costs. |\n\n## 8. Practice Tips\n\n- **Submit clean, complete offers with a real preapproval.** Sloppy offers lose to equal offers.\n- **Calendar every contingency deadline the day of acceptance.**\n- **Quantify what waiving costs** before a buyer waives — especially the appraisal gap in dollars.\n- **Never remove the loan contingency on \"it looks good.\"** Wait for written underwriting approval.\n- **Document contrary advice the same day**, in writing.\n- **Use a multiple counteroffer form** whenever countering more than one buyer. Never ordinary counteroffers.\n- **Present net comparisons, not stacks of PDFs.** The highest price is frequently not the best offer.\n- **Decline buyer letters, and explain why.** Then strengthen the offer where it lawfully counts.\n\n## 9. Unit Assessment\n\nThe 20-question assessment lives in `/content/question-bank/practice/unit-08.json` with full per-option rationales.",
+  "word_count": 2174,
+  "questions": [
+    {
+      "id": "PRAC-08-001",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A seller receives three offers. Offer A: $862,000 with a $12,000 credit requested. Offer B: $850,000, no credit. Commission is 5% and other costs are $9,800 on each. Comparing net proceeds:",
+      "options": [
+        "A nets more, because its price is higher",
+        "B nets more, by about $600",
+        "They net identically",
+        "A nets more, by about $12,000"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The higher gross price is reduced by both a larger commission and the credit.",
+        "Correct. A: 862,000 − 43,100 − 9,800 − 12,000 = $797,100. B: 850,000 − 42,500 − 9,800 = $797,700. B nets about $600 more while also carrying less risk.",
+        "The nets differ, though only slightly — which is exactly why a net comparison is necessary.",
+        "The credit reduces A's net but does not create a $12,000 advantage for A."
+      ],
+      "terms": [
+        "net comparison"
+      ]
+    },
+    {
+      "id": "PRAC-08-002",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "When countering more than one buyer simultaneously, the seller should use:",
+      "options": [
+        "A separate ordinary counteroffer to each buyer",
+        "A multiple counteroffer form providing that no contract forms until the seller signs a final acceptance",
+        "A backup offer addendum with each",
+        "A verbal counter to all parties"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Sending ordinary counteroffers to several buyers risks binding the seller to two contracts if more than one accepts.",
+        "Correct. The multiple counteroffer form preserves the seller's choice by deferring contract formation until the seller signs a final acceptance of one response.",
+        "Backup offers govern what happens after a primary contract fails, not simultaneous negotiation.",
+        "Verbal counters on real property terms are unenforceable and create ambiguity."
+      ],
+      "terms": [
+        "multiple counteroffer"
+      ]
+    },
+    {
+      "id": "PRAC-08-003",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A seller's agent sends identical ordinary counteroffers to two buyers and both sign and return. The likely consequence is:",
+      "options": [
+        "The seller may choose whichever they prefer",
+        "The seller may be bound to two contracts on one property",
+        "Both counteroffers automatically become backup offers",
+        "The first to deliver acceptance wins and the other is void"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Once both buyers accepted, the seller no longer has an unencumbered choice.",
+        "Correct. Two accepted counteroffers can create two binding contracts on one property, and specific performance is available in real estate because land is unique — an avoidable crisis the multiple counteroffer form exists to prevent.",
+        "Nothing converts an accepted counteroffer into a backup position automatically.",
+        "Both acceptances may be effective; the seller cannot simply disregard one."
+      ],
+      "terms": [
+        "multiple counteroffer",
+        "backup offer"
+      ]
+    },
+    {
+      "id": "PRAC-08-004",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A buyer offers $1,240,000. The property appraises at $1,190,000 and the lender will lend 80% of the lesser of price or value. The buyer's required cash is:",
+      "options": [
+        "$248,000",
+        "$288,000",
+        "$238,000",
+        "$50,000"
+      ],
+      "answer": 1,
+      "rationales": [
+        "$248,000 is 20% of the purchase price, which is what the buyer planned on before the low appraisal.",
+        "Correct. The loan is 80% of $1,190,000 = $952,000; the buyer must bring $1,240,000 − $952,000 = $288,000, or $40,000 more than planned.",
+        "$238,000 corresponds to 20% of the appraised value, not the cash actually required.",
+        "$50,000 is the appraisal gap alone, not total cash required."
+      ],
+      "terms": [
+        "appraisal gap"
+      ]
+    },
+    {
+      "id": "PRAC-08-005",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "The contingency whose waiver exposes a buyer to liquidated damages of up to 3% of the price if financing later fails is the:",
+      "options": [
+        "Investigation contingency",
+        "Loan contingency",
+        "Appraisal contingency",
+        "Title contingency"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Waiving inspection accepts condition risk but does not itself create financing default.",
+        "Correct. If financing fails after the loan contingency is removed, the buyer is in default and the seller may pursue liquidated damages capped at 3% of the price on owner-occupied 1–4 units — $24,000 on an $800,000 home.",
+        "The appraisal contingency addresses value shortfalls, which the buyer covers in cash.",
+        "The title contingency covers review of the preliminary report."
+      ],
+      "terms": [
+        "appraisal gap"
+      ]
+    },
+    {
+      "id": "PRAC-08-006",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 8,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "Buyers ask their agent to submit a personal letter describing their young family, their church, and a family photo. The agent should:",
+      "options": [
+        "Submit it, since personal appeals often help",
+        "Decline to transmit it and explain the fair housing exposure it creates",
+        "Submit it after removing the photo",
+        "Submit it only if the listing agent agrees"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The letter injects familial status, religion, and — via the photo — race or national origin into the seller's decision.",
+        "Correct. Buyer letters create fair housing exposure for the seller and both brokerages; declining and explaining, then strengthening the offer on lawful terms, is the defensible practice.",
+        "Removing the photo does not remove the familial status and religious content.",
+        "The listing agent's agreement does not cure the exposure to either side."
+      ],
+      "terms": [
+        "buyer letter"
+      ]
+    },
+    {
+      "id": "PRAC-08-007",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "Liquidated damages and arbitration provisions in a California residential purchase agreement are effective only if:",
+      "options": [
+        "The broker signs as a witness",
+        "Both parties separately sign or initial them",
+        "They are recorded with the county",
+        "Escrow approves them"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Broker witnessing is not the requirement.",
+        "Correct. Both provisions require the parties' separate signatures or initials, ensuring each was specifically considered — and arbitration in particular waives a jury trial, which buyers should understand before initialing.",
+        "Purchase agreements are not recorded.",
+        "Escrow has no approval role over the parties' contract terms."
+      ],
+      "terms": [
+        "net comparison"
+      ]
+    },
+    {
+      "id": "PRAC-08-008",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 8,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A listing agent tells a buyer's agent there are three competing offers when in fact there are none. This is:",
+      "options": [
+        "Acceptable negotiation strategy",
+        "Fraud, because it is a false statement of material fact intended to induce reliance",
+        "Acceptable if the seller authorized it",
+        "Acceptable if offers are expected soon"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Misstating the competitive landscape is not strategy; it is a false factual representation.",
+        "Correct. Fabricating competing offers to induce a higher bid is fraud, exposing the agent to civil liability and license discipline — a practice agents rationalize but cannot defend.",
+        "A seller cannot authorize the agent to defraud a third party.",
+        "Anticipated offers are not existing offers, and representing them as such is false."
+      ],
+      "terms": [
+        "highest and best"
+      ]
+    },
+    {
+      "id": "PRAC-08-009",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "An escalation clause automatically raises a buyer's offer above competing bids up to a cap. Its principal drawback is that it:",
+      "options": [
+        "Is prohibited in California",
+        "Reveals the buyer's maximum price to the seller",
+        "Waives the appraisal contingency",
+        "Cannot be used with financed offers"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Escalation clauses are not prohibited, though acceptance varies by market and brokerage policy.",
+        "Correct. The cap discloses the buyer's ceiling, and disputes can arise over proof of the competing offer — which is why many brokerages discourage them.",
+        "An escalation clause addresses price, not appraisal protection.",
+        "They may be used with financed offers, subject to appraisal and lending realities."
+      ],
+      "terms": [
+        "escalation clause"
+      ]
+    },
+    {
+      "id": "PRAC-08-010",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 8,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "When presenting multiple offers to a seller, the agent should describe each offer's:",
+      "options": [
+        "Buyers' family circumstances and background",
+        "Price, net proceeds, financing strength, contingencies, and timeline",
+        "Buyers' apparent motivation and personal story",
+        "Buyers' occupations and community ties"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Describing buyers' family circumstances injects protected characteristics into the decision.",
+        "Correct. Terms and certainty of closing are the lawful bases for the seller's decision, best presented as a net comparison rather than a stack of documents.",
+        "Personal narratives about buyers create the same exposure as buyer letters.",
+        "Occupation and community ties can function as proxies for protected characteristics."
+      ],
+      "terms": [
+        "net comparison",
+        "buyer letter"
+      ]
+    },
+    {
+      "id": "PRAC-08-011",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A backup offer is one that:",
+      "options": [
+        "Automatically takes effect if the primary contract falls through",
+        "Requires the seller to cancel the primary contract",
+        "Gives the backup buyer a right to match other offers",
+        "Replaces the primary offer after 30 days"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. A backup offer states its numbered position and springs into effect automatically if the primary contract is cancelled.",
+        "A backup gives the seller security; it does not force cancellation of the primary.",
+        "Matching rights describe a right of first refusal, a different instrument.",
+        "No automatic replacement occurs on a time schedule."
+      ],
+      "terms": [
+        "backup offer"
+      ]
+    },
+    {
+      "id": "PRAC-08-012",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 8,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A buyer's deposit check accompanies an offer with instructions to hold it uncashed until acceptance. The seller accepts Monday. The broker must place the funds appropriately:",
+      "options": [
+        "The day the check was received",
+        "Within three business days of acceptance",
+        "Within ten calendar days of acceptance",
+        "Whenever escrow requests them"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A properly disclosed instruction to hold the check pending acceptance postpones the deposit obligation.",
+        "Correct. Trust funds go to escrow, a trust account, or the principal within three business days, and when the check is properly held pending acceptance the clock runs from acceptance.",
+        "Ten days exceeds the regulatory window.",
+        "The deadline is set by regulation, not by escrow's timing."
+      ],
+      "terms": [
+        "proof of funds"
+      ]
+    },
+    {
+      "id": "PRAC-08-013",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A cash offer nets a seller $4,750 less than the highest-netting financed offer but closes in 14 days with no contingencies. The agent should:",
+      "options": [
+        "Recommend the cash offer, since certainty is always worth more",
+        "Present the comparison and let the seller weigh certainty against the $4,750",
+        "Recommend the financed offer, since it nets more",
+        "Decline to present the cash offer"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Certainty has value, but how much is a judgment belonging to the seller, not the agent.",
+        "Correct. The agent's job is to present net proceeds, contingency exposure, financing strength, and timeline clearly; whether $4,750 is worth the certainty is the seller's decision.",
+        "Net proceeds alone ignore the risk each offer carries.",
+        "All offers must be presented."
+      ],
+      "terms": [
+        "net comparison"
+      ]
+    },
+    {
+      "id": "PRAC-08-014",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "Beyond price, the factor sellers most often weigh when comparing offers is:",
+      "options": [
+        "The buyer's personal likability",
+        "Certainty of closing",
+        "The buyer's agent's brokerage",
+        "The number of pages in the offer"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Evaluating buyers personally invites fair housing exposure and is not the seller's legitimate concern.",
+        "Correct. A seller comparing offers is comparing certainty of closing at a given number — which is why financing strength, deposit size, contingency structure, and timeline matter alongside price.",
+        "Brokerage identity is not a meaningful measure of an offer's strength.",
+        "Length has no bearing on an offer's quality."
+      ],
+      "terms": [
+        "net comparison",
+        "proof of funds"
+      ]
+    },
+    {
+      "id": "PRAC-08-015",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A seller with a contingent contract wants to keep marketing and require the buyer to perform or release if a better offer arrives. The provision that permits this is a:",
+      "options": [
+        "Kick-out clause",
+        "Escalation clause",
+        "Safety clause",
+        "Subordination clause"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. A kick-out clause lets the seller continue marketing and require a contingent buyer to remove their contingency or release the contract.",
+        "An escalation clause automatically raises a buyer's price above competing bids.",
+        "A safety clause protects a broker's commission after a listing expires.",
+        "Subordination changes lien priority."
+      ],
+      "terms": [
+        "kick-out clause"
+      ]
+    },
+    {
+      "id": "PRAC-08-016",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "Asking all offerors for 'highest and best' carries the risk that:",
+      "options": [
+        "It is prohibited in California",
+        "Some strong buyers withdraw rather than bid against themselves",
+        "It automatically binds the seller to the highest response",
+        "It voids all existing offers"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The practice is lawful and common.",
+        "Correct. Some well-qualified buyers decline to participate, so the seller should be advised of that trade-off before the request goes out.",
+        "The seller remains free to accept, counter, or reject any response.",
+        "Existing offers remain outstanding unless withdrawn or expired."
+      ],
+      "terms": [
+        "highest and best"
+      ]
+    },
+    {
+      "id": "PRAC-08-017",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A buyer's agent should advise a buyer considering waiving the appraisal contingency to first:",
+      "options": [
+        "Increase the offer price further",
+        "Calculate the cash required if the property appraises below the offer",
+        "Request a longer escrow",
+        "Switch to an FHA loan"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Raising the price increases the potential gap rather than addressing it.",
+        "Correct. Quantify the exposure — if it appraises $50,000 low, the buyer covers that in cash — and confirm the buyer both has the funds and is willing to spend them.",
+        "Escrow length does not address a valuation shortfall.",
+        "Loan type does not eliminate the requirement to cover a gap between price and value."
+      ],
+      "terms": [
+        "appraisal gap"
+      ]
+    },
+    {
+      "id": "PRAC-08-018",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "The clause making every stated deadline in the purchase agreement material is:",
+      "options": [
+        "The liquidated damages clause",
+        "'Time is of the essence'",
+        "The arbitration clause",
+        "The escalation clause"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Liquidated damages fix an amount payable on breach; they do not make deadlines strict.",
+        "Correct. 'Time is of the essence' makes each stated date material, so late performance is a breach rather than a delay — the reason every deadline must be calendared at acceptance.",
+        "Arbitration governs dispute resolution.",
+        "An escalation clause governs price adjustment among competing offers."
+      ],
+      "terms": [
+        "net comparison"
+      ]
+    },
+    {
+      "id": "PRAC-08-019",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 8,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "When a buyer waives a contingency against the agent's recommendation, the agent should:",
+      "options": [
+        "Refuse to proceed with the transaction",
+        "Confirm the advice given, and the buyer's contrary election, in writing the same day",
+        "Note it verbally to the listing agent",
+        "Retain the contingency without telling the buyer"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The buyer is entitled to make this lawful choice; refusing to proceed abandons the client.",
+        "Correct. A same-day written confirmation of what was advised and what the buyer elected is the agent's file when a problem surfaces after closing.",
+        "Informing the opposing agent neither documents the advice nor protects the buyer.",
+        "Altering the buyer's instructions without authorization breaches the duty of obedience."
+      ],
+      "terms": [
+        "appraisal gap"
+      ]
+    },
+    {
+      "id": "PRAC-08-020",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 8,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A listing agent may disclose the terms of one buyer's offer to a competing buyer:",
+      "options": [
+        "Freely, since offers are not confidential",
+        "Only with the seller's authorization",
+        "Never, under any circumstances",
+        "Only after the seller accepts another offer"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Offer terms belong to the seller's confidential negotiating position, not to the agent's discretion.",
+        "Correct. Disclosure of offer terms requires the seller's authorization; the seller decides whether revealing terms serves their interest.",
+        "With the seller's authorization such disclosure is permitted and is sometimes strategically useful.",
+        "Post-acceptance timing does not determine whether disclosure was authorized."
+      ],
+      "terms": [
+        "highest and best"
+      ]
+    }
+  ]
+}

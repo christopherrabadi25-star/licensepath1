@@ -1,0 +1,2018 @@
+[
+  {
+    "slug": "dre-department-of-real-estate",
+    "term": "DRE (Department of Real Estate)",
+    "definition": "The California state agency that licenses and regulates real estate salespersons and brokers and approves pre-licensing courses.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "real-estate-commissioner",
+    "term": "Real Estate Commissioner",
+    "definition": "The appointed head of the California DRE who enforces the Real Estate Law and issues regulations that carry the force of law.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "salesperson",
+    "term": "Salesperson",
+    "definition": "A licensee who may perform licensed real estate activities only while employed by and supervised by a responsible broker.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "broker",
+    "term": "Broker",
+    "definition": "A licensee authorized to operate a real estate business, employ salespersons, and represent clients directly for compensation.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "realtor",
+    "term": "Realtor®",
+    "definition": "A trademarked designation for a licensee who is a member of the National Association of Realtors; not all licensees are Realtors®.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "reciprocity",
+    "term": "Reciprocity",
+    "definition": "Recognition of another state's real estate license; California has no license reciprocity with any state.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "real-property",
+    "term": "Real property",
+    "definition": "Land, anything affixed to it, anything appurtenant to it, and that which is immovable by law — the land plus the bundle of rights.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "personal-property",
+    "term": "Personal property",
+    "definition": "Movable property (chattel) that is not real property; it transfers by bill of sale rather than by deed.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "fixture",
+    "term": "Fixture",
+    "definition": "An item of personal property that has become real property by being attached to land or improvements, judged by tests like MARIA.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "maria",
+    "term": "MARIA",
+    "definition": "Memory aid for the fixture tests: Method of attachment, Adaptability, Relationship of the parties, Intention, and Agreement.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "trade-fixture",
+    "term": "Trade fixture",
+    "definition": "An item installed by a business tenant for use in its trade; unlike ordinary fixtures, the tenant may remove it before the lease ends.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "appurtenance",
+    "term": "Appurtenance",
+    "definition": "A right or improvement that runs with the land and transfers automatically with it, such as an easement benefiting the parcel or mineral rights.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "emblements",
+    "term": "Emblements",
+    "definition": "Annual crops produced by labor (like strawberries or row crops); treated as the tenant farmer's personal property even after a tenancy ends.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "riparian-rights",
+    "term": "Riparian rights",
+    "definition": "The water rights of an owner whose land borders a flowing watercourse such as a river or stream.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "littoral-rights",
+    "term": "Littoral rights",
+    "definition": "The water rights of an owner whose land borders a non-flowing body of water such as a lake or the ocean.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "bundle-of-rights",
+    "term": "Bundle of rights",
+    "definition": "The collection of ownership rights in real property: possession, use, enjoyment, encumbrance (exclusion), and disposition.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "fee-simple-absolute",
+    "term": "Fee simple absolute",
+    "definition": "The greatest estate in land — ownership of indefinite duration, freely transferable and inheritable, subject only to public and private restrictions.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "fee-simple-defeasible",
+    "term": "Fee simple defeasible",
+    "definition": "A fee estate that can be lost if a stated condition is violated, such as land granted 'so long as' it is used for a school.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "life-estate",
+    "term": "Life estate",
+    "definition": "A freehold estate whose duration is measured by someone's lifetime; the life tenant may use the property but not commit waste.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "remainder",
+    "term": "Remainder",
+    "definition": "The future interest held by a third party who takes title when a life estate ends.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "reversion",
+    "term": "Reversion",
+    "definition": "The future interest retained by a grantor who takes the property back when a lesser estate (like a life estate) ends.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "estate-for-years",
+    "term": "Estate for years",
+    "definition": "A leasehold with a definite start and end date; it terminates automatically without notice.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "periodic-tenancy",
+    "term": "Periodic tenancy",
+    "definition": "A leasehold that renews automatically period to period (like month-to-month) until either party gives proper notice.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "estate-at-will",
+    "term": "Estate at will",
+    "definition": "A tenancy with no fixed term that either party may end at any time (with statutory notice in California).",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "estate-at-sufferance",
+    "term": "Estate at sufferance",
+    "definition": "The interest of a tenant who lawfully took possession but stays after the right to possession has ended — a holdover tenant.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "severalty",
+    "term": "Severalty",
+    "definition": "Ownership by one person or entity alone — sole ownership, with interests 'severed' from everyone else.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "joint-tenancy",
+    "term": "Joint tenancy",
+    "definition": "Co-ownership with right of survivorship requiring the four unities of time, title, interest, and possession.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "tenancy-in-common",
+    "term": "Tenancy in common",
+    "definition": "Co-ownership in undivided shares (which may be unequal) with no right of survivorship; each owner's share passes to their heirs.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "community-property",
+    "term": "Community property",
+    "definition": "Property acquired by California spouses during marriage through the labor of either; each spouse owns an equal, undivided one-half interest.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "right-of-survivorship",
+    "term": "Right of survivorship",
+    "definition": "The feature of joint tenancy (and community property with right of survivorship) by which a deceased co-owner's interest passes automatically to the surviving co-owner(s).",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "undivided-interest",
+    "term": "Undivided interest",
+    "definition": "A co-owner's fractional interest in the whole property, entitling them to possession of all of it, not a physically divided piece.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "partition-action",
+    "term": "Partition action",
+    "definition": "A lawsuit by a co-owner asking a court to divide co-owned property or order it sold and split the proceeds.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "encumbrance",
+    "term": "Encumbrance",
+    "definition": "Any claim, lien, charge, or liability attached to real property that limits or burdens it, such as easements, liens, or restrictions.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "lien",
+    "term": "Lien",
+    "definition": "A money encumbrance — a charge against property making it security for a debt, such as a trust deed, tax lien, or judgment lien.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "mechanic-s-lien",
+    "term": "Mechanic's lien",
+    "definition": "A statutory lien available to contractors, subcontractors, laborers, and material suppliers who improve property and are not paid.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "judgment-lien",
+    "term": "Judgment lien",
+    "definition": "An involuntary, general lien created by recording an abstract of judgment against the debtor's property in the county.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "lis-pendens",
+    "term": "Lis pendens",
+    "definition": "A recorded notice of pending litigation affecting title to or possession of real property, clouding title until the suit resolves.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "easement",
+    "term": "Easement",
+    "definition": "A non-possessory right to use another person's land for a specific purpose, such as a driveway or utility line.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "easement-appurtenant",
+    "term": "Easement appurtenant",
+    "definition": "An easement that benefits a neighboring parcel (the dominant tenement) and runs with the land when either parcel is sold.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "easement-in-gross",
+    "term": "Easement in gross",
+    "definition": "An easement that benefits a person or company rather than a parcel of land — utility easements are the classic example.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "dominant-tenement",
+    "term": "Dominant tenement",
+    "definition": "The parcel of land that benefits from an easement appurtenant.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "servient-tenement",
+    "term": "Servient tenement",
+    "definition": "The parcel of land that is burdened by an easement — the land the easement crosses.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "prescription",
+    "term": "Prescription",
+    "definition": "Acquiring an easement by open, notorious, hostile, and continuous use of another's land for five years in California.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "encroachment",
+    "term": "Encroachment",
+    "definition": "A physical intrusion of a structure or improvement onto a neighbor's land, such as a fence built over the boundary line.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "cc-and-rs",
+    "term": "CC&Rs",
+    "definition": "Covenants, conditions, and restrictions — recorded private restrictions that control how property in a subdivision or common-interest development may be used.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "license-real-property",
+    "term": "License (real property)",
+    "definition": "A revocable, personal permission to use another's land that, unlike an easement, creates no interest in the land.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "agency",
+    "term": "Agency",
+    "definition": "The relationship in which one person (the agent) represents another (the principal) in dealings with third parties.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "fiduciary",
+    "term": "Fiduciary",
+    "definition": "A person in a position of trust and confidence who owes their principal utmost care, integrity, honesty, and loyalty.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "principal",
+    "term": "Principal",
+    "definition": "The person who authorizes an agent to represent them — in a listing, the seller; in a buyer representation agreement, the buyer.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "old-car",
+    "term": "OLD CAR",
+    "definition": "Memory aid for fiduciary duties: Obedience, Loyalty, Disclosure, Confidentiality, Accounting, and Reasonable care.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "dual-agency",
+    "term": "Dual agency",
+    "definition": "One brokerage representing both buyer and seller in the same transaction; lawful in California only with the informed written consent of both.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "ostensible-agency",
+    "term": "Ostensible agency",
+    "definition": "Agency created by the principal's conduct causing a third party to reasonably believe someone is their agent, even without an express agreement.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "ratification",
+    "term": "Ratification",
+    "definition": "Approval of an act after the fact — a principal accepting the benefits of an unauthorized act creates agency by ratification.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "subagent",
+    "term": "Subagent",
+    "definition": "An agent of an agent — a person authorized to help perform the agency, owing the same duties to the principal.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "secret-profit",
+    "term": "Secret profit",
+    "definition": "Any undisclosed compensation or benefit an agent gains from the agency; taking one violates the duty of loyalty and is grounds for discipline.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "puffing",
+    "term": "Puffing",
+    "definition": "A non-factual, exaggerated sales statement of opinion ('best view in Pasadena') that a reasonable buyer would not rely on as fact.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "misrepresentation",
+    "term": "Misrepresentation",
+    "definition": "A false statement of material fact; if intentional it is fraud, and even innocent misrepresentation can allow rescission.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "contract",
+    "term": "Contract",
+    "definition": "A legally enforceable agreement requiring capable parties, mutual consent, lawful object, and consideration.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "offer",
+    "term": "Offer",
+    "definition": "A proposal showing contractual intent, definite terms, and communication to the offeree, which the offeree can accept to form a contract.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "acceptance",
+    "term": "Acceptance",
+    "definition": "The offeree's unqualified agreement to the offer's terms, communicated in the manner required by the offer.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "counteroffer",
+    "term": "Counteroffer",
+    "definition": "A response that changes the terms of an offer; it rejects and terminates the original offer and becomes a new offer.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "consideration",
+    "term": "Consideration",
+    "definition": "Something of value exchanged by each party — money, a promise, or forbearance — required for a valid contract.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "statute-of-frauds",
+    "term": "Statute of frauds",
+    "definition": "The law (Civil Code §1624) requiring certain contracts, including those for the sale of real property, to be in writing to be enforceable.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "void-contract",
+    "term": "Void contract",
+    "definition": "An agreement with no legal effect at all, such as a contract for an illegal purpose.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "voidable-contract",
+    "term": "Voidable contract",
+    "definition": "A contract valid on its face that one party (such as a minor or a defrauded party) may elect to rescind.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "unenforceable-contract",
+    "term": "Unenforceable contract",
+    "definition": "A contract that may be valid between the parties but that a court will not enforce, such as an oral real estate sale agreement.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "executory-contract",
+    "term": "Executory contract",
+    "definition": "A contract in which something remains to be performed — a purchase agreement is executory until closing.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "executed-contract",
+    "term": "Executed contract",
+    "definition": "A contract fully performed by both parties; also used loosely to mean 'signed.'",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "rescission",
+    "term": "Rescission",
+    "definition": "A remedy that cancels the contract and restores the parties to their pre-contract positions, returning consideration paid.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "liquidated-damages",
+    "term": "Liquidated damages",
+    "definition": "An amount the parties agree in advance will serve as damages for breach; in California residential purchases, capped at 3% of the price for the buyer's deposit.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "specific-performance",
+    "term": "Specific performance",
+    "definition": "A court order compelling a breaching party to perform the contract; available for real estate because land is unique.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "novation",
+    "term": "Novation",
+    "definition": "Substituting a new contract or a new party for an old one, with intent to extinguish the original obligation.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "assignment",
+    "term": "Assignment",
+    "definition": "Transferring one's rights under a contract to another person; the assignor remains secondarily liable unless there is a novation.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "option",
+    "term": "Option",
+    "definition": "A contract that keeps an offer open — the optionor sells the optionee the right, for consideration, to buy at set terms within a set time.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "contingency",
+    "term": "Contingency",
+    "definition": "A condition (like financing, appraisal, or inspection) that must be satisfied or waived before a party is obligated to close.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "exclusive-right-to-sell-listing",
+    "term": "Exclusive right to sell listing",
+    "definition": "A listing under which the broker earns the commission no matter who procures the buyer — even if the owner sells it themselves.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "exclusive-agency-listing",
+    "term": "Exclusive agency listing",
+    "definition": "A listing under which the broker is the only agent, but the owner may sell without paying a commission.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "open-listing",
+    "term": "Open listing",
+    "definition": "A non-exclusive listing given to any number of brokers; only the broker who procures the buyer earns a commission.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "safety-clause",
+    "term": "Safety clause",
+    "definition": "A listing provision entitling the broker to a commission if, within a stated period after expiration, the owner sells to a buyer the broker introduced.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "time-is-of-the-essence",
+    "term": "Time is of the essence",
+    "definition": "A contract clause making stated deadlines strict, so late performance is a material breach.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "tds-transfer-disclosure-statement",
+    "term": "TDS (Transfer Disclosure Statement)",
+    "definition": "The statutory form on which a California residential seller discloses the property's known condition and defects to the buyer.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "nhd-natural-hazard-disclosure",
+    "term": "NHD (Natural Hazard Disclosure)",
+    "definition": "The statutory disclosure identifying whether property lies in mapped hazard zones such as flood, fire severity, or earthquake fault zones.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "material-fact",
+    "term": "Material fact",
+    "definition": "Any fact that would affect a reasonable person's decision to buy or the price they would pay; agents must disclose material facts they know.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "as-is",
+    "term": "As-is",
+    "definition": "A sale term meaning the seller won't repair or credit for known conditions; it does not eliminate California disclosure duties.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "stigmatized-property",
+    "term": "Stigmatized property",
+    "definition": "Property psychologically impacted by an event such as a death; California limits required disclosure of deaths to those within three years, with exceptions.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "megan-s-law-disclosure",
+    "term": "Megan's Law disclosure",
+    "definition": "The statutorily required notice in sales contracts about the public sex-offender database maintained by the Department of Justice.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "escrow",
+    "term": "Escrow",
+    "definition": "A neutral third-party arrangement in which a depository holds funds and documents and closes the transaction per the parties' mutual instructions.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "neutral-depository",
+    "term": "Neutral depository",
+    "definition": "The escrow holder's role: a dual agent of both parties for carrying out instructions, favoring neither.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "chain-of-title",
+    "term": "Chain of title",
+    "definition": "The recorded history of successive ownership of a property, traced through public records.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "marketable-title",
+    "term": "Marketable title",
+    "definition": "Title reasonably free from doubt and defects that a prudent buyer would accept.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "preliminary-report",
+    "term": "Preliminary report",
+    "definition": "The title company's report of the current condition of title — vesting, liens, and exceptions — offered before issuing a policy.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "clta-policy",
+    "term": "CLTA policy",
+    "definition": "The standard California title insurance policy, typically protecting the owner against recorded defects and matters of public record.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "alta-policy",
+    "term": "ALTA policy",
+    "definition": "The extended-coverage title policy, typically required by lenders, that adds protection for off-record matters like unrecorded liens and survey issues.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "grant-deed",
+    "term": "Grant deed",
+    "definition": "California's usual deed, carrying two implied warranties: the grantor has not already conveyed the property and has disclosed known encumbrances.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "quitclaim-deed",
+    "term": "Quitclaim deed",
+    "definition": "A deed conveying whatever interest the grantor has, if any, with no warranties at all.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "recording",
+    "term": "Recording",
+    "definition": "Filing a document with the county recorder, giving constructive notice of its contents to the world and establishing priority.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "constructive-notice",
+    "term": "Constructive notice",
+    "definition": "Notice imputed by law — from recorded documents or from possession of the property — whether or not a person actually knows.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "actual-notice",
+    "term": "Actual notice",
+    "definition": "Knowledge a person actually has, however acquired.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "acknowledgment",
+    "term": "Acknowledgment",
+    "definition": "A formal declaration before a notary that a signature is genuine and voluntary; required before a deed can be recorded.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "promissory-note",
+    "term": "Promissory note",
+    "definition": "The borrower's written promise to repay a debt; the evidence of the debt that the security instrument secures.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "deed-of-trust",
+    "term": "Deed of trust",
+    "definition": "California's dominant security instrument, involving a trustor (borrower), beneficiary (lender), and trustee holding bare legal title with power of sale.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "trustor",
+    "term": "Trustor",
+    "definition": "The borrower under a deed of trust, who conveys bare legal title to the trustee as security for the loan.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "trustee",
+    "term": "Trustee",
+    "definition": "The neutral third party under a deed of trust who holds bare legal title and may sell the property upon default via the power of sale.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "beneficiary",
+    "term": "Beneficiary",
+    "definition": "The lender under a deed of trust, for whose benefit the property is held as security.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "power-of-sale",
+    "term": "Power of sale",
+    "definition": "The clause in a deed of trust authorizing the trustee to sell the property non-judicially after default, following statutory notice periods.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "reinstatement",
+    "term": "Reinstatement",
+    "definition": "The borrower's right to cure a default by paying the missed amounts (plus costs) and continue the loan, available until shortly before the trustee's sale.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "deed-in-lieu-of-foreclosure",
+    "term": "Deed in lieu of foreclosure",
+    "definition": "The borrower voluntarily deeding the property to the lender to avoid foreclosure; the lender takes subject to junior liens.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "acceleration-clause",
+    "term": "Acceleration clause",
+    "definition": "A provision letting the lender declare the entire balance due upon default.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "alienation-due-on-sale-clause",
+    "term": "Alienation (due-on-sale) clause",
+    "definition": "A provision letting the lender call the loan due if the borrower transfers the property.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "deficiency-judgment",
+    "term": "Deficiency judgment",
+    "definition": "A judgment against a borrower for the shortfall after a foreclosure sale; barred in California after non-judicial foreclosure and for standard purchase-money loans.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "ltv-loan-to-value-ratio",
+    "term": "LTV (loan-to-value ratio)",
+    "definition": "The loan amount divided by the lesser of price or appraised value; higher LTV means more leverage and more lender risk.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "piti",
+    "term": "PITI",
+    "definition": "The four components of a typical housing payment: principal, interest, taxes, and insurance.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "discount-points",
+    "term": "Discount points",
+    "definition": "Prepaid interest charged at closing — one point equals 1% of the loan amount — used to buy down the rate or increase lender yield.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "apr-annual-percentage-rate",
+    "term": "APR (annual percentage rate)",
+    "definition": "The cost of credit expressed as a yearly rate including certain fees, disclosed under the Truth in Lending Act.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "amortization",
+    "term": "Amortization",
+    "definition": "Repaying a loan through regular payments that cover interest and gradually reduce principal to zero at maturity.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "conforming-loan",
+    "term": "Conforming loan",
+    "definition": "A conventional loan meeting Fannie Mae/Freddie Mac purchase standards, including the loan-size limit.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "pmi-private-mortgage-insurance",
+    "term": "PMI (private mortgage insurance)",
+    "definition": "Insurance protecting a conventional lender against borrower default, generally required when LTV exceeds 80%.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "wraparound-all-inclusive-trust-deed",
+    "term": "Wraparound (all-inclusive) trust deed",
+    "definition": "Junior financing in which the new lender's note wraps the existing loan; the borrower pays the wrap lender, who keeps paying the underlying loan.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "seller-financing-purchase-money",
+    "term": "Seller financing (purchase-money)",
+    "definition": "Credit the seller extends to the buyer, secured by the property being sold.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "market-value",
+    "term": "Market value",
+    "definition": "The most probable price a property should bring in an open, competitive market with informed parties acting prudently and without duress.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "principle-of-substitution",
+    "term": "Principle of substitution",
+    "definition": "The idea that a buyer will pay no more for a property than the cost of acquiring an equally desirable substitute — the foundation of the sales comparison approach.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "highest-and-best-use",
+    "term": "Highest and best use",
+    "definition": "The legally permissible, physically possible, financially feasible use that produces the greatest value.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "sales-comparison-approach",
+    "term": "Sales comparison approach",
+    "definition": "Valuing property by adjusting recent sales of comparable properties for differences; the primary approach for houses.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "cost-approach",
+    "term": "Cost approach",
+    "definition": "Valuing property as land value plus replacement cost of improvements minus depreciation; most reliable for new or special-purpose buildings.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "income-approach",
+    "term": "Income approach",
+    "definition": "Valuing property by capitalizing its net operating income: value = NOI ÷ capitalization rate.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "capitalization-rate",
+    "term": "Capitalization rate",
+    "definition": "The rate of return used to convert net operating income to value; higher cap rates mean lower values for the same income.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "gross-rent-multiplier-grm",
+    "term": "Gross rent multiplier (GRM)",
+    "definition": "A shortcut ratio — price divided by gross rent — used to estimate the value of rental property from its rent.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "depreciation-appraisal",
+    "term": "Depreciation (appraisal)",
+    "definition": "Loss in value from any cause: physical deterioration, functional obsolescence, or external (economic) obsolescence.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "functional-obsolescence",
+    "term": "Functional obsolescence",
+    "definition": "Loss in value from outdated or poor design — a one-bath five-bedroom house, for example.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "external-economic-obsolescence",
+    "term": "External (economic) obsolescence",
+    "definition": "Loss in value from factors outside the property, such as a new freeway ramp next door; it is incurable.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "cma-comparative-market-analysis",
+    "term": "CMA (comparative market analysis)",
+    "definition": "A licensee's pricing analysis using comparable sales; it is not an appraisal, which only a licensed appraiser can perform.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "reconciliation",
+    "term": "Reconciliation",
+    "definition": "The appraiser's weighing of the value indications from the three approaches into a final opinion of value.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "police-power",
+    "term": "Police power",
+    "definition": "The government's inherent power to regulate for public health, safety, morals, and welfare — the basis of zoning — without compensation.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "eminent-domain",
+    "term": "Eminent domain",
+    "definition": "The government's power to take private property for public use upon payment of just compensation, through condemnation.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "inverse-condemnation",
+    "term": "Inverse condemnation",
+    "definition": "An owner's action against the government when its activity has effectively taken or damaged property without formal condemnation.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "variance",
+    "term": "Variance",
+    "definition": "Permission to deviate from a zoning standard (like a setback) due to a parcel's special hardship; not a change of use classification.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "nonconforming-use",
+    "term": "Nonconforming use",
+    "definition": "A lawful use that predates a zoning change and may continue ('grandfathered') though it no longer conforms.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "conditional-use-permit",
+    "term": "Conditional use permit",
+    "definition": "Permission for a use zoning allows only upon special approval and conditions, like a church or school in a residential zone.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "protected-class",
+    "term": "Protected class",
+    "definition": "A group protected from housing discrimination — federally: race, color, religion, sex, national origin, disability, familial status; California adds more (e.g., source of income).",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "steering",
+    "term": "Steering",
+    "definition": "Channeling homebuyers toward or away from neighborhoods based on a protected characteristic; illegal.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "blockbusting",
+    "term": "Blockbusting",
+    "definition": "Inducing owners to sell by suggesting members of a protected class are moving into the neighborhood (panic selling); illegal.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "redlining",
+    "term": "Redlining",
+    "definition": "Refusing to lend or insure in an area based on its demographics rather than the applicant's qualifications; illegal.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "familial-status",
+    "term": "Familial status",
+    "definition": "The protected class covering households with children under 18, pregnant persons, and those securing custody.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "unruh-civil-rights-act",
+    "term": "Unruh Civil Rights Act",
+    "definition": "California law prohibiting discrimination by all business establishments — including brokerages and landlords.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "feha",
+    "term": "FEHA",
+    "definition": "California's Fair Employment and Housing Act, the state's primary fair-housing statute, broader than the federal act.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "ad-valorem",
+    "term": "Ad valorem",
+    "definition": "'According to value' — property taxes are ad valorem taxes based on assessed value.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "proposition-13",
+    "term": "Proposition 13",
+    "definition": "The California constitutional limit capping the basic property tax rate at 1% of assessed value with assessment increases limited to 2% per year until a change of ownership.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "documentary-transfer-tax",
+    "term": "Documentary transfer tax",
+    "definition": "A county (and sometimes city) tax on transferring real property, commonly $0.55 per $500 of consideration at the county level.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "basis-tax",
+    "term": "Basis (tax)",
+    "definition": "The owner's investment in property for tax purposes — generally cost plus improvements — used to measure gain on sale.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "1031-exchange",
+    "term": "1031 exchange",
+    "definition": "A tax-deferred exchange of like-kind investment or business real property under Internal Revenue Code §1031.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "boot",
+    "term": "Boot",
+    "definition": "Non-like-kind value (cash or debt relief) received in a 1031 exchange; taxable to the extent of gain.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "trust-fund",
+    "term": "Trust fund",
+    "definition": "Money or things of value received by a licensee on behalf of another in a transaction — deposits, rents — which must be placed in neutral escrow, a trust account, or the owner's hands within three business days.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "commingling",
+    "term": "Commingling",
+    "definition": "Mixing trust funds with the licensee's own funds — a license-discipline violation even without loss to anyone.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "conversion",
+    "term": "Conversion",
+    "definition": "Misappropriating trust funds — actually using client money; more serious than commingling and criminally chargeable.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "proration",
+    "term": "Proration",
+    "definition": "Dividing ongoing expenses (taxes, rents, HOA dues) between buyer and seller as of closing, typically using a 30-day month/360-day year unless agreed otherwise.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "impound-account",
+    "term": "Impound account",
+    "definition": "A lender-held account collecting monthly installments toward property taxes and insurance with each loan payment.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "unlawful-detainer",
+    "term": "Unlawful detainer",
+    "definition": "California's summary court action by which a landlord recovers possession from a tenant after proper notice.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "constructive-eviction",
+    "term": "Constructive eviction",
+    "definition": "A landlord's breach that makes the premises unusable, allowing the tenant to move out and end the lease without further liability.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "live-scan",
+    "term": "Live Scan",
+    "definition": "Electronic fingerprinting submitted with a California license application so the Department of Justice and FBI can complete a background check.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "inactive-license",
+    "term": "Inactive license",
+    "definition": "A valid real estate license not associated with an employing broker; the licensee may not perform licensed activity until a broker sponsors them.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "restricted-license",
+    "term": "Restricted license",
+    "definition": "A license issued or continued after discipline subject to conditions such as working for a named broker, filing reports, posting a bond, or serving probation.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "mls-multiple-listing-service",
+    "term": "MLS (Multiple Listing Service)",
+    "definition": "A private cooperative listing database operated by associations of Realtors®, not a government registry; access generally requires association membership.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "manufactured-mobile-home",
+    "term": "Manufactured (mobile) home",
+    "definition": "Factory-built housing that is personal property when registered with HCD on rented space, and becomes real property when placed on a permanent foundation on owned land as provided by statute.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "fixture-filing",
+    "term": "Fixture filing",
+    "definition": "A UCC financing statement recorded against real property to perfect a security interest in goods that have become fixtures — leased solar systems are a common example.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "chattel",
+    "term": "Chattel",
+    "definition": "Another name for personal property; chattel loans finance personal property at different rates and terms than real property mortgages.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "annexation",
+    "term": "Annexation",
+    "definition": "Attaching personal property to land so that it becomes real property, such as lumber built into a deck.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "severance",
+    "term": "Severance",
+    "definition": "Detaching something from real property — crops, fixtures, minerals — so that it becomes personal property.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "accession",
+    "term": "Accession",
+    "definition": "Acquiring property by its addition to property you already own, such as trade fixtures a tenant abandons after the tenancy ends.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "fructus-naturales",
+    "term": "Fructus naturales",
+    "definition": "Naturally occurring growth such as native trees and grasses; part of the real property until severed.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "estate",
+    "term": "Estate",
+    "definition": "The degree, quantity, nature, and extent of a person's interest in land.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "freehold-estate",
+    "term": "Freehold estate",
+    "definition": "An ownership estate of indefinite duration — fee estates and life estates.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "less-than-freehold-estate",
+    "term": "Less-than-freehold estate",
+    "definition": "A possessory leasehold estate for a determinable period; classified as personal property (chattel real).",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "possibility-of-reverter",
+    "term": "Possibility of reverter",
+    "definition": "The future interest a grantor retains after conveying a fee simple determinable; it takes effect automatically.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "right-of-re-entry-power-of-termination",
+    "term": "Right of re-entry (power of termination)",
+    "definition": "The grantor's future interest after a fee simple subject to a condition subsequent; the grantor must act to reclaim title.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "pur-autre-vie",
+    "term": "Pur autre vie",
+    "definition": "A life estate measured by the life of someone other than the holder; it may pass to the holder's heirs until the measuring life ends.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "waste",
+    "term": "Waste",
+    "definition": "Permanent injury to property by a life tenant or tenant that harms the interest of a future interest holder.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "leased-fee",
+    "term": "Leased fee",
+    "definition": "The landlord's remaining ownership interest in property subject to a lease.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "pete",
+    "term": "PETE",
+    "definition": "The four government limits on ownership: Police power, Eminent domain, Taxation, Escheat.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "escheat",
+    "term": "Escheat",
+    "definition": "Reversion of property to the state when an owner dies with no will and no heirs.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "concurrent-ownership",
+    "term": "Concurrent ownership",
+    "definition": "Co-ownership of property by two or more persons at the same time.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "t-tip-four-unities",
+    "term": "T-TIP (four unities)",
+    "definition": "Time, Title, Interest, Possession — the four unities required to create and maintain a joint tenancy.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "severance-joint-tenancy",
+    "term": "Severance (joint tenancy)",
+    "definition": "Breaking a unity so that a joint tenancy interest converts to a tenancy in common.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "community-property-with-right-of-survivorship",
+    "term": "Community property with right of survivorship",
+    "definition": "A California vesting combining community property treatment with automatic survivorship, avoiding probate on the first death.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "transmutation",
+    "term": "Transmutation",
+    "definition": "A change in the character of marital property between community and separate, subject to statutory requirements.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "affidavit-of-death-of-joint-tenant",
+    "term": "Affidavit of death of joint tenant",
+    "definition": "The document recorded with a certified death certificate to clear a deceased joint tenant from title.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "certification-of-trust",
+    "term": "Certification of trust",
+    "definition": "An abbreviated document evidencing a trustee's authority to act without disclosing the trust's private terms.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "limited-partnership",
+    "term": "Limited partnership",
+    "definition": "A partnership with general partners who manage and bear unlimited liability and limited partners who are passive with capped liability.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "limited-liability-company-llc",
+    "term": "Limited liability company (LLC)",
+    "definition": "An entity combining liability protection with pass-through taxation; signing authority flows from the operating agreement.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "stock-cooperative",
+    "term": "Stock cooperative",
+    "definition": "A structure in which a corporation owns the building and residents own shares plus a proprietary lease — personal property, not real property.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "common-interest-development-cid",
+    "term": "Common interest development (CID)",
+    "definition": "Condominiums, planned developments, cooperatives, and community apartment projects, governed in California by the Davis-Stirling Act.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "voluntary-lien",
+    "term": "Voluntary lien",
+    "definition": "A lien the owner creates deliberately, such as a deed of trust securing a loan.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "involuntary-lien",
+    "term": "Involuntary lien",
+    "definition": "A lien imposed by operation of law without the owner's agreement, such as a tax, judgment, or mechanic's lien.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "specific-lien",
+    "term": "Specific lien",
+    "definition": "A lien attaching to one identified parcel of property.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "general-lien",
+    "term": "General lien",
+    "definition": "A lien attaching to all of a debtor's property in the county or state, such as a judgment lien.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "abstract-of-judgment",
+    "term": "Abstract of judgment",
+    "definition": "The document recorded to create a judgment lien against a debtor's real property in a county.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "relation-back",
+    "term": "Relation back",
+    "definition": "The rule giving a perfected mechanic's lien priority as of the date work commenced rather than the date it was recorded.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "notice-of-completion",
+    "term": "Notice of completion",
+    "definition": "A document an owner may record after work finishes to shorten the period for filing mechanics' liens.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "notice-of-nonresponsibility",
+    "term": "Notice of nonresponsibility",
+    "definition": "A notice protecting an owner from mechanics' liens for work ordered by another party, such as a tenant.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "special-assessment",
+    "term": "Special assessment",
+    "definition": "A lien for a local improvement benefiting the property, such as sewers, lighting, or a Mello-Roos district.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "attachment-lien",
+    "term": "Attachment lien",
+    "definition": "A pre-judgment lien securing a claim while litigation is pending.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "priority",
+    "term": "Priority",
+    "definition": "The order in which liens are paid from sale proceeds, generally set by recording date, with property taxes always first.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "subordination-agreement",
+    "term": "Subordination agreement",
+    "definition": "A recorded agreement by which a lienholder voluntarily accepts a lower priority position.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "easement-by-necessity",
+    "term": "Easement by necessity",
+    "definition": "An easement implied when a conveyance leaves a parcel landlocked without legal access.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "prescriptive-easement",
+    "term": "Prescriptive easement",
+    "definition": "A use right acquired by open, notorious, hostile, and continuous use of another's land for five years in California.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "merger",
+    "term": "Merger",
+    "definition": "Termination of an easement when one person acquires both the dominant and servient tenements.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "principal-client",
+    "term": "Principal (client)",
+    "definition": "The person an agent represents and to whom fiduciary duties are owed.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "third-party-customer",
+    "term": "Third party (customer)",
+    "definition": "The other side of a transaction, owed honesty, fair dealing, and disclosure of material facts, but not fiduciary duties.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "associate-licensee",
+    "term": "Associate licensee",
+    "definition": "A salesperson acting for the broker; the agency relationship runs between the broker and the client.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "express-agency",
+    "term": "Express agency",
+    "definition": "Agency created by written or spoken agreement, such as a listing.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "implied-agency",
+    "term": "Implied agency",
+    "definition": "Agency created by the conduct of the parties without an express agreement.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "special-agent",
+    "term": "Special agent",
+    "definition": "An agent authorized for one specific transaction with limited authority — the usual role of a real estate broker.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "general-agent",
+    "term": "General agent",
+    "definition": "An agent with ongoing authority over a range of matters, such as a property manager.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "universal-agent",
+    "term": "Universal agent",
+    "definition": "An agent authorized to act for a principal in all matters, typically under a broad power of attorney.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "concealment",
+    "term": "Concealment",
+    "definition": "Actively hiding a known material defect; as actionable as an affirmative false statement.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "visual-inspection-duty",
+    "term": "Visual inspection duty",
+    "definition": "An agent's duty to conduct a reasonably competent and diligent visual inspection of accessible areas of 1–4 unit residential property and disclose material facts revealed.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "agency-disclosure",
+    "term": "Agency disclosure",
+    "definition": "California's statutory disclose–elect–confirm process identifying in writing whom each licensee represents.",
+    "blueprint_area": "agency"
+  },
+  {
+    "slug": "emancipated-minor",
+    "term": "Emancipated minor",
+    "definition": "A minor freed from parental control by marriage, military service, or court order, who may contract as an adult.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "actual-fraud",
+    "term": "Actual fraud",
+    "definition": "Intentional misrepresentation or concealment of a material fact, relied upon to another's detriment.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "constructive-fraud",
+    "term": "Constructive fraud",
+    "definition": "A breach of duty gaining an advantage without deliberate dishonesty; commonly applied to fiduciaries.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "mutual-mistake",
+    "term": "Mutual mistake",
+    "definition": "A shared error by both parties about a material fact, permitting rescission.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "duress",
+    "term": "Duress",
+    "definition": "Unlawful force or confinement that compels a party's consent.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "menace",
+    "term": "Menace",
+    "definition": "A threat of duress, of unlawful injury to person or property, or of injury to character.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "part-performance",
+    "term": "Part performance",
+    "definition": "A doctrine that can remove an oral agreement from the statute of frauds where a party took possession, paid, and improved in reliance.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "bilateral-contract",
+    "term": "Bilateral contract",
+    "definition": "A contract exchanging a promise for a promise, binding both parties — the standard purchase agreement.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "unilateral-contract",
+    "term": "Unilateral contract",
+    "definition": "A contract exchanging a promise for an act, binding only the offeror until performance — open listings and options.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "net-listing",
+    "term": "Net listing",
+    "definition": "A compensation structure in which the broker keeps all proceeds above the seller's stated net; heavily restricted and conflict-prone.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "definite-termination-date",
+    "term": "Definite termination date",
+    "definition": "The required end date in an exclusive listing; omitting it is grounds for disciplinary action.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "procuring-cause",
+    "term": "Procuring cause",
+    "definition": "The doctrine identifying which broker set in motion the uninterrupted chain of events resulting in the sale.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "buyer-representation-agreement",
+    "term": "Buyer representation agreement",
+    "definition": "The written contract employing a broker to represent a buyer, stating term, scope, duties, and compensation.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "earnest-money-deposit",
+    "term": "Earnest money deposit",
+    "definition": "The buyer's good-faith deposit; a trust fund that must be placed in escrow, a trust account, or the principal's hands within three business days.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "active-removal",
+    "term": "Active removal",
+    "definition": "The regime under which contingencies remain in effect until removed in writing, with the seller's remedy being a notice to perform before cancellation.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "notice-to-buyer-to-perform",
+    "term": "Notice to buyer to perform",
+    "definition": "The written notice a seller delivers when a buyer misses a contingency deadline, starting a cure period before cancellation is permitted.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "rent-back",
+    "term": "Rent-back",
+    "definition": "An agreement permitting the seller to remain in possession for a period after close of escrow.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "backup-offer",
+    "term": "Backup offer",
+    "definition": "An offer that automatically takes effect if the primary contract falls through; it states its numbered position.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "multiple-counteroffer",
+    "term": "Multiple counteroffer",
+    "definition": "A counteroffer made to several buyers at once, structured so no contract forms until the seller signs a final acceptance of one response.",
+    "blueprint_area": "contracts"
+  },
+  {
+    "slug": "land-contract-installment-sale-contract",
+    "term": "Land contract (installment sale contract)",
+    "definition": "A seller-financing device in which the seller retains legal title while the buyer possesses and pays, receiving title after final payment.",
+    "blueprint_area": "financing"
+  },
+  {
+    "slug": "tds-exemptions",
+    "term": "TDS exemptions",
+    "definition": "Transfers exempt from the TDS form — by court order, foreclosure, fiduciaries, co-owners, spouses, and government entities — generally where the transferor lacks personal knowledge.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "right-to-terminate-disclosure",
+    "term": "Right to terminate (disclosure)",
+    "definition": "A buyer's statutory right to cancel when disclosures are delivered after the offer is signed: generally three days after personal delivery, five after mailing.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "amended-disclosure",
+    "term": "Amended disclosure",
+    "definition": "A revised disclosure required when a material fact becomes known after the original delivery; it may restart a termination right.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "alquist-priolo-earthquake-fault-zone",
+    "term": "Alquist-Priolo earthquake fault zone",
+    "definition": "A mapped zone along active faults; one of the six zones addressed by the Natural Hazard Disclosure.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "very-high-fire-hazard-severity-zone",
+    "term": "Very high fire hazard severity zone",
+    "definition": "A mapped wildfire risk zone that drives insurance availability and cost across much of Southern California.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "three-year-death-rule",
+    "term": "Three-year death rule",
+    "definition": "California's rule requiring disclosure of a death on the property within the past three years; direct questions must always be answered honestly.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "lead-based-paint-disclosure",
+    "term": "Lead-based paint disclosure",
+    "definition": "Federal requirements for pre-1978 housing: disclose known hazards, provide the pamphlet and records, include a warning statement, and give a 10-day inspection opportunity.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "mello-roos-disclosure",
+    "term": "Mello-Roos disclosure",
+    "definition": "The seller's good-faith obligation to obtain and deliver notice of a community facilities district lien.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "cid-documents",
+    "term": "CID documents",
+    "definition": "The governing documents a seller must deliver for a common interest development: CC&Rs, bylaws, budget, reserves, assessments, minutes, and pending litigation.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "point-of-sale-ordinance",
+    "term": "Point-of-sale ordinance",
+    "definition": "A local requirement — retrofit, sewer lateral, or occupancy inspection — imposed by a city as a condition of transfer.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "requirements-for-valid-escrow",
+    "term": "Requirements for valid escrow",
+    "definition": "A binding contract between the parties plus conditional delivery of instruments and funds to a neutral third party.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "escrow-instructions",
+    "term": "Escrow instructions",
+    "definition": "The written directions signed by both parties telling escrow what conditions must be met before closing.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "interpleader",
+    "term": "Interpleader",
+    "definition": "A court action by which an escrow holder deposits disputed funds with the court and lets the parties litigate entitlement.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "close-of-escrow",
+    "term": "Close of escrow",
+    "definition": "Completion of the transaction; title passes on recording.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "trustee-s-deed",
+    "term": "Trustee's deed",
+    "definition": "The deed delivered to the purchaser at a foreclosure trustee's sale.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "valid-delivery",
+    "term": "Valid delivery",
+    "definition": "The grantor's intent to pass title presently and irrevocably; required for a deed to convey and not satisfied by holding a deed for delivery at death.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "cloud-on-title",
+    "term": "Cloud on title",
+    "definition": "A defect or unresolved claim casting doubt on title, such as a break in the chain or an unreleased lien.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "abstract-of-title",
+    "term": "Abstract of title",
+    "definition": "A written summary of everything recorded affecting a property.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "statement-of-information",
+    "term": "Statement of information",
+    "definition": "A confidential form identifying the parties so the title company can distinguish them from similarly named judgment debtors.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "bona-fide-purchaser-bfp",
+    "term": "Bona fide purchaser (BFP)",
+    "definition": "One who pays value, takes without notice of a prior interest, and records first; protected by the recording statute.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "lender-s-policy",
+    "term": "Lender's policy",
+    "definition": "Title insurance protecting the lender only, up to the loan balance, and decreasing as the loan is repaid.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "base-year-value",
+    "term": "Base year value",
+    "definition": "The assessed value established at acquisition, growing no more than 2% annually until a change of ownership.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "lien-date",
+    "term": "Lien date",
+    "definition": "January 1, when California property taxes attach as a lien for the following fiscal year.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "no-darn-fooling-around",
+    "term": "No Darn Fooling Around",
+    "definition": "Memory aid for the California property tax calendar: November 1, December 10, February 1, April 10.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "supplemental-assessment",
+    "term": "Supplemental assessment",
+    "definition": "A separate tax bill for the difference between old and new assessed values after a change of ownership or new construction.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "proposition-19",
+    "term": "Proposition 19",
+    "definition": "The measure narrowing the parent-child reassessment exclusion and expanding base year value portability for those 55+, severely disabled, or disaster victims.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "homeowners-exemption",
+    "term": "Homeowners' exemption",
+    "definition": "A modest assessed value reduction for an owner-occupied residence, requiring a filing with the assessor.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "mello-roos-cfd",
+    "term": "Mello-Roos (CFD)",
+    "definition": "A community facilities district special assessment funding infrastructure in newer developments; must be disclosed and can add hundreds of dollars monthly.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "capital-improvement-vs-repair",
+    "term": "Capital improvement vs. repair",
+    "definition": "An improvement adds to basis; a repair does not.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "amount-realized",
+    "term": "Amount realized",
+    "definition": "Sale price less selling costs.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "principal-residence-exclusion-121",
+    "term": "Principal residence exclusion (§121)",
+    "definition": "Exclusion of up to $250,000 of gain (single) or $500,000 (married filing jointly), requiring ownership and use for 2 of the last 5 years.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "depreciation-cost-recovery",
+    "term": "Depreciation (cost recovery)",
+    "definition": "Deduction of improvement cost over a recovery period; land is never depreciated, and depreciation reduces basis.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "qualified-intermediary",
+    "term": "Qualified intermediary",
+    "definition": "The party who must hold 1031 exchange proceeds; the exchange fails if the taxpayer receives the funds.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "45-day-180-day-rules",
+    "term": "45-day / 180-day rules",
+    "definition": "Deadlines to identify replacement property in writing and complete acquisition in a 1031 exchange, running concurrently from the relinquished closing.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "firpta",
+    "term": "FIRPTA",
+    "definition": "Federal withholding on dispositions of real property by foreign persons.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "california-withholding",
+    "term": "California withholding",
+    "definition": "State withholding on certain sales, including by out-of-state sellers, with principal residence and threshold exemptions.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "lessor-lessee",
+    "term": "Lessor / lessee",
+    "definition": "The landlord who conveys possession / the tenant who receives it.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "gross-lease",
+    "term": "Gross lease",
+    "definition": "A lease in which the tenant pays fixed rent and the landlord pays operating expenses.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "net-lease-triple-net-nnn",
+    "term": "Net lease / triple net (NNN)",
+    "definition": "A lease in which the tenant pays rent plus some expenses / taxes, insurance, and maintenance.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "percentage-lease",
+    "term": "Percentage lease",
+    "definition": "A lease with base rent plus a percentage of the tenant's gross sales; common in retail.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "ground-lease",
+    "term": "Ground lease",
+    "definition": "A long-term lease of land on which the tenant constructs improvements.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "warranty-of-habitability",
+    "term": "Warranty of habitability",
+    "definition": "The non-waivable implied promise that residential premises are fit for human occupancy.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "repair-and-deduct",
+    "term": "Repair and deduct",
+    "definition": "A tenant remedy allowing repair of a defect and deduction from rent, subject to statutory limits.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "retaliatory-eviction",
+    "term": "Retaliatory eviction",
+    "definition": "Prohibited adverse action taken because a tenant exercised legal rights; presumed within a statutory window.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "right-of-entry",
+    "term": "Right of entry",
+    "definition": "The landlord's limited right to enter with reasonable written notice, with 24 hours presumed reasonable.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "security-deposit",
+    "term": "Security deposit",
+    "definition": "A refundable deposit capped by statute; California permits no non-refundable residential deposits.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "ordinary-wear-and-tear",
+    "term": "Ordinary wear and tear",
+    "definition": "Normal deterioration from ordinary use, which may never be deducted from a security deposit.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "21-day-rule",
+    "term": "21-day rule",
+    "definition": "The deadline to return a security deposit with an itemized statement and receipts after the tenant vacates.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "three-day-notice",
+    "term": "Three-day notice",
+    "definition": "Notice to pay rent or quit, to perform a covenant or quit, or to quit for incurable conduct.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "writ-of-possession",
+    "term": "Writ of possession",
+    "definition": "The court order authorizing the sheriff to restore possession to the landlord.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "tenant-protection-act-ab-1482",
+    "term": "Tenant Protection Act (AB 1482)",
+    "definition": "The statewide law imposing rent caps and just cause eviction requirements on covered residential property.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "just-cause",
+    "term": "Just cause",
+    "definition": "The required basis for terminating a covered tenancy after 12 months; either at-fault or no-fault.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "relocation-assistance",
+    "term": "Relocation assistance",
+    "definition": "Payment or rent waiver required for a no-fault termination under the Tenant Protection Act.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "ellis-act",
+    "term": "Ellis Act",
+    "definition": "The law permitting a landlord to withdraw rental property from the rental market.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "estoppel-certificate",
+    "term": "Estoppel certificate",
+    "definition": "A signed tenant statement confirming lease terms, rent, deposit, and any claims, used by buyers and lenders.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "management-agreement",
+    "term": "Management agreement",
+    "definition": "The contract between owner and broker establishing a general agency and defining scope, fees, and authority.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "trust-funds",
+    "term": "Trust funds",
+    "definition": "Money or things of value received on behalf of another in a transaction — deposits, rents, security deposits.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "three-business-day-rule",
+    "term": "Three-business-day rule",
+    "definition": "Trust funds must be placed in escrow, a trust account, or the principal's hands within three business days of receipt.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "uncashed-check-exception",
+    "term": "Uncashed-check exception",
+    "definition": "Permission to hold a deposit check pending acceptance when the offer so instructs and the seller is informed; the clock then runs from acceptance.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "control-record",
+    "term": "Control record",
+    "definition": "The chronological columnar record of all trust funds received and disbursed.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "beneficiary-ledger",
+    "term": "Beneficiary ledger",
+    "definition": "A separate trust fund record for each beneficiary or transaction showing all receipts, disbursements, and running balance.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "monthly-reconciliation",
+    "term": "Monthly reconciliation",
+    "definition": "The written monthly agreement of the control record, the sum of beneficiary ledgers, and the bank statement.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "record-retention",
+    "term": "Record retention",
+    "definition": "The period a broker must keep transaction records — three years for brokerage transaction records.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "debit-credit",
+    "term": "Debit / credit",
+    "definition": "An amount a party owes or pays / an amount a party receives or has already paid on a settlement statement.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "settlement-statement",
+    "term": "Settlement statement",
+    "definition": "The escrow accounting showing each party's debits and credits at closing.",
+    "blueprint_area": "transfer"
+  },
+  {
+    "slug": "e-and-o-insurance",
+    "term": "E&O insurance",
+    "definition": "Errors and omissions coverage protecting licensees against claims arising from professional services.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "dust",
+    "term": "DUST",
+    "definition": "The four elements of value: Demand, Utility, Scarcity, Transferability — all four required.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "cbs-cia",
+    "term": "CBS / CIA",
+    "definition": "Comparable Better, Subtract; Comparable Inferior, Add — adjust the comparable, never the subject.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "reproduction-vs-replacement-cost",
+    "term": "Reproduction vs. replacement cost",
+    "definition": "Cost to build an exact replica / cost to build equivalent utility with current materials and methods.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "physical-deterioration",
+    "term": "Physical deterioration",
+    "definition": "Loss in value from wear, tear, and deferred maintenance; usually curable.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "effective-age",
+    "term": "Effective age",
+    "definition": "Apparent age based on condition and updating, which may differ substantially from actual age.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "economic-life",
+    "term": "Economic life",
+    "definition": "The period over which improvements contribute to value.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "assemblage-plottage",
+    "term": "Assemblage / plottage",
+    "definition": "Combining adjacent parcels under one ownership / the increment of value that combination creates.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "progression-regression",
+    "term": "Progression / regression",
+    "definition": "A lower-value property gains from higher-value neighbors / a higher-value property loses from lower-value neighbors.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "anticipation",
+    "term": "Anticipation",
+    "definition": "Value reflects expected future benefits; the foundation of the income approach.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "uspap",
+    "term": "USPAP",
+    "definition": "The Uniform Standards of Professional Appraisal Practice governing licensed appraisers.",
+    "blueprint_area": "valuation"
+  },
+  {
+    "slug": "general-plan",
+    "term": "General plan",
+    "definition": "A city or county's long-term blueprint for development; zoning must be consistent with it.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "setback",
+    "term": "Setback",
+    "definition": "The minimum required distance between a structure and a lot line.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "spot-zoning",
+    "term": "Spot zoning",
+    "definition": "Rezoning a single parcel inconsistently with surrounding zoning and the general plan; often invalid.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "rezoning",
+    "term": "Rezoning",
+    "definition": "A legislative amendment reclassifying a parcel's zoning designation.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "subdivision-map-act",
+    "term": "Subdivision Map Act",
+    "definition": "The state law administered locally governing the physical division of land, maps, dedications, and improvements; protects the community.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "subdivided-lands-act",
+    "term": "Subdivided Lands Act",
+    "definition": "The state consumer protection law administered by the DRE governing marketing and sale of subdivided lots; protects the buyer.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "public-report",
+    "term": "Public report",
+    "definition": "The Commissioner's disclosure document that must be given to prospective purchasers, with a signed receipt, before a purchase money deposit is taken.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "preliminary-public-report",
+    "term": "Preliminary public report",
+    "definition": "An interim report permitting only fully refundable, non-binding reservations — not binding purchase contracts.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "ceqa",
+    "term": "CEQA",
+    "definition": "The California Environmental Quality Act, requiring agencies to study and disclose environmental impacts of discretionary projects.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "environmental-impact-report-eir",
+    "term": "Environmental impact report (EIR)",
+    "definition": "The detailed CEQA document analyzing significant impacts, alternatives, and mitigation.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "cercla-superfund",
+    "term": "CERCLA / Superfund",
+    "definition": "Federal hazardous substance cleanup liability, which can attach to current owners; the reason for Phase I assessments.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "dedication",
+    "term": "Dedication",
+    "definition": "The transfer of private land to public use, often required as a condition of subdivision approval.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "43-560",
+    "term": "43,560",
+    "definition": "Square feet in one acre.",
+    "blueprint_area": "ownership-land-use"
+  },
+  {
+    "slug": "fair-housing-act",
+    "term": "Fair Housing Act",
+    "definition": "The federal law prohibiting housing discrimination based on seven protected classes.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "federal-protected-classes",
+    "term": "Federal protected classes",
+    "definition": "Race, color, religion, national origin, sex (including sexual orientation and gender identity), disability, and familial status.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "housing-for-older-persons-hopa",
+    "term": "Housing for older persons (HOPA)",
+    "definition": "The narrow exception permitting age-restricted communities meeting strict statutory criteria.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "holden-act",
+    "term": "Holden Act",
+    "definition": "California's Housing Financial Discrimination Act, prohibiting lending discrimination based on borrower or neighborhood characteristics.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "reasonable-accommodation",
+    "term": "Reasonable accommodation",
+    "definition": "A change in rules, policies, or services for a person with a disability; the housing provider bears the cost.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "reasonable-modification",
+    "term": "Reasonable modification",
+    "definition": "A physical change to the premises for a person with a disability; generally at the tenant's expense.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "assistance-animal",
+    "term": "Assistance animal",
+    "definition": "A service or support animal that is not a pet; exempt from no-pet policies, pet rent, deposits, and breed or weight limits.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "implicit-bias",
+    "term": "Implicit bias",
+    "definition": "Unconscious association influencing judgment without conscious discriminatory intent.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "tester",
+    "term": "Tester",
+    "definition": "A person posing as a prospect to detect discrimination; testers have standing to sue and their evidence is admissible.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "paired-testing",
+    "term": "Paired testing",
+    "definition": "A method sending similarly qualified testers of different backgrounds to detect differential treatment.",
+    "blueprint_area": "practice-disclosures"
+  },
+  {
+    "slug": "nar-code-of-ethics",
+    "term": "NAR Code of Ethics",
+    "definition": "The ethical code binding Realtor members, organized around duties to clients, the public, and other Realtors.",
+    "blueprint_area": "practice-disclosures"
+  }
+]

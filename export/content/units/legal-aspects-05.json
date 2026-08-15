@@ -1,0 +1,470 @@
+{
+  "id": "legal-aspects-05",
+  "course_slug": "legal-aspects",
+  "unit_number": 5,
+  "title": "Deeds, Recording, Priorities & Title Problems",
+  "estimated_hours": 3,
+  "blueprint_areas": [
+    "transfer",
+    "ownership-land-use"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Explain** the chain of title concept and how title companies build it.\n2. **Distinguish** marketable title from insurable title and from record title.\n3. **Interpret** a preliminary title report and its standard exceptions.\n4. **Compare** CLTA and ALTA title policy coverage.\n5. **Diagnose** common title defects — forged deeds, undisclosed heirs, boundary disputes, unreleased liens, and gaps in the chain.\n6. **Explain** the process and purpose of a quiet title action.\n7. **Advise** (within license scope) on how to respond when a preliminary report reveals an unexpected exception.\n\n---\n\n## 1. Chain of Title\n\nThe **chain of title** is the sequential history of every recorded document affecting ownership of a parcel, traced from the earliest available record forward to the present owner. A title company's search reconstructs this chain by examining the county recorder's records — every deed, lien, easement, judgment, lis pendens, and other recorded instrument tied to the parcel or its prior owners.\n\nA clean chain shows each grantor conveying only what they actually held, with no unexplained gaps, no unresolved liens, and no competing claims. A break in the chain — a missing link, a name that does not match, a deed that was never properly executed — is exactly what title insurance and the preliminary report process exist to catch before closing rather than after.\n\n## 2. Marketable, Insurable, and Record Title — Three Different Things\n\nThese terms are often used loosely and are frequently confused, including by agents:\n\n- **Record title** is simply what the public record shows. It may or may not reflect the true state of ownership — a forged deed, for example, can appear in the record chain without being legally valid.\n- **Marketable title** is title reasonably free from doubt — free enough of defects, liens, and encumbrances that a reasonably prudent buyer would accept it without fear of litigation. Most residential purchase contracts require the seller to deliver marketable title.\n- **Insurable title** is title a title company is willing to insure, subject to whatever specific exceptions it lists. Insurable title is not the same as perfect title — a title company can and does insure over disclosed exceptions and defects it is comfortable pricing, while excluding coverage for others.\n\nA property can have insurable title (because the title company is willing to write a policy subject to listed exceptions) without having fully marketable title (because a reasonable buyer might still object to one of those exceptions). This gap is precisely where negotiation over the preliminary report happens.\n\n## 3. Reading a Preliminary Title Report\n\nThe **preliminary report** (\"prelim\") is the title company's offer to issue a policy on stated terms — it is a statement of the conditions under which the company will insure, not a representation of title itself, and not a policy.\n\n**Structure to expect:**\n\n- **Vesting** — how the current owner holds title.\n- **Legal description** — the parcel being insured.\n- **General/standard exceptions** — boilerplate items every policy excludes unless a specific endorsement addresses them (e.g., matters that would be revealed by an accurate survey, rights of parties in possession, unrecorded easements).\n- **Specific exceptions** — items unique to this property: recorded easements, CC&Rs, existing deeds of trust, property tax status, judgment liens, and any other recorded encumbrance found in the chain.\n\n**The professional habit:** read the specific exceptions line by line on day one of escrow (Practice Unit 9), not the week before closing. An unreleased lien, an old judgment against a prior owner with a similar name, or an HOA assessment lien found on day 3 can usually be cleared before closing; found on day 25, it can blow up the closing date.\n\n### Worked Example 1 — The stale judgment lien (Upland)\n\nA preliminary report on a $580,000 sale lists a specific exception for a $22,000 judgment lien recorded eleven years ago against a person with the same first and last name as the seller, but a different middle initial and no matching prior address.\n\n**Analysis.** This is very likely a \"wild document\" — a recorded item that appears to attach to the seller's name but in fact belongs to a different person. Title companies handle this routinely through an affidavit of identity/non-identity from the seller, sworn statements distinguishing the parties, which the title company reviews before removing the exception. The agent's job is not to resolve this personally but to flag it immediately (day one, not day 25) so the title company and escrow can start the clearance process while there is time.\n\n## 4. CLTA vs. ALTA Coverage\n\n| Policy type | Typical use | Coverage emphasis |\n|---|---|---|\n| **CLTA (California Land Title Association)** | Commonly used for the owner's policy in residential resale | Covers matters of record and certain off-record risks; does not typically cover matters an accurate survey would reveal |\n| **ALTA (American Land Title Association)** | Commonly required by lenders, and available as an enhanced owner's policy | Broader coverage, often including survey matters and additional off-record risks, typically at a higher premium |\n\n**Standard vs. extended coverage** is the practical distinction agents need: extended/ALTA-type coverage costs more but protects against a wider range of risks, including some that would only be discovered by inspecting the property or a current survey. Whether the buyer purchases standard or extended coverage — and who pays for it — is a negotiable term of the purchase agreement, not a fixed rule. <!-- VERIFY: current customary allocation of title insurance costs by county, which varies across California -->\n\n## 5. Common Title Defects\n\n**Forged deeds.** A forged deed is void, not voidable — it conveys nothing, even to a later good-faith purchaser for value, because a void instrument cannot be the source of good title no matter how many hands it passes through. This is one of the starkest illustrations of why \"void\" is such a serious word in real estate law (Unit 3).\n\n**Undisclosed heirs.** When a prior owner died and the estate was not properly probated, or an heir was omitted, that heir's interest can surface years later and cloud title even though the property has since been sold multiple times.\n\n**Boundary disputes and encroachments** (Principles Unit 5, Unit 11 of this course) — a fence, wall, or structure that does not match the recorded legal description.\n\n**Unreleased liens** — a paid-off mortgage or judgment where the reconveyance or satisfaction was never recorded, leaving a \"dead\" but still-visible lien clouding the record.\n\n**Gaps in the chain of title** — a missing recorded link, such as an heir who took title by intestate succession but never recorded documentation of that fact before conveying to a buyer.\n\n**Easement and CC&R conflicts** — recorded restrictions that conflict with the buyer's intended use, or an easement whose exact location was never surveyed.\n\n### Worked Example 2 — The forged deed problem (Riverside)\n\nA title search reveals that, twenty years earlier, a deed in the chain was later proven forged in unrelated litigation — the true owner's signature had been fabricated by a family member who then sold the property to an innocent buyer, who has since resold it twice more.\n\n**Analysis.** Because a forged deed is void, it transferred nothing — meaning, in a strict legal sense, the chain of \"ownership\" built on top of it never validly existed, regardless of how many subsequent innocent purchasers relied on it. This is precisely the catastrophic-but-rare risk that title insurance is built to absorb: a title company that insured any of those later transactions bears the loss (subject to policy terms), rather than leaving an innocent current owner to lose the property outright. It is also why title insurance, unlike most insurance, is priced around a one-time premium protecting against past defects rather than future events.\n\n## 6. Quiet Title Actions\n\nA **quiet title action** is a lawsuit asking a court to determine and declare the true ownership of real property, resolving competing or clouded claims once and for all. It is the standard remedy when a title defect cannot be cleared administratively — an undisclosed heir who will not sign a release, a boundary dispute the parties cannot agree on, or an old lien whose holder cannot be located to obtain a proper release.\n\nQuiet title actions take months at minimum and require an attorney; they are not something a licensee initiates or manages. The licensee's role is to recognize when a defect has reached this level of seriousness and to make sure the client understands that the transaction likely cannot close on the original timeline — or at all — until the litigation resolves.\n\n## 7. When the Report Reveals a Problem\n\n**The professional sequence, every time:**\n\n1. Read the exceptions the day the prelim arrives — do not wait for someone else to flag it.\n2. Identify which exceptions are routine (an existing recorded easement everyone expected) versus which are unexpected (a lien, a wild document, a boundary conflict).\n3. Route unexpected exceptions to the title company's curative department and to escrow immediately.\n4. Keep the client informed of realistic timelines — \"the title company is working on it\" is not the same as \"this will definitely clear by the scheduled closing date.\"\n5. If a defect looks serious (forged instrument, undisclosed heir, unresolved boundary dispute), tell the client this may need an attorney and a quiet title action, and that the closing date is genuinely at risk.\n\n## 8. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Chain of title** | The sequential recorded history of ownership and encumbrances affecting a parcel. |\n| **Record title** | What the public record shows, which may not reflect true legal ownership. |\n| **Marketable title** | Title reasonably free from doubt that a prudent buyer would accept. |\n| **Insurable title** | Title a title company is willing to insure, subject to stated exceptions. |\n| **Preliminary report** | A title company's offer to insure on stated terms; not a policy or a guarantee. |\n| **CLTA policy** | Standard-coverage title policy common for residential owner's policies. |\n| **ALTA policy** | Extended-coverage title policy, often lender-required, covering a broader range of risks. |\n| **Wild document** | A recorded item that appears to attach to a party but actually belongs to someone else. |\n| **Quiet title action** | A lawsuit to judicially resolve disputed or clouded ownership. |\n| **Forged deed** | A void instrument that conveys nothing, regardless of later good-faith purchasers. |\n\n## 9. Exam and Practice Tips\n\n- Record title, marketable title, and insurable title are three different things — do not treat them as synonyms.\n- A preliminary report is an offer to insure, not a policy and not a guarantee of title.\n- A forged deed is void — it conveys nothing even to a later innocent purchaser, which is exactly the risk title insurance is priced to absorb.\n- Read specific exceptions on day one of escrow so curative work has time to happen before closing.\n- CLTA is the common baseline; ALTA/extended coverage costs more but reaches further, including many matters a survey would reveal.\n- A quiet title action is a judicial remedy for serious title defects — not something a licensee resolves informally.\n\n## 10. Unit Assessment\n\nThe 18-question assessment lives in `/content/question-bank/legal-aspects/unit-05.json` with full per-option rationales.",
+  "word_count": 1904,
+  "questions": [
+    {
+      "id": "LEGAL-05-001",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 5,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "The chain of title is best described as:",
+      "options": [
+        "The current owner's mailing address history",
+        "The sequential recorded history of ownership and encumbrances affecting a parcel",
+        "A list of past real estate agents",
+        "The property's tax assessment history only"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Mailing address history is unrelated.",
+        "Correct. It traces recorded documents affecting the parcel from the earliest record forward.",
+        "Agent history is unrelated to chain of title.",
+        "Tax assessment is a separate record."
+      ],
+      "terms": [
+        "chain of title"
+      ]
+    },
+    {
+      "id": "LEGAL-05-002",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 5,
+      "blueprint_area": "transfer",
+      "difficulty": 3,
+      "stem": "Record title, marketable title, and insurable title differ because:",
+      "options": [
+        "They are three names for the same thing",
+        "Record title is what the public record shows, which may not reflect true ownership",
+        "Insurable title always equals marketable title",
+        "Marketable title is decided only by the assessor"
+      ],
+      "answer": 1,
+      "rationales": [
+        "They are distinct concepts.",
+        "Correct. Record title reflects the public record, which can include invalid instruments like forgeries.",
+        "A title company can insure over exceptions a buyer might still reasonably object to.",
+        "The assessor does not determine marketability."
+      ],
+      "terms": [
+        "record title",
+        "marketable title",
+        "insurable title"
+      ]
+    },
+    {
+      "id": "LEGAL-05-003",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 5,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "Marketable title is best described as:",
+      "options": [
+        "Perfect title with zero exceptions",
+        "Title reasonably free from doubt that a prudent buyer would accept",
+        "Title with an ALTA policy only",
+        "Title that has never been sold before"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Perfection is not the standard.",
+        "Correct. Marketable title is reasonably free from doubt.",
+        "Policy type does not define marketability.",
+        "Prior sales history is unrelated."
+      ],
+      "terms": [
+        "marketable title"
+      ]
+    },
+    {
+      "id": "LEGAL-05-004",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 5,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "A preliminary title report is best understood as:",
+      "options": [
+        "A finalized title insurance policy",
+        "A guarantee of clear title",
+        "An offer to insure on stated terms",
+        "A recorded deed"
+      ],
+      "answer": 2,
+      "rationales": [
+        "It is not a finalized policy.",
+        "It is not a guarantee.",
+        "Correct. It states the conditions under which the company will insure.",
+        "It is not itself a deed."
+      ],
+      "terms": [
+        "preliminary report"
+      ]
+    },
+    {
+      "id": "LEGAL-05-005",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 5,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "The best practice for reviewing a preliminary report's specific exceptions is to:",
+      "options": [
+        "Wait until the week of closing",
+        "Read them on day one of escrow",
+        "Let escrow read them silently",
+        "Only read them if the buyer asks"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Waiting compresses the time available to clear problems.",
+        "Correct. Early review leaves time for curative work.",
+        "Agents should personally review, not delegate blindly.",
+        "Review should happen regardless of whether asked."
+      ],
+      "terms": [
+        "preliminary report"
+      ]
+    },
+    {
+      "id": "LEGAL-05-006",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 5,
+      "blueprint_area": "transfer",
+      "difficulty": 3,
+      "stem": "A prelim lists a judgment lien against a name matching the seller's but with a different middle initial and no matching prior address. This is most likely:",
+      "options": [
+        "A confirmed lien against the seller",
+        "A wild document requiring an affidavit of identity to clear",
+        "Proof the seller has bad credit",
+        "Irrelevant and safely ignored"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The mismatched details suggest it may not belong to the seller.",
+        "Correct. This is a classic wild document, typically cleared with an affidavit of identity/non-identity.",
+        "Credit history is a different matter entirely.",
+        "It should not be ignored; it must be reviewed and cleared."
+      ],
+      "terms": [
+        "wild document"
+      ]
+    },
+    {
+      "id": "LEGAL-05-007",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 5,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "A CLTA policy compared to an ALTA policy typically:",
+      "options": [
+        "Provides broader coverage at a higher premium",
+        "Provides narrower, standard coverage at a lower premium",
+        "Is required by all lenders",
+        "Only applies to commercial property"
+      ],
+      "answer": 1,
+      "rationales": [
+        "That describes ALTA relative to CLTA.",
+        "Correct. CLTA is the more limited, standard-coverage baseline, commonly used for owner's policies.",
+        "Lenders typically require ALTA-type coverage.",
+        "CLTA is common in residential transactions."
+      ],
+      "terms": [
+        "CLTA policy"
+      ]
+    },
+    {
+      "id": "LEGAL-05-008",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 5,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "ALTA coverage is often required by:",
+      "options": [
+        "Buyers only, never lenders",
+        "Lenders, and available as extended owner's coverage",
+        "The county recorder",
+        "The listing agent"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Lenders commonly require it, not just buyers.",
+        "Correct. ALTA is often lender-required and available as enhanced owner's coverage.",
+        "The recorder does not require policy type.",
+        "Agents do not require policy type."
+      ],
+      "terms": [
+        "ALTA policy"
+      ]
+    },
+    {
+      "id": "LEGAL-05-009",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 5,
+      "blueprint_area": "transfer",
+      "difficulty": 3,
+      "stem": "A forged deed in the chain of title is:",
+      "options": [
+        "Voidable by the innocent purchaser",
+        "Void, conveying nothing even to a later good-faith purchaser",
+        "Valid once recorded",
+        "Cured automatically after ten years"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It is void, not merely voidable.",
+        "Correct. A forged deed conveys nothing, regardless of subsequent good-faith reliance.",
+        "Recording does not validate a forged instrument.",
+        "There is no automatic ten-year cure described here."
+      ],
+      "terms": [
+        "forged deed"
+      ]
+    },
+    {
+      "id": "LEGAL-05-010",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 5,
+      "blueprint_area": "transfer",
+      "difficulty": 3,
+      "stem": "Because a forged deed conveys nothing, the practical protection for later innocent purchasers most often comes from:",
+      "options": [
+        "The forger's future cooperation",
+        "Title insurance absorbing the loss subject to policy terms",
+        "Automatic government compensation",
+        "The county recorder's guarantee"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The forger is unlikely to cooperate.",
+        "Correct. Title insurance is priced to absorb exactly this kind of catastrophic, low-frequency risk.",
+        "No such automatic government compensation exists here.",
+        "The recorder does not guarantee title validity."
+      ],
+      "terms": [
+        "forged deed",
+        "title insurance"
+      ]
+    },
+    {
+      "id": "LEGAL-05-011",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 5,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "An unreleased lien from a mortgage that was actually paid off years ago is an example of:",
+      "options": [
+        "A properly cleared title",
+        "A title defect requiring a recorded satisfaction or reconveyance",
+        "A boundary dispute",
+        "A quiet title judgment"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It is not properly cleared until released of record.",
+        "Correct. The paid lien remains a visible defect until its satisfaction or reconveyance is recorded.",
+        "This is not a boundary issue.",
+        "No judgment has occurred yet."
+      ],
+      "terms": [
+        "unreleased lien"
+      ]
+    },
+    {
+      "id": "LEGAL-05-012",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 5,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "An undisclosed heir surfacing years after an improperly probated estate can:",
+      "options": [
+        "Never affect a later buyer's title",
+        "Cloud title even after multiple subsequent sales",
+        "Only affect the original decedent's spouse",
+        "Be ignored if the property has changed hands"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It can affect later title.",
+        "Correct. An omitted heir's interest can surface and cloud title well after subsequent transfers.",
+        "It can affect any heir, not only a spouse.",
+        "Subsequent sales do not erase the underlying defect."
+      ],
+      "terms": [
+        "undisclosed heirs"
+      ]
+    },
+    {
+      "id": "LEGAL-05-013",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 5,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A quiet title action is:",
+      "options": [
+        "An administrative form filed with the title company",
+        "A lawsuit asking a court to determine true ownership",
+        "A type of deed",
+        "A recording fee waiver"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It is a judicial action, not an administrative form.",
+        "Correct. It is a lawsuit resolving disputed or clouded ownership.",
+        "It is not a deed type.",
+        "It is unrelated to recording fees."
+      ],
+      "terms": [
+        "quiet title action"
+      ]
+    },
+    {
+      "id": "LEGAL-05-014",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 5,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A quiet title action is typically appropriate when:",
+      "options": [
+        "A defect can be cleared with a simple affidavit",
+        "A defect cannot be cleared administratively, such as an heir who will not sign a release",
+        "The buyer wants a faster closing",
+        "The seller wants a lower price"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Simple defects are usually cleared administratively, not through litigation.",
+        "Correct. Quiet title is reserved for defects that cannot be resolved without a court.",
+        "Quiet title actions take months and slow closings, not speed them.",
+        "Price preference is unrelated."
+      ],
+      "terms": [
+        "quiet title action"
+      ]
+    },
+    {
+      "id": "LEGAL-05-015",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 5,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "When an agent identifies an unexpected exception on a preliminary report, the correct first step is to:",
+      "options": [
+        "Wait to see if it resolves itself",
+        "Route it to the title company's curative department and escrow immediately",
+        "Advise the client on the legal remedy personally",
+        "Remove it from the file"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Waiting wastes valuable curative time.",
+        "Correct. Prompt routing to the professionals who can clear it protects the timeline.",
+        "Giving legal advice on remedies exceeds license scope.",
+        "Ignoring or removing it from the file does not resolve the defect."
+      ],
+      "terms": [
+        "preliminary report"
+      ]
+    },
+    {
+      "id": "LEGAL-05-016",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 5,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "General/standard exceptions in a preliminary report typically include matters that:",
+      "options": [
+        "Are unique to one specific property only",
+        "An accurate survey would reveal, or rights of parties in possession",
+        "Only apply to commercial property",
+        "Never appear in residential transactions"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Specific exceptions, not general ones, are unique to the property.",
+        "Correct. Standard exceptions commonly include survey-related and possession-related matters.",
+        "They are not limited to commercial property.",
+        "They routinely appear in residential preliminary reports."
+      ],
+      "terms": [
+        "preliminary report"
+      ]
+    },
+    {
+      "id": "LEGAL-05-017",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 5,
+      "blueprint_area": "transfer",
+      "difficulty": 2,
+      "stem": "Title insurance is unusual compared to most insurance because:",
+      "options": [
+        "It insures against future events only",
+        "It is priced around a one-time premium protecting against past, existing defects",
+        "It requires monthly premiums",
+        "It only covers lenders, never owners"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It primarily protects against defects that already exist in the historical record.",
+        "Correct. A one-time premium covers risk arising from the property's past.",
+        "Title insurance is typically a one-time premium, not a recurring monthly payment.",
+        "Owner's policies exist alongside lender's policies."
+      ],
+      "terms": [
+        "title insurance"
+      ]
+    },
+    {
+      "id": "LEGAL-05-018",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 5,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "If a preliminary report reveals a serious defect such as a suspected forged instrument in the chain, the licensee should:",
+      "options": [
+        "Resolve it personally to keep the deal moving",
+        "Tell the client the closing date is realistically at risk and an attorney may be needed",
+        "Hide the issue from the client until it worsens",
+        "Recommend the buyer waive title review"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Resolving serious title defects is outside license scope.",
+        "Correct. The client needs an honest timeline assessment and, likely, legal involvement.",
+        "Concealing a known issue breaches disclosure obligations.",
+        "Waiving title review on a serious defect would be poor advice."
+      ],
+      "terms": [
+        "quiet title action"
+      ]
+    }
+  ]
+}

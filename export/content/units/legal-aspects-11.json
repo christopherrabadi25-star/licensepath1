@@ -1,0 +1,466 @@
+{
+  "id": "legal-aspects-11",
+  "course_slug": "legal-aspects",
+  "unit_number": 11,
+  "title": "Easements, Boundaries, Nuisance & Neighbor Disputes",
+  "estimated_hours": 3,
+  "blueprint_areas": [
+    "ownership-land-use"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Distinguish** the methods of easement creation and how each is proven.\n2. **Explain** the difference between an easement appurtenant and an easement in gross, and why it matters at resale.\n3. **Apply** the requirements for a prescriptive easement and adverse possession, and how they differ.\n4. **Analyze** encroachment fact patterns and the range of available remedies.\n5. **Distinguish** private nuisance from public nuisance and identify defenses.\n6. **Explain** the role of a boundary survey in resolving a dispute.\n7. **Advise** (within license scope) how to handle a disclosed boundary or neighbor dispute in a listing.\n\n---\n\n## 1. Easement Creation: Four Common Paths\n\nAn **easement** is a non-possessory right to use another's land for a specific purpose (Principles Unit 5). California recognizes several methods of creation, each with distinct proof requirements:\n\n- **Express grant or reservation** — created by a written instrument (a deed, or a specific easement agreement), the cleanest and most litigation-resistant method.\n- **Implication** — arising from the circumstances of a prior common ownership and division of land, where the use was apparent, continuous, and reasonably necessary at the time of severance (for example, a shared driveway that existed before a parcel was split into two lots).\n- **Necessity** — arising when a parcel is landlocked by the division of previously commonly owned land, with no other reasonable access; unlike an easement by implication, strict necessity (not merely convenience) is generally required.\n- **Prescription** — acquired through open, notorious, hostile, and continuous use for the statutory period, similar in concept to adverse possession but conveying only a *right to use*, not ownership, and critically — **unlike adverse possession, a prescriptive easement does not require payment of property taxes on the servient land.** This tax-payment distinction is one of the most frequently tested points comparing the two doctrines.\n\n### Worked Example 1 — Implied easement from a shared driveway (Glendora)\n\nA large parcel with a single shared driveway serving what was originally one home is later subdivided into two separate lots, each now needing the driveway for access, but the subdivision deed says nothing about the driveway.\n\n**Analysis.** This is a strong fact pattern for an **easement by implication** — the shared driveway use was apparent and continuous before severance, and the parties presumably intended it to continue given that alternative access may not have been contemplated. The lesson for a listing agent handling either lot: the absence of an express written easement does not necessarily mean no easement exists — it means the buyer's title company and, if disputed, an attorney need to evaluate the implied-easement facts, not assume the driveway right vanished because it was never written down.\n\n## 2. Appurtenant vs. In Gross — Why It Matters at Resale\n\nAn **easement appurtenant** benefits a specific parcel of land (the dominant tenement) and burdens another specific parcel (the servient tenement); it **runs with the land automatically** — meaning it transfers to a new owner of either parcel without needing to be separately conveyed, and it generally cannot be sold separately from the dominant tenement.\n\nAn **easement in gross** benefits a specific *person or entity*, not a parcel of land — a common example is a utility company's easement to run power lines across a property. It generally does **not** run with the land the same automatic way for the *benefited* party (though it does still burden the servient land regardless of who owns it), and commercial easements in gross (like utility easements) are often freely assignable by the utility.\n\n**Why an agent needs this distinction:** when a buyer asks \"does this easement stay with the property forever, or could it end if the original party who benefited sells or dies,\" the answer depends entirely on whether the easement is appurtenant (tied to land, survives ownership changes on both sides) or in gross (tied to a specific benefited party, with different survival rules).\n\n## 3. Termination of Easements\n\nEasements can end through: **release** (the dominant tenement owner formally relinquishes the right, typically in writing), **merger** (the same person acquires both the dominant and servient tenements, eliminating the \"two separate parcels\" requirement), **abandonment** (demonstrated by conduct clearly showing intent to permanently stop using the easement — mere non-use alone is generally not enough), **expiration** (if the easement was created for a stated term or purpose that has ended), and **prescription** (if the servient owner blocks the easement openly and continuously for the statutory period without the dominant owner asserting their right).\n\n## 4. Encroachments\n\nAn **encroachment** is a physical structure or improvement that extends onto a neighboring property without permission — a fence built a foot over the boundary line, an overhanging roof eave, a wall, or landscaping.\n\n**Remedies for an encroachment vary with severity and circumstance:**\n\n- **Injunctive relief** — a court order requiring removal, appropriate for a serious or willful encroachment.\n- **Damages** — monetary compensation, sometimes used instead of forced removal when removal would be disproportionately costly relative to the harm.\n- **A negotiated license or easement** — the parties agree the encroachment may remain, formalized in writing (a boundary line agreement or an easement granted for the specific encroaching feature), which is often the most practical resolution for a minor, longstanding encroachment discovered at sale.\n- **Doing nothing** risks the encroaching party eventually claiming a **prescriptive easement or, in rare cases, adverse possession** over the encroached area if the encroachment continues undisturbed for the statutory period — which is exactly why an owner who discovers an encroachment should document their objection promptly rather than simply tolerating it indefinitely.\n\n### Worked Example 2 — The block wall that's a foot over the line (San Dimas)\n\nA survey ordered during a sale reveals that the seller's block wall, believed by everyone to sit on the property line, actually sits fourteen inches onto the neighbor's lot — and has for over twenty years, apparently without objection.\n\n**Analysis.** This encroachment is a real title issue that must be disclosed and addressed before closing, not ignored because \"it's been like that forever.\" Depending on the facts, the wall's longstanding, open, continuous presence could support a prescriptive easement claim in the seller's favor — but that is a legal determination, not something the agent decides. The practical path is usually a negotiated **boundary line agreement** recorded with both neighbors' cooperation, formalizing the wall's location and avoiding future disputes for both properties — cleaner and cheaper than litigation, but it needs an attorney to draft and both owners to sign.\n\n## 5. Nuisance\n\nA **nuisance** is a use of property that unreasonably interferes with another's use and enjoyment of their own property. California distinguishes:\n\n- **Private nuisance** — interference substantial and unreasonable enough to affect a particular person's use and enjoyment of their specific property (persistent noise, noxious odors, a tree's roots damaging a foundation).\n- **Public nuisance** — interference affecting a broader community or the public generally (a property that has become a hazard to public health or safety), which can be addressed by a government entity as well as by private parties in some circumstances.\n\n**Common defenses** include that the interference is not substantial (courts apply a reasonableness standard, not a zero-tolerance one — ordinary neighborhood sounds are not automatically a nuisance), that the plaintiff \"came to the nuisance\" (moved in after the condition was already established — a factor, though generally not an absolute defense on its own), or that the activity is expressly authorized by applicable zoning or permit.\n\n## 6. Boundary Surveys\n\nA **boundary survey**, performed by a licensed land surveyor, establishes the precise legal location of property lines based on the recorded legal description, existing monuments, and adjoining surveys. It is the professional, evidence-based way to resolve a genuine boundary dispute — as distinct from a title company's preliminary report, which identifies recorded interests but does not itself resolve where the physical boundary actually falls on the ground.\n\n**When to recommend a survey:** any time a fence, wall, or structure's location relative to the recorded boundary is uncertain or disputed, before a transaction closes on a property with a known or suspected boundary issue, and whenever a buyer intends significant construction near a property line.\n\n## 7. The Licensee's Role in Boundary and Neighbor Disputes\n\nWhen a listing has a known encroachment, boundary uncertainty, or ongoing neighbor dispute, this is a **material fact requiring disclosure** (Principles Unit 9) — not a private matter the agent can simply omit because \"the neighbors have always worked it out informally.\" The agent's job is to ensure the issue is disclosed, recommend a survey or attorney involvement when the facts warrant it, and avoid personally opining on whose legal position is stronger.\n\n## 8. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Easement by implication** | An easement arising from apparent, continuous, reasonably necessary use existing at the time land under common ownership was divided. |\n| **Easement by necessity** | An easement arising from strict necessity when division of commonly owned land leaves a parcel landlocked. |\n| **Prescriptive easement** | A right to use land acquired through open, notorious, hostile, continuous use for the statutory period — no tax payment required, unlike adverse possession. |\n| **Easement appurtenant** | An easement benefiting a specific parcel, running automatically with the land. |\n| **Easement in gross** | An easement benefiting a specific person or entity rather than a parcel. |\n| **Encroachment** | An unauthorized physical intrusion of a structure or improvement onto neighboring land. |\n| **Boundary line agreement** | A recorded agreement between neighbors formalizing an actual boundary location, often resolving a longstanding encroachment. |\n| **Private nuisance** | Substantial, unreasonable interference with a particular person's use and enjoyment of their property. |\n| **Public nuisance** | Interference affecting the broader community, addressable by government or private action. |\n| **Boundary survey** | A licensed surveyor's determination of precise legal property lines. |\n\n## 9. Exam and Practice Tips\n\n- A prescriptive easement does not require tax payment; adverse possession does — this comparison is a frequent exam distinction.\n- Easement appurtenant runs with the land automatically; easement in gross benefits a person/entity and follows different survival rules.\n- Mere non-use does not abandon an easement — abandonment requires conduct clearly showing intent to permanently stop using it.\n- An unaddressed encroachment risks the encroacher eventually claiming a prescriptive right — document objections promptly.\n- A boundary line agreement is often the most practical resolution for a longstanding, minor encroachment.\n- Private nuisance affects a specific owner's enjoyment; public nuisance affects the broader community.\n- A known encroachment or boundary dispute is a material fact requiring disclosure in a listing.\n\n## 10. Unit Assessment\n\nThe 18-question assessment lives in `/content/question-bank/legal-aspects/unit-11.json` with full per-option rationales.",
+  "word_count": 1804,
+  "questions": [
+    {
+      "id": "LEGAL-11-001",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 11,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "An easement created by a written deed or specific agreement is an example of:",
+      "options": [
+        "Prescription",
+        "Express grant",
+        "Necessity",
+        "Implication"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Prescription arises from use, not a writing.",
+        "Correct. Express grant is created by a written instrument.",
+        "Necessity arises from landlocked circumstances, not a writing alone.",
+        "Implication arises from circumstances at severance, not a writing."
+      ],
+      "terms": [
+        "express grant"
+      ]
+    },
+    {
+      "id": "LEGAL-11-002",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 11,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "An easement by implication typically requires that the use, at the time of severance, was:",
+      "options": [
+        "Secret and occasional",
+        "Apparent, continuous, and reasonably necessary",
+        "Created only by court order",
+        "Paid for with property taxes"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Secret, occasional use does not support implication.",
+        "Correct. Apparent, continuous, reasonably necessary use at severance supports an implied easement.",
+        "Court order is not required for implication.",
+        "Tax payment is unrelated to easement by implication."
+      ],
+      "terms": [
+        "easement by implication"
+      ]
+    },
+    {
+      "id": "LEGAL-11-003",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 11,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "An easement by necessity generally requires:",
+      "options": [
+        "Mere convenience of access",
+        "Strict necessity, such as a landlocked parcel from a prior division of commonly owned land",
+        "A recorded survey only",
+        "Continuous use for the statutory period"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Mere convenience is not enough; strict necessity is required.",
+        "Correct. Easement by necessity requires strict necessity arising from a division of previously commonly owned land.",
+        "A recorded survey alone does not create this easement.",
+        "Statutory-period continuous use describes prescription, not necessity."
+      ],
+      "terms": [
+        "easement by necessity"
+      ]
+    },
+    {
+      "id": "LEGAL-11-004",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 11,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A prescriptive easement differs from adverse possession in ownership terms because a prescriptive easement:",
+      "options": [
+        "Conveys full ownership of the land",
+        "Conveys only a right to use, not ownership",
+        "Requires payment of property taxes just like adverse possession",
+        "Cannot ever be established in California"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Full ownership describes adverse possession, not a prescriptive easement.",
+        "Correct. A prescriptive easement grants only a right to use, not title.",
+        "Unlike adverse possession, prescriptive easements do not require tax payment.",
+        "Prescriptive easements can be established in California under the right facts."
+      ],
+      "terms": [
+        "prescriptive easement"
+      ]
+    },
+    {
+      "id": "LEGAL-11-005",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 11,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A key distinction between a prescriptive easement and adverse possession is that:",
+      "options": [
+        "Adverse possession does not require tax payment but prescription does",
+        "Prescription does not require tax payment on the servient land, while adverse possession does",
+        "Both require identical tax payment obligations",
+        "Neither requires open and notorious use"
+      ],
+      "answer": 1,
+      "rationales": [
+        "This reverses the actual rule.",
+        "Correct. Prescriptive easements do not require tax payment; adverse possession does.",
+        "Their tax requirements differ, not match.",
+        "Both generally require open and notorious use as an element."
+      ],
+      "terms": [
+        "prescriptive easement"
+      ]
+    },
+    {
+      "id": "LEGAL-11-006",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 11,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "An easement appurtenant:",
+      "options": [
+        "Benefits a specific person, not land",
+        "Benefits a specific parcel and runs automatically with the land",
+        "Cannot be created by deed",
+        "Always terminates upon sale of either parcel"
+      ],
+      "answer": 1,
+      "rationales": [
+        "That describes an easement in gross.",
+        "Correct. It benefits a dominant parcel and runs with the land automatically.",
+        "It can be created by deed, among other methods.",
+        "It generally survives a sale of either parcel; it does not automatically terminate."
+      ],
+      "terms": [
+        "easement appurtenant"
+      ]
+    },
+    {
+      "id": "LEGAL-11-007",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 11,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A utility company's easement to run power lines across a property is typically an example of:",
+      "options": [
+        "Easement appurtenant",
+        "Easement in gross",
+        "Prescriptive easement only",
+        "Easement by necessity only"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It does not benefit a specific dominant parcel.",
+        "Correct. It benefits a specific entity, characteristic of an easement in gross.",
+        "It is typically created by grant, not solely by prescription.",
+        "It is not created solely through necessity."
+      ],
+      "terms": [
+        "easement in gross"
+      ]
+    },
+    {
+      "id": "LEGAL-11-008",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 11,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Merger as a method of easement termination occurs when:",
+      "options": [
+        "The dominant tenement owner sells the property",
+        "The same person acquires both the dominant and servient tenements",
+        "The easement is used more frequently",
+        "A survey is recorded"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A sale to a different owner does not itself terminate the easement.",
+        "Correct. Merger eliminates the two-separate-parcels requirement for an easement to exist.",
+        "Increased use does not terminate an easement.",
+        "Recording a survey does not itself terminate an easement."
+      ],
+      "terms": [
+        "merger"
+      ]
+    },
+    {
+      "id": "LEGAL-11-009",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 11,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Abandonment of an easement generally requires:",
+      "options": [
+        "Mere non-use for any period",
+        "Conduct clearly showing intent to permanently stop using the easement",
+        "A written release only",
+        "Nothing; it is automatic after one year"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Non-use alone is generally insufficient.",
+        "Correct. Clear conduct showing intent to permanently abandon is required.",
+        "A written release is a separate termination method, not required for abandonment specifically.",
+        "There is no automatic one-year abandonment rule described here."
+      ],
+      "terms": [
+        "abandonment"
+      ]
+    },
+    {
+      "id": "LEGAL-11-010",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 11,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "An encroachment is best described as:",
+      "options": [
+        "A recorded easement",
+        "An unauthorized physical intrusion of a structure onto neighboring land",
+        "A type of nuisance lawsuit",
+        "A boundary survey report"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It is not itself a recorded easement.",
+        "Correct. It is an unauthorized physical intrusion onto neighboring property.",
+        "It is a physical condition, not itself a lawsuit type.",
+        "It is not the survey report itself, though a survey can reveal one."
+      ],
+      "terms": [
+        "encroachment"
+      ]
+    },
+    {
+      "id": "LEGAL-11-011",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 11,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A survey reveals a wall has sat fourteen inches onto a neighbor's lot for over twenty years without objection. A practical, commonly used resolution is:",
+      "options": [
+        "Ignoring it since it has been that way for years",
+        "A negotiated, recorded boundary line agreement between the neighbors",
+        "Immediate forced demolition with no negotiation",
+        "Assuming the issue disappears at closing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Ignoring it leaves the issue unresolved and risks future disputes.",
+        "Correct. A recorded boundary line agreement is often the most practical, cost-effective resolution.",
+        "Forced demolition without negotiation is not the typical or most practical first step.",
+        "The issue does not disappear automatically at closing and must be disclosed."
+      ],
+      "terms": [
+        "boundary line agreement"
+      ]
+    },
+    {
+      "id": "LEGAL-11-012",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 11,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Failing to object to a longstanding encroachment risks:",
+      "options": [
+        "Nothing at all",
+        "The encroacher eventually establishing a prescriptive easement or similar claim",
+        "Automatic transfer of full ownership within one year",
+        "Immediate criminal liability for the property owner"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Real legal risk can develop over time.",
+        "Correct. Undisturbed, continuous encroachment can support a prescriptive claim after the statutory period.",
+        "There is no automatic one-year full ownership transfer.",
+        "This is a civil property matter, not typically a criminal one."
+      ],
+      "terms": [
+        "prescriptive easement"
+      ]
+    },
+    {
+      "id": "LEGAL-11-013",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 11,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Private nuisance differs from public nuisance because private nuisance:",
+      "options": [
+        "Affects the broader community",
+        "Affects a particular person's use and enjoyment of their specific property",
+        "Can only be pursued by government agencies",
+        "Requires proof of a recorded easement"
+      ],
+      "answer": 1,
+      "rationales": [
+        "That describes public nuisance.",
+        "Correct. Private nuisance affects a specific owner's use and enjoyment.",
+        "Private nuisance is generally pursued by the affected private party.",
+        "Nuisance claims do not require a recorded easement."
+      ],
+      "terms": [
+        "private nuisance"
+      ]
+    },
+    {
+      "id": "LEGAL-11-014",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 11,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A public nuisance:",
+      "options": [
+        "Affects only one neighboring property",
+        "Affects the broader community and can be addressed by government or private parties",
+        "Is always resolved through a boundary survey",
+        "Cannot ever result in legal action"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Public nuisance reaches beyond one property.",
+        "Correct. It affects the community broadly and multiple parties can pursue action.",
+        "A survey resolves boundary disputes, not nuisance claims generally.",
+        "Legal action is available for a genuine public nuisance."
+      ],
+      "terms": [
+        "public nuisance"
+      ]
+    },
+    {
+      "id": "LEGAL-11-015",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 11,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A common defense to a nuisance claim is:",
+      "options": [
+        "That the interference is not substantial under a reasonableness standard",
+        "That the defendant owns the property",
+        "That the plaintiff is a real estate licensee",
+        "That the county has issued a business license, which is always a complete defense"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Courts apply a reasonableness standard; minor interference is not automatically actionable.",
+        "Property ownership alone is not a defense to causing a nuisance.",
+        "The plaintiff's occupation is irrelevant to the nuisance analysis.",
+        "A business license is a factor but not automatically a complete defense."
+      ],
+      "terms": [
+        "private nuisance"
+      ]
+    },
+    {
+      "id": "LEGAL-11-016",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 11,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A licensed land surveyor's boundary survey primarily:",
+      "options": [
+        "Insures title against defects",
+        "Establishes the precise legal location of property lines",
+        "Replaces the need for title insurance entirely",
+        "Determines zoning classification"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Title insurance, not a survey, insures against title defects.",
+        "Correct. A survey establishes precise legal boundary locations.",
+        "A survey does not replace the separate function of title insurance.",
+        "Zoning classification is a separate governmental determination."
+      ],
+      "terms": [
+        "boundary survey"
+      ]
+    },
+    {
+      "id": "LEGAL-11-017",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 11,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A preliminary title report differs from a boundary survey because the preliminary report:",
+      "options": [
+        "Physically locates the boundary on the ground",
+        "Identifies recorded interests but does not resolve the physical boundary location",
+        "Is prepared by a licensed surveyor",
+        "Is unrelated to real estate transactions"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Physical location on the ground is the survey's job, not the prelim's.",
+        "Correct. The prelim addresses recorded interests, not the physical boundary itself.",
+        "A prelim is prepared by a title company, not a surveyor.",
+        "It is directly related to real estate transactions."
+      ],
+      "terms": [
+        "boundary survey"
+      ]
+    },
+    {
+      "id": "LEGAL-11-018",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 11,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A known boundary dispute or encroachment on a listed property should be:",
+      "options": [
+        "Omitted if the neighbors have handled it informally for years",
+        "Disclosed as a material fact",
+        "Only disclosed if the buyer specifically asks",
+        "Left for the buyer's attorney to discover independently"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Informal handling does not excuse disclosure of a known material fact.",
+        "Correct. A known boundary issue is a material fact requiring disclosure.",
+        "Disclosure duties do not depend on the buyer asking first.",
+        "The seller/agent has an affirmative disclosure duty, not a passive one."
+      ],
+      "terms": [
+        "encroachment"
+      ]
+    }
+  ]
+}

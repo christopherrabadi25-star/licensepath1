@@ -1,0 +1,467 @@
+{
+  "id": "legal-aspects-08",
+  "course_slug": "legal-aspects",
+  "unit_number": 8,
+  "title": "Landlord-Tenant Law in Depth",
+  "estimated_hours": 3,
+  "blueprint_areas": [
+    "ownership-land-use",
+    "practice-disclosures"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Distinguish** the legal theory behind the implied warranty of habitability from a simple maintenance obligation.\n2. **Apply** California's statewide rent cap and just-cause eviction framework at a conceptual level.\n3. **Explain** the unlawful detainer process and why \"self-help eviction\" is illegal.\n4. **Compare** actual eviction with constructive eviction and retaliatory eviction.\n5. **Apply** security deposit rules, including permitted deductions and return timelines.\n6. **Analyze** habitability disputes and rent withholding/repair-and-deduct remedies.\n7. **Advise** (within license scope) property owners and tenants on where legal counsel is required.\n\n---\n\n## 1. The Legal Theory: Lease as Contract, Not Just Conveyance\n\nHistorically, a lease was treated purely as a conveyance of a possessory interest — the tenant took the property \"as is,\" and the landlord's only real obligation was not to interfere with possession. Modern California law treats a residential lease as substantially a **contract**, carrying implied obligations that exist whether or not the written lease mentions them.\n\nThe most important of these is the **implied warranty of habitability**: every residential landlord impliedly warrants that the unit is fit for human habitation and will remain so throughout the tenancy — livable, safe, and free of conditions that endanger health or safety (adequate weatherproofing, working plumbing, heat, electrical systems, and freedom from vermin infestation, among other basic conditions). **This warranty cannot be waived by the lease.** A landlord and tenant cannot agree in writing that the landlord has no habitability obligations — such a clause is unenforceable as against public policy.\n\n## 2. Statewide Rent Cap and Just-Cause Framework\n\nCalifornia's Tenant Protection Act (commonly referenced by its bill number, AB 1482) imposes, for most covered residential tenancies, a **statewide cap on annual rent increases** and requires **\"just cause\" for eviction** once a tenant has occupied a unit for the specified period. <!-- VERIFY: current AB 1482 rent cap percentage/CPI formula and the covered-tenancy threshold, both of which are periodically adjusted -->\n\n**Just cause generally falls into two categories:**\n\n- **At-fault just cause** — for example, nonpayment of rent, a material lease violation, nuisance, or illegal use of the property.\n- **No-fault just cause** — for example, the owner or a qualifying family member moving in, withdrawal of the unit from the rental market, or a government-ordered vacancy — several of which trigger a **relocation assistance** obligation to the tenant. <!-- VERIFY: current relocation assistance amount/formula and which no-fault categories trigger it -->\n\n**Exemptions exist** — certain single-family homes and condos (with proper notice), some newer construction, and certain other categories are excluded from all or part of the statewide framework, and local rent control ordinances that are more protective than the state law can still apply on top of it. <!-- VERIFY: current exemption categories and their exact notice requirements; confirm which California cities layer additional local rent control on top of AB 1482 -->\n\n**Why this matters to a licensee:** an agent helping a landlord terminate a tenancy, or helping a tenant evaluate a notice they received, needs to recognize that \"just cause\" is now a real legal requirement in most cases — not a formality — and that getting it wrong exposes the landlord to real liability. This is squarely attorney/property-manager territory for anything beyond general awareness.\n\n## 3. The Unlawful Detainer Process\n\nEven where a landlord has a valid legal basis to remove a tenant, California law requires a specific court process — the **unlawful detainer (UD) action** — and prohibits **self-help eviction**.\n\n**Self-help eviction is illegal**, no matter how clearly the tenant is in the wrong. Changing the locks, shutting off utilities, removing the tenant's belongings, or otherwise forcing a tenant out without a court judgment and a sheriff's enforcement of that judgment exposes the landlord to significant statutory penalties and damages — often far exceeding whatever the landlord thought they were saving by skipping the court process.\n\n**The UD process, in outline:**\n\n1. A proper written notice is served (e.g., a pay-or-quit notice for nonpayment, or a notice to cure or quit for a lease violation), with legally specific content and service requirements.\n2. If the tenant does not comply and does not vacate, the landlord files an unlawful detainer lawsuit.\n3. The tenant is served and has a short statutory window to respond.\n4. If the landlord prevails (by default or after a hearing/trial — UD actions are expedited compared to ordinary civil litigation), the court issues a judgment for possession.\n5. Only the **sheriff**, acting under a writ of possession issued from that judgment, may physically remove the tenant — never the landlord personally.\n\n### Worked Example 1 — The impatient landlord (Ontario)\n\nA landlord's tenant is three months behind on rent. Frustrated with the court timeline, the landlord changes the locks while the tenant is at work and sets the tenant's belongings on the curb.\n\n**Analysis.** Even though the tenant genuinely owes back rent and the landlord would very likely win a proper unlawful detainer action, the landlord's self-help conduct is independently illegal and exposes the landlord to statutory damages, regardless of the merits of the underlying nonpayment claim. \"The tenant was clearly wrong\" is not a defense to illegal self-help eviction. An agent who hears a landlord client describe this plan has an obligation to redirect them to proper legal process immediately, not help execute it.\n\n## 4. Actual, Constructive, and Retaliatory Eviction\n\n**Actual eviction** is the landlord's lawful (or unlawful) physical removal of the tenant from all or part of the premises.\n\n**Constructive eviction** occurs when the landlord's actions or failures (rather than a formal eviction) make the property so unfit for its intended use that the tenant is legally justified in treating the lease as terminated and moving out — for example, an extended failure to fix a total loss of heat in winter, or ignoring a severe mold or pest infestation after proper notice. The tenant generally must give the landlord notice and a reasonable opportunity to fix the problem, and must actually vacate to claim constructive eviction — a tenant who stays and simply stops paying rent is on much weaker legal ground.\n\n**Retaliatory eviction** is prohibited: a landlord cannot terminate a tenancy, raise rent, or reduce services *because* a tenant lawfully exercised a legal right — such as making a habitability complaint to a code enforcement agency, requesting repairs, or joining a tenants' organization. California statute creates a **rebuttable presumption of retaliation** if the landlord takes adverse action within a specified period after the tenant's protected activity. <!-- VERIFY: current statutory presumption period for retaliatory eviction claims -->\n\n### Worked Example 2 — Constructive eviction from a mold infestation (Whittier)\n\nA tenant reports a serious mold problem after a plumbing leak. The landlord acknowledges the problem in writing but takes no action for two months despite repeated requests. The tenant, developing respiratory symptoms, gives written notice that they will vacate if the condition is not remediated within a stated reasonable period, then moves out when nothing changes.\n\n**Analysis.** This is a strong constructive eviction fact pattern: a serious habitability failure, adequate notice and opportunity to cure, and actual vacatur following the landlord's continued inaction. If established, the tenant may be excused from further rent obligation and may have damage claims — but this is again attorney territory to actually litigate; the agent's role, if involved at all (e.g., managing the unit or representing the landlord in a future sale), is to recognize the seriousness and not minimize it.\n\n## 5. Security Deposits\n\nCalifornia law regulates the **maximum amount** a landlord may collect as a security deposit and the **permitted uses** of that deposit at move-out (unpaid rent, cleaning to restore the unit to its move-in condition — normal wear and tear excluded, repair of tenant-caused damage beyond normal wear and tear, and other lease-specified purposes). <!-- VERIFY: current statutory maximum deposit amount (recently changed for many landlords) and any exceptions --> The landlord must provide an itemized statement of deductions, with supporting documentation for larger deductions, and return the balance within a specific statutory period after the tenant vacates. <!-- VERIFY: current itemization/documentation threshold and the statutory return period -->\n\n**Normal wear and tear** cannot be charged to the tenant — faded paint, worn carpet from ordinary use, and minor nail holes are expected costs of ownership, not tenant damage. This distinction is one of the most common sources of security deposit disputes and small-claims litigation.\n\n## 6. Habitability Remedies: Repair-and-Deduct and Rent Withholding\n\nWhen a landlord fails to maintain habitable conditions after proper notice and a reasonable opportunity to repair, California recognizes tenant remedies including:\n\n- **Repair-and-deduct** — the tenant arranges the repair themselves (within statutory dollar and frequency limits) and deducts the cost from rent, provided specific statutory notice and procedural requirements are met first.\n- **Rent withholding** — in narrow, well-documented habitability-failure circumstances, a tenant may withhold rent, though this carries real risk of an eviction action if the tenant's justification is later found insufficient, and should never be attempted without understanding the legal requirements precisely.\n\nBoth remedies have strict procedural prerequisites, and both are genuinely risky for a tenant to attempt without legal guidance — an agent who hears a tenant client describe frustration with unrepaired conditions should point them toward tenant legal aid resources rather than casually suggesting \"just stop paying rent,\" which can backfire badly if done incorrectly.\n\n## 7. The Licensee's Role in Landlord-Tenant Matters\n\nA licensee managing rental property, or representing an owner selling tenant-occupied property, needs working fluency in this area — but drafting eviction notices, litigating a UD action, or advising definitively on just-cause compliance is either restricted to attorneys or requires specific delegated authority and expertise a general brokerage license does not automatically confer. Property management carries its own heightened duties (Practice Unit 14); when landlord-tenant facts turn into a genuine legal dispute, the professional move is the same one that recurs throughout this course: recognize it, document it, and refer it.\n\n## 8. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Implied warranty of habitability** | A non-waivable implied obligation that residential rental property be fit for human habitation. |\n| **Tenant Protection Act (AB 1482)** | California's statewide rent cap and just-cause eviction framework. |\n| **Just cause** | The at-fault or no-fault legal basis required to terminate most covered tenancies. |\n| **Unlawful detainer (UD)** | The specific court action required to lawfully remove a tenant. |\n| **Self-help eviction** | Illegal landlord conduct forcing a tenant out without a court judgment (e.g., lockouts, utility shutoffs). |\n| **Constructive eviction** | A tenant's justified departure due to the landlord's failure to maintain habitable conditions. |\n| **Retaliatory eviction** | Prohibited landlord action taken because a tenant exercised a legal right. |\n| **Repair-and-deduct** | A statutory tenant remedy allowing arranged repairs to be deducted from rent under specific conditions. |\n| **Normal wear and tear** | Ordinary use-related deterioration that cannot be charged against a security deposit. |\n\n## 9. Exam and Practice Tips\n\n- The implied warranty of habitability cannot be waived by the lease — know this as an absolute rule.\n- Self-help eviction (lockouts, utility shutoffs, removing belongings) is illegal regardless of how clearly the tenant is in default.\n- Only the sheriff, under a writ of possession from a UD judgment, may physically remove a tenant.\n- Constructive eviction requires notice, a reasonable cure opportunity, and actual vacatur by the tenant.\n- Retaliatory eviction carries a rebuttable statutory presumption when adverse action follows protected tenant activity within a specified window.\n- Normal wear and tear cannot be deducted from a security deposit — that is a frequently tested distinction.\n\n## 10. Unit Assessment\n\nThe 18-question assessment lives in `/content/question-bank/legal-aspects/unit-08.json` with full per-option rationales.",
+  "word_count": 1966,
+  "questions": [
+    {
+      "id": "LEGAL-08-001",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 8,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "The implied warranty of habitability:",
+      "options": [
+        "Can be waived if both parties agree in writing",
+        "Cannot be waived by the lease",
+        "Only applies to commercial leases",
+        "Applies only in the first year of tenancy"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It cannot be waived even by written agreement.",
+        "Correct. It is non-waivable as a matter of public policy.",
+        "It applies to residential leases, not commercial.",
+        "It applies throughout the tenancy, not only the first year."
+      ],
+      "terms": [
+        "implied warranty of habitability"
+      ]
+    },
+    {
+      "id": "LEGAL-08-002",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 8,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "The implied warranty of habitability requires that a unit be:",
+      "options": [
+        "Luxuriously finished",
+        "Fit for human habitation and free of health/safety hazards",
+        "Rent-controlled",
+        "Owned outright by the landlord"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Luxury finishes are not required.",
+        "Correct. Basic livability and safety are the standard.",
+        "Rent control status is unrelated.",
+        "Ownership structure is unrelated to habitability."
+      ],
+      "terms": [
+        "implied warranty of habitability"
+      ]
+    },
+    {
+      "id": "LEGAL-08-003",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 8,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "California's Tenant Protection Act (AB 1482) generally imposes:",
+      "options": [
+        "No limits on rent increases",
+        "A statewide rent cap and just-cause eviction requirement for most covered tenancies",
+        "A ban on all evictions",
+        "A requirement that all units be rent-controlled locally"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It does impose limits for covered tenancies.",
+        "Correct. It caps annual rent increases and requires just cause for eviction in most covered cases.",
+        "It does not ban all evictions; it requires just cause.",
+        "Local rent control is separate and additional, not required by AB 1482 itself."
+      ],
+      "terms": [
+        "Tenant Protection Act (AB 1482)"
+      ]
+    },
+    {
+      "id": "LEGAL-08-004",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 8,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Just cause for eviction generally falls into which two categories?",
+      "options": [
+        "Civil and criminal",
+        "At-fault and no-fault",
+        "Voluntary and involuntary",
+        "Written and verbal"
+      ],
+      "answer": 1,
+      "rationales": [
+        "This is not the standard categorization.",
+        "Correct. Just cause is generally categorized as at-fault or no-fault.",
+        "This is not the standard categorization used.",
+        "This is not the standard categorization used."
+      ],
+      "terms": [
+        "just cause"
+      ]
+    },
+    {
+      "id": "LEGAL-08-005",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 8,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "An owner moving into the unit is generally an example of:",
+      "options": [
+        "At-fault just cause",
+        "No-fault just cause",
+        "Retaliatory eviction",
+        "Constructive eviction"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The tenant is not at fault in this scenario.",
+        "Correct. Owner move-in is a no-fault just cause category, often triggering relocation assistance.",
+        "This is not retaliation against the tenant.",
+        "This is not about habitability failure."
+      ],
+      "terms": [
+        "just cause"
+      ]
+    },
+    {
+      "id": "LEGAL-08-006",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 8,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "Self-help eviction, such as changing locks or shutting off utilities without a court judgment, is:",
+      "options": [
+        "Legal if the tenant is clearly behind on rent",
+        "Illegal regardless of how clearly the tenant is in default",
+        "Legal only for commercial tenants",
+        "Legal with 24 hours' notice"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Clear tenant default does not legalize self-help eviction.",
+        "Correct. Self-help eviction is illegal regardless of the merits of the underlying claim.",
+        "This applies broadly, not only to commercial tenants in a way that changes the rule here.",
+        "Notice alone does not make self-help eviction legal."
+      ],
+      "terms": [
+        "self-help eviction"
+      ]
+    },
+    {
+      "id": "LEGAL-08-007",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 8,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "The court process required to lawfully remove a tenant is called:",
+      "options": [
+        "A quiet title action",
+        "An unlawful detainer action",
+        "A probate proceeding",
+        "A workers' compensation claim"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Quiet title concerns ownership disputes, not eviction.",
+        "Correct. Unlawful detainer is the required court process for eviction.",
+        "Probate concerns estates, not eviction.",
+        "Workers' compensation is unrelated."
+      ],
+      "terms": [
+        "unlawful detainer (UD)"
+      ]
+    },
+    {
+      "id": "LEGAL-08-008",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 8,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "After a landlord wins an unlawful detainer judgment, physical removal of the tenant may be carried out by:",
+      "options": [
+        "The landlord personally",
+        "The landlord's property manager",
+        "The sheriff under a writ of possession",
+        "Any licensed locksmith"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Landlords may not personally remove tenants.",
+        "Property managers also may not personally remove tenants.",
+        "Correct. Only the sheriff, under a writ of possession, may carry out physical removal.",
+        "A locksmith alone does not have authority to remove a tenant."
+      ],
+      "terms": [
+        "unlawful detainer (UD)"
+      ]
+    },
+    {
+      "id": "LEGAL-08-009",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 8,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "Constructive eviction requires that the tenant:",
+      "options": [
+        "Stay in the unit and stop paying rent",
+        "Give notice, allow a reasonable cure period, and actually vacate",
+        "Sue for damages without moving out",
+        "File for bankruptcy"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Staying and withholding rent is a weaker legal position than constructive eviction requires.",
+        "Correct. Notice, a cure opportunity, and actual vacatur are generally required.",
+        "A damages suit without vacating does not establish constructive eviction.",
+        "Bankruptcy is unrelated to this doctrine."
+      ],
+      "terms": [
+        "constructive eviction"
+      ]
+    },
+    {
+      "id": "LEGAL-08-010",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 8,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A tenant who reports a serious mold problem, waits a reasonable time for repair despite repeated requests, then vacates after continued inaction has a strong claim of:",
+      "options": [
+        "Retaliatory eviction",
+        "Constructive eviction",
+        "Self-help eviction",
+        "Adverse possession"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Retaliation is not the fact pattern here.",
+        "Correct. Unremedied serious habitability failure plus proper notice and vacatur is constructive eviction.",
+        "Self-help eviction describes illegal landlord lockout conduct, not this scenario.",
+        "Adverse possession is unrelated to this scenario."
+      ],
+      "terms": [
+        "constructive eviction"
+      ]
+    },
+    {
+      "id": "LEGAL-08-011",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 8,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A landlord raises rent shortly after a tenant files a code enforcement complaint about habitability. This can trigger:",
+      "options": [
+        "Automatic dismissal of the complaint",
+        "A rebuttable presumption of retaliatory eviction",
+        "Immediate unlawful detainer against the landlord",
+        "No legal consequence"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The complaint is not automatically dismissed by this conduct.",
+        "Correct. California law creates a rebuttable presumption of retaliation when adverse action follows protected activity within a statutory window.",
+        "Unlawful detainer applies to removing tenants, not this scenario.",
+        "There can be real legal consequence for the landlord."
+      ],
+      "terms": [
+        "retaliatory eviction"
+      ]
+    },
+    {
+      "id": "LEGAL-08-012",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 8,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Normal wear and tear, such as faded paint or worn carpet from ordinary use, is:",
+      "options": [
+        "Chargeable against the security deposit",
+        "Not chargeable against the security deposit",
+        "Only chargeable in commercial leases",
+        "Chargeable only if the tenant stayed over a year"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It cannot be charged to the tenant.",
+        "Correct. Normal wear and tear is an ownership cost, not tenant damage.",
+        "This distinction applies broadly, not only commercial leases.",
+        "Tenancy length does not change this rule."
+      ],
+      "terms": [
+        "normal wear and tear"
+      ]
+    },
+    {
+      "id": "LEGAL-08-013",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 8,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "When deducting from a security deposit, a landlord must generally:",
+      "options": [
+        "Provide no explanation",
+        "Provide an itemized statement and, for larger deductions, documentation",
+        "Keep the entire deposit regardless of condition",
+        "Wait indefinitely to return the balance"
+      ],
+      "answer": 1,
+      "rationales": [
+        "An explanation is required.",
+        "Correct. Itemization and documentation for larger deductions are required, with the balance returned within a statutory period.",
+        "The landlord may not simply keep the full deposit without basis.",
+        "There is a statutory time limit to return the balance."
+      ],
+      "terms": [
+        "security deposit"
+      ]
+    },
+    {
+      "id": "LEGAL-08-014",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 8,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "Repair-and-deduct as a tenant remedy generally:",
+      "options": [
+        "Allows unlimited repairs deducted at any time",
+        "Has statutory dollar and frequency limits with procedural notice requirements",
+        "Requires no prior notice to the landlord",
+        "Is available only to commercial tenants"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It is not unlimited; statutory limits apply.",
+        "Correct. Statutory limits and required notice/procedure apply before a tenant may use this remedy.",
+        "Prior notice is generally required.",
+        "It is a residential tenant remedy in this context."
+      ],
+      "terms": [
+        "repair-and-deduct"
+      ]
+    },
+    {
+      "id": "LEGAL-08-015",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 8,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Rent withholding as a habitability remedy:",
+      "options": [
+        "Carries no risk to the tenant",
+        "Carries real risk of eviction if the justification is later found insufficient",
+        "Is always the safest tenant option",
+        "Requires no documentation"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It carries real legal risk.",
+        "Correct. If a court finds the withholding unjustified, the tenant risks an eviction action.",
+        "It is a genuinely risky remedy, not the safest option by default.",
+        "Careful documentation is essential to support the claim."
+      ],
+      "terms": [
+        "rent withholding"
+      ]
+    },
+    {
+      "id": "LEGAL-08-016",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 8,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A landlord frustrated with the unlawful detainer timeline changes the locks while the tenant is at work. Even if the tenant genuinely owes back rent, the landlord:",
+      "options": [
+        "Has acted lawfully because the tenant was in default",
+        "Has committed an independently illegal act exposing them to statutory damages",
+        "Has no liability since it saved court costs",
+        "Must only pay a small administrative fine"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Tenant default does not excuse self-help eviction.",
+        "Correct. Self-help eviction is illegal on its own terms, regardless of the underlying claim's merit.",
+        "Liability is real and can be significant, not avoided by cost savings.",
+        "The exposure is a real damages claim, not merely a small fine."
+      ],
+      "terms": [
+        "self-help eviction"
+      ]
+    },
+    {
+      "id": "LEGAL-08-017",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 8,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A licensee involved in property management who encounters a genuine just-cause compliance question should:",
+      "options": [
+        "Guess based on general knowledge",
+        "Recognize the issue, document it, and refer to an attorney or specialized expertise",
+        "Ignore it since it is the owner's problem",
+        "Tell the tenant the eviction is definitely valid"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Guessing on a legal compliance question risks real harm.",
+        "Correct. Recognize, document, and refer is the consistent professional standard.",
+        "Property managers have real duties here; it is not simply the owner's problem alone.",
+        "Definitively confirming validity is a legal determination outside license scope."
+      ],
+      "terms": [
+        "just cause"
+      ]
+    },
+    {
+      "id": "LEGAL-08-018",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 8,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Exemptions from all or part of California's statewide rent cap and just-cause framework can include:",
+      "options": [
+        "No properties are ever exempt",
+        "Certain single-family homes and condos with proper notice, and some newer construction",
+        "Only properties owned by corporations",
+        "Only properties outside California"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Exemptions do exist for certain property types.",
+        "Correct. Certain single-family/condo properties with proper notice and newer construction can be exempt, subject to specific requirements.",
+        "Ownership structure alone does not determine exemption.",
+        "The framework is a California state law; this option is not the relevant exemption category."
+      ],
+      "terms": [
+        "Tenant Protection Act (AB 1482)"
+      ]
+    }
+  ]
+}

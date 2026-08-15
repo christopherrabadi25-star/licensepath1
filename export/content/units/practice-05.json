@@ -1,0 +1,522 @@
+{
+  "id": "practice-05",
+  "course_slug": "practice",
+  "unit_number": 5,
+  "title": "Pricing Property: CMA Methodology & Adjustments",
+  "estimated_hours": 3,
+  "blueprint_areas": [
+    "valuation"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Select** appropriate comparable sales and justify each choice.\n2. **Apply** adjustments in the correct direction and derive adjustment values from market evidence.\n3. **Reconcile** adjusted comparables into a defensible price range.\n4. **Analyze** active and expired listings as competitive and cautionary evidence.\n5. **Calculate** price per square foot correctly and explain its limits.\n6. **Interpret** absorption rate and months of inventory to advise on timing.\n7. **Distinguish** a CMA from an appraisal and stay within licensed authority.\n\n---\n\n## 1. What a CMA Is and Is Not\n\nA **competitive market analysis** is your opinion of a defensible price range, supported by market evidence. It is a normal, expected part of your job.\n\nIt is **not an appraisal.** An appraisal is prepared by a licensed or certified appraiser under USPAP. You may not call your CMA an appraisal, present it as one, or accept a fee contingent on reaching a particular value (Principles Unit 13).\n\nThe other distinction that matters in practice: an appraiser answers \"what is this worth?\" while you are answering a more useful question — **\"what price produces the best outcome for this seller given their timeline?\"** Those are not always the same number. A seller who must close in 30 days and a seller with a year both own the same house.\n\n## 2. Selecting Comparables\n\nThe quality of a CMA is decided at comparable selection, before any arithmetic.\n\n**The hierarchy of evidence:**\n\n1. **Closed sales** — what buyers actually paid. This is the only evidence of value.\n2. **Pending sales** — where the market is heading; price is unconfirmed until closing.\n3. **Active listings** — your competition, and evidence of what sellers *hope* for.\n4. **Expired and withdrawn** — evidence of what the market refused.\n\n**Selection criteria**, in rough order of importance:\n\n- **Recency.** Three to six months is typical; shorter in a fast-moving market. An older sale needs a time adjustment you must be able to justify.\n- **Proximity.** Same tract or subdivision is ideal. Crossing a major arterial, a school district boundary, or a city line often crosses a value boundary too.\n- **Similarity** in living area, lot size, bedroom and bath count, age, condition, and style.\n- **Arm's-length.** Exclude sales between relatives, distress sales, and anything with unusual concessions — those are prices, not evidence of value (Principles Unit 13).\n\n**Use three to five strong comparables.** Six weak ones are worse than three good ones, and the fewer and smaller your adjustments, the more reliable your conclusion.\n\n## 3. Making Adjustments\n\n**The rule that decides everything: adjust the comparable, never the subject.**\n\n- **Comparable Better → Subtract** (CBS)\n- **Comparable Inferior → Add** (CIA)\n\n**The order of adjustments** matters when several apply: property rights, financing terms, conditions of sale, expenditures immediately after purchase, **market conditions (time)**, then location, then physical characteristics.\n\n### Deriving adjustment values\n\nNew agents invent adjustment values. Competent agents derive them from the market.\n\n**Paired sales analysis** is the cleanest method: find two sales alike in every respect but one, and the price difference is the market's adjustment for that feature.\n\n*Example:* in the same tract, a 3-bed/2-bath sold for $712,000 and a 4-bed/2-bath of similar size and condition sold for $741,000. The market's adjustment for the fourth bedroom is roughly **$29,000** — not the $50,000 you might have guessed.\n\nWhen paired sales are unavailable, use **cost with depreciation** for improvements (a $60,000 pool rarely contributes $60,000 — Principles Unit 13 on contribution), or a **percentage of value** for condition differences, and say clearly in your presentation how you derived it.\n\n**Guardrails on adjustments:**\n- **Net adjustment** — total up and down — ideally within about 15% of the comparable's sale price.\n- **Gross adjustment** — the absolute sum regardless of direction — ideally within about 25%.\n- A comparable requiring 40% gross adjustment is telling you it is not comparable. Find a better one.\n\n<!-- VERIFY: these thresholds are common appraisal guidelines rather than California legal requirements; present as guidance -->\n\n## 4. Price Per Square Foot: Use With Care\n\nPrice per square foot is the most abused number in residential real estate.\n\n**It is useful for** a rough sanity check within a tract of similar homes, and for comparing homes of nearly identical size.\n\n**It misleads when** homes differ meaningfully in size, because **cost per square foot declines as size increases.** A 1,200 sq ft home and a 3,000 sq ft home in the same neighborhood will not share a price per square foot, and applying the small home's figure to the large one overstates value badly.\n\nIt also ignores lot size, condition, view, garage, and everything else buyers actually pay for.\n\n**Use it as a check, never as a method.** If your adjusted-comparable conclusion and your price-per-square-foot estimate diverge wildly, that is a signal to re-examine your comparables — not to average the two.\n\n## 5. Market Context\n\nTwo numbers tell a seller what kind of market they are entering.\n\n**Months of inventory** = active listings ÷ average monthly closed sales.\n\nAs a rough convention: under about 3 months favors sellers, 4 to 6 is balanced, and above 6 favors buyers. <!-- VERIFY: treat these bands as conventional guidance, not fixed rules -->\n\n**Absorption rate** = the percentage of inventory selling per month, the same relationship inverted.\n\n**Days on market** for recent sales tells the seller what to expect, and **the ratio of sale price to original list price** tells them the cost of starting high. If homes that sold within 14 days averaged 99% of list while those over 60 days averaged 93%, you have the overpricing argument in one line.\n\n## 6. Presenting the Result\n\n**Give a range, not a point.** A range with stated assumptions is honest and more useful: \"$1,150,000 to $1,190,000. The top of that range assumes we address the exterior paint and stage the living areas; the bottom assumes we list as-is.\"\n\n**Show your work.** Every comparable, every adjustment, and where the adjustment values came from. A seller who can follow your reasoning will trust the conclusion. A seller handed a number will argue with it.\n\n**Separate price from strategy.** What the market supports is one question. Whether to list slightly below to generate competition, or at market, is a separate strategic conversation with the seller.\n\n**Never let a seller believe your CMA is an appraisal**, and never let a lender treat it as one.\n\n## 7. Worked Examples\n\n### Example 1 — Full adjustment grid (Glendora)\n\nYour subject: 3 bed, 2 bath, 1,780 sq ft, 2-car garage, no pool, standard condition.\n\n| | Comp A | Comp B | Comp C |\n|---|---|---|---|\n| Sale price | $812,000 | $779,000 | $845,000 |\n| Sold | 8 months ago | 2 months ago | 4 months ago |\n| Living area | 1,810 | 1,720 | 1,960 |\n| Bedrooms | 4 | 3 | 3 |\n| Garage | 1-car | 2-car | 3-car |\n| Pool | Yes | No | No |\n\nMarket has appreciated about **3% over 8 months**. Derived adjustments: bedroom **$25,000**, living area **$180/sq ft**, garage stall **$12,000**, pool **$18,000**.\n\n**Comp A:**\n1. Start: $812,000\n2. Time (+3%, 8 months): +$24,360 → $836,360\n3. Extra bedroom (comp better): −$25,000 → $811,360\n4. Living area: 1,780 − 1,810 = −30 sq ft × $180 = −$5,400 → $805,960\n5. Garage (comp has 1, subject 2 — comp inferior): +$12,000 → $817,960\n6. Pool (comp better): −$18,000 → **$799,960**\n   *Gross adjustment: $84,760 = 10.4% of sale price ✓*\n\n**Comp B:**\n1. Start: $779,000\n2. Time (2 months, ~0.75%): +$5,843 → $784,843\n3. Living area: 1,780 − 1,720 = +60 × $180 = +$10,800 → $795,643\n4. Bedrooms, garage, pool: no difference\n   *Adjusted: **$795,643**. Gross adjustment: $16,643 = 2.1% — the strongest comparable by far.*\n\n**Comp C:**\n1. Start: $845,000\n2. Time (4 months, ~1.5%): +$12,675 → $857,675\n3. Living area: 1,780 − 1,960 = −180 × $180 = −$32,400 → $825,275\n4. Garage (comp has 3, subject 2 — comp better): −$12,000 → **$813,275**\n   *Gross adjustment: $57,075 = 6.8% ✓*\n\n**Reconciliation:** $799,960 · $795,643 · $813,275\n\nDo **not** average these. Comp B required only 2.1% total adjustment and is the most recent — it deserves the most weight. Comps A and C bracket it above. A defensible conclusion: **$795,000 to $812,000**, with the recommendation near **$799,000**.\n\nNote what averaging would have produced: $802,959 — close, but arrived at by a method that would collapse the moment a seller asked you to justify it.\n\n### Example 2 — Deriving an adjustment from paired sales (Rancho Cucamonga)\n\nYou need a pool adjustment. Four sales in the same tract, similar size and condition:\n\n| Sale | Pool | Price |\n|---|---|---|\n| 1 | No | $698,000 |\n| 2 | Yes | $719,000 |\n| 3 | No | $705,000 |\n| 4 | Yes | $722,000 |\n\n**Walkthrough.**\n1. Average without pool: ($698,000 + $705,000) ÷ 2 = **$701,500**\n2. Average with pool: ($719,000 + $722,000) ÷ 2 = **$720,500**\n3. Indicated pool adjustment: **$19,000**\n\nThat is derived, defensible, and roughly a third of what an in-ground pool costs to build — a concrete illustration of the principle of contribution (Principles Unit 13), and a number you can show a seller who spent $60,000 on their pool.\n\n### Example 3 — The price per square foot trap (Claremont)\n\nA seller points to a nearby sale: 1,240 sq ft at $694,000 — **$560/sq ft**. His home is **2,900 sq ft**. He concludes: 2,900 × $560 = **$1,624,000**.\n\n**Analysis.** The arithmetic is right and the conclusion is wrong, because **cost per square foot declines as size increases.** Land, kitchen, systems, and site costs do not scale linearly with living area.\n\nShow him actual larger sales in the area. If 2,800–3,000 sq ft homes are selling at $420–$450/sq ft, the supported range is 2,900 × $420–$450 = **$1,218,000–$1,305,000** — roughly $350,000 below his figure.\n\nThe teaching point for the seller: price per square foot is a *result* of a sale, not a method for producing one.\n\n### Example 4 — Market context (Inland Empire)\n\nA submarket has **148 active listings** and averaged **41 closed sales per month** over the last three months. Homes selling within 14 days averaged **99.2%** of original list; homes taking over 60 days averaged **92.8%**.\n\n**Walkthrough.**\n1. Months of inventory: 148 ÷ 41 = **3.6 months** — a modestly seller-favorable to balanced market.\n2. Absorption rate: 41 ÷ 148 = **27.7% per month**.\n3. The list-price ratio is the argument: on an $800,000 home, selling quickly at 99.2% yields **$793,600**; sitting past 60 days at 92.8% yields **$742,400** — a **$51,200** difference, before counting two extra months of carrying costs.\n\nThat single comparison does more to move a seller off an inflated price than any amount of persuasion.\n\n## 8. Key Terms\n\n| Term | Definition |\n|---|---|\n| **CMA** | A licensee's competitive market analysis producing a defensible price range; not an appraisal. |\n| **Comparable (comp)** | A recent arm's-length sale of a similar property used as evidence of value. |\n| **CBS / CIA** | Comparable Better, Subtract; Comparable Inferior, Add — adjust the comparable, never the subject. |\n| **Paired sales analysis** | Deriving an adjustment value by comparing two sales alike except for one feature. |\n| **Net adjustment** | The sum of adjustments accounting for direction; a reliability check on a comparable. |\n| **Gross adjustment** | The absolute sum of adjustments regardless of direction; the better test of comparability. |\n| **Time (market conditions) adjustment** | An adjustment for price movement between the comparable's sale date and the effective date. |\n| **Months of inventory** | Active listings divided by average monthly sales; indicates market balance. |\n| **Absorption rate** | The share of inventory selling per month. |\n| **Sale-to-list ratio** | Sale price as a percentage of original list price; evidence of the cost of overpricing. |\n| **Price per square foot** | Sale price divided by living area; a check on a conclusion, never a method for reaching one. |\n\n## 9. Practice Tips\n\n- **Adjust the comparable, never the subject.** CBS/CIA, every line, every time.\n- **Derive adjustments from paired sales** where you can, and say how you derived them.\n- **Watch gross adjustment.** Above roughly 25% and the property is not comparable.\n- **Never average adjusted comparables.** Weight them by reliability and recency, and explain the weighting.\n- **Price per square foot declines as size increases.** Never extrapolate a small home's figure onto a large one.\n- **Lead with sale-to-list ratios by days on market.** It is the clearest evidence of what overpricing costs.\n- **Give a range with stated assumptions**, not a single number.\n- **It is a CMA, never an appraisal**, and never take a fee contingent on a value.\n\n## 10. Unit Assessment\n\nThe 20-question assessment lives in `/content/question-bank/practice/unit-05.json` with full per-option rationales.",
+  "word_count": 2167,
+  "questions": [
+    {
+      "id": "PRAC-05-001",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 5,
+      "blueprint_area": "valuation",
+      "difficulty": 1,
+      "stem": "The only category of market data that constitutes evidence of what buyers actually paid is:",
+      "options": [
+        "Active listings",
+        "Closed sales",
+        "Pending sales",
+        "Expired listings"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Actives show what sellers hope to receive, not what buyers paid.",
+        "Correct. Closed sales are the only confirmed evidence of value; everything else is context.",
+        "Pending sales indicate direction but the price is unconfirmed until closing.",
+        "Expireds show what the market refused, which is useful context but not evidence of value."
+      ],
+      "terms": [
+        "comparable (comp)",
+        "CMA"
+      ]
+    },
+    {
+      "id": "PRAC-05-002",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 5,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "A comparable has a feature the subject lacks. The appraiser or agent should:",
+      "options": [
+        "Add value to the subject",
+        "Subtract value from the comparable",
+        "Add value to the comparable",
+        "Subtract value from the subject"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The subject is never adjusted; only comparables move.",
+        "Correct. Comparable Better, Subtract — adjustments make the comparable resemble the subject.",
+        "Adding to a superior comparable moves it further from the subject.",
+        "Adjusting the subject is the most common error in this method."
+      ],
+      "terms": [
+        "CBS / CIA"
+      ]
+    },
+    {
+      "id": "PRAC-05-003",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 5,
+      "blueprint_area": "valuation",
+      "difficulty": 3,
+      "stem": "In the same tract, a 3-bedroom sold for $712,000 and a comparable 4-bedroom sold for $741,000. Using paired sales analysis, the market adjustment for the additional bedroom is:",
+      "options": [
+        "$50,000",
+        "$29,000",
+        "$14,500",
+        "$71,200"
+      ],
+      "answer": 1,
+      "rationales": [
+        "$50,000 is a guess rather than a derived figure; the market says otherwise.",
+        "Correct. $741,000 − $712,000 = $29,000, derived from two sales alike except for the one feature — the cleanest method of establishing an adjustment.",
+        "$14,500 halves the difference for no stated reason.",
+        "$71,200 is 10% of one sale price and bears no relation to the paired difference."
+      ],
+      "terms": [
+        "paired sales analysis"
+      ]
+    },
+    {
+      "id": "PRAC-05-004",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 5,
+      "blueprint_area": "valuation",
+      "difficulty": 3,
+      "stem": "Four tract sales: no pool at $698,000 and $705,000; with pool at $719,000 and $722,000. The indicated pool adjustment is:",
+      "options": [
+        "$19,000",
+        "$60,000",
+        "$24,000",
+        "$9,500"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Average without pool = $701,500; average with pool = $720,500; difference = $19,000 — roughly a third of what an in-ground pool costs to build, illustrating the principle of contribution.",
+        "$60,000 is a typical construction cost, not the market's contribution to value.",
+        "$24,000 does not follow from these figures.",
+        "$9,500 halves the paired difference without basis."
+      ],
+      "terms": [
+        "paired sales analysis"
+      ]
+    },
+    {
+      "id": "PRAC-05-005",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 5,
+      "blueprint_area": "valuation",
+      "difficulty": 3,
+      "stem": "A comparable sold 8 months ago for $812,000 in a market that appreciated 3% over that period. The time adjustment is:",
+      "options": [
+        "−$24,360",
+        "+$24,360",
+        "+$2,436",
+        "No adjustment; time is not adjusted"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A negative adjustment would apply in a declining market, not an appreciating one.",
+        "Correct. The comparable sold before the market rose, making it inferior in market conditions: $812,000 × 0.03 = $24,360 added to the comparable.",
+        "$2,436 reflects 0.3% rather than 3%.",
+        "Market conditions is a standard adjustment category and is applied before physical adjustments."
+      ],
+      "terms": [
+        "time (market conditions) adjustment"
+      ]
+    },
+    {
+      "id": "PRAC-05-006",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 5,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "Gross adjustment measures:",
+      "options": [
+        "The net effect of all adjustments accounting for direction",
+        "The absolute sum of all adjustments regardless of direction",
+        "The largest single adjustment applied",
+        "The adjustment for market conditions only"
+      ],
+      "answer": 1,
+      "rationales": [
+        "That describes net adjustment.",
+        "Correct. Gross adjustment sums the magnitude of every adjustment regardless of sign, which is why it is the better test of whether a property is genuinely comparable.",
+        "A single adjustment does not capture cumulative dissimilarity.",
+        "Time is one component among several."
+      ],
+      "terms": [
+        "gross adjustment",
+        "net adjustment"
+      ]
+    },
+    {
+      "id": "PRAC-05-007",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 5,
+      "blueprint_area": "valuation",
+      "difficulty": 3,
+      "stem": "A comparable requires gross adjustments totaling 40% of its sale price. This indicates that:",
+      "options": [
+        "The adjustments were calculated incorrectly",
+        "The property is not genuinely comparable and a better one should be found",
+        "The subject is overpriced",
+        "A time adjustment was omitted"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The arithmetic may be perfectly correct; the problem is the choice of comparable.",
+        "Correct. Heavy gross adjustment signals dissimilarity — the comparable is telling you it is not comparable, and the conclusion drawn from it will be weak.",
+        "Adjustment magnitude says nothing about the subject's pricing.",
+        "A missing time adjustment would generally reduce, not inflate, the gross figure."
+      ],
+      "terms": [
+        "gross adjustment"
+      ]
+    },
+    {
+      "id": "PRAC-05-008",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 5,
+      "blueprint_area": "valuation",
+      "difficulty": 3,
+      "stem": "Three adjusted comparables indicate $799,960, $795,643, and $813,275. The comparable at $795,643 required only 2.1% gross adjustment; the others required 10.4% and 6.8%. The best conclusion is:",
+      "options": [
+        "Average the three: $802,959",
+        "Weight the least-adjusted comparable most heavily and conclude near $799,000",
+        "Use the highest indication, $813,275",
+        "Use the lowest indication, $795,643, exclusively"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Averaging treats a weak comparable as equal to a strong one and cannot be defended when a seller asks why.",
+        "Correct. Reconciliation is judgment: the comparable requiring the smallest adjustment is the most reliable, and the others bracket it — supporting a range with a recommendation near $799,000.",
+        "Selecting the highest indication abandons analysis in favor of the most flattering number.",
+        "Exclusive reliance on one comparable discards corroborating evidence that supports the range."
+      ],
+      "terms": [
+        "gross adjustment",
+        "CMA"
+      ]
+    },
+    {
+      "id": "PRAC-05-009",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 5,
+      "blueprint_area": "valuation",
+      "difficulty": 3,
+      "stem": "A nearby 1,240 sq ft home sold at $560 per square foot. Applying that figure to a 2,900 sq ft home is unreliable because:",
+      "options": [
+        "Price per square foot cannot be calculated for larger homes",
+        "Cost per square foot generally declines as home size increases",
+        "Square footage is never a valuation factor",
+        "The two homes are in different tax districts"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The calculation is possible; the extrapolation is what fails.",
+        "Correct. Land, kitchen, systems, and site costs do not scale linearly with living area, so larger homes sell at lower per-square-foot figures — extrapolating a small home's rate overstates value badly.",
+        "Living area is a significant factor; the issue is how it is applied.",
+        "Tax districts do not explain the per-square-foot relationship."
+      ],
+      "terms": [
+        "price per square foot"
+      ]
+    },
+    {
+      "id": "PRAC-05-010",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 5,
+      "blueprint_area": "valuation",
+      "difficulty": 3,
+      "stem": "A submarket has 148 active listings and averages 41 closed sales per month. Months of inventory is approximately:",
+      "options": [
+        "3.6 months",
+        "27.7 months",
+        "0.28 months",
+        "6.1 months"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. 148 ÷ 41 = 3.6 months, indicating a modestly seller-favorable to balanced market.",
+        "27.7 is the absorption percentage per month, not months of inventory.",
+        "This inverts the calculation.",
+        "6.1 months would require about 24 sales per month at this inventory level."
+      ],
+      "terms": [
+        "months of inventory",
+        "absorption rate"
+      ]
+    },
+    {
+      "id": "PRAC-05-011",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 5,
+      "blueprint_area": "valuation",
+      "difficulty": 3,
+      "stem": "Homes selling within 14 days averaged 99.2% of original list; homes taking over 60 days averaged 92.8%. On an $800,000 home, the difference in proceeds is approximately:",
+      "options": [
+        "$6,400",
+        "$51,200",
+        "$12,800",
+        "$25,600"
+      ],
+      "answer": 1,
+      "rationales": [
+        "$6,400 reflects a 0.8% difference rather than the 6.4-point spread.",
+        "Correct. $800,000 × 0.992 = $793,600; × 0.928 = $742,400; the difference is $51,200 — before counting two extra months of carrying costs.",
+        "$12,800 reflects a 1.6% difference.",
+        "$25,600 reflects a 3.2% difference."
+      ],
+      "terms": [
+        "sale-to-list ratio"
+      ]
+    },
+    {
+      "id": "PRAC-05-012",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 5,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "Which sale should be EXCLUDED from a CMA as evidence of market value?",
+      "options": [
+        "An arm's-length sale that closed three months ago",
+        "A sale between siblings at a below-market price",
+        "A sale of a similar home two streets away",
+        "A sale that closed after a normal 30-day escrow"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A recent arm's-length sale is exactly what a CMA should use.",
+        "Correct. Sales between relatives, distress sales, and transactions with unusual concessions are prices but not evidence of market value, because they fail the arm's-length condition.",
+        "Nearby similar sales are strong comparables.",
+        "A normal escrow period does not disqualify a sale."
+      ],
+      "terms": [
+        "comparable (comp)"
+      ]
+    },
+    {
+      "id": "PRAC-05-013",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 5,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "The correct order for applying adjustments places market conditions (time):",
+      "options": [
+        "After all physical adjustments",
+        "Before location and physical characteristics",
+        "Only if the sale is more than a year old",
+        "At the very end, as a final reconciliation"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Applying time last distorts the physical adjustments, which are expressed in current dollars.",
+        "Correct. The sequence runs property rights, financing, conditions of sale, expenditures after purchase, then market conditions, then location, then physical characteristics.",
+        "Time adjustments apply whenever the market has moved, regardless of a one-year threshold.",
+        "Reconciliation weighs completed comparables; it is not where time is applied."
+      ],
+      "terms": [
+        "time (market conditions) adjustment"
+      ]
+    },
+    {
+      "id": "PRAC-05-014",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 5,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "A licensee may NOT:",
+      "options": [
+        "Prepare a CMA for a listing presentation",
+        "Accept a fee contingent on the CMA reaching a particular value",
+        "Give a seller a price range with stated assumptions",
+        "Use closed sales to support a pricing recommendation"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Preparing a CMA is normal, expected licensed activity.",
+        "Correct. Compensation contingent on reaching a specified value compromises objectivity and is prohibited — the same principle that governs appraiser independence.",
+        "A range with stated assumptions is the professionally sound way to present a conclusion.",
+        "Closed sales are the proper evidentiary basis for a CMA."
+      ],
+      "terms": [
+        "CMA"
+      ]
+    },
+    {
+      "id": "PRAC-05-015",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 5,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "How many strong comparables does a well-constructed CMA typically use?",
+      "options": [
+        "One, if it is nearly identical",
+        "Three to five",
+        "At least ten, for statistical reliability",
+        "As many as are available in the ZIP code"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A single comparable provides no corroboration and no way to test the conclusion.",
+        "Correct. Three to five strong comparables outperform a larger set of weak ones; the fewer and smaller the adjustments, the more reliable the conclusion.",
+        "Volume does not substitute for comparability, and weak comparables degrade the analysis.",
+        "ZIP codes routinely span multiple distinct submarkets."
+      ],
+      "terms": [
+        "comparable (comp)",
+        "CMA"
+      ]
+    },
+    {
+      "id": "PRAC-05-016",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 5,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "Presenting a CMA conclusion as a range rather than a single figure is preferable because:",
+      "options": [
+        "It avoids committing to a recommendation",
+        "It allows the assumptions behind each end of the range to be stated explicitly",
+        "Ranges are required by California law",
+        "It prevents the seller from disagreeing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A good range is paired with a recommendation, not a substitute for one.",
+        "Correct. A range lets the agent tie each end to conditions — as-is versus prepared and staged, for instance — which is more honest and more useful than a single number.",
+        "No statute mandates a range.",
+        "Sellers may still disagree; the range makes the reasoning easier to examine."
+      ],
+      "terms": [
+        "CMA"
+      ]
+    },
+    {
+      "id": "PRAC-05-017",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 5,
+      "blueprint_area": "valuation",
+      "difficulty": 3,
+      "stem": "A comparable sold for $845,000 and is 180 sq ft larger than the subject. At a derived rate of $180 per square foot, the living area adjustment is:",
+      "options": [
+        "+$32,400 to the comparable",
+        "−$32,400 to the comparable",
+        "+$32,400 to the subject",
+        "−$32,400 to the subject"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Adding would treat the larger comparable as inferior.",
+        "Correct. The comparable is superior in living area, so subtract: 180 × $180 = $32,400 deducted from the comparable.",
+        "The subject is never adjusted.",
+        "The subject is never adjusted."
+      ],
+      "terms": [
+        "CBS / CIA"
+      ]
+    },
+    {
+      "id": "PRAC-05-018",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 5,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "When a paired sales analysis is unavailable, an acceptable basis for an adjustment value is:",
+      "options": [
+        "The agent's intuition about buyer preferences",
+        "Cost with depreciation applied, disclosed as the method used",
+        "The seller's stated opinion of the feature's worth",
+        "The full replacement cost of the feature"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Invented adjustment values cannot be defended when questioned.",
+        "Correct. Cost less depreciation is a legitimate fallback, provided the method is disclosed in the presentation so the seller can evaluate it.",
+        "A seller's opinion of value is the thing being tested, not evidence.",
+        "Full cost overstates contribution — improvements rarely add their full cost to value."
+      ],
+      "terms": [
+        "paired sales analysis"
+      ]
+    },
+    {
+      "id": "PRAC-05-019",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 5,
+      "blueprint_area": "valuation",
+      "difficulty": 2,
+      "stem": "Expired and withdrawn listings are most useful in a CMA as evidence of:",
+      "options": [
+        "Current market value",
+        "What the market refused to pay",
+        "Future appreciation",
+        "The seller's motivation"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Expireds never sold and therefore establish no value.",
+        "Correct. Expireds show the prices at which the market declined to transact — the clearest available evidence of the cost of overpricing.",
+        "They say nothing about future direction.",
+        "They reflect pricing outcomes rather than any individual seller's motivation."
+      ],
+      "terms": [
+        "days on market (DOM)"
+      ]
+    },
+    {
+      "id": "PRAC-05-020",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 5,
+      "blueprint_area": "valuation",
+      "difficulty": 3,
+      "stem": "An agent's adjusted-comparable analysis indicates about $800,000, but a price-per-square-foot estimate suggests $1,000,000. The agent should:",
+      "options": [
+        "Average the two and present $900,000",
+        "Re-examine the comparables and the per-square-foot basis to find the source of the divergence",
+        "Present the higher figure, since sellers prefer it",
+        "Present the lower figure without investigating"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Averaging two methods, one of which is likely misapplied, produces a number supported by nothing.",
+        "Correct. A large divergence is a signal that comparables were poorly chosen or the per-square-foot figure was extrapolated across dissimilar sizes — investigate rather than reconcile arithmetically.",
+        "Presenting the flattering figure to win a listing is exactly the overpricing trap.",
+        "Ignoring a signal that something is wrong forfeits the chance to correct the analysis."
+      ],
+      "terms": [
+        "price per square foot",
+        "CMA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "id": "practice-12",
+  "course_slug": "practice",
+  "unit_number": 12,
+  "title": "Trust Funds & Recordkeeping in Practice",
+  "estimated_hours": 3,
+  "blueprint_areas": [
+    "practice-disclosures",
+    "contracts",
+    "agency"
+  ],
+  "status": "draft",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit, you will be able to:\n\n1. **Identify** money that may be a trust fund and explain why personal handling is risky.\n2. **Distinguish** a broker trust account, a neutral escrow holder, and an operating account.\n3. **Explain** the purpose of prompt delivery, beneficiary records, and reconciliation.\n4. **Follow** a safe deposit-to-closing workflow without giving unauthorized instructions.\n5. **Recognize** commingling, conversion, and recordkeeping red flags.\n6. **Document** client instructions and receipt/delivery events.\n7. **Escalate** trust-fund questions to the responsible broker before acting.\n\n---\n\n## 1. Other People's Money Requires a Different Standard\n\nA real estate transaction can involve earnest-money deposits, rents, security deposits, advances for repairs, option payments, and funds held for a particular person or purpose. The amounts may look like ordinary transaction paperwork, but the legal and ethical stakes are much higher. The instant a broker receives money belonging to another person in connection with a transaction, the question is not “Where is it convenient to put this?” The question is “Who owns it, what written authority controls it, and what protected process applies?”\n\nFor a salesperson, the operational rule is simple: do not improvise with client money. A salesperson acts under the responsible broker. Follow the brokerage’s written procedures, promptly deliver funds and documentation to the person or system designated by the broker, obtain a receipt, and report anything irregular immediately. Never use a personal payment app, personal bank account, desk drawer, or informal “I’ll hold it until Monday” arrangement.\n\nIn California, a broker who receives trust funds must handle them under statutory and regulatory rules. The exact deposit timing, permitted alternatives, records, and limited broker funds potentially allowed for bank charges must be verified against current law and the brokerage policy before they are used as compliance instructions. This unit teaches the operating logic; it is not a substitute for the responsible broker’s procedures, escrow instructions, or a DRE-approved compliance manual.\n\n### Three ideas students often confuse\n\n**Possession is not ownership.** A buyer’s deposit can be in a broker’s possession without becoming brokerage revenue. It remains money held for the persons or purpose identified by the transaction and instructions.\n\n**A check is not a completed deposit.** Receiving a check, depositing it, having it clear, and disbursing it are distinct events. The transaction file should make each event traceable.\n\n**A form is not authority by itself.** A receipt, purchase agreement, escrow instruction, or cancellation document may address funds, but the actual instruction, brokerage procedure, and role of the holder determine what happens next. When documents conflict or are unclear, stop and escalate.\n\n### Worked Example 1 — The open-house check\n\nAt a Pasadena open house, a buyer wants to “show they are serious” and hands a salesperson a $10,000 check payable to the brokerage. The salesperson should not take the check home, photograph it in a text message, or promise the seller that the money is safe. The salesperson should follow the broker’s receipt procedure, deliver the check immediately to the authorized office location or escrow channel, record the handoff, and give the buyer the prescribed receipt. If the offer is not yet signed or the payee is wrong, the broker should direct the next step.\n\nThe lesson is not that every check must be refused. The lesson is that money triggers a controlled workflow, not a casual favor.\n\n## 2. Where Trust Money May Be Held\n\nCalifornia transactions commonly use a neutral escrow holder. Escrow is a separate role: the holder receives and disburses funds according to the parties’ instructions and applicable law. A brokerage may also maintain a trust account when permitted and properly administered. The brokerage operating account, by contrast, is where the firm’s earned funds and business expenses belong.\n\nAn agent should never tell a consumer that one holder is universally “safer” without facts. The appropriate explanation is functional: a neutral escrow holder follows escrow instructions; a broker trust account holds funds under the broker’s trust-fund controls; and the parties should understand where their funds will be deposited and how to confirm receipt.\n\n### Trust-account controls in plain language\n\nA sound trust-account system answers four questions at any moment:\n\n1. **What money came in?** Identify amount, date received, payer, transaction, and purpose.\n2. **Where did it go?** Show the deposit or authorized delivery to escrow.\n3. **Whose money is it?** Maintain a separate record for the beneficiary or transaction.\n4. **Does the accounting agree?** Reconcile the bank balance, the running trust record, and individual beneficiary records regularly.\n\nThe “separate record” principle is especially important. A bank statement might show a total balance of $55,000, but it does not reveal whether that amount equals a $20,000 deposit for one buyer, $30,000 for another, and $5,000 in rent held for an owner. The broker needs records that identify each entitlement—not merely a total.\n\n### Commingling and conversion\n\n**Commingling** means mixing trust money with funds that do not belong in the trust account. **Conversion** means unauthorized use of someone else’s money. Both can occur without a dramatic theft story. Putting a client deposit in an operating account “just overnight,” using trust funds to pay a brokerage bill, or failing to replace a shortage are serious problems.\n\nThere is a narrow regulatory concept allowing a limited amount of broker money in a trust account to cover bank service charges. That exception is not a permission to treat the account as a general business account. The exact amount and conditions must be confirmed under current regulations. When you are a salesperson, you do not decide that exception; the responsible broker and bookkeeper do.\n\n## 3. The Deposit Workflow: Receipt, Delivery, Confirmation\n\nA clean workflow protects everyone because it creates observable handoffs.\n\n**Step 1: Receive only through the approved process.** Confirm payee, amount, method, and any deadline stated in the contract. Do not alter a check, promise an extension, or accept an unfamiliar payment mechanism on your own.\n\n**Step 2: Issue or obtain a receipt.** The receipt should identify the funds, the date and time received, the person who received them, and the transaction. A vague note such as “got deposit” is not a record.\n\n**Step 3: Deliver promptly.** Give the money and paperwork to the broker’s designated trust-fund custodian or the neutral escrow holder, using the approved chain of custody. Do not batch funds in your car or desk until convenient.\n\n**Step 4: Confirm the event.** Tell the client only what you know: “Escrow confirmed receipt today,” not “Your funds have cleared and are protected forever.” Keep the confirmation in the file.\n\n**Step 5: Monitor contract deadlines.** Deposit obligations may have consequences under a purchase agreement. Remind the buyer of the due date, communicate factual receipt status, and quickly flag a missed or rejected payment to the broker and parties through the proper channel.\n\n### Worked Example 2 — The rejected electronic deposit\n\nA buyer sends a deposit through an approved electronic method, but escrow reports that the transfer was rejected because the account name did not match. The agent should not quietly ask the buyer to “try a different account” through text. The agent should promptly advise the buyer that the transfer was not accepted, provide the verified escrow contact and approved instructions, notify the responsible broker according to policy, and document the status. Whether the parties amend a deadline is a contract question requiring authorized communication—not an agent’s unilateral assurance.\n\n## 4. Records Are Consumer Protection, Not Clerical Busywork\n\nRecords allow the broker, consumer, auditor, and later reviewer to reconstruct what happened. A transaction record should be contemporaneous, specific, and secure. For funds, it normally connects the purchase agreement or lease, receipt, delivery record, escrow confirmation, trust ledger or beneficiary record if the broker held the money, and any written instruction authorizing a later disbursement.\n\nDo not use a transaction-management system merely as a place to upload files at closing. Create the record while the event is fresh. Note factual events and preserve the originals or approved electronic copies. Avoid casual descriptions such as “seller agreed.” Instead identify the actual signed document, person, date, and instruction.\n\n### Monthly reconciliation, conceptually\n\nReconciliation is a disciplined comparison. The bank’s statement may include deposits in transit or checks not yet presented; the broker’s trust ledger has its own timing; and each beneficiary ledger must total to the same protected funds after permitted adjustments. A discrepancy is a signal to investigate, not something to “make look right” at month end.\n\nAs an agent, you may not conduct the reconciliation, but you should understand why delay is dangerous. A missing receipt today becomes an unexplained shortage later. Your prompt delivery and documentation protect the broker’s ability to reconcile.\n\n### Worked Example 3 — The cancellation disagreement\n\nAfter inspections, a buyer cancels and asks the agent to release the $15,000 deposit immediately. The seller says the deposit should be retained. The agent must not instruct escrow to send money to either side based on who sounds more persuasive. The agent should obtain and preserve the parties’ written communications, advise them to use the contract’s cancellation/release process, notify the broker, and allow the authorized holder to act only on proper instructions or other lawful authority. A disputed deposit is exactly when neutral process matters most.\n\n## 5. Disbursement: The Moment to Slow Down\n\nMoney leaving a trust account is as important as money entering it. Before any disbursement, the holder needs appropriate authority, an accurate payee, and enough funds. An agent should never direct a trust-account disbursement merely because a client makes an oral request or a vendor sends an invoice.\n\nCommon red flags include a sudden change in wire instructions; an instruction received only by email from a new address; a request to pay a third party not named in the transaction documents; pressure to release funds before a written cancellation or closing instruction; a request to use one client’s money to cover another client’s shortfall; and an unexplained difference between the receipt, ledger, and escrow confirmation.\n\nApply the same anti-fraud rule used throughout this course: independently verify consequential payment instructions using a trusted contact path already in the file. Never use only the telephone number or link in a suspicious message.\n\n## 6. A Salesperson's Safe Script and Escalation Map\n\nUseful language is accurate and bounded:\n\n- “I received your deposit and am following our broker’s approved delivery procedure.”\n- “Escrow is the party that can confirm receipt and provide verified transfer instructions.”\n- “I cannot authorize a release of funds; I will send your written request to the broker and escrow.”\n- “Please do not rely on emailed changes to wire instructions. Call the verified escrow number in your transaction file.”\n\nEscalate immediately if funds are missing, a receipt conflicts with the contract, payment instructions change, a party disputes a release, the broker’s procedure cannot be followed, or you suspect fraud. Speed matters, but unauthorized action is not a solution.\n\n## 7. The Daily Habits That Prevent Big Failures\n\nTrust-account failures are rarely solved by a single form at the end of the month. They are prevented by small, repeatable habits at the beginning of every transaction. Make the deposit deadline visible in the file. Use the brokerage's approved intake checklist. Confirm the exact payee before a client obtains a check or initiates a transfer. Upload the receipt and confirmation while the event is fresh. If you are away from the office, follow the broker's contingency procedure rather than creating your own workaround.\n\nThe most useful question is often, “What can I prove happened?” If the answer is only “I remember giving it to someone,” the record is too weak. A reliable file shows a factual sequence: buyer delivered payment; authorized person received it; the item was delivered to escrow or the custodian; escrow confirmed receipt; and the parties received an accurate status update. This sequence protects the client, the broker, and the agent who did the right thing.\n\nKeep the meaning of a status update narrow. “Escrow acknowledged receipt at 2:15 p.m.” reports a fact. “Your deposit is secure and there is nothing else to worry about” makes a broad promise the agent cannot support. Students sometimes think cautious language sounds less helpful. In fact, accurate language is helpful because it tells the consumer exactly what is known and directs the next question to the person with authority to answer it.\n\n### Worked Example 4 — The well-meaning assistant\n\nAn unlicensed assistant offers to collect checks at the front desk and says they will send an email later. The agent should not assume that convenience equals compliance. Check the broker's written supervision and funds-handling procedure. If an assistant is permitted to receive a delivery, the process should still identify the person, time, item, receipt, secure storage, and prompt transfer to the authorized custodian. If the procedure is unclear, the agent should hold no funds personally and obtain the broker's direction before accepting them.\n\nThe lesson is not to distrust colleagues. It is to make the workflow stronger than memory. Client money should never depend on a particular person's recollection, vacation schedule, or private inbox.\n\n### A quick pre-action checklist\n\nBefore accepting, communicating about, or routing a payment, pause and ask:\n\n1. Is the amount, payee, purpose, and transaction identified?\n2. Am I using the broker's approved method and recipient?\n3. Will there be a dated receipt and documented handoff?\n4. Does a contract deadline or disputed instruction require immediate escalation?\n5. Is this request trying to make me authorize, interpret, or promise something outside my role?\n\nIf any answer is uncertain, stop. A short broker consultation is faster and safer than repairing an unauthorized disbursement.\n\n## 8. Key Terms\n\n| Term | Meaning |\n|---|---|\n| **Trust fund** | Money received by a broker for the benefit of another person in connection with a transaction. |\n| **Trust account** | A segregated account used by a broker to hold trust funds under applicable rules. |\n| **Neutral escrow holder** | A party that holds and disburses funds or documents under escrow instructions. |\n| **Commingling** | Improper mixing of trust funds with other funds. |\n| **Conversion** | Unauthorized use of money belonging to another person. |\n| **Beneficiary ledger** | A record identifying funds held for a particular person or transaction. |\n| **Reconciliation** | Comparing bank, trust, and beneficiary records to identify and resolve differences. |\n| **Chain of custody** | Documented control and transfer of an item or funds from receipt to delivery. |\n\n## 9. Exam and Practice Tips\n\n- Treat a deposit as another person’s money until an authorized process says otherwise.\n- A salesperson does not personally decide how trust funds are deposited or released.\n- A receipt, delivery record, and confirmation are three different—but connected—records.\n- Never mix client money with brokerage operating funds.\n- A dispute over a deposit calls for written authority and escalation, not persuasion.\n- Independently verify every changed wire instruction.\n- Verify the current regulation and broker policy before relying on exact timing or recordkeeping rules.\n\n## 10. Unit Assessment\n\nThe 16-question assessment lives in `/content/question-bank/practice/unit-12.json` with full per-option rationales.",
+  "word_count": 2521,
+  "questions": [
+    {
+      "id": "PRAC-12-001",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 12,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A buyer gives a salesperson a deposit check at an open house. The safest next action is to:",
+      "options": [
+        "Keep it in a desk",
+        "Follow the broker's approved receipt and prompt-delivery procedure",
+        "Deposit it personally",
+        "Promise it has cleared"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A desk is not an approved controlled holding process.",
+        "Correct. Client funds require the responsible broker's approved receipt and delivery workflow.",
+        "A salesperson must not place client funds in a personal account.",
+        "Receipt is not the same as clearance."
+      ],
+      "terms": [
+        "trust fund",
+        "chain of custody"
+      ]
+    },
+    {
+      "id": "PRAC-12-002",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 12,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Commingling is:",
+      "options": [
+        "Neutral escrow following instructions",
+        "Improperly mixing trust money with other funds",
+        "A beneficiary ledger",
+        "A deposit receipt"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Neutral handling is distinct from commingling.",
+        "Correct. Commingling improperly mixes funds that must remain segregated.",
+        "A ledger is a control.",
+        "A receipt documents receipt."
+      ],
+      "terms": [
+        "commingling"
+      ]
+    },
+    {
+      "id": "PRAC-12-003",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 12,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A buyer cancels and asks the agent to release a disputed deposit. The seller disagrees. The agent should:",
+      "options": [
+        "Tell escrow to pay buyer",
+        "Tell escrow to pay seller",
+        "Preserve communications, escalate, and use the authorized release process",
+        "Split the funds"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Cancellation alone does not authorize an agent to direct release.",
+        "Ownership does not resolve a disputed instruction.",
+        "Correct. A dispute requires the authorized holder and proper written authority or other lawful direction.",
+        "An agent cannot invent a disbursement."
+      ],
+      "terms": [
+        "neutral escrow holder",
+        "trust fund"
+      ]
+    },
+    {
+      "id": "PRAC-12-004",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 12,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Why is a beneficiary ledger valuable?",
+      "options": [
+        "It identifies funds held for each transaction",
+        "It replaces a bank statement",
+        "It pays office expenses",
+        "It eliminates instructions"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. It connects the total balance to people and transactions entitled to funds.",
+        "Bank statements and detailed records serve different purposes.",
+        "Client funds cannot pay office expenses.",
+        "Instructions remain important."
+      ],
+      "terms": [
+        "beneficiary ledger"
+      ]
+    },
+    {
+      "id": "PRAC-12-005",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 12,
+      "blueprint_area": "agency",
+      "difficulty": 2,
+      "stem": "A client asks a salesperson to release escrow funds. The best response is:",
+      "options": [
+        "I will release them",
+        "I cannot authorize release; I will send your written request to broker and escrow",
+        "Writing is never needed",
+        "Escrow always pays the buyer"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A salesperson does not personally authorize disbursement.",
+        "Correct. It accurately states the boundary and routes the request properly.",
+        "Written authority is often essential.",
+        "The outcome depends on authority and instructions."
+      ],
+      "terms": [
+        "escalation",
+        "neutral escrow holder"
+      ]
+    },
+    {
+      "id": "PRAC-12-006",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 12,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An email says escrow's wire destination changed. What is the best control?",
+      "options": [
+        "Trust the logo",
+        "Use the number in the email",
+        "Verify through a known independently confirmed escrow contact",
+        "Send a test wire"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Branding can be copied.",
+        "A compromised account can answer.",
+        "Correct. Independent verification through a trusted contact path reduces fraud risk.",
+        "A test wire can still be lost."
+      ],
+      "terms": [
+        "wire fraud"
+      ]
+    },
+    {
+      "id": "PRAC-12-007",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 12,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "Receiving a check and having it clear are:",
+      "options": [
+        "The same event",
+        "Distinct events",
+        "Proof the seller earned it",
+        "Irrelevant"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Receipt and bank clearance happen at different times.",
+        "Correct. Each event has different facts and records.",
+        "Neither event alone determines entitlement.",
+        "Both can be material facts."
+      ],
+      "terms": [
+        "trust fund"
+      ]
+    },
+    {
+      "id": "PRAC-12-008",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 12,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "Conversion of trust funds means:",
+      "options": [
+        "Authorized escrow deposit",
+        "Unauthorized use of another's money",
+        "Monthly reconciliation",
+        "Office expense"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Authorized handling is not conversion.",
+        "Correct. Conversion is unauthorized use of money held for another.",
+        "Reconciliation is a control.",
+        "Operating expenses should not use client funds."
+      ],
+      "terms": [
+        "conversion"
+      ]
+    },
+    {
+      "id": "PRAC-12-009",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 12,
+      "blueprint_area": "agency",
+      "difficulty": 2,
+      "stem": "A missing deposit receipt should be handled by:",
+      "options": [
+        "Creating one from memory",
+        "Ignoring it",
+        "Promptly reporting and investigating under broker procedure",
+        "Guaranteeing the money is safe"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Recreating facts can worsen the record problem.",
+        "Assumptions do not resolve it.",
+        "Correct. Prompt escalation allows transparent confirmation and correction.",
+        "The agent cannot make that guarantee."
+      ],
+      "terms": [
+        "escalation",
+        "chain of custody"
+      ]
+    },
+    {
+      "id": "PRAC-12-010",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 12,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Brokerage office-expense money belongs in:",
+      "options": [
+        "A client trust account",
+        "The brokerage operating account",
+        "A beneficiary ledger",
+        "A salesperson account"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Trust accounts are for funds held for others.",
+        "Correct. Earned business funds and expenses belong in the operating account.",
+        "A ledger is not an account.",
+        "Personal accounts are not brokerage accounts."
+      ],
+      "terms": [
+        "trust account",
+        "commingling"
+      ]
+    },
+    {
+      "id": "PRAC-12-011",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 12,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A buyer's electronic deposit is rejected. The agent should:",
+      "options": [
+        "Assume it will process",
+        "Communicate factual status, use verified instructions, and alert broker",
+        "Waive the deadline",
+        "Use a personal payment app"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A rejection should be addressed.",
+        "Correct. The agent should report the fact and use an approved process.",
+        "An agent cannot waive a deadline alone.",
+        "Personal apps create control risks."
+      ],
+      "terms": [
+        "escalation",
+        "trust fund"
+      ]
+    },
+    {
+      "id": "PRAC-12-012",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 12,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Reconciliation is:",
+      "options": [
+        "Comparing records to locate differences",
+        "Writing offers",
+        "Choosing an appraiser",
+        "Advertising"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Reconciliation checks whether bank, trust, and detailed records agree.",
+        "Offer drafting is unrelated.",
+        "Appraisal is unrelated.",
+        "Marketing is unrelated."
+      ],
+      "terms": [
+        "reconciliation"
+      ]
+    },
+    {
+      "id": "PRAC-12-013",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 12,
+      "blueprint_area": "agency",
+      "difficulty": 3,
+      "stem": "Why avoid saying one way of holding funds is always safest?",
+      "options": [
+        "Explain verified roles and procedures instead",
+        "Escrow cannot receive funds",
+        "Trust accounts have no records",
+        "Clients cannot ask"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Safety depends on verified roles, procedures, and facts.",
+        "Escrow holders commonly receive funds.",
+        "Trust accounts require records.",
+        "Clients can ask for clear information."
+      ],
+      "terms": [
+        "neutral escrow holder"
+      ]
+    },
+    {
+      "id": "PRAC-12-014",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 12,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which record best shows a deposit handoff?",
+      "options": [
+        "A vague text",
+        "A dated receipt and delivery or escrow confirmation",
+        "A social post",
+        "An unsigned promise"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Vague texts lack detail.",
+        "Correct. Specific evidence creates a traceable chain of custody.",
+        "Social posts are not transaction records.",
+        "An unsigned promise may not establish an event."
+      ],
+      "terms": [
+        "chain of custody"
+      ]
+    },
+    {
+      "id": "PRAC-12-015",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 12,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A seller asks to use one buyer's deposit for another listing's repair. The agent should:",
+      "options": [
+        "Agree if repaid",
+        "Refuse and escalate because funds cannot be repurposed without authority",
+        "Transfer part",
+        "Ask buyer later"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A repayment promise is not authority.",
+        "Correct. The request suggests conversion and requires immediate broker involvement.",
+        "Partial unauthorized use remains unauthorized.",
+        "Later consent cannot justify interim use."
+      ],
+      "terms": [
+        "conversion",
+        "trust fund"
+      ]
+    },
+    {
+      "id": "PRAC-12-016",
+      "source": "unit",
+      "course_slug": "practice",
+      "unit_number": 12,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "For exact trust-fund timing rules, rely on:",
+      "options": [
+        "Social media",
+        "Current law and responsible broker procedure",
+        "Old class notes alone",
+        "Client preference"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Social summaries are not authoritative.",
+        "Correct. Exact requirements must be verified against current authority and broker policy.",
+        "Older notes may be outdated.",
+        "Preference cannot override duties."
+      ],
+      "terms": [
+        "trust account",
+        "escalation"
+      ]
+    }
+  ]
+}

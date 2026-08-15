@@ -1,0 +1,468 @@
+{
+  "id": "legal-aspects-14",
+  "course_slug": "legal-aspects",
+  "unit_number": 14,
+  "title": "Real Estate Litigation, ADR & License Discipline",
+  "estimated_hours": 3,
+  "blueprint_areas": [
+    "practice-disclosures",
+    "contracts"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Distinguish** mediation from arbitration and explain why the choice matters practically.\n2. **Apply** the standard purchase-agreement mediation and arbitration clauses conceptually.\n3. **Explain** the DRE's investigation and disciplinary process at a high level.\n4. **Identify** the range of DRE disciplinary outcomes and what triggers each severity level.\n5. **Analyze** common sources of real estate litigation and how better practice habits reduce exposure.\n6. **Distinguish** civil liability from license discipline and explain why an agent can face both for the same conduct.\n7. **Advise** (within license scope) on documentation practices that protect an agent facing a later dispute.\n\n---\n\n## 1. Mediation vs. Arbitration: Two Different Tools\n\n**Mediation** is a non-binding process where a neutral third party (the mediator) helps the parties negotiate their own resolution. The mediator has no power to impose an outcome — the parties retain full control, and either side can walk away without a binding result if they cannot agree.\n\n**Arbitration** is fundamentally different: a neutral third party (the arbitrator) hears the dispute and issues a **binding decision**, much like a judge, but outside the court system. Arbitration is generally faster and more private than litigation, but it also generally waives the right to a jury trial and significantly limits the grounds for appealing an unfavorable decision — an arbitrator's factual and legal errors are, in most cases, very difficult to overturn even if a court might have decided differently.\n\n**Why the distinction matters practically:** the standard California residential purchase agreement typically includes a **mediation provision** (often required as a prerequisite before either party can recover attorney's fees in a later dispute) and a **separate, optional arbitration provision** that both parties must specifically initial to activate. A party who does not initial the arbitration clause retains the right to sue in court if mediation does not resolve the dispute; a party who does initial it gives up that right in exchange for arbitration's speed and privacy. <!-- VERIFY: current standard-form mediation/arbitration clause structure and attorney-fee-shifting mechanics, which can be revised by the association that publishes the standard forms -->\n\n### Worked Example 1 — Skipping mediation costs the win (Upland)\n\nA seller sues a buyer directly in small claims court over a disputed repair credit, without first attempting mediation as required by their signed purchase agreement's attorney's-fee clause.\n\n**Analysis.** Even if the seller ultimately prevails on the merits of the dispute itself, skipping the required mediation step can independently forfeit the seller's ability to recover attorney's fees under the contract's fee-shifting provision — a real financial consequence separate from who was actually right about the underlying repair dispute. This is exactly the kind of contract-mechanics detail that makes \"read the dispute-resolution clause before doing anything\" as important as understanding the underlying facts.\n\n## 2. The DRE's Role and Investigative Process\n\nThe California Department of Real Estate (DRE) licenses and disciplines real estate salespersons and brokers, separate from any civil lawsuit a wronged party might file. A DRE investigation can be triggered by a consumer complaint, a referral from another government agency, a criminal conviction, or the DRE's own audit activity.\n\n**Investigation, in outline:** the DRE reviews the complaint, may request records and a written response from the licensee, may conduct interviews, and determines whether grounds for disciplinary action exist. If the DRE finds cause, it can pursue an **accusation** — a formal administrative proceeding, generally heard before an administrative law judge, that can result in license discipline.\n\n## 3. Range of Disciplinary Outcomes\n\nDRE disciplinary outcomes range broadly by severity:\n\n- **Public reproval** — a formal, published warning, without loss of license.\n- **Suspension** — temporary loss of licensing authority for a defined period.\n- **Restricted license** — continued licensure subject to specific conditions (increased supervision, restricted activities, or a probationary period).\n- **Revocation** — permanent loss of licensing authority, though a revoked licensee may in some cases petition for reinstatement after a statutory waiting period, subject to DRE discretion. <!-- VERIFY: current reinstatement eligibility timelines and standards -->\n\n**What triggers discipline** spans a wide range of severity: from technical/administrative violations (failing to properly supervise, inadequate trust fund recordkeeping) through serious ethical violations (misrepresentation, undisclosed dual agency, commingling trust funds) to outright fraud and criminal conduct. The DRE's disciplinary calculus generally weighs the severity and pattern of the conduct, the harm caused, whether it was a first offense, and whether the licensee cooperated with the investigation.\n\n## 4. Civil Liability and License Discipline Are Separate Tracks\n\n**A single piece of misconduct can expose an agent to both civil liability and license discipline simultaneously — these are entirely separate legal tracks with different purposes, different standards, and different consequences.**\n\n- A **civil lawsuit** (brought by the harmed buyer, seller, or other party) seeks to compensate the injured party — damages, rescission, or other private remedies.\n- **DRE discipline** is a regulatory action protecting the public generally, independent of whether the specific harmed party ever sues — the DRE can discipline a licensee even if the wronged consumer never files a civil claim, and a civil settlement does not prevent or resolve a separate DRE investigation into the same conduct.\n\nAn agent who settles a civil lawsuit confidentially, assuming \"the matter is closed,\" may still face a DRE complaint and investigation arising from the same underlying facts — the two systems do not automatically communicate or resolve each other.\n\n### Worked Example 2 — Two tracks, one set of facts (Ontario)\n\nAn agent fails to disclose a known, serious foundation issue to a buyer. The buyer discovers it after closing, sues, and the case settles for repair costs and a confidentiality clause. Separately, the buyer (before the settlement) had already filed a DRE complaint.\n\n**Analysis.** The civil settlement resolves the buyer's private claim for money, but it does **not** resolve the DRE's independent investigation into whether the agent violated their disclosure duties as a licensee — the DRE can proceed with its own investigation and potential discipline regardless of the private settlement, and a confidentiality clause in the civil settlement cannot bind the DRE, which was not a party to it. An agent who believes a quiet settlement \"makes the problem go away\" is operating on a mistaken assumption.\n\n## 5. Common Sources of Real Estate Litigation\n\nRecurring patterns across the units in this course converge here — most real estate disputes trace back to a handful of recurring failure points:\n\n- **Non-disclosure or misrepresentation** of a material fact (Principles Unit 9; Unit 3 of this course).\n- **Agency and fiduciary breaches** — undisclosed dual agency, undisclosed conflicts of interest (Unit 2).\n- **Contract disputes** — deposit disputes, contingency-removal disagreements, breach claims (Practice Unit 9; Unit 3 of this course).\n- **Trust fund mishandling** — commingling, conversion, or recordkeeping failures (Principles Unit 18).\n- **Fair housing violations** — steering, disparate treatment, discriminatory advertising (Unit 10 of this course).\n- **Negligent or careless professional conduct** — failing to recommend inspections, giving inaccurate valuation opinions presented as fact, or overstepping into legal/tax advice.\n\n## 6. Documentation: The Best Defense Available to Any Agent\n\nNearly every recurring source of litigation above is made dramatically less risky — not eliminated, but genuinely reduced — by disciplined documentation practices:\n\n- Confirm material client instructions and representations **in writing**, through the brokerage's approved system, not memory or informal texts.\n- Document disclosures given and when they were given.\n- Keep a clean, chronological transaction file that a neutral reviewer could reconstruct the relationship and events from.\n- When a conflict, ambiguity, or red flag arises, document that it was raised and how it was addressed — not just the final outcome.\n\nThis is not paperwork for its own sake. In both a civil lawsuit and a DRE investigation, the agent's contemporaneous written record is frequently the single most persuasive piece of evidence available — far more persuasive than a later recollection of \"what I always tell clients.\"\n\n## 7. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Mediation** | A non-binding process where a neutral third party helps parties negotiate their own resolution. |\n| **Arbitration** | A binding process where a neutral third party issues a decision outside the court system, generally waiving jury trial rights. |\n| **Accusation (DRE)** | The formal administrative proceeding through which the DRE pursues license discipline. |\n| **Public reproval** | A formal, published DRE warning without loss of license. |\n| **License revocation** | Permanent loss of licensing authority, with limited possible reinstatement. |\n| **Civil liability** | Private legal responsibility to compensate a harmed party, separate from license discipline. |\n\n## 8. Exam and Practice Tips\n\n- Mediation is non-binding; arbitration is binding and generally waives jury trial rights and most appeal grounds — know the distinction cold.\n- The standard purchase agreement's arbitration clause typically must be separately initialed to apply; mediation is often a prerequisite to recovering attorney's fees.\n- DRE discipline and civil liability are separate tracks — a civil settlement does not resolve a DRE investigation into the same conduct.\n- DRE disciplinary outcomes range from public reproval through suspension, restriction, to revocation, scaled to severity and pattern of conduct.\n- Most real estate litigation traces back to a small set of recurring failures: non-disclosure, agency breaches, contract disputes, trust fund mishandling, and fair housing violations.\n- Disciplined, contemporaneous written documentation is the single most protective habit an agent can build.\n\n## 9. Unit Assessment\n\nThe 18-question assessment lives in `/content/question-bank/legal-aspects/unit-14.json` with full per-option rationales.",
+  "word_count": 1590,
+  "questions": [
+    {
+      "id": "LEGAL-14-001",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 14,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "Mediation is best described as:",
+      "options": [
+        "A binding decision issued by a neutral third party",
+        "A non-binding process where a neutral helps parties negotiate their own resolution",
+        "A criminal proceeding",
+        "A form of eminent domain"
+      ],
+      "answer": 1,
+      "rationales": [
+        "That describes arbitration, not mediation.",
+        "Correct. Mediation is non-binding; the parties retain control over the outcome.",
+        "It is not a criminal proceeding.",
+        "It is unrelated to eminent domain."
+      ],
+      "terms": [
+        "mediation"
+      ]
+    },
+    {
+      "id": "LEGAL-14-002",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 14,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "Arbitration differs from mediation because arbitration:",
+      "options": [
+        "Is non-binding",
+        "Results in a binding decision, generally waiving jury trial rights",
+        "Cannot be included in a real estate contract",
+        "Always favors the buyer"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Arbitration is binding, not non-binding.",
+        "Correct. Arbitration produces a binding decision and generally waives the right to a jury trial.",
+        "Arbitration clauses are commonly included in real estate contracts.",
+        "Arbitration outcomes are not predetermined to favor either party."
+      ],
+      "terms": [
+        "arbitration"
+      ]
+    },
+    {
+      "id": "LEGAL-14-003",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 14,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "In the standard California residential purchase agreement, the arbitration provision typically:",
+      "options": [
+        "Applies automatically to every transaction",
+        "Must be separately initialed by both parties to apply",
+        "Is illegal under California law",
+        "Cannot ever be combined with a mediation clause"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It does not apply automatically without separate initialing.",
+        "Correct. Parties must specifically initial the arbitration clause to activate it.",
+        "Arbitration clauses are lawful in California real estate contracts.",
+        "Standard forms commonly combine both mediation and optional arbitration provisions."
+      ],
+      "terms": [
+        "arbitration"
+      ]
+    },
+    {
+      "id": "LEGAL-14-004",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 14,
+      "blueprint_area": "contracts",
+      "difficulty": 3,
+      "stem": "A party who sues in court without first attempting mediation as required by the purchase agreement's fee clause risks:",
+      "options": [
+        "No consequence at all",
+        "Forfeiting the ability to recover attorney's fees, even if they win on the merits",
+        "Automatic loss of the underlying lawsuit",
+        "Criminal liability"
+      ],
+      "answer": 1,
+      "rationales": [
+        "There is a real contractual consequence here.",
+        "Correct. Skipping required mediation can independently forfeit attorney's fee recovery under the contract's fee-shifting clause.",
+        "Skipping mediation does not automatically mean losing the underlying case.",
+        "This is a civil contract issue, not a criminal matter."
+      ],
+      "terms": [
+        "mediation"
+      ]
+    },
+    {
+      "id": "LEGAL-14-005",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 14,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A DRE investigation can be triggered by:",
+      "options": [
+        "Only a criminal conviction",
+        "A consumer complaint, agency referral, criminal conviction, or DRE audit activity",
+        "Only the licensee's own request",
+        "Nothing short of a court order"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Criminal conviction is only one possible trigger among several.",
+        "Correct. Multiple sources can trigger a DRE investigation.",
+        "A licensee's own request is not the typical or required trigger.",
+        "A court order is not required to begin a DRE investigation."
+      ],
+      "terms": [
+        "accusation (DRE)"
+      ]
+    },
+    {
+      "id": "LEGAL-14-006",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 14,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "The formal administrative proceeding through which the DRE pursues license discipline is called:",
+      "options": [
+        "A grand jury indictment",
+        "An accusation",
+        "A quiet title action",
+        "A UD action"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Grand jury indictment is a criminal law concept, not the DRE process.",
+        "Correct. The DRE pursues discipline through a formal accusation proceeding.",
+        "Quiet title is a separate property law action.",
+        "Unlawful detainer concerns tenant eviction, not license discipline."
+      ],
+      "terms": [
+        "accusation (DRE)"
+      ]
+    },
+    {
+      "id": "LEGAL-14-007",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 14,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "DRE disciplinary outcomes can include, from least to most severe:",
+      "options": [
+        "Only revocation, with no lesser options",
+        "Public reproval, suspension, restricted license, and revocation",
+        "Only a fine, with no license impact",
+        "Automatic criminal prosecution"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Lesser options exist short of revocation.",
+        "Correct. The DRE has a range of disciplinary tools scaled to severity.",
+        "License-related consequences, not merely fines, are the DRE's primary tools.",
+        "DRE discipline is administrative, not automatically criminal."
+      ],
+      "terms": [
+        "public reproval",
+        "license revocation"
+      ]
+    },
+    {
+      "id": "LEGAL-14-008",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 14,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A restricted license generally means:",
+      "options": [
+        "Permanent loss of licensure with no path back",
+        "Continued licensure subject to specific conditions such as increased supervision or probation",
+        "No consequence at all",
+        "Automatic upgrade to broker status"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Permanent loss describes revocation, not restriction.",
+        "Correct. A restricted license continues under specified conditions.",
+        "Restriction is a real consequence, not the absence of one.",
+        "It is unrelated to license upgrades."
+      ],
+      "terms": [
+        "public reproval"
+      ]
+    },
+    {
+      "id": "LEGAL-14-009",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 14,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A revoked license may, in some cases, be reinstated:",
+      "options": [
+        "Immediately upon request with no waiting period",
+        "After a statutory waiting period, subject to DRE discretion",
+        "Never under any circumstances",
+        "Automatically after 30 days"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Immediate reinstatement without any process is not the standard.",
+        "Correct. Reinstatement may be possible after a statutory waiting period, at DRE discretion.",
+        "Reinstatement is not categorically impossible.",
+        "There is no automatic 30-day reinstatement rule described here."
+      ],
+      "terms": [
+        "license revocation"
+      ]
+    },
+    {
+      "id": "LEGAL-14-010",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 14,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A single act of misconduct by an agent can result in:",
+      "options": [
+        "Only civil liability, never license discipline",
+        "Only DRE discipline, never civil liability",
+        "Both civil liability and DRE discipline as separate tracks",
+        "Neither, since one bars the other"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Civil liability is not the only possible consequence.",
+        "DRE discipline is not the only possible consequence.",
+        "Correct. Civil liability and license discipline are independent tracks that can both apply to the same conduct.",
+        "Neither track automatically bars the other."
+      ],
+      "terms": [
+        "civil liability"
+      ]
+    },
+    {
+      "id": "LEGAL-14-011",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 14,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An agent settles a civil lawsuit confidentially over a non-disclosure claim. A DRE complaint was filed separately before the settlement. The settlement:",
+      "options": [
+        "Automatically ends the DRE investigation",
+        "Does not resolve or bind the DRE's independent investigation into the same conduct",
+        "Prevents the DRE from ever investigating",
+        "Converts the DRE matter into a criminal case"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A private settlement does not automatically end a regulatory investigation.",
+        "Correct. The DRE is not a party to the private settlement and can proceed independently.",
+        "The DRE retains investigative authority regardless of the settlement.",
+        "This remains an administrative matter, not automatically criminal."
+      ],
+      "terms": [
+        "accusation (DRE)"
+      ]
+    },
+    {
+      "id": "LEGAL-14-012",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 14,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A confidentiality clause in a civil settlement:",
+      "options": [
+        "Binds the DRE and prevents any further investigation",
+        "Does not bind the DRE, which was not a party to the settlement",
+        "Automatically dismisses any pending DRE complaint",
+        "Applies to all future disputes regardless of parties"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The DRE is not bound by a private agreement it was not party to.",
+        "Correct. A confidentiality clause between private parties cannot bind a regulator who was not a signatory.",
+        "It does not automatically dismiss a separately filed DRE complaint.",
+        "It applies only between the settling parties, not universally."
+      ],
+      "terms": [
+        "civil liability"
+      ]
+    },
+    {
+      "id": "LEGAL-14-013",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 14,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "Which is a recurring source of real estate litigation identified across this course?",
+      "options": [
+        "Excessive marketing photography",
+        "Non-disclosure of material facts",
+        "Using a licensed title company",
+        "Recording a deed"
+      ],
+      "answer": 1,
+      "rationales": [
+        "This is not a typical litigation driver.",
+        "Correct. Non-disclosure of material facts is a leading recurring source of disputes.",
+        "Using a licensed title company reduces, not increases, typical risk.",
+        "Properly recording a deed is a protective step, not a litigation source."
+      ],
+      "terms": [
+        "civil liability"
+      ]
+    },
+    {
+      "id": "LEGAL-14-014",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 14,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "Undisclosed dual agency is a recurring litigation and discipline risk because it implicates:",
+      "options": [
+        "Trust fund handling only",
+        "Agency and fiduciary duty breaches",
+        "Only escrow's role",
+        "Only zoning compliance"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It is not primarily a trust fund issue.",
+        "Correct. Undisclosed dual agency directly implicates agency and fiduciary duties.",
+        "Escrow's role is unrelated to this issue.",
+        "Zoning is unrelated to this issue."
+      ],
+      "terms": [
+        "civil liability"
+      ]
+    },
+    {
+      "id": "LEGAL-14-015",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 14,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "The single most protective habit an agent can build to reduce both civil and DRE risk is:",
+      "options": [
+        "Avoiding all written records",
+        "Disciplined, contemporaneous written documentation of instructions and disclosures",
+        "Relying entirely on memory for client instructions",
+        "Only documenting the final outcome, not how issues were raised and resolved"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Avoiding records increases, not decreases, risk.",
+        "Correct. A clean, contemporaneous written record is frequently the most persuasive evidence in both tracks.",
+        "Memory alone is a weak substitute for documentation.",
+        "Documenting only outcomes omits the context that often matters most."
+      ],
+      "terms": [
+        "civil liability"
+      ]
+    },
+    {
+      "id": "LEGAL-14-016",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 14,
+      "blueprint_area": "contracts",
+      "difficulty": 2,
+      "stem": "A key drawback of arbitration compared to litigation is that arbitration:",
+      "options": [
+        "Is always slower than court litigation",
+        "Significantly limits the grounds for appealing an unfavorable decision",
+        "Cannot ever be used in real estate disputes",
+        "Guarantees a jury trial"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Arbitration is generally faster, not slower, than litigation.",
+        "Correct. Appeal grounds are significantly limited compared to a court judgment.",
+        "Arbitration clauses are commonly used in real estate contracts.",
+        "Arbitration generally waives, rather than guarantees, a jury trial."
+      ],
+      "terms": [
+        "arbitration"
+      ]
+    },
+    {
+      "id": "LEGAL-14-017",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 14,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "The DRE's disciplinary calculus generally weighs:",
+      "options": [
+        "Only whether the licensee has a good reputation",
+        "Severity and pattern of conduct, harm caused, prior history, and cooperation with the investigation",
+        "Only the dollar amount of the transaction",
+        "Only the licensee's years of experience"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Reputation alone is not the controlling factor.",
+        "Correct. These are the typical factors weighed in DRE disciplinary decisions.",
+        "Transaction value alone does not determine discipline severity.",
+        "Years of experience alone is not the controlling factor."
+      ],
+      "terms": [
+        "accusation (DRE)"
+      ]
+    },
+    {
+      "id": "LEGAL-14-018",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 14,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "An agent who gives a confident valuation opinion presented as a guaranteed fact, without basis, risks liability under:",
+      "options": [
+        "Negligent or careless professional conduct principles",
+        "Only zoning law",
+        "Only landlord-tenant law",
+        "No risk since opinions are never actionable"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Overstated, unsupported professional opinions presented as fact are a recognized source of liability.",
+        "Zoning law is unrelated to this conduct.",
+        "Landlord-tenant law is unrelated to this conduct.",
+        "Presenting an unsupported opinion as guaranteed fact can create real liability."
+      ],
+      "terms": [
+        "civil liability"
+      ]
+    }
+  ]
+}

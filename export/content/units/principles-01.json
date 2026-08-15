@@ -1,0 +1,462 @@
+{
+  "id": "principles-01",
+  "course_slug": "principles",
+  "unit_number": 1,
+  "title": "The Real Estate Business & California License Law",
+  "estimated_hours": "2.5",
+  "blueprint_areas": [
+    "practice-disclosures",
+    "agency"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Describe** the structure of the California real estate industry and the roles within a brokerage.\n2. **Explain** the purpose and authority of the California Department of Real Estate (DRE) and the Real Estate Commissioner.\n3. **Distinguish** between a salesperson license and a broker license, and between a licensee and a Realtor®.\n4. **List** the requirements to obtain and renew a California salesperson license.\n5. **Identify** which activities require a real estate license and which are exempt.\n6. **Explain** the relationship between a salesperson and their responsible broker, including who may pay a salesperson.\n7. **Recognize** the main grounds for license discipline and the role of the Consumer Recovery Account.\n\n---\n\n## 1. The Industry You're Entering\n\nReal estate is California's signature industry. The state has more than 400,000 licensed salespersons and brokers, and every one of them operates inside a legal framework designed to protect the public: the **Real Estate Law**, found in the California Business and Professions Code (starting at §10000) <!-- VERIFY -->, plus the Commissioner's Regulations that implement it.\n\nBefore we talk about law, picture the business itself. A typical residential transaction in the San Gabriel Valley involves a **listing brokerage** representing the seller, a **buying brokerage** representing the buyer, a lender, an escrow company, a title insurer, inspectors, and an appraiser. The agents you see on for-sale signs are almost always **salespersons** — licensees who must work under a **broker**. The broker is the business; the salesperson is the licensed professional working under that broker's supervision and license.\n\nYou, the agent, will spend your career at the center of that web. Everything in this course — property law, contracts, agency, finance, disclosures — exists so you can move a client from \"I want to sell my house in Alhambra\" to a recorded deed without harming the public or losing your license.\n\n### Where the money comes from\n\nBrokerages earn **commissions**, almost always a negotiated percentage of the sales price, paid at closing through escrow. Commissions are *always negotiable* between the client and the broker — there is no \"standard\" rate, and claiming one is fixed can violate antitrust law. The broker then splits the commission with the salesperson under their independent-contractor or employment agreement. One rule to burn in now: **a salesperson may accept compensation for licensed activity only from their own employing broker** — never directly from a seller, buyer, another broker, or an escrow company.\n\n### Realtor® vs. licensee\n\n\"Realtor®\" is not a synonym for \"agent.\" A **Realtor®** is a licensee who has joined the National Association of Realtors (**NAR**) — a private trade association — through a local board, and who agrees to follow NAR's Code of Ethics. Every Realtor® is a licensee, but plenty of licensees are not Realtors®. The state exam loves this distinction: the *license* comes from the DRE; the *Realtor® designation* comes from a trade association.\n\n## 2. The DRE and the Real Estate Commissioner\n\nThe **Department of Real Estate (DRE)** is the state agency that administers the Real Estate Law. Its mission is consumer protection, not licensee protection. The DRE:\n\n- issues, renews, restricts, suspends, and revokes real estate licenses;\n- investigates complaints against licensees;\n- approves pre-licensing and continuing-education courses (like this one — LicensePath's approval is *pending*);\n- regulates certain subdivision sales through public reports;\n- publishes regulations, bulletins, and the exam itself.\n\nThe DRE is headed by the **Real Estate Commissioner**, appointed by the Governor. The Commissioner's job is to enforce the Real Estate Law, and the **Commissioner's Regulations** — adopted through formal rulemaking — carry the force of law. The Commissioner is an enforcement official, not a judge of private disputes: if a buyer and seller fight over a deposit, that's for the courts; if a licensee mishandles the deposit, that's for the DRE.\n\nWhat the Commissioner *cannot* do is also tested: the Commissioner cannot practice law, set commission rates, or resolve purely private contract disputes between parties.\n\n### Discipline and the Consumer Recovery Account\n\nThe Commissioner may **suspend or revoke** a license (or deny an application) after an administrative hearing for violations such as misrepresentation, commingling trust funds, secret profits, discrimination, or criminal convictions substantially related to licensed activity. Discipline usually starts with a complaint or audit, proceeds through an **accusation** (against a licensee) or **statement of issues** (against an applicant), and is heard under the Administrative Procedure Act.\n\nIf a licensee's fraud leaves a victim with an uncollectible court judgment, the victim may seek payment from the DRE's **Consumer Recovery Account**, funded by license fees. Payouts are capped per transaction and per licensee <!-- VERIFY: current caps -->, and a licensee whose misconduct triggers a payout has their license suspended until the account is repaid with interest.\n\n## 3. Who Needs a License — and Who Doesn't\n\nBusiness and Professions Code §10131 <!-- VERIFY --> defines the activities that require a license when performed **for another person, for compensation (or expectation of it)**. The big ones:\n\n- selling, buying, or exchanging real property or business opportunities;\n- leasing or renting, or collecting rents;\n- soliciting listings or buyers;\n- negotiating loans secured by real property;\n- selling promissory notes secured by real estate.\n\nBoth elements matter: *for another* and *for compensation*. Miss either and no license is required. That's why the main **exemptions** make sense:\n\n- **Owners** dealing with their own property (a \"For Sale By Owner\" needs no license).\n- A person with a **power of attorney** handling a specific transaction for the principal.\n- **Attorneys** performing legal services in the ordinary course of practice (not running a brokerage).\n- **Trustees** selling under a deed of trust, executors, receivers, and others acting under court order.\n- **Resident managers** of apartment buildings and certain employees of property management companies, within limits.\n- Unlicensed assistants may do clerical work, but may not solicit, show property to prospective buyers and negotiate, or discuss terms.\n\nA useful exam reflex: if someone negotiates a real estate transaction *for another, for pay, without a license*, they cannot sue to collect the promised fee, and they may face criminal penalties. Paying a referral fee or commission to an unlicensed person is itself a violation by the payer.\n\n## 4. The Two Licenses: Salesperson and Broker\n\n### Salesperson\n\nA **salesperson** may perform licensed activities *only* as an agent of a responsible broker. Requirements:\n\n- **18 or older**; honesty and truthfulness (fingerprinting and background check via Live Scan);\n- **three college-level courses**: Real Estate Principles, Real Estate Practice, and one elective (LicensePath's elective is Legal Aspects of Real Estate);\n- pass the **state salesperson exam** — 150 multiple-choice questions, 3 hours 15 minutes, 70% (105 correct) to pass;\n- apply for the license, pay fees, and — to *work* — be sponsored by an employing broker.\n\nThere is no California residency requirement, and California has **no reciprocity** with any other state: an out-of-state licensee must qualify and pass California's exam like anyone else.\n\nA salesperson's license, once issued, lasts **four years**. Renewal requires **45 hours of DRE-approved continuing education**, including specified mandatory topics (ethics, agency, trust funds, fair housing, risk management, and implicit bias among them <!-- VERIFY: current CE topic list -->).\n\n### Broker\n\nA **broker** may run a brokerage, hire salespersons, and contract directly with clients. The broker candidate needs **eight college-level courses** and, generally, **two years of full-time licensed salesperson experience within the last five years** (a four-year degree with a major or minor in real estate can substitute for experience <!-- VERIFY -->), then must pass the longer broker exam.\n\n### The employment relationship\n\nThe Real Estate Law treats the salesperson as the **employee of the broker for supervision purposes**, even though most salespersons are **independent contractors for tax purposes**. Both things are true at once, and the exam tests it:\n\n- The **broker must supervise** the salesperson's licensed activity, review contracts, and is responsible to the public for the salesperson's conduct in the scope of the agency.\n- A **written agreement** between broker and salesperson is required, and the broker must retain it.\n- When a salesperson changes brokers, the responsible broker must notify the DRE. <!-- VERIFY: current notification procedure/mechanics -->\n- All advertising and contracts are done in the broker's name; the client's listing belongs to the **broker**, not the salesperson.\n\n### Fictitious business names, branches, and teams\n\nA broker may operate under a **fictitious business name (DBA)** only if the DRE licenses the broker under that name. Branch offices require branch licenses. Team names used by salesperson teams are permitted without a separate license if they meet statutory rules (include a team member's surname and \"team,\" \"group,\" or \"associates,\" and don't imply the team is an independent brokerage) <!-- VERIFY: current team-name rules -->.\n\n## 5. From Application to Working Agent\n\nKnowing the requirements is one thing; knowing the sequence saves your students months. Here is the path your future clients — and you — actually walk.\n\n**Step 1: Finish the three courses.** You cannot sit for the exam until all three statutory courses are complete and your course-completion certificates are in hand. This is why LicensePath enforces course pacing in software: a student may not complete more than one 45-hour course within any 18-day period, so the three courses take a minimum of roughly 54 days no matter how fast anyone reads.\n\n**Step 2: File the exam application (or the combined exam/license application).** You submit the application with your course certificates and the fee. Many applicants file the *combined* exam and license application, which bundles both steps and avoids a second filing later. <!-- VERIFY: current form names, fees, and processing times at dre.ca.gov -->\n\n**Step 3: Live Scan fingerprinting.** Every applicant submits fingerprints electronically through Live Scan so the DOJ and FBI can run a background check. A criminal record is not automatically disqualifying — the question is whether the offense is *substantially related* to the qualifications, functions, or duties of a licensee, and whether the applicant shows rehabilitation. Applicants with history should disclose fully and early; concealment is itself grounds for denial, and it is the concealment that sinks most applications.\n\n**Step 4: Schedule and pass the exam.** The exam is administered at state examination centers. You get 150 multiple-choice questions and 3 hours 15 minutes, and you need 70% — 105 correct. Results for computer-administered exams come back essentially immediately. There is no penalty for guessing, so a blank answer is a guaranteed miss.\n\n**Step 5: Get sponsored and go to work.** A license issued to a salesperson does not, by itself, let you list a single house. You must be *sponsored by an employing broker* before performing licensed activity. Choosing that broker — commission split, training, mentorship, brand, culture — is the subject of Unit 18 and much of Course 2.\n\n**Step 6: Renew every four years.** Renewal requires 45 hours of DRE-approved continuing education with specified mandatory topics — ethics, agency, trust fund handling, fair housing, risk management, and implicit bias among them. <!-- VERIFY: current CE topic list and hour breakdown --> A licensee who lets a license lapse may generally renew late within a grace period (on a two-year late-renewal window) but *may not work* while expired; working on an expired license is unlicensed activity.\n\n### Restricted, inactive, and surrendered licenses\n\nNot every license is a clean, active license, and the exam tests the variations:\n\n- An **inactive** license is valid but unassociated with a broker — the licensee may not perform licensed activity until a broker sponsors them. Licenses go inactive when a salesperson leaves a brokerage and does not immediately join another.\n- A **restricted** license is one the Commissioner issues (or leaves in place) after discipline, subject to conditions: working only for a named broker, filing reports, posting a bond, or a probation term. It can be suspended without a hearing if conditions are violated.\n- A **surrendered** license ends the licensee's authority voluntarily, often as part of a settlement.\n\n## 6. How Brokerages Are Actually Organized\n\nThe Real Estate Law gives you the skeleton; the market fills in the flesh. You will encounter four broad models, and you should be able to explain each to a recruit:\n\n**Traditional split brokerages.** The salesperson gets a percentage of each commission (say 60/40 or 70/30), often with a \"cap\" after which the split improves. The broker supplies office space, brand, training, and supervision.\n\n**100% commission / desk fee brokerages.** The salesperson keeps essentially the entire commission and pays the broker a monthly desk fee plus per-transaction fees. Attractive to high producers, punishing to new agents with no closings.\n\n**Teams.** A team is a group of licensees operating under one brokerage, usually under a lead agent who supplies leads and administrative support in exchange for a larger share. Teams are *not* separate brokerages: the responsible broker still supervises, and team advertising must comply with the team-name rules — the name must include a team member's surname plus a word like \"team,\" \"group,\" or \"associates,\" and must not imply the team is an independent brokerage. <!-- VERIFY: current team-name statute details -->\n\n**Virtual/cloud brokerages.** No physical offices; the brokerage provides technology, and agents work remotely. Supervision obligations do not change because the office is virtual — the responsible broker still must review documents and oversee licensed activity.\n\nCutting across all of these is the **Multiple Listing Service (MLS)**. The MLS is a private, cooperative database operated by associations of Realtors®, not a government registry. Access generally requires association membership. Its function is twofold: broad exposure for sellers, and a mechanism by which listing brokers historically communicated offers of cooperation and compensation to buyer brokers. Practices around who pays buyer-side compensation, and how it is advertised, have shifted materially in recent years, so treat any specific rule about MLS compensation display as something to verify against current policy rather than memorize. <!-- VERIFY: current MLS cooperative-compensation rules -->\n\n## 7. Advertising and Everyday Compliance\n\nFrom your first day, license law follows your marketing:\n\n- **License disclosure in ads:** solicitation materials must identify the responsible broker and include the licensee's name and license number as required by regulation <!-- VERIFY: current ad ID requirements -->.\n- **No blind ads:** an ad that hides the fact that the advertiser is a licensee acting as an agent is a \"blind ad\" and is prohibited.\n- **Truthful marketing:** misrepresentation in advertising is a disciplinary offense. (This is the same principle behind LicensePath's own rule to say \"pending DRE approval\" until approval is in hand — truth in advertising is not optional in this industry.)\n- **Do not practice law:** filling in the blanks of standard contract forms incident to a transaction is fine; drafting custom legal language or advising on legal consequences is the unauthorized practice of law. Refer clients to a California real estate attorney.\n\n## 8. Worked Examples\n\n### Example 1 — Who can pay whom? (Monrovia condo)\n\nMaria, a salesperson with Broker Chen in Monrovia, closes a $650,000 condo sale. Escrow is instructed to pay the total commission to the two brokerages. The seller is grateful and hands Maria a personal check for $1,000 as a \"bonus.\"\n\n**Analysis.** Maria cannot accept it. A salesperson may receive compensation for licensed activity **only from her employing broker**. The correct path: the seller may pay the bonus *through escrow or directly to Broker Chen*, and Chen may then pay Maria per their written agreement. If Maria deposits the seller's check, both she and anyone who knowingly facilitated it have violated license law.\n\n### Example 2 — Licensed activity or not? (Rancho Cucamonga fourplex)\n\nDaniel, unlicensed, manages his mother's fourplex in Rancho Cucamonga under a notarized power of attorney: he signs leases, collects rents, and hires plumbers. His neighbor asks Daniel to find tenants for *the neighbor's* triplex for $500 per placement.\n\n**Analysis.** Managing his mother's building under a power of attorney falls within an exemption. Finding tenants for the neighbor *for compensation* is licensed activity — soliciting and negotiating leases for another for pay. Daniel needs a license for that; without one he cannot lawfully collect the $500, and a court would not help him collect it.\n\n### Example 3 — Commission math (Claremont sale)\n\nA Claremont house sells for $1,120,000 with a total negotiated commission of 5%, split 50/50 between the listing and buyer-side brokerages. The listing salesperson's agreement with her broker gives her 70% of her side.\n\n**Walkthrough.**\n1. Total commission: $1,120,000 × 0.05 = **$56,000**\n2. Listing side: $56,000 × 0.50 = **$28,000**\n3. Salesperson's share: $28,000 × 0.70 = **$19,600**\n4. The broker retains $28,000 × 0.30 = $8,400.\n\nEscrow pays each *brokerage*; each broker then pays their salesperson. Exam questions frequently make you run exactly this chain — and the wrong answers will be the intermediate numbers ($56,000, $28,000, $8,400).\n\n### Example 4 — Realtor® vs. licensee (Pasadena open house)\n\nAt a Pasadena open house, a visitor asks agent Priya, \"Are all agents Realtors?\" Priya explains: she holds a DRE salesperson license, which the state requires; she has *also* chosen to join her local association of Realtors®, making her a NAR member bound by its Code of Ethics. Her colleague Marcus holds the same license but never joined NAR — he is a licensee, lawfully practicing, but he may not call himself a Realtor®.\n\n## 9. Key Terms\n\n| Term | Definition |\n|---|---|\n| **DRE** | The California Department of Real Estate — the state agency that licenses and regulates real estate licensees and approves courses. |\n| **Real Estate Commissioner** | Appointed head of the DRE; enforces the Real Estate Law and issues regulations with the force of law. |\n| **Real Estate Law** | The licensing law in the Business and Professions Code, plus the Commissioner's Regulations. |\n| **Salesperson** | A licensee who may perform licensed activity only under an employing responsible broker. |\n| **Broker** | A licensee who may operate a brokerage, employ salespersons, and deal directly with the public for compensation. |\n| **Responsible broker** | The broker responsible for supervising salespersons and for the brokerage's compliance. |\n| **Realtor®** | A licensee who is a member of the National Association of Realtors; a trade-association designation, not a license class. |\n| **NAR** | National Association of Realtors — the private trade association behind the Realtor® designation and Code of Ethics. |\n| **Reciprocity** | Recognition of another state's license. California has none — every applicant qualifies under California's requirements. |\n| **Blind ad** | An advertisement that fails to reveal the advertiser is a licensee acting as an agent; prohibited. |\n| **Consumer Recovery Account** | DRE-administered fund that pays victims of licensee fraud holding uncollectible judgments, up to statutory caps. |\n| **Accusation** | The formal DRE pleading that begins disciplinary proceedings against an existing licensee. |\n| **Commingling** | Mixing client trust funds with a licensee's own money; a disciplinary violation (covered in depth in Unit 18). |\n| **Fictitious business name (DBA)** | A trade name a broker may operate under only when the DRE has licensed the broker under that name. |\n| **Live Scan** | Electronic fingerprinting submitted with a license application so the DOJ and FBI can complete a background check. |\n| **Inactive license** | A valid license not associated with an employing broker; the licensee may not perform licensed activity until sponsored. |\n| **Restricted license** | A license issued or continued after discipline subject to conditions such as a named broker, reporting, a bond, or probation. |\n| **MLS (Multiple Listing Service)** | A private cooperative listing database run by associations of Realtors®, not a government registry; access generally requires membership. |\n\n## 10. Exam Tips\n\n- **\"Only from the employing broker.\"** Any question about who may pay a salesperson has one answer: their own broker. Sellers, escrow, other brokers — all wrong.\n- **License vs. designation.** The DRE issues licenses; NAR confers \"Realtor®.\" Questions that swap these are testing vocabulary, not law.\n- **Two-part test for licensed activity:** *for another* + *for compensation*. FSBO owners, attorneys-in-fact, and trustees under a deed of trust are classic exemption answers.\n- **Numbers to memorize:** 18+ to apply; 3 courses to sit for the exam; 150 questions / 3h15m / 70% to pass; 4-year license term; 45 hours of CE to renew; broker route = 8 courses + 2 years' experience in the last 5.\n- **The Commissioner regulates licensees, not private deals.** If the question describes a buyer–seller dispute with no licensee misconduct, the DRE is the wrong forum.\n\n## 11. Unit Quiz\n\nThe 18-question quiz for this unit lives in `/content/question-bank/principles/unit-01.json` with full per-option rationales. Passing standard for unit quizzes: 70%, unlimited review.",
+  "word_count": 3459,
+  "questions": [
+    {
+      "id": "PRIN-01-001",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 1,
+      "stem": "A licensed salesperson in Arcadia closes a sale and the grateful buyer offers to pay her a $500 bonus directly. The salesperson may lawfully accept compensation for this licensed activity from:",
+      "options": [
+        "The buyer, if disclosed to all parties in writing",
+        "Her employing broker only",
+        "Escrow, if both brokers consent",
+        "Any party to the transaction after closing"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Disclosure does not cure the problem — the law bars a salesperson from taking compensation for licensed activity from anyone but her broker.",
+        "Correct. A salesperson may receive compensation for licensed activity only from her employing broker; the buyer could pay the bonus through the broker.",
+        "Escrow pays brokerages, not salespersons; broker consent does not authorize direct payment to a salesperson.",
+        "Timing is irrelevant — after closing or before, the payment must flow through the employing broker."
+      ],
+      "terms": [
+        "salesperson",
+        "broker"
+      ]
+    },
+    {
+      "id": "PRIN-01-002",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 1,
+      "stem": "The California Real Estate Commissioner's primary responsibility is to:",
+      "options": [
+        "Resolve deposit disputes between buyers and sellers",
+        "Set maximum commission rates for residential sales",
+        "Enforce the Real Estate Law for the protection of the public",
+        "Represent licensees' interests before the Legislature"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Private contract disputes belong in the courts; the Commissioner disciplines licensees but does not adjudicate deposits.",
+        "Commissions are always negotiable; no government body sets rates, and price-fixing would violate antitrust law.",
+        "Correct. The Commissioner heads the DRE and enforces the Real Estate Law and Regulations to protect consumers.",
+        "The DRE exists to protect the public, not to advocate for licensees — that is the role of trade associations."
+      ],
+      "terms": [
+        "Real Estate Commissioner",
+        "DRE"
+      ]
+    },
+    {
+      "id": "PRIN-01-003",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 1,
+      "stem": "Which statement about the term 'Realtor®' is TRUE?",
+      "options": [
+        "All California licensees are Realtors®",
+        "It is a license classification issued by the DRE",
+        "It designates a licensee who belongs to the National Association of Realtors",
+        "Only brokers may use the designation"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Membership is voluntary; many licensees never join NAR and may not use the mark.",
+        "The DRE issues salesperson and broker licenses; 'Realtor®' is a private trade-association mark, not a license.",
+        "Correct. Realtor® identifies a NAR member bound by its Code of Ethics — a designation layered on top of the state license.",
+        "Both salespersons and brokers may join NAR and use the designation."
+      ],
+      "terms": [
+        "Realtor®",
+        "NAR"
+      ]
+    },
+    {
+      "id": "PRIN-01-004",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which of the following persons needs a California real estate license for the described activity?",
+      "options": [
+        "An owner selling her own Glendora duplex",
+        "An attorney reviewing a purchase contract for a client in his law practice",
+        "A trustee conducting a trustee's sale under a deed of trust",
+        "A neighbor who, for a fee, finds tenants for several nearby rental owners"
+      ],
+      "answer": 3,
+      "rationales": [
+        "Owners dealing with their own property are exempt — the activity is not 'for another.'",
+        "Attorneys performing legal services in the ordinary course of practice are exempt.",
+        "Trustees selling under a power of sale act under the trust deed's authority and are exempt.",
+        "Correct. Soliciting and placing tenants for others for compensation is licensed activity; doing it repeatedly for fees requires a license."
+      ],
+      "terms": [
+        "licensed activity"
+      ]
+    },
+    {
+      "id": "PRIN-01-005",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 1,
+      "stem": "The California salesperson exam consists of:",
+      "options": [
+        "100 questions, 3 hours, 75% to pass",
+        "150 questions, 3 hours 15 minutes, 70% to pass",
+        "200 questions, 4 hours, 70% to pass",
+        "150 questions, 3 hours 15 minutes, 75% to pass"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Wrong count, time, and passing score — these figures describe no California exam.",
+        "Correct. 150 multiple-choice questions, 3 hours 15 minutes, and 70% (105 correct) to pass.",
+        "200 questions and 4 hours describe the broker exam format, not the salesperson exam.",
+        "The question count and time are right, but the passing score is 70%, not 75%."
+      ],
+      "terms": []
+    },
+    {
+      "id": "PRIN-01-006",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A salesperson's license was issued on June 1. It will expire, unless renewed, after:",
+      "options": [
+        "One year",
+        "Two years",
+        "Four years",
+        "It does not expire while the licensee remains with the same broker"
+      ],
+      "answer": 2,
+      "rationales": [
+        "There is no one-year license term in California.",
+        "Two years is a common term in other states — a classic distractor — but not California's.",
+        "Correct. California real estate licenses run four years and renew with 45 hours of approved continuing education.",
+        "Every license expires on schedule regardless of employment; staying with a broker does not extend it."
+      ],
+      "terms": []
+    },
+    {
+      "id": "PRIN-01-007",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "An advertisement for a La Verne listing shows only a phone number and the words 'Charming 3BR — priced to sell — call today!' The ad is placed by a salesperson. This advertisement is best described as:",
+      "options": [
+        "Lawful, because ads need not identify the property owner",
+        "Lawful puffing",
+        "A prohibited blind ad, because it conceals that the advertiser is a licensee",
+        "Permissible if the broker approved the wording"
+      ],
+      "answer": 2,
+      "rationales": [
+        "The defect is not about the owner's identity — it is that the ad hides the licensee/agency status.",
+        "Puffing concerns exaggerated opinion about the property; this issue is concealment of licensed status.",
+        "Correct. An ad by a licensee that fails to reveal the licensee is acting as an agent is a blind ad and is prohibited.",
+        "Broker approval cannot authorize an ad that violates the disclosure regulations."
+      ],
+      "terms": [
+        "blind ad"
+      ]
+    },
+    {
+      "id": "PRIN-01-008",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A buyer wins a $90,000 fraud judgment against a now-bankrupt licensee and cannot collect. The buyer's best recourse through the DRE is:",
+      "options": [
+        "Petitioning the Commissioner to garnish the licensee's future commissions",
+        "Filing an application against the Consumer Recovery Account",
+        "Requesting the DRE reissue the judgment as an administrative fine",
+        "Asking NAR to pay the judgment from its ethics fund"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The Commissioner has no garnishment power over private judgments.",
+        "Correct. The Consumer Recovery Account pays victims of licensee fraud who hold uncollectible judgments, up to statutory limits, and suspends the licensee's license until repayment.",
+        "The DRE cannot convert a civil judgment into its own fine.",
+        "NAR is a trade association with no fund for paying members' fraud judgments."
+      ],
+      "terms": [
+        "Consumer Recovery Account"
+      ]
+    },
+    {
+      "id": "PRIN-01-009",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "A Covina home sells for $940,000. Total commission is 5%, split evenly between listing and selling sides. The buyer's-side salesperson keeps 60% of his side under his broker agreement. The salesperson receives:",
+      "options": [
+        "$47,000",
+        "$23,500",
+        "$14,100",
+        "$28,200"
+      ],
+      "answer": 2,
+      "rationales": [
+        "$47,000 is the total commission (940,000 × 5%) — the calculation stopped too early.",
+        "$23,500 is one side's share (half the total) — the broker split has not been applied yet.",
+        "Correct. 940,000 × 0.05 = 47,000; ÷ 2 = 23,500 per side; × 0.60 = $14,100 to the salesperson.",
+        "$28,200 applies 60% to the full commission instead of to one side."
+      ],
+      "terms": [
+        "commission"
+      ]
+    },
+    {
+      "id": "PRIN-01-010",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "For supervision under the Real Estate Law, a salesperson working at a brokerage on a 1099 independent-contractor basis is treated as:",
+      "options": [
+        "An independent principal responsible only for her own conduct",
+        "The employee of her responsible broker",
+        "A subagent of every client of the brokerage",
+        "A co-broker with limited authority"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Tax status does not remove the broker's supervision duty or responsibility to the public.",
+        "Correct. Regardless of independent-contractor tax treatment, license law treats the salesperson as the broker's employee for supervision and accountability.",
+        "Subagency describes agency relationships with clients, not the broker–salesperson employment relationship.",
+        "'Co-broker' is not a license relationship; a salesperson always acts under one responsible broker."
+      ],
+      "terms": [
+        "responsible broker"
+      ]
+    },
+    {
+      "id": "PRIN-01-011",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "A licensee from Texas moves to San Dimas and wants to sell homes in California. She must:",
+      "options": [
+        "Convert her Texas license under the interstate reciprocity compact",
+        "Qualify for and pass the California exam like any other applicant",
+        "Practice under a California broker for one year, then exchange licenses",
+        "Register her Texas license with the DRE and pay a transfer fee"
+      ],
+      "answer": 1,
+      "rationales": [
+        "California belongs to no reciprocity compact for real estate licenses.",
+        "Correct. California has no license reciprocity with any state; every applicant must meet California's education, application, and exam requirements.",
+        "There is no supervised-practice pathway to exchanging an out-of-state license.",
+        "The DRE has no registration or transfer process for out-of-state licenses."
+      ],
+      "terms": [
+        "reciprocity"
+      ]
+    },
+    {
+      "id": "PRIN-01-012",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which task may an UNLICENSED assistant at a West Covina brokerage lawfully perform?",
+      "options": [
+        "Hosting an open house alone and quoting the seller's bottom-line price to visitors",
+        "Preparing and mailing the broker's marketing flyers at the broker's direction",
+        "Calling expired listings to solicit new business for the team",
+        "Negotiating a repair credit with the buyer's agent"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Discussing price and terms with prospects is licensed activity; an unlicensed person cannot host and negotiate alone.",
+        "Correct. Clerical and administrative work — preparing and mailing marketing at a licensee's direction — does not require a license.",
+        "Soliciting listings is squarely licensed activity.",
+        "Negotiating terms, including repair credits, requires a license."
+      ],
+      "terms": [
+        "licensed activity"
+      ]
+    },
+    {
+      "id": "PRIN-01-013",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "An unlicensed 'consultant' negotiated the sale of an Upland fourplex for an investor who promised him 2% of the price. The investor now refuses to pay. If the consultant sues for the fee, a court will most likely:",
+      "options": [
+        "Award the fee, because the services were actually performed",
+        "Award a reduced fee in quantum meruit",
+        "Deny recovery, because he cannot lawfully collect compensation for unlicensed activity",
+        "Refer the dispute to the Real Estate Commissioner for arbitration"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Performance does not matter; the law refuses to enforce fee claims for unlicensed licensed-activity.",
+        "Courts do not grant fallback recovery for activity that required a license the plaintiff lacked.",
+        "Correct. A person must be licensed at the time of the act to maintain an action for compensation for licensed activity; the claim fails, and the conduct may also be criminally punishable.",
+        "The Commissioner disciplines licensees; he does not arbitrate private fee disputes."
+      ],
+      "terms": [
+        "licensed activity"
+      ]
+    },
+    {
+      "id": "PRIN-01-014",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 1,
+      "stem": "To sit for the California salesperson examination, an applicant must first complete:",
+      "options": [
+        "Real Estate Principles only",
+        "Real Estate Principles, Real Estate Practice, and one approved elective",
+        "Any five college-level real estate courses",
+        "Real Estate Practice and two years of experience"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Principles alone was sufficient decades ago — today all three statutory courses are required before the exam.",
+        "Correct. Three 45-hour courses: Principles, Practice, and one elective (such as Legal Aspects of Real Estate).",
+        "Five courses overshoots the salesperson requirement (eight courses is the broker education standard).",
+        "Experience is a broker requirement; salesperson applicants need education, not experience."
+      ],
+      "terms": []
+    },
+    {
+      "id": "PRIN-01-015",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Broker Lin wants to run her Ontario brokerage as 'Inland Empire Home Experts.' Before advertising under that name she must:",
+      "options": [
+        "Record the name with the county recorder only",
+        "Obtain a license from the DRE issued under that fictitious business name",
+        "Register the name with NAR",
+        "Nothing — brokers may use any trade name at will"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A county FBN filing may also be needed for business law purposes, but license law requires more.",
+        "Correct. A broker may operate under a fictitious business name only if the DRE has licensed the broker under that name.",
+        "NAR governs the Realtor® mark, not trade-name licensing.",
+        "Operating under an unlicensed DBA violates the Real Estate Law."
+      ],
+      "terms": [
+        "fictitious business name (DBA)"
+      ]
+    },
+    {
+      "id": "PRIN-01-016",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "The formal pleading that begins a DRE disciplinary proceeding against a CURRENT licensee is called a(n):",
+      "options": [
+        "Statement of issues",
+        "Accusation",
+        "Desist and refrain order",
+        "Citation of record"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A statement of issues is filed against an applicant seeking a license, not an existing licensee.",
+        "Correct. Discipline against an existing licensee begins with an accusation, heard under the Administrative Procedure Act.",
+        "A desist and refrain order halts specific conduct; it is not the disciplinary pleading itself.",
+        "'Citation of record' is not a DRE disciplinary instrument."
+      ],
+      "terms": [
+        "accusation"
+      ]
+    },
+    {
+      "id": "PRIN-01-017",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 2,
+      "stem": "Which statement about real estate commissions in California is TRUE?",
+      "options": [
+        "The DRE publishes a schedule of customary rates by county",
+        "Commission rates are set by local Realtor® associations",
+        "Rates are fully negotiable between the client and the broker",
+        "Residential commissions are capped at 6% by statute"
+      ],
+      "answer": 2,
+      "rationales": [
+        "No government schedule of rates exists; publishing one would encourage illegal price-fixing.",
+        "An association setting rates would be a textbook antitrust violation.",
+        "Correct. Commissions are always negotiable; certain contracts must even carry a notice stating that rates are not fixed by law.",
+        "No statute caps residential commission rates."
+      ],
+      "terms": [
+        "commission"
+      ]
+    },
+    {
+      "id": "PRIN-01-018",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 1,
+      "blueprint_area": "practice-disclosures",
+      "difficulty": 3,
+      "stem": "Salesperson Diego, supervised by Broker Ruiz, drafts a two-page custom addendum creating a seller carry-back with novel default remedies for a Pomona sale, explaining the legal effects to both parties. Diego has most likely:",
+      "options": [
+        "Acted properly, because licensees may complete transaction documents",
+        "Engaged in the unauthorized practice of law",
+        "Acted properly if Broker Ruiz reviews the addendum",
+        "Violated the statute of frauds"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Licensees may fill in blanks on standard forms incident to a transaction — drafting novel legal provisions and advising on legal effect goes beyond that.",
+        "Correct. Drafting custom legal language and advising parties on its legal consequences is practicing law, which a real estate license does not authorize.",
+        "Broker review does not convert legal drafting into permitted licensed activity.",
+        "The statute of frauds concerns which contracts must be written; it is not violated by drafting one."
+      ],
+      "terms": []
+    }
+  ]
+}

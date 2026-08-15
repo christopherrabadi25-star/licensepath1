@@ -1,0 +1,466 @@
+{
+  "id": "legal-aspects-09",
+  "course_slug": "legal-aspects",
+  "unit_number": 9,
+  "title": "Land Use & Environmental Law",
+  "estimated_hours": 3,
+  "blueprint_areas": [
+    "ownership-land-use"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Distinguish** the police power basis for zoning from eminent domain and inverse condemnation.\n2. **Explain** CEQA's basic review process and why it matters to development timelines.\n3. **Apply** the difference between a variance and a nonconforming use.\n4. **Identify** major California environmental disclosure and liability regimes affecting real estate.\n5. **Analyze** how state housing-production laws override local discretion in specific circumstances.\n6. **Recognize** common environmental red flags in a transaction (contamination, hazard zones, wells/septic).\n7. **Advise** (within license scope) on when a land-use or environmental question needs specialized counsel.\n\n---\n\n## 1. Police Power: The Constitutional Basis for Land Use Regulation\n\nGovernment land-use regulation — zoning, building codes, subdivision requirements — rests on the **police power**: the government's inherent constitutional authority to regulate property for public health, safety, morals, and general welfare, without paying compensation to affected owners. This is fundamentally different from **eminent domain**, where the government actually takes private property for public use and **must** pay just compensation (Principles Unit 14).\n\n**Inverse condemnation** is the mirror image of eminent domain: it is a lawsuit a property owner brings when government action or regulation has effectively taken or damaged their property *without* formally exercising eminent domain and without paying compensation — for example, government-caused flooding, or a regulation so restrictive it deprives the owner of essentially all economically viable use of the land. Courts distinguish a lawful, uncompensated police-power regulation from a regulation so extreme it becomes a compensable \"regulatory taking\" — a fact-intensive line that is genuinely difficult to draw and is squarely litigated territory, not something a licensee assesses independently.\n\n## 2. Zoning: Variances vs. Nonconforming Uses\n\n**Zoning** divides land into districts with permitted uses, density, height, and setback rules, adopted under police power pursuant to a jurisdiction's general plan. Two related but distinct concepts often confused:\n\n- A **variance** is permission granted to deviate from the zoning ordinance for a *specific parcel*, typically because strict application would create an unusual and unnecessary hardship unique to that property (an oddly shaped lot, for example) — granted prospectively, through an application and hearing process, and generally requires showing the variance will not harm the surrounding area or grant a special privilege inconsistent with other properties in the zone.\n- A **legal nonconforming use** is a use that was lawful when established but no longer conforms to a *later-adopted* zoning change — the property is generally allowed to continue that use (\"grandfathered\"), but the right is typically narrow: it usually cannot be expanded, and it can often be lost if abandoned for a specified period or if the structure is destroyed beyond a specified extent and not promptly rebuilt. <!-- VERIFY: current statutory/local abandonment and rebuild thresholds, which vary by jurisdiction -->\n\n### Worked Example 1 — Variance vs. nonconforming use in the same neighborhood (Claremont)\n\nTwo properties on the same street both sit closer to the front property line than the current zoning setback allows. Property A's structure was built decades ago, before the setback rule existed, and has been continuously used the same way since. Property B's owner wants to build a new addition that would sit at the same close-to-street distance, in violation of the current setback.\n\n**Analysis.** Property A is a **legal nonconforming use** — grandfathered because it predates the rule and has been in continuous use; it generally does not need approval to continue as-is, but expanding it further into the setback would likely exceed what grandfathering protects. Property B's owner, by contrast, needs a **variance** — a new, forward-looking exception — and will have to show the setback creates a unique hardship on that specific lot, not just that the addition would be convenient or that the neighboring nonconforming structure looks similar.\n\n## 3. CEQA: California's Environmental Review Framework\n\nThe **California Environmental Quality Act (CEQA)** requires state and local government agencies to evaluate and disclose the environmental impacts of discretionary projects they approve, and to adopt feasible mitigation measures or alternatives where significant impacts are identified. It applies broadly to new development, general plan amendments, and many other discretionary government approvals.\n\n**CEQA review, in outline:**\n\n1. An initial determination of whether the project is exempt (many routine or minor projects are).\n2. If not exempt, an **Initial Study** to determine whether the project may have a significant environmental effect.\n3. If significant effects are possible, either a **Negative Declaration** (project modified to avoid significant impacts) or a full **Environmental Impact Report (EIR)** — a detailed, often lengthy analysis of impacts, alternatives, and mitigation.\n\n**Why agents care:** CEQA review, and especially a required EIR, can add substantial time and cost to a development project and is a frequent target of litigation by opponents of a project (sometimes for genuine environmental concerns, sometimes as a delay tactic in unrelated disputes). An agent representing a buyer of undeveloped or underdeveloped land who is not aware that a planned use may trigger significant CEQA review — and the accompanying timeline risk — has not adequately served that client. <!-- VERIFY: current CEQA streamlining exemptions for housing, which have expanded significantly in recent years -->\n\n## 4. State Housing Law Overriding Local Discretion\n\nIn recent years, California has enacted a series of statutes designed to override local government discretion specifically to increase housing production, in response to a severe statewide housing shortage — a significant and evolving area. Broadly, these laws:\n\n- Limit a local jurisdiction's ability to deny or unreasonably condition qualifying housing developments that comply with objective zoning and design standards (the **Housing Accountability Act** framework).\n- Allow, by right in many single-family zones, the addition of accessory dwelling units (ADUs) and junior ADUs, subject to state-set standards that cities cannot make more restrictive than the state minimum in most respects.\n- Create streamlined, ministerial approval pathways for certain qualifying multifamily and affordable projects that meet objective criteria, bypassing much of the discretionary review process (and, often, CEQA review) that would otherwise apply.\n\n<!-- VERIFY: current statutory citations and specific thresholds for ADU standards and streamlined approval pathways — this is one of the fastest-moving areas of California land use law and changes nearly every legislative session -->\n\n**Why this matters:** a licensee working with a buyer interested in an ADU, a small-lot subdivision, or infill multifamily development needs to know, at minimum, that state law has meaningfully expanded what an owner can do \"by right\" in many zones — and that local staff resistance to a qualifying project is not necessarily the last word.\n\n## 5. Environmental Liability and Disclosure\n\nBeyond zoning and CEQA, several environmental regimes intersect directly with real estate transactions:\n\n- **Superfund/state cleanup liability** — under federal and California hazardous substance cleanup law, current and prior owners of contaminated property can face liability for cleanup costs, in some cases regardless of who actually caused the contamination — a doctrine with real teeth for buyers of industrial or formerly industrial property.\n- **Natural Hazard Disclosure** — flood zones, fire hazard severity zones, seismic hazard zones, and earthquake fault zones must be disclosed (Principles Unit 9); this is distinct from, but related to, broader environmental review.\n- **Wells, septic systems, and underground storage tanks** — properties outside sewer/municipal water service, or with a history of fuel storage tanks, carry environmental and disclosure considerations that a standard residential transaction on municipal utilities does not.\n- **Mold, asbestos, and lead-based paint** — each carries its own disclosure regime layered onto the general material-fact disclosure duty (Principles Unit 9), with lead-based paint disclosure specifically required for pre-1978 housing under federal law.\n\n### Worked Example 2 — The former dry cleaner site (Pomona)\n\nA buyer is interested in a commercial parcel that operated as a dry-cleaning business for thirty years before closing a decade ago. Standard dry-cleaning solvents are known groundwater contaminants.\n\n**Analysis.** This is exactly the fact pattern where an agent should insist on a **Phase I Environmental Site Assessment** before the buyer removes contingencies — a professional environmental consultant's review of historical use and records to identify potential contamination risk, which can then lead to a Phase II (actual soil/groundwater testing) if the Phase I flags concerns. Given potential owner liability for cleanup regardless of fault, a buyer who skips this step on a site with an obvious contamination history risk profile is taking on exposure that can dwarf the property's purchase price. This is squarely a case for environmental counsel and licensed consultants, not general due diligence alone.\n\n## 6. The Licensee's Role\n\nLand use and environmental law intersect with real estate constantly, but licensees are not land-use attorneys, environmental consultants, or CEQA specialists. The professional standard is **pattern recognition**: know enough to spot a zoning nonconformity, a likely CEQA trigger, a possible ADU opportunity, or an environmental red flag — and route it to the right specialist (land-use attorney, environmental consultant, city planning department) before the client is contractually committed, not after.\n\n## 7. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Police power** | Government's constitutional authority to regulate property for public health, safety, and welfare without compensation. |\n| **Inverse condemnation** | A property owner's claim that government action effectively took or damaged property without formal eminent domain or compensation. |\n| **Variance** | Permission to deviate from zoning for a specific parcel due to unique hardship. |\n| **Legal nonconforming use** | A grandfathered use lawful when established, no longer conforming to later zoning. |\n| **CEQA** | California's environmental review law requiring disclosure and mitigation of significant project impacts. |\n| **Environmental Impact Report (EIR)** | The detailed CEQA document required when significant environmental effects are identified. |\n| **Housing Accountability Act** | A framework limiting local denial of qualifying housing developments meeting objective standards. |\n| **Phase I Environmental Site Assessment** | A historical-use review identifying potential contamination risk before further testing. |\n\n## 8. Exam and Practice Tips\n\n- Police power regulates without compensation; eminent domain takes with compensation; inverse condemnation is the owner's claim when uncompensated regulation goes too far.\n- A variance is a forward-looking, parcel-specific exception; a nonconforming use is a grandfathered pre-existing use under new rules — do not confuse the two.\n- CEQA can add real time and cost to development; know the basic Initial Study → Negative Declaration/EIR sequence.\n- State housing laws increasingly override local discretion for qualifying projects, especially ADUs and objective-standard housing developments.\n- Owner liability for contamination cleanup can attach regardless of fault — a Phase I assessment is the standard first step on a red-flag site.\n- The licensee's job is pattern recognition and referral, not land-use or environmental legal analysis.\n\n## 9. Unit Assessment\n\nThe 18-question assessment lives in `/content/question-bank/legal-aspects/unit-09.json` with full per-option rationales.",
+  "word_count": 1794,
+  "questions": [
+    {
+      "id": "LEGAL-09-001",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 9,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Zoning regulation is grounded in:",
+      "options": [
+        "Eminent domain",
+        "Police power",
+        "Inverse condemnation",
+        "Adverse possession"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Eminent domain involves a formal taking with compensation.",
+        "Correct. Zoning rests on police power, regulating without compensation.",
+        "Inverse condemnation is a claim against uncompensated government action.",
+        "Adverse possession is unrelated to zoning authority."
+      ],
+      "terms": [
+        "police power"
+      ]
+    },
+    {
+      "id": "LEGAL-09-002",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 9,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Eminent domain differs from police power because eminent domain:",
+      "options": [
+        "Requires just compensation for a taking",
+        "Never requires compensation",
+        "Only applies to zoning",
+        "Is the same legal doctrine as police power"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. Eminent domain requires just compensation for a formal taking.",
+        "Police power, not eminent domain, generally does not require compensation.",
+        "Eminent domain is broader than zoning specifically.",
+        "They are distinct doctrines."
+      ],
+      "terms": [
+        "police power"
+      ]
+    },
+    {
+      "id": "LEGAL-09-003",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 9,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "Inverse condemnation is best described as:",
+      "options": [
+        "A government lawsuit to acquire property",
+        "A property owner's claim that uncompensated government action effectively took or damaged property",
+        "A tax assessment appeal",
+        "A type of zoning variance"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It is the owner's claim, not the government's acquisition action.",
+        "Correct. It is the owner's remedy when government action effectively takes or damages property without formal compensation.",
+        "It is not a tax appeal.",
+        "It is not a zoning variance."
+      ],
+      "terms": [
+        "inverse condemnation"
+      ]
+    },
+    {
+      "id": "LEGAL-09-004",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 9,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "A variance is best described as:",
+      "options": [
+        "A grandfathered pre-existing use",
+        "Prospective permission to deviate from zoning for a specific parcel due to unique hardship",
+        "A federal environmental permit",
+        "Automatic upon request"
+      ],
+      "answer": 1,
+      "rationales": [
+        "That describes a nonconforming use.",
+        "Correct. A variance is forward-looking relief granted for a specific parcel's unique hardship.",
+        "It is a local land-use approval, not a federal environmental permit.",
+        "It requires an application and hearing process, not automatic grant."
+      ],
+      "terms": [
+        "variance"
+      ]
+    },
+    {
+      "id": "LEGAL-09-005",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 9,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A legal nonconforming use is:",
+      "options": [
+        "A newly requested exception to current zoning",
+        "A use lawful when established that no longer conforms to later-adopted zoning",
+        "Always illegal and must be terminated immediately",
+        "The same thing as a variance"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It is not a newly requested exception.",
+        "Correct. It is a grandfathered pre-existing use under later zoning changes.",
+        "It is generally allowed to continue, not automatically illegal.",
+        "It is a distinct concept from a variance."
+      ],
+      "terms": [
+        "legal nonconforming use"
+      ]
+    },
+    {
+      "id": "LEGAL-09-006",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 9,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "An older structure built before a setback rule existed and continuously used since then most likely qualifies as:",
+      "options": [
+        "A variance",
+        "A legal nonconforming use",
+        "An eminent domain taking",
+        "An unlawful detainer"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It was not granted prospectively for a new deviation; it predates the rule.",
+        "Correct. Continuous pre-existing use under an older rule is a nonconforming use.",
+        "This is unrelated to eminent domain.",
+        "Unlawful detainer is unrelated to zoning."
+      ],
+      "terms": [
+        "legal nonconforming use"
+      ]
+    },
+    {
+      "id": "LEGAL-09-007",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 9,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A legal nonconforming use is generally lost if:",
+      "options": [
+        "The property is sold to a new owner",
+        "It is abandoned for a specified period or the structure is destroyed beyond a threshold and not rebuilt",
+        "The city changes its general plan",
+        "The owner paints the building"
+      ],
+      "answer": 1,
+      "rationales": [
+        "A sale alone does not eliminate a nonconforming use.",
+        "Correct. Abandonment or significant destruction without timely rebuilding can end the grandfathered right.",
+        "A general plan change alone does not automatically strip existing nonconforming status.",
+        "Painting is unrelated."
+      ],
+      "terms": [
+        "legal nonconforming use"
+      ]
+    },
+    {
+      "id": "LEGAL-09-008",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 9,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "CEQA primarily requires:",
+      "options": [
+        "Government agencies to evaluate and disclose environmental impacts of discretionary projects",
+        "Private sellers to remediate all contamination before listing",
+        "Buyers to waive environmental review",
+        "Only federal agencies to conduct review"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. CEQA requires state/local agency evaluation and disclosure of significant environmental impacts.",
+        "CEQA does not impose a private seller remediation mandate by itself.",
+        "Buyers are not required to waive review under CEQA.",
+        "CEQA is a California state law, not limited to federal agencies."
+      ],
+      "terms": [
+        "CEQA"
+      ]
+    },
+    {
+      "id": "LEGAL-09-009",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 9,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 3,
+      "stem": "Under CEQA, if an Initial Study finds a project may have significant environmental effects that cannot be avoided, the likely next step is:",
+      "options": [
+        "Automatic project denial",
+        "A Negative Declaration or a full Environmental Impact Report",
+        "Immediate approval with no further review",
+        "A quiet title action"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Significant effects do not automatically mean denial.",
+        "Correct. Depending on whether impacts can be mitigated, a Negative Declaration or EIR follows.",
+        "Further review, not immediate approval, follows a finding of significant effects.",
+        "Quiet title is unrelated to CEQA review."
+      ],
+      "terms": [
+        "Environmental Impact Report (EIR)"
+      ]
+    },
+    {
+      "id": "LEGAL-09-010",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 9,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "An Environmental Impact Report (EIR) is generally required when:",
+      "options": [
+        "A project is fully exempt from CEQA",
+        "A project may have significant environmental effects not avoidable through minor changes",
+        "Every routine building permit is issued",
+        "Never for residential development"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Exempt projects do not require an EIR.",
+        "Correct. An EIR is used for significant, unavoidable environmental effects.",
+        "Routine permits typically do not require a full EIR.",
+        "EIRs can apply to residential development under the right circumstances."
+      ],
+      "terms": [
+        "Environmental Impact Report (EIR)"
+      ]
+    },
+    {
+      "id": "LEGAL-09-011",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 9,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "California's Housing Accountability Act framework generally:",
+      "options": [
+        "Gives local governments unlimited discretion to deny housing",
+        "Limits local denial of qualifying housing developments meeting objective standards",
+        "Bans all new housing development",
+        "Applies only to commercial projects"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It limits, rather than expands, unrestricted local denial power.",
+        "Correct. It restricts denial or unreasonable conditioning of qualifying, objective-standard-compliant housing projects.",
+        "It is designed to increase, not ban, housing development.",
+        "It concerns housing development, not primarily commercial projects."
+      ],
+      "terms": [
+        "Housing Accountability Act"
+      ]
+    },
+    {
+      "id": "LEGAL-09-012",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 9,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Recent California state law has generally made ADU (accessory dwelling unit) approval:",
+      "options": [
+        "More restrictive than before",
+        "More permissive, often allowed by right in many single-family zones subject to state standards",
+        "Illegal statewide",
+        "Only available to commercial developers"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The trend has been toward permissiveness, not restriction.",
+        "Correct. State law has expanded ADU rights, limiting how restrictive local rules can be.",
+        "ADUs are not illegal; state law has expanded their availability.",
+        "ADUs primarily concern single-family and residential property owners, not commercial developers specifically."
+      ],
+      "terms": [
+        "Housing Accountability Act"
+      ]
+    },
+    {
+      "id": "LEGAL-09-013",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 9,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Under federal and California hazardous substance cleanup law, liability for contamination cleanup can attach to:",
+      "options": [
+        "Only the party who originally caused the contamination",
+        "Current and prior owners, in some cases regardless of fault",
+        "No one if the contamination is old enough",
+        "Only government agencies"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Liability can reach beyond only the original polluter.",
+        "Correct. Current and prior owners can face cleanup liability regardless of fault in some circumstances.",
+        "Age of contamination does not eliminate liability exposure.",
+        "Private owners, not only government agencies, can face this liability."
+      ],
+      "terms": [
+        "Superfund/state cleanup liability"
+      ]
+    },
+    {
+      "id": "LEGAL-09-014",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 9,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A buyer considering a commercial parcel with a decades-long history as a dry-cleaning business should be advised to consider:",
+      "options": [
+        "Skipping environmental due diligence to save time",
+        "A Phase I Environmental Site Assessment before removing contingencies",
+        "Relying solely on the seller's verbal assurance",
+        "Waiting until after closing to investigate"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Skipping due diligence on a red-flag site risks major exposure.",
+        "Correct. A Phase I assessment is the standard first step given the contamination-risk profile.",
+        "A verbal assurance is not adequate due diligence.",
+        "Waiting until after closing removes the ability to negotiate or walk away."
+      ],
+      "terms": [
+        "Phase I Environmental Site Assessment"
+      ]
+    },
+    {
+      "id": "LEGAL-09-015",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 9,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A Phase II environmental assessment typically follows a Phase I when:",
+      "options": [
+        "The Phase I found no concerns at all",
+        "The Phase I flagged potential contamination risk warranting actual testing",
+        "The buyer wants a lower price only",
+        "The seller requests it regardless of findings"
+      ],
+      "answer": 1,
+      "rationales": [
+        "No further testing is typically needed if Phase I found no concerns.",
+        "Correct. Phase II involves actual soil/groundwater testing triggered by Phase I findings.",
+        "Price negotiation alone does not drive the Phase I/Phase II sequence.",
+        "Phase II follows from Phase I findings, not simply seller preference."
+      ],
+      "terms": [
+        "Phase I Environmental Site Assessment"
+      ]
+    },
+    {
+      "id": "LEGAL-09-016",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 9,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "Lead-based paint disclosure under federal law is specifically required for:",
+      "options": [
+        "All commercial property",
+        "Housing built before 1978",
+        "New construction only",
+        "Rental property only, never sales"
+      ],
+      "answer": 1,
+      "rationales": [
+        "It is a residential requirement tied to housing age, not all commercial property.",
+        "Correct. Federal law requires lead-based paint disclosure for pre-1978 housing.",
+        "New construction after 1978 does not carry this same requirement.",
+        "It applies to both sales and rentals of qualifying pre-1978 housing."
+      ],
+      "terms": [
+        "lead-based paint disclosure"
+      ]
+    },
+    {
+      "id": "LEGAL-09-017",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 9,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "A property using a well and septic system rather than municipal utilities:",
+      "options": [
+        "Requires no additional disclosure consideration",
+        "Carries additional environmental and disclosure considerations beyond a standard municipal-utility transaction",
+        "Cannot legally be sold",
+        "Is automatically exempt from NHD requirements"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Additional considerations do apply.",
+        "Correct. Wells and septic systems raise distinct environmental and disclosure issues.",
+        "Such properties can be lawfully sold with proper disclosure.",
+        "NHD requirements are separate and not automatically waived by utility type."
+      ],
+      "terms": [
+        "wells and septic systems"
+      ]
+    },
+    {
+      "id": "LEGAL-09-018",
+      "source": "unit",
+      "course_slug": "legal-aspects",
+      "unit_number": 9,
+      "blueprint_area": "ownership-land-use",
+      "difficulty": 2,
+      "stem": "When a licensee spots a likely CEQA trigger, a possible zoning nonconformity, or an environmental red flag, the correct action is to:",
+      "options": [
+        "Resolve it personally using general real estate knowledge",
+        "Recognize it and route it to the appropriate specialist before the client is contractually committed",
+        "Ignore it unless the client specifically asks",
+        "Wait until after closing to raise it"
+      ],
+      "answer": 1,
+      "rationales": [
+        "These are specialist determinations outside general license scope.",
+        "Correct. Early recognition and referral is the professional standard.",
+        "Proactive recognition, not waiting to be asked, is the standard expected of a licensee.",
+        "Waiting until after closing removes the client's ability to act on the information."
+      ],
+      "terms": [
+        "CEQA"
+      ]
+    }
+  ]
+}

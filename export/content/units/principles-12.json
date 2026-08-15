@@ -1,0 +1,529 @@
+{
+  "id": "principles-12",
+  "course_slug": "principles",
+  "unit_number": 12,
+  "title": "Real Estate Finance II: Markets, Loans & Programs",
+  "estimated_hours": "2.5",
+  "blueprint_areas": [
+    "financing",
+    "valuation"
+  ],
+  "status": "self-reviewed",
+  "sb263_component": false,
+  "body_markdown": "## Learning Objectives\n\nBy the end of this unit you will be able to:\n\n1. **Distinguish** the primary and secondary mortgage markets and describe the roles of Fannie Mae, Freddie Mac, and Ginnie Mae.\n2. **Compare** conventional, FHA, VA, and CalVet loans on down payment, insurance, and eligibility.\n3. **Explain** mortgage insurance: PMI on conventional loans and MIP on FHA loans.\n4. **Calculate** loan-to-value ratios, discount points, and monthly principal and interest using a factor table.\n5. **Describe** amortization and distinguish fully amortized, partially amortized, and interest-only loans.\n6. **Explain** adjustable-rate mortgage components: index, margin, caps, and adjustment periods.\n7. **Summarize** the consumer protection framework: TILA/Reg Z, RESPA, ECOA, and predatory lending rules.\n8. **Identify** seller financing structures and their risks.\n\n---\n\n## 1. Two Markets\n\nThe **primary mortgage market** is where loans are originated — where your buyer sits across from a loan officer. Banks, credit unions, mortgage bankers, and mortgage brokers operate here.\n\nThe **secondary mortgage market** is where existing loans are bought and sold as investments. This is the part students find abstract, so anchor it in a practical fact: **it is why your buyer's loan gets sold three weeks after closing**, and why lenders care so much about whether a loan is \"conforming.\"\n\nThe mechanism matters. A lender with $50 million to lend can make $50 million in loans and then stop — unless it can sell those loans to someone else and recycle the capital. The secondary market lets lenders sell loans, replenish funds, and lend again. That recycling is what keeps mortgage money available and rates competitive.\n\n**The main players:**\n\n- **Fannie Mae (FNMA)** — buys conventional loans, packages them into mortgage-backed securities, and sells them to investors.\n- **Freddie Mac (FHLMC)** — similar function, originally chartered to serve thrift institutions.\n- **Ginnie Mae (GNMA)** — a government corporation that **guarantees** securities backed by government loans (FHA, VA). Ginnie Mae does not buy loans the way Fannie and Freddie do; it guarantees timely payment on the securities.\n\nBecause Fannie and Freddie set the standards for loans they will purchase, those standards define the market:\n\n- A **conforming loan** meets their requirements, including the maximum loan amount, which adjusts periodically and is higher in high-cost California counties. <!-- VERIFY: current conforming loan limits, which change annually -->\n- A **jumbo (non-conforming) loan** exceeds those limits and is held in portfolio or sold privately, typically with stricter underwriting.\n\nNote the distinction the exam tests: **conventional means \"not government-backed\" (not FHA/VA)**, while **conforming means \"meets Fannie/Freddie standards.\"** A loan can be conventional but non-conforming (a jumbo).\n\n## 2. Loan Programs\n\n### Conventional loans\n\nNot insured or guaranteed by a government agency. The lender relies on the borrower's credit and the property's value.\n\n**Private mortgage insurance (PMI)** protects the *lender* against default and is generally required when the loan-to-value ratio exceeds **80%** — that is, when the borrower puts down less than 20%. Federal law provides for termination of PMI as the loan is paid down, with automatic termination and borrower-requested cancellation thresholds tied to the original value. <!-- VERIFY: current PMI cancellation thresholds under the Homeowners Protection Act -->\n\nUnderstand who PMI protects: **the lender, not the borrower.** Buyers routinely misunderstand this, and it is a favorite exam question.\n\n### FHA loans\n\nThe **Federal Housing Administration** does not lend money — it **insures** loans made by approved lenders, which lets those lenders accept lower down payments and more flexible credit. Features:\n\n- Low minimum down payment, making FHA the entry point for many first-time buyers.\n- **MIP (mortgage insurance premium)** in two parts: an **upfront** premium usually financed into the loan, plus an **annual** premium paid monthly. Depending on the loan terms, MIP may last the life of the loan — a real cost difference from conventional PMI that can be cancelled. <!-- VERIFY: current MIP duration rules and rates -->\n- Property must meet FHA minimum property standards, and the appraisal serves the lender's insurance decision.\n- FHA loan limits vary by county.\n\n### VA loans\n\nThe **Department of Veterans Affairs** **guarantees** a portion of loans made to eligible veterans, service members, and certain surviving spouses. Features:\n\n- **No down payment** required in most cases, and **no monthly mortgage insurance** — a significant advantage.\n- A **funding fee** applies, which may be financed and is waived for certain disabled veterans.\n- Eligibility is established by a **Certificate of Eligibility**.\n- The VA issues a **Certificate of Reasonable Value (CRV)** based on the appraisal; if the CRV comes in below the purchase price, the veteran may not be obligated to proceed at the higher price, and an escape clause protects them.\n\n### CalVet\n\nThe **California Department of Veterans Affairs** runs its own program. Structurally it is unusual: **CalVet buys the property and sells it to the veteran under a contract of sale**, holding legal title until the contract is paid. This differs from a normal loan, and the structure is testable.\n\n### Other structures\n\n- **Conventional insured** vs. **uninsured** — whether PMI applies.\n- **Blanket loan** — one loan covering multiple parcels, typically with a release clause (Unit 11).\n- **Construction loan** — short-term, disbursed in draws as work progresses, usually replaced by permanent \"takeout\" financing.\n- **Home equity line of credit (HELOC)** — revolving credit secured by a junior lien.\n- **Reverse mortgage** — for older homeowners, converting equity to income with repayment deferred; heavily regulated with counseling requirements. <!-- VERIFY: current counseling and eligibility requirements -->\n\n## 3. Amortization and Payment Structures\n\n**Amortization** is the repayment of a loan through periodic payments that cover interest and gradually reduce principal.\n\n- **Fully amortized loan** — regular payments retire the entire balance by maturity. The standard 30-year fixed loan. Early payments are mostly interest; later payments are mostly principal.\n- **Partially amortized loan** — payments reduce the balance but leave a **balloon payment** due at maturity.\n- **Interest-only loan** — payments cover interest only; the entire principal comes due at maturity.\n- **Negative amortization** — the payment is less than the interest accruing, so the unpaid interest is added to principal and **the balance grows**. This structure contributed heavily to the 2008 crisis and is now sharply restricted.\n\n**Straight note vs. installment note.** A straight note calls for interest-only payments with principal due at the end. An installment note calls for periodic payments of principal and interest.\n\n### Points\n\nA **point** is **1% of the loan amount**, paid at closing.\n\n- **Discount points** buy down the interest rate — prepaid interest that increases the lender's yield.\n- **Origination points** compensate the lender for making the loan.\n\nA rough rule of thumb taught in the industry is that one discount point raises the lender's yield by about an eighth of a percent, though actual pricing varies with market conditions. <!-- VERIFY: treat any specific point-to-yield ratio as a rule of thumb, not a rule -->\n\n## 4. Adjustable-Rate Mortgages\n\nAn **ARM** has an interest rate that changes over time. Its components:\n\n- **Index** — a published market rate the loan tracks (such as SOFR or a Treasury-based index). The lender does not control it.\n- **Margin** — the fixed percentage the lender adds to the index. **Index + margin = the fully indexed rate.**\n- **Adjustment period** — how often the rate can change.\n- **Caps** — limits on change: a **periodic cap** on each adjustment, and a **lifetime cap** on total increase.\n- **Teaser rate** — a discounted initial rate below the fully indexed rate.\n\nThe math is simple and testable: if the index is 4.25% and the margin is 2.75%, the fully indexed rate is **7.00%** — subject to whatever caps apply.\n\nCounsel buyers on the difference between the payment they qualify at and the payment they may face after adjustment. An ARM is a legitimate tool for a buyer who will genuinely sell or refinance within the fixed period; it is a trap for a buyer who assumes rates will fall.\n\n## 5. Consumer Protection Framework\n\n**TILA / Regulation Z (Truth in Lending).** Requires disclosure of the cost of credit, most importantly the **APR (annual percentage rate)**, which includes certain fees and therefore exceeds the note rate. Two provisions matter to you:\n\n- **Advertising trigger terms.** If an ad states a trigger term — down payment amount, payment amount, number of payments, or finance charge — it must also disclose the additional required terms. Vague ads (\"low down payment!\") avoid the trigger; specific ones (\"$2,100/month!\") require full disclosure. Agents create this exposure constantly in social media posts.\n- **Right of rescission.** On certain refinances and home equity loans secured by a borrower's **principal residence**, the borrower has **three business days** to rescind. This does **not** apply to a purchase-money loan on a home purchase — a distinction the exam tests.\n\n**RESPA (Real Estate Settlement Procedures Act).** Governs federally related mortgage loans on residential property. Key provisions:\n\n- **No kickbacks or unearned fees** for referrals of settlement services. This is the big one for agents: you may not accept anything of value for referring a client to a lender, title company, escrow, or home warranty provider. Marketing service agreements and co-marketing arrangements have generated substantial enforcement, so treat any \"we'll pay you for referrals\" offer as a red flag and take it to your broker.\n- **Affiliated business arrangement disclosure** required when referring to a business you have an ownership interest in.\n- **Required disclosures** — the Loan Estimate and Closing Disclosure, with the Closing Disclosure generally provided at least **three business days** before consummation. <!-- VERIFY: current TRID timing rules -->\n\n**ECOA (Equal Credit Opportunity Act).** Prohibits credit discrimination based on race, color, religion, national origin, sex, marital status, age, or because income derives from public assistance. Applies to lenders, and its logic parallels the fair housing rules in Unit 15.\n\n**Predatory lending and California rules.** California restricts certain high-cost loan features and imposes duties on mortgage originators; the industry also operates under federal ability-to-repay and qualified mortgage standards adopted after 2008. <!-- VERIFY: current high-cost loan thresholds and ability-to-repay standards --> The behaviors to recognize as predatory: equity stripping, loan flipping, steering to higher-cost products, undisclosed balloon payments, and pressure tactics against elderly or non-English-speaking borrowers.\n\n**Usury.** California limits interest rates on certain loans, but loans arranged by a licensed real estate broker are generally exempt — one practical reason hard-money lending flows through brokers. <!-- VERIFY: current usury limits and exemptions -->\n\n## 6. Seller Financing\n\n**Seller financing (purchase-money carry-back)** is credit the seller extends to the buyer, secured by the property. It appears when conventional financing is unavailable, when the seller wants installment tax treatment, or when a below-market existing loan makes creative structuring attractive.\n\n- **All-inclusive trust deed (AITD) / wraparound.** The seller's new note \"wraps\" the existing loan. The buyer pays the seller; the seller keeps paying the underlying lender and pockets the spread. The danger: if the underlying loan has a **due-on-sale clause**, the transfer can trigger acceleration — and if the seller stops paying the underlying loan, the buyer can lose the property despite making every payment.\n- **Land contract** (Unit 8) — the seller retains title until paid.\n- **Lease option** — a lease combined with a right to purchase.\n\nCalifornia requires a **seller financing disclosure statement** in certain purchase-money transactions involving one-to-four residential units, describing the terms, the risks, and the parties' credit information. <!-- VERIFY: current seller financing disclosure requirements and who must prepare it -->\n\nYour role: recognize these structures, flag the due-on-sale risk, and route the parties to an attorney. Do not draft carry-back terms yourself (Unit 1 — unauthorized practice of law).\n\n## 7. Worked Examples\n\n### Example 1 — LTV and PMI (Rancho Cucamonga)\n\nA buyer purchases at **$685,000** with **$96,000** down.\n\n**Walkthrough.**\n1. Loan amount: $685,000 − $96,000 = **$589,000**\n2. LTV: $589,000 ÷ $685,000 = 0.8598 = **85.98%, round to 86%**\n3. Because LTV exceeds 80%, the conventional lender will require **PMI**.\n4. **How much more down to avoid PMI?** 80% of $685,000 = $548,000 maximum loan. Required down payment: $685,000 − $548,000 = **$137,000**. The buyer needs **$41,000 more** ($137,000 − $96,000).\n\nRemember: LTV uses the **lesser of price or appraised value**. If this home appraised at $670,000, the LTV would be computed on $670,000, pushing it to 87.9% and increasing the shortfall.\n\n### Example 2 — Discount points (Ontario)\n\nA buyer takes a **$540,000** loan and pays **2.5 discount points** plus a **1 point** origination fee.\n\n**Walkthrough.**\n1. One point = 1% of the loan = $540,000 × 0.01 = **$5,400**\n2. Discount points: 2.5 × $5,400 = **$13,500**\n3. Origination fee: 1 × $5,400 = **$5,400**\n4. Total points paid at closing: **$18,900**\n\nThe classic trap: computing points on the **purchase price** instead of the **loan amount**. Points are always a percentage of the loan.\n\n### Example 3 — Monthly payment from a factor table (Fontana)\n\nLoan factor tables give the monthly principal and interest per $1,000 borrowed. Suppose the factor for a 30-year fixed at 6.5% is **$6.32** per $1,000. The loan is **$472,000**.\n\n**Walkthrough.**\n1. Thousands borrowed: $472,000 ÷ 1,000 = **472**\n2. Monthly P&I: 472 × $6.32 = **$2,983.04**\n3. Add taxes and insurance for the full PITI. If annual taxes are $5,900 and insurance is $1,680:\n   - Monthly taxes: $5,900 ÷ 12 = $491.67\n   - Monthly insurance: $1,680 ÷ 12 = $140.00\n   - **Total PITI: $2,983.04 + $491.67 + $140.00 = $3,614.71**\n\nIf PMI applies, it is added on top. Buyers who budget on P&I alone are consistently surprised — walk them through the full PITI early.\n\n### Example 4 — ARM adjustment (Chino)\n\nA buyer's ARM has a **margin of 2.75%**, a **2% periodic cap**, a **5% lifetime cap**, and a start rate of **5.25%**. At the first adjustment, the index stands at **4.75%**.\n\n**Walkthrough.**\n1. Fully indexed rate: index 4.75% + margin 2.75% = **7.50%**\n2. Periodic cap check: the rate may rise at most 2% from 5.25% → maximum **7.25%** this adjustment.\n3. The cap binds, so the new rate is **7.25%**, not 7.50%.\n4. Lifetime cap check: 5.25% + 5% = **10.25% maximum ever**.\n\nThe teaching point: compute the fully indexed rate first, *then* apply the caps. The uncapped figure will be offered as a distractor.\n\n### Example 5 — The RESPA referral offer (San Gabriel Valley)\n\nA lender offers your team $500 for every buyer you send who closes a loan, structured as a \"marketing fee.\"\n\n**Analysis.** This is a **RESPA violation** — payment for the referral of settlement service business, and labeling it \"marketing\" does not fix it. RESPA permits payment for services **actually performed** at fair market value, but a per-closed-loan payment is compensation for referrals, full stop.\n\nThe exposure is not theoretical: RESPA Section 8 violations carry civil and criminal penalties, and the DRE treats them as grounds for discipline. Decline, and tell your broker. If your brokerage wants a genuine co-marketing relationship, it needs counsel to structure and document actual services at fair value.\n\n## 8. Key Terms\n\n| Term | Definition |\n|---|---|\n| **Primary mortgage market** | Where loans are originated between lenders and borrowers. |\n| **Secondary mortgage market** | Where existing loans are bought and sold, replenishing lenders' capital so they can lend again. |\n| **Fannie Mae (FNMA) / Freddie Mac (FHLMC)** | Entities that purchase conventional loans and package them into mortgage-backed securities, setting conforming standards. |\n| **Ginnie Mae (GNMA)** | A government corporation guaranteeing securities backed by government loans; it guarantees rather than purchases. |\n| **Conforming loan** | A loan meeting Fannie/Freddie purchase standards, including the maximum loan amount. |\n| **Jumbo (non-conforming) loan** | A loan exceeding conforming limits, held in portfolio or sold privately with stricter underwriting. |\n| **Conventional loan** | A loan not insured or guaranteed by a government agency. |\n| **PMI (private mortgage insurance)** | Insurance protecting the lender on conventional loans, generally required above 80% LTV and cancellable as the loan is paid down. |\n| **FHA loan** | A loan insured by the Federal Housing Administration, allowing low down payments; carries upfront and annual MIP. |\n| **MIP (mortgage insurance premium)** | FHA's insurance premium, charged upfront and annually, and potentially lasting the life of the loan. |\n| **VA loan** | A loan guaranteed by the Department of Veterans Affairs for eligible veterans; typically no down payment and no monthly mortgage insurance. |\n| **Certificate of Reasonable Value (CRV)** | The VA's value determination; a CRV below the purchase price protects the veteran from being obligated at the higher price. |\n| **CalVet** | California's veteran program, under which the state buys the property and sells it to the veteran by contract of sale, holding title until paid. |\n| **Amortization** | Repayment through periodic payments covering interest and reducing principal. |\n| **Fully amortized loan** | A loan whose regular payments retire the entire balance by maturity. |\n| **Balloon payment** | A large payment of remaining principal due at the maturity of a partially amortized or interest-only loan. |\n| **Negative amortization** | A structure where payments are less than accruing interest, so unpaid interest is added to principal and the balance grows. |\n| **Straight note** | A note calling for interest-only payments with principal due at maturity. |\n| **Point** | One percent of the loan amount, paid at closing. |\n| **Discount points** | Prepaid interest paid to buy down the rate and increase the lender's yield. |\n| **Index / margin** | The published market rate an ARM tracks / the fixed percentage the lender adds; together they form the fully indexed rate. |\n| **Periodic cap / lifetime cap** | Limits on how much an ARM rate may rise at each adjustment / over the life of the loan. |\n| **APR (annual percentage rate)** | The cost of credit as a yearly rate including certain fees; disclosed under TILA and higher than the note rate. |\n| **Trigger term** | An advertising term (down payment, payment amount, number of payments, or finance charge) that requires full disclosure under Regulation Z. |\n| **Right of rescission** | The three-business-day cancellation right on certain refinances and equity loans on a principal residence; not applicable to purchase-money home loans. |\n| **RESPA** | The federal act governing settlement services, prohibiting kickbacks and unearned referral fees and requiring settlement disclosures. |\n| **ECOA** | The Equal Credit Opportunity Act, prohibiting credit discrimination on protected bases including receipt of public assistance income. |\n| **All-inclusive trust deed (AITD) / wraparound** | Junior seller financing wrapping an existing loan, with due-on-sale and payment-flow risks. |\n| **Usury** | Charging interest above legal limits; loans arranged by a licensed real estate broker are generally exempt in California. |\n\n## 9. Exam Tips\n\n- **Conventional ≠ conforming.** Conventional means not government-backed; conforming means it meets Fannie/Freddie standards. A jumbo is conventional but non-conforming.\n- **Ginnie Mae guarantees; Fannie and Freddie buy.** Ginnie Mae is tied to government loans (FHA/VA).\n- **FHA insures, VA guarantees, CalVet buys and resells by contract of sale.** Three different verbs, three different programs.\n- **PMI protects the lender, not the borrower** — required above 80% LTV on conventional loans.\n- **VA: no down payment, no monthly mortgage insurance, but a funding fee.** FHA: low down, but upfront *and* annual MIP.\n- **Points are a percentage of the LOAN, never the price.** One point = 1%.\n- **LTV uses the lesser of price or appraised value.** A low appraisal raises the effective LTV.\n- **ARM: index + margin = fully indexed rate, THEN apply caps.** The uncapped rate is always a distractor.\n- **Right of rescission (3 business days) applies to refinances and equity loans on a principal residence — not to purchase loans.**\n- **RESPA bars payment for referrals.** Calling it a \"marketing fee\" changes nothing. Any per-closed-transaction payment is a violation.\n\n## 10. Unit Quiz\n\nThe 20-question quiz for this unit lives in `/content/question-bank/principles/unit-12.json` with full per-option rationales.",
+  "word_count": 3339,
+  "questions": [
+    {
+      "id": "PRIN-12-001",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 12,
+      "blueprint_area": "financing",
+      "difficulty": 1,
+      "stem": "The secondary mortgage market exists primarily to:",
+      "options": [
+        "Originate loans directly to consumers",
+        "Buy existing loans so lenders can replenish capital and lend again",
+        "Set interest rates for all residential mortgages",
+        "Insure lenders against borrower default"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Origination happens in the primary market, between lender and borrower.",
+        "Correct. The secondary market purchases existing loans, recycling lenders' capital and keeping mortgage money available — which is also why a borrower's loan is often sold shortly after closing.",
+        "Rates are set by market forces and individual lenders, not by the secondary market directly.",
+        "Insuring against default is the role of PMI, FHA, and VA guarantees."
+      ],
+      "terms": [
+        "secondary mortgage market",
+        "primary mortgage market"
+      ]
+    },
+    {
+      "id": "PRIN-12-002",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 12,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "Which entity GUARANTEES securities backed by government loans rather than purchasing loans itself?",
+      "options": [
+        "Fannie Mae",
+        "Freddie Mac",
+        "Ginnie Mae",
+        "The Federal Reserve"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Fannie Mae purchases conventional loans and packages them into securities.",
+        "Freddie Mac likewise purchases loans for securitization.",
+        "Correct. Ginnie Mae is a government corporation that guarantees timely payment on securities backed by government loans such as FHA and VA — it guarantees rather than buys.",
+        "The Federal Reserve conducts monetary policy and does not guarantee mortgage securities in this role."
+      ],
+      "terms": [
+        "Ginnie Mae (GNMA)",
+        "Fannie Mae (FNMA) / Freddie Mac (FHLMC)"
+      ]
+    },
+    {
+      "id": "PRIN-12-003",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 12,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "A $1.6 million loan on a Pasadena home that exceeds Fannie Mae and Freddie Mac purchase limits is BEST described as:",
+      "options": [
+        "A government loan",
+        "A conventional, non-conforming (jumbo) loan",
+        "A conforming loan",
+        "An FHA loan"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Government loans are FHA, VA, and similar insured or guaranteed products.",
+        "Correct. It is conventional because no government agency insures or guarantees it, and non-conforming because it exceeds the conforming loan limit — the definition of a jumbo.",
+        "Conforming means the loan meets Fannie/Freddie standards, including the size limit, which this loan exceeds.",
+        "FHA loans are government-insured and subject to county loan limits."
+      ],
+      "terms": [
+        "jumbo (non-conforming) loan",
+        "conventional loan",
+        "conforming loan"
+      ]
+    },
+    {
+      "id": "PRIN-12-004",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 12,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "Private mortgage insurance (PMI) on a conventional loan protects:",
+      "options": [
+        "The borrower, if they lose their job",
+        "The lender, against borrower default",
+        "The seller, against a failed closing",
+        "The property, against physical damage"
+      ],
+      "answer": 1,
+      "rationales": [
+        "PMI provides no benefit to the borrower despite being paid by the borrower.",
+        "Correct. PMI protects the lender against loss from default and is generally required when the loan-to-value ratio exceeds 80%.",
+        "Sellers are not protected by mortgage insurance.",
+        "Physical damage is covered by hazard insurance."
+      ],
+      "terms": [
+        "PMI (private mortgage insurance)"
+      ]
+    },
+    {
+      "id": "PRIN-12-005",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 12,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "The Federal Housing Administration's role in an FHA loan is to:",
+      "options": [
+        "Lend the money directly to the borrower",
+        "Insure the loan made by an approved lender",
+        "Guarantee a portion of the loan for veterans",
+        "Purchase the loan on the secondary market"
+      ],
+      "answer": 1,
+      "rationales": [
+        "FHA does not lend; approved private lenders make the loans.",
+        "Correct. FHA insures loans made by approved lenders, which enables lower down payments and more flexible credit standards.",
+        "Guaranteeing loans for veterans is the VA's function.",
+        "Purchasing loans is the function of Fannie Mae and Freddie Mac."
+      ],
+      "terms": [
+        "FHA loan",
+        "MIP (mortgage insurance premium)"
+      ]
+    },
+    {
+      "id": "PRIN-12-006",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 12,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "Which is a distinguishing feature of a VA loan compared with FHA and conventional financing?",
+      "options": [
+        "It requires a 20% down payment",
+        "It typically requires no down payment and no monthly mortgage insurance",
+        "It is available to any first-time buyer",
+        "It carries no fees of any kind"
+      ],
+      "answer": 1,
+      "rationales": [
+        "VA loans generally require no down payment at all.",
+        "Correct. Eligible veterans typically finance 100% with no monthly mortgage insurance, though a funding fee applies (waived for certain disabled veterans).",
+        "Eligibility is limited to qualifying veterans, service members, and certain surviving spouses.",
+        "A funding fee applies to most VA loans, though it may be financed."
+      ],
+      "terms": [
+        "VA loan"
+      ]
+    },
+    {
+      "id": "PRIN-12-007",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 12,
+      "blueprint_area": "financing",
+      "difficulty": 3,
+      "stem": "Under the CalVet program, the state:",
+      "options": [
+        "Insures a loan made by a private lender",
+        "Guarantees a portion of a conventional loan",
+        "Purchases the property and sells it to the veteran under a contract of sale",
+        "Provides a down payment grant to the veteran"
+      ],
+      "answer": 2,
+      "rationales": [
+        "Insuring private loans describes FHA, not CalVet.",
+        "Guaranteeing a portion of a loan describes the VA program.",
+        "Correct. CalVet buys the property and resells it to the veteran under a contract of sale, retaining legal title until the contract is paid — a structure unlike an ordinary loan.",
+        "CalVet is a financing structure, not a grant program."
+      ],
+      "terms": [
+        "CalVet",
+        "land contract (installment sale contract)"
+      ]
+    },
+    {
+      "id": "PRIN-12-008",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 12,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "A buyer purchases at $685,000 with $96,000 down. The loan-to-value ratio is approximately:",
+      "options": [
+        "80%",
+        "86%",
+        "14%",
+        "90%"
+      ],
+      "answer": 1,
+      "rationales": [
+        "80% would require a $137,000 down payment on this price.",
+        "Correct. Loan = 685,000 − 96,000 = 589,000; 589,000 ÷ 685,000 = 0.8598, or about 86% — above 80%, so PMI would be required on a conventional loan.",
+        "14% is the down payment percentage, not the loan-to-value ratio.",
+        "90% would correspond to a loan of $616,500."
+      ],
+      "terms": [
+        "LTV (loan-to-value ratio)"
+      ]
+    },
+    {
+      "id": "PRIN-12-009",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 12,
+      "blueprint_area": "financing",
+      "difficulty": 3,
+      "stem": "A buyer takes a $540,000 loan and pays 2.5 discount points plus a 1 point origination fee. The total charged in points is:",
+      "options": [
+        "$13,500",
+        "$5,400",
+        "$18,900",
+        "$21,600"
+      ],
+      "answer": 2,
+      "rationales": [
+        "$13,500 covers only the 2.5 discount points, omitting the origination fee.",
+        "$5,400 is a single point.",
+        "Correct. One point = 1% of the loan = $5,400. Discount: 2.5 × 5,400 = 13,500. Origination: 5,400. Total = $18,900.",
+        "$21,600 corresponds to 4 points, one more than the 3.5 charged."
+      ],
+      "terms": [
+        "point",
+        "discount points"
+      ]
+    },
+    {
+      "id": "PRIN-12-010",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 12,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "Points on a real estate loan are calculated as a percentage of the:",
+      "options": [
+        "Purchase price",
+        "Loan amount",
+        "Appraised value",
+        "Down payment"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Using the purchase price is the most common error on this calculation.",
+        "Correct. One point equals 1% of the loan amount, not of the price, value, or down payment.",
+        "Appraised value affects LTV, not the computation of points.",
+        "The down payment is unrelated to points."
+      ],
+      "terms": [
+        "point"
+      ]
+    },
+    {
+      "id": "PRIN-12-011",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 12,
+      "blueprint_area": "financing",
+      "difficulty": 3,
+      "stem": "A loan factor table shows $6.32 per $1,000 for a 30-year fixed loan. On a $472,000 loan, monthly principal and interest is:",
+      "options": [
+        "$2,983.04",
+        "$3,614.71",
+        "$298.30",
+        "$2,360.00"
+      ],
+      "answer": 0,
+      "rationales": [
+        "Correct. 472,000 ÷ 1,000 = 472 thousands; 472 × $6.32 = $2,983.04 in monthly principal and interest.",
+        "$3,614.71 is the full PITI once monthly taxes and insurance are added.",
+        "$298.30 misplaces a decimal.",
+        "$2,360.00 corresponds to a $5.00 factor."
+      ],
+      "terms": [
+        "amortization",
+        "PITI"
+      ]
+    },
+    {
+      "id": "PRIN-12-012",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 12,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "A loan whose payments are less than the interest accruing, causing the balance to increase, has:",
+      "options": [
+        "Full amortization",
+        "Negative amortization",
+        "A prepayment penalty",
+        "A balloon payment"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Full amortization retires the entire balance by maturity.",
+        "Correct. In negative amortization the unpaid interest is added to principal and the balance grows — a structure that contributed to the 2008 crisis and is now sharply restricted.",
+        "A prepayment penalty is a charge for paying early, unrelated to a growing balance.",
+        "A balloon payment is a lump sum at maturity on a partially amortized loan."
+      ],
+      "terms": [
+        "negative amortization",
+        "amortization"
+      ]
+    },
+    {
+      "id": "PRIN-12-013",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 12,
+      "blueprint_area": "financing",
+      "difficulty": 3,
+      "stem": "An ARM has a 2.75% margin, a 2% periodic cap, and a current rate of 5.25%. At adjustment the index is 4.75%. The new rate will be:",
+      "options": [
+        "7.50%",
+        "7.25%",
+        "4.75%",
+        "10.25%"
+      ],
+      "answer": 1,
+      "rationales": [
+        "$7.50% is the fully indexed rate (4.75 + 2.75) before applying the cap — the classic distractor.",
+        "Correct. The fully indexed rate is 7.50%, but the 2% periodic cap limits the increase from 5.25% to a maximum of 7.25%, so the cap binds.",
+        "4.75% is the index alone, without the margin.",
+        "10.25% is the lifetime ceiling (5.25 + 5), not this adjustment."
+      ],
+      "terms": [
+        "index / margin",
+        "periodic cap / lifetime cap"
+      ]
+    },
+    {
+      "id": "PRIN-12-014",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 12,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "In an adjustable-rate mortgage, the component the lender does NOT control is the:",
+      "options": [
+        "Margin",
+        "Index",
+        "Periodic cap",
+        "Adjustment period"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The margin is the fixed percentage the lender sets and adds to the index.",
+        "Correct. The index is a published market rate outside the lender's control; index plus margin equals the fully indexed rate.",
+        "Caps are negotiated loan terms set at origination.",
+        "The adjustment period is a term of the loan agreement."
+      ],
+      "terms": [
+        "index / margin"
+      ]
+    },
+    {
+      "id": "PRIN-12-015",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 12,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "An agent's social media post reads: 'Own this Ontario home for just $2,100/month!' Under Regulation Z, stating that payment amount:",
+      "options": [
+        "Is exempt because social media is not regulated advertising",
+        "Is a trigger term requiring disclosure of additional credit terms",
+        "Requires only the APR to be stated",
+        "Is permitted if the agent adds 'approximately'"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Regulation Z applies to advertising regardless of medium.",
+        "Correct. A stated payment amount is a trigger term, requiring the ad to disclose the additional required credit terms — general claims like 'low payments' avoid the trigger.",
+        "More than the APR alone must be disclosed once a trigger term appears.",
+        "Softening the number with 'approximately' does not remove the trigger."
+      ],
+      "terms": [
+        "trigger term",
+        "APR (annual percentage rate)"
+      ]
+    },
+    {
+      "id": "PRIN-12-016",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 12,
+      "blueprint_area": "financing",
+      "difficulty": 3,
+      "stem": "The three-business-day right of rescission under Truth in Lending applies to:",
+      "options": [
+        "A purchase-money loan on a buyer's new home",
+        "A refinance or equity loan secured by the borrower's principal residence",
+        "Any loan on investment property",
+        "All FHA and VA loans"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Purchase-money loans used to buy a home are specifically excluded from the rescission right.",
+        "Correct. The right of rescission applies to certain refinances and home equity loans secured by the borrower's principal residence.",
+        "Investment property loans are outside the principal-residence protection.",
+        "The rescission right depends on the loan's purpose and the property's status, not the program."
+      ],
+      "terms": [
+        "right of rescission"
+      ]
+    },
+    {
+      "id": "PRIN-12-017",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 12,
+      "blueprint_area": "financing",
+      "difficulty": 3,
+      "stem": "A lender offers an agent $500 for each buyer referred who closes a loan, calling it a 'marketing fee.' Accepting this payment would:",
+      "options": [
+        "Be lawful, because it is labeled a marketing fee",
+        "Violate RESPA's prohibition on payment for referrals of settlement services",
+        "Be lawful if disclosed to the buyer in writing",
+        "Be lawful if the agent also posts about the lender online"
+      ],
+      "answer": 1,
+      "rationales": [
+        "The label does not control; the substance is compensation for referrals.",
+        "Correct. RESPA prohibits giving or accepting anything of value for the referral of settlement service business; only payment for services actually performed at fair market value is permitted.",
+        "Disclosure does not cure a prohibited referral fee.",
+        "A token marketing activity does not convert a per-closed-loan payment into compensation for actual services."
+      ],
+      "terms": [
+        "RESPA"
+      ]
+    },
+    {
+      "id": "PRIN-12-018",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 12,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "The Equal Credit Opportunity Act prohibits a lender from denying credit because:",
+      "options": [
+        "The applicant's debt-to-income ratio is too high",
+        "The applicant's income comes from public assistance",
+        "The applicant has a recent bankruptcy",
+        "The property fails to appraise"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Debt-to-income is a legitimate underwriting factor.",
+        "Correct. ECOA prohibits discrimination based on race, color, religion, national origin, sex, marital status, age, or because income derives from public assistance.",
+        "Credit history, including bankruptcy, is a permissible underwriting consideration.",
+        "Insufficient collateral value is a legitimate basis for denial."
+      ],
+      "terms": [
+        "ECOA"
+      ]
+    },
+    {
+      "id": "PRIN-12-019",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 12,
+      "blueprint_area": "financing",
+      "difficulty": 3,
+      "stem": "A seller carries back an all-inclusive trust deed that wraps an existing loan containing a due-on-sale clause. The PRIMARY risk is that:",
+      "options": [
+        "The buyer cannot record the AITD",
+        "The underlying lender may accelerate the existing loan upon the transfer",
+        "The seller loses the right to receive payments",
+        "The AITD automatically becomes a first lien"
+      ],
+      "answer": 1,
+      "rationales": [
+        "An AITD can be recorded; recording is not the problem.",
+        "Correct. The transfer can trigger the underlying loan's due-on-sale clause, and the buyer also risks losing the property if the seller stops paying the underlying loan despite receiving payments.",
+        "The seller continues to receive payments under the wrap note.",
+        "The AITD is junior financing; it does not displace the existing first lien."
+      ],
+      "terms": [
+        "all-inclusive trust deed (AITD) / wraparound",
+        "alienation (due-on-sale) clause"
+      ]
+    },
+    {
+      "id": "PRIN-12-020",
+      "source": "unit",
+      "course_slug": "principles",
+      "unit_number": 12,
+      "blueprint_area": "financing",
+      "difficulty": 2,
+      "stem": "California's usury limits generally do NOT apply to a loan that is:",
+      "options": [
+        "Made between family members",
+        "Arranged by a licensed real estate broker",
+        "Secured by commercial property",
+        "Under $50,000"
+      ],
+      "answer": 1,
+      "rationales": [
+        "Family relationships create no usury exemption.",
+        "Correct. Loans made or arranged by a licensed real estate broker are generally exempt from California's usury limits — one practical reason hard-money lending flows through brokers.",
+        "Property type alone does not create the exemption.",
+        "No general small-loan exemption based on that amount applies."
+      ],
+      "terms": [
+        "usury"
+      ]
+    }
+  ]
+}
